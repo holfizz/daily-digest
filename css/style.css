@@ -103,6 +103,32 @@ body::before {
 }
 .masthead .dateline .edition { font-weight: 700; color: var(--accent); }
 
+/* ---------- Language switch ---------- */
+.lang-switch {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 8px;
+}
+.lang-btn {
+  background: none;
+  border: 1px solid var(--rule);
+  color: var(--ink-faint);
+  font-family: var(--sans);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  padding: 3px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all .15s;
+}
+.lang-btn.active {
+  color: var(--paper);
+  background: var(--ink);
+  border-color: var(--ink);
+}
+
 /* ---------- Section nav ---------- */
 .section-nav {
   display: flex;
