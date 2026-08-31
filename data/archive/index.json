@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "date": "2026-08-19",
+    "number": 1,
+    "headline": {
+      "ru": "Google выпустил Gemini 3.7 Flash — новую быструю модель для разработчиков и агентов",
+      "en": "Google Releases Gemini 3.7 Flash Just Three Weeks After the Last Version"
+    },
+    "count": {
+      "ru": "20 материалов",
+      "en": "20 articles"
+    }
+  }
+]

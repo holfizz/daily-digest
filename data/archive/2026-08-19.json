@@ -1,0 +1,586 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-08-19",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 1
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "МОДЕЛИ",
+            "headline": "Google выпустил Gemini 3.7 Flash — новую быструю модель для разработчиков и агентов",
+            "subhead": "Модель вышла всего через три недели после предыдущей версии и получила заметный скачок в бенчмарках по написанию кода.",
+            "byline": "The Trend Times",
+            "body": [
+              "Google 13 августа представила Gemini 3.7 Flash — облегчённую и быструю версию своей флагманской линейки, ориентированную на кодинг, веб-разработку и агентные сценарии использования. Релиз примечателен скоростью: предыдущая версия, Gemini 3.6 Flash, вышла всего тремя неделями ранее.",
+              "Вместо обучения новой модели с нуля инженеры Google использовали алгоритмические улучшения и обратную связь от пользователей, чтобы полностью переработать предыдущую версию. По собственным данным компании, результат на бенчмарке DeepSWE v1.1, отражающем качество автономного написания кода, вырос с 49,0% до 65,3%.",
+              "Модель доступна через Gemini API в Google AI Studio, в Android Studio, в Google Antigravity для агентных рабочих процессов, а также в корпоративной платформе Gemini Enterprise Agent Platform и мобильном приложении. До конца 2026 года действует вводная цена — $0,75 за миллион входных токенов и $3,75 за миллион выходных."
+            ],
+            "source": "9to5Google",
+            "url": "https://9to5google.com/2026/08/13/gemini-3-7-flash-launch/"
+          },
+          {
+            "kicker": "ПРОДУКТЫ",
+            "headline": "OpenAI запустила отдельную версию ChatGPT для подростков",
+            "subhead": "Сервис автоматически определяет несовершеннолетних пользователей и ограничивает для них чувствительный контент.",
+            "body": [
+              "18 августа OpenAI объявила о запуске ChatGPT for Teens — специальной версии чат-бота для пользователей от 13 до 17 лет с усиленными настройками безопасности. Обновлённая Model Spec ограничивает для подростков темы, связанные с самоповреждением, насилием, расстройствами пищевого поведения и откровенным контентом.",
+              "Система определяет аккаунты несовершеннолетних по трём сигналам: возрасту, указанному при регистрации, подтверждённому возрасту и собственному алгоритму прогнозирования возраста компании. Пользователи, которых система ошибочно отнесла к несовершеннолетним, могут подтвердить свой возраст через сервис идентификации Persona.",
+              "В версию для подростков встроен режим Study Mode с наводящими вопросами, пошаговыми объяснениями и визуализациями для учёбы, а также функция, которая распознаёт попытки списать домашнее задание и предлагает разобраться в теме вместо готового ответа. Родители получают отдельный кабинет с родительским контролем и возможностью включать «тихие часы», в которые бот недоступен, но не могут читать переписку ребёнка."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+          },
+          {
+            "kicker": "БЕЗОПАСНОСТЬ",
+            "headline": "Исследователи нашли способ красть скрытые рассуждения моделей OpenAI, Anthropic и Google",
+            "subhead": "Уязвимость в механизме «зашифрованных» reasoning-блоков позволяла более слабым моделям расшифровывать содержимое более сильных.",
+            "body": [
+              "В начале августа исследователи опубликовали работу «Stealing Reasoning Traces from Proprietary LLM APIs», описывающую уязвимость в том, как OpenAI, Anthropic и Google передают между вызовами API скрытые «цепочки рассуждений» моделей. Блок рассуждений, созданный в одной сессии, можно было воспроизвести в другой — и даже передать более слабой модели того же поставщика, заставив её раскрыть содержимое.",
+              "Авторы продемонстрировали четыре сценария злоупотребления: кражу проприетарных рассуждений для дистилляции моделей, извлечение приватных данных из чужих опубликованных трасс, восстановление вредоносного контента, скрытого за безопасным видимым ответом, и внедрение вредоносных инструкций внутрь непрозрачных блоков рассуждений. На выборке из 6708 публичных траекторий агентов команда расшифровала 315 320 блоков «размышлений».",
+              "Ни один из трёх поставщиков публично не признал уязвимость, но документация уже изменилась: Anthropic теперь советует удалять блоки рассуждений при смене модели, поскольку другие модели их просто игнорируют, а Google утверждает, что бэкенд сам управляет совместимостью при переключении моделей внутри сессии."
+            ],
+            "source": "The Hacker News",
+            "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "ПЛАТФОРМЫ",
+            "headline": "Google Ads с 17 августа меняет логику ставок для кампаний с ограниченным бюджетом",
+            "subhead": "Заодно площадка расширяет автоматический подбор нетипичных запросов на Performance Max и Shopping.",
+            "byline": "The Trend Times",
+            "body": [
+              "С 17 августа Google Ads меняет поведение кампаний с целевой ценой за конверсию (CPA) и целевой рентабельностью рекламных расходов (ROAS): теперь система будет точнее держаться заданной цели, в том числе при изменении бюджета — раньше кампании с ограниченным бюджетом часто «перевыполняли» план, что делало результаты непредсказуемыми при увеличении расходов. Изменение касается кампаний в поиске, шоппинге, Performance Max, Demand Gen, Travel и медийной сети.",
+              "Параллельно Google расширяет функцию Smart Bidding Exploration — алгоритмического подбора ставок по нетипичным для кампании запросам — с поиска на Performance Max и Shopping. Рекламодатели задают допустимое отклонение по ROAS, и алгоритм получает возможность делать ставки по запросам без устоявшейся истории конверсий. По данным Google, это в среднем даёт рост числа уникальных конвертирующих категорий запросов на 18% и рост конверсий на 19%.",
+              "Также площадка вывела в бета-тест режим Promotion Mode — временное изменение допустимого ROAS и дневного бюджета на заданный период (распродажи, праздники, запуски) без ручной перестройки кампаний."
+            ],
+            "source": "PPC Land",
+            "url": "https://ppc.land/google-ads-gets-promotion-mode-and-a-major-bidding-overhaul-this-august/"
+          },
+          {
+            "kicker": "ПЛАТФОРМЫ",
+            "headline": "Meta заменяет пометку «Sponsored» на короткую «Ad» в лентах Instagram и Facebook",
+            "subhead": "Компания объясняет изменение стремлением к более чистому интерфейсу при сохранении прозрачности рекламы.",
+            "body": [
+              "Meta начала замену маркировки рекламных публикаций в Instagram и Facebook: вместо развёрнутой надписи «Sponsored» под постом теперь стоит компактная метка «Ad». По заявлению компании, речь идёт о «более чистом и простом» оформлении ленты при сохранении обязательств по прозрачности рекламы перед пользователями.",
+              "Технически рекламодателям не нужно ничего менять в настройках кампаний — площадка проставляет новую метку автоматически. Тем не менее в отрасли рекомендуют пересмотреть визуальное оформление креативов: из-за меньшего размера плашки может измениться баланс верхней части объявления — расположение названия бренда, аватара и заголовка.",
+              "Изменение — часть более широкого обновления интерфейса Meta и происходит на фоне ужесточения требований к раскрытию рекламного контента в разных юрисдикциях, включая новые региональные сборы на рекламу, которые Meta вводит в Австрии, Франции, Италии, Испании, Турции и Великобритании для покрытия местных цифровых налогов."
+            ],
+            "source": "Social Media Today",
+            "url": "https://www.socialmediatoday.com/news/meta-is-switching-up-its-ad-transparency-labels-in-stream/814890/"
+          },
+          {
+            "kicker": "КЕЙСЫ",
+            "headline": "Takis собрал 159 млн показов на 15-дневной активации в Fortnite",
+            "subhead": "Кампанию отметили на церемонии Adweek Tech Stack Awards 2026 как пример рекламы, не мешающей геймплею.",
+            "body": [
+              "Бренд снеков Takis запустил в Fortnite 15-дневную активацию, в рамках которой три фирменных вкуса — Intense Nacho, Blue Heat и Fuego — превратились в игровые «шкалы жара», растущие с каждым устранением противника. Вместо прерывающей рекламы бренд встроил себя в механику игры, усиливая, а не мешая геймплею.",
+              "По итогам кампании Takis получил более 159 млн показов, 15 млн взаимодействий и 2,9 млн часов наигранного времени внутри созданных островов. Результаты были отмечены на церемонии Adweek Tech Stack Awards 2026 как показательный пример того, как данные и игровые платформы помогают брендам конкурировать за внимание аудитории.",
+              "Кейс вписывается в общий тренд последнего года: крупные бренды всё активнее используют Fortnite и другие игровые платформы не как рекламный носитель, а как полноценную площадку для брендированного контента и продолжительного вовлечения аудитории."
+            ],
+            "source": "Adweek",
+            "url": "https://www.adweek.com/brand-marketing/2026-tech-stack-awards-ai-data-marketing-technology/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании, которые выстрелили",
+        "articles": [
+          {
+            "kicker": "СДЕЛКИ",
+            "headline": "Stripe покупает AI-стартап OpenRouter больше чем за $7 млрд",
+            "subhead": "Это более чем пятикратная надбавка к оценке компании, полученной всего три месяца назад.",
+            "byline": "The Trend Times",
+            "body": [
+              "Платёжный гигант Stripe завершил сделку по приобретению OpenRouter — сервиса, который помогает компаниям выбирать между разными AI-моделями для конкретных задач исходя из бюджета и требований к качеству. Сумма сделки превышает $7 млрд, сообщает Bloomberg.",
+              "Ещё в мае OpenRouter привлёк раунд Series B на $113 млн при оценке в $1,3 млрд с участием Sequoia, Andreessen Horowitz, Menlo Ventures и Alphabet's CapitalG. Нынешняя цена покупки — это более чем пятикратная (5,4x) надбавка к той оценке, полученная всего через три месяца.",
+              "Для Stripe сделка — это способ встроиться в инфраструктуру расчётов за токены и подписки на AI-модели, превратив маршрутизацию между провайдерами в часть платёжного стека. Для рынка в целом сделка стала одним из самых ярких примеров того, как быстро растут оценки инфраструктурных AI-стартапов на фоне взрывного спроса на инференс."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+          },
+          {
+            "kicker": "СТАРТАПЫ",
+            "headline": "Higgsfield учетверил оценку до $5,4 млрд за восемь месяцев",
+            "subhead": "AI-платформа для генерации видео и изображений нарастила выручку до $700 млн в год и 30 млн пользователей в 200 странах.",
+            "body": [
+              "Стартап Higgsfield, разрабатывающий платформу для создания видео и изображений с помощью ИИ, закрыл раунд Series B на $400 млн при оценке в $5,4 млрд. Это в четыре раза больше, чем оценка в $1,3 млрд, которую компания получила всего восемью месяцами ранее, в январе 2026 года.",
+              "Компания сообщает о годовой выручке в $700 млн и 30 млн пользователей по всему миру в 200 странах, а число пользователей агентных сценариев (не разового создания контента, а автоматизированных workflow) выросло в 42 раза за три месяца — именно этот сдвиг в сторону корпоративного использования инвесторы называют главной причиной резкой переоценки компании.",
+              "Higgsfield была основана в 2023 году бывшим топ-менеджером Snap Александром Машрабовым. Стремительный рост компании на фоне общего охлаждения интереса к чисто развлекательным генеративным видео-сервисам эксперты называют сигналом того, что рынок AI-видео смещается в сторону практических корпоративных инструментов."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/"
+          },
+          {
+            "kicker": "ФИНАНСИРОВАНИЕ",
+            "headline": "Fireworks AI привлекла $1,5 млрд на фоне пятикратного роста выручки",
+            "subhead": "Компания, специализирующаяся на инференсе AI-моделей для бизнеса, достигла оценки в $17,5 млрд.",
+            "body": [
+              "Fireworks AI закрыла раунд Series D на $1,505 млрд при оценке $17,5 млрд. Раунд возглавили Atreides Management, Index Ventures и TCV, участие приняли действующие инвесторы, включая Lightspeed Venture Partners и NVIDIA.",
+              "Компания помогает бизнесу превращать универсальные модели в специализированные, дообученные на собственных данных, и разворачивать их на выделенной инфраструктуре для инференса. К моменту раунда годовая выручка компании превысила $1 млрд — рост в пять раз год к году, а суточный объём обрабатываемых токенов почти утроился: с 15 трлн до более чем 40 трлн.",
+              "Средства пойдут на расширение вычислительной инфраструктуры и инженерной команды. Компания делает ставку на то, что бизнесу нужен контроль над интеллектом, который лежит в основе их продуктов, а не аренда чужой универсальной модели."
+            ],
+            "source": "Businesswire",
+            "url": "https://www.businesswire.com/news/home/20260716264405/en/Fireworks-Raises-a-$1.5-Billion-Series-D-to-Lead-the-Specialized-Intelligence-Revolution"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "IPO",
+            "headline": "Дарио Амодеи может получить супер-голосующие акции Anthropic перед IPO",
+            "subhead": "Сооснователь и CEO компании владеет лишь около 2% Anthropic, но хочет сохранить контроль над решениями после выхода на биржу.",
+            "byline": "The Trend Times",
+            "body": [
+              "По данным источников Benzinga, руководство Anthropic рассматривает возможность выпуска акций с повышенным правом голоса для гендиректора Дарио Амодеи и других сооснователей перед потенциальным IPO — схему, ранее использованную Марком Цукербергом в Meta и Илоном Маском в Tesla и SpaceX, чтобы сохранить управленческий контроль даже при небольшой доле в капитале.",
+              "Ситуация показательна: несмотря на то что Амодеи возглавляет одну из двух ведущих лабораторий ИИ в мире, его личная доля в Anthropic оценивается всего в около 2%. Компания подала конфиденциальную заявку на IPO (S-1) в SEC 1 июня 2026 года при оценке в $965 млрд, а к концу июля её годовая выручка (ARR) достигла $65 млрд.",
+              "Амодеи неоднократно публично защищал стратегию компании от критики, называя недоверие общества к ИИ не столько страхом потери рабочих мест, сколько кризисом доверия к тому, что компании и государства выстраивают технологию в собственных интересах. По его словам, культуре компании он уделяет около 40% своего времени, считая её более важным конкурентным преимуществом, чем сами продукты."
+            ],
+            "source": "Benzinga",
+            "url": "https://www.benzinga.com/markets/tech/26/08/61293111/anthropic-ceo-dario-amodei-super-voting-shares-ipo-zuckerberg-musk"
+          },
+          {
+            "kicker": "ПРОФИЛЬ",
+            "headline": "Основатель Higgsfield может стать первым российским миллиардером из мира AI-видео",
+            "subhead": "Доля Александра Машрабова в стартапе, оценённом в $5,4 млрд, по расчётам Forbes может превышать 20%.",
+            "body": [
+              "Forbes сообщил, что сооснователь американского AI-стартапа Higgsfield Александр Машрабов имеет все шансы войти в список российских миллиардеров. После раунда, поднявшего оценку компании до $5,4 млрд, его доля, по оценкам инвесторов, составляет от 25% до 30% — то есть около $2 млрд.",
+              "До Higgsfield Машрабов работал топ-менеджером в Snap. Быстрый рост компании — оценка выросла в четыре раза всего за восемь месяцев — позволил основателям сохранить значительную долю в капитале, несмотря на несколько раундов внешнего финансирования, что нетипично для стартапов такого масштаба, где доля фаундеров обычно сильно размывается уже на поздних раундах.",
+              "История Машрабова — редкий для последних лет пример, когда предприниматель с российскими корнями строит с нуля крупный американский AI-бизнес и лично выигрывает от взрывного роста рынка генеративного видео, а не только его компания."
+            ],
+            "source": "Взгляд",
+            "url": "https://vz.ru/news/2026/8/19/1444112.html"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "БРЕНДЫ",
+            "headline": "Dior впервые за семь кварталов вывел моду LVMH в рост благодаря Джонатану Андерсону",
+            "subhead": "Первая коллекция нового креативного директора и сумка Cigale стали главным драйвером ускорения продаж группы во втором квартале.",
+            "byline": "The Trend Times",
+            "body": [
+              "Согласно отчёту LVMH за первое полугодие 2026 года, выручка группы за шесть месяцев составила €38,6 млрд, а рост во втором квартале ускорился до 3% на органической основе. Дивизион моды и кожаных изделий впервые за семь кварталов вернулся к росту продаж — на 1% — и главным образом за счёт Dior.",
+              "Дом Dior показал ускоряющийся рост благодаря успешному старту первых коллекций нового креативного директора Джонатана Андерсона: особенно хорошо приняли сумку Cigale, ставшую символом ребрендинга. Помимо Dior, ускорение обеспечили новые флагманские магазины Louis Vuitton в Пекине и Сеуле, устойчивый спрос на культовые линейки Tiffany и Bvlgari, рост Sephora и восстановление продаж шампанского и коньяка.",
+              "Результаты важны не только для LVMH: назначение Андерсона в Dior было одним из самых обсуждаемых кадровых решений в люксовой моде за последний год, и коммерческий успех его первых коллекций рассматривается индустрией как сигнал того, что смена творческого руководства действительно может быстро развернуть продажи крупного дома."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/claraludmir/2026/07/28/lvmh-releases-positive-half-year-results-as-fashion-renews-with-growth/"
+          },
+          {
+            "kicker": "КОЛЛЕКЦИИ",
+            "headline": "V. Chapman и Кристофер Брок выпустили капсулу «Amapola Amor» в честь побережья Андалусии",
+            "subhead": "Коллекция из 26 вещей отсылает к фламенко и символике красного мака.",
+            "body": [
+              "Лос-анджелесский бренд оказиональной одежды V. Chapman под руководством основательницы Виктории Солсбери представил коллекцию осень-зима 2026 «Amapola Amor» («Любовь-мак» с испанского) в партнёрстве с дизайнером Кристофером Броком. Это 26 вещей — вечерние платья, деним, трикотаж, верхняя одежда, украшения и повседневные вещи, — вдохновлённые солнечным побережьем Андалусии и эмоциональной символикой красного мака.",
+              "Для Брока, который поставил на паузу собственную линию Brock Collection ещё в 2021 году, это уже не первая совместная работа последних лет — дизайнер стал постоянным соавтором чужих коллекций. Среди заметных образов — многоярусное платье-миди из шифоновой органзы с цветочным принтом (любимое у Солсбери) и топ-перуанка с рюшами поверх многослойной юбки из белого хлопкового вуаля (выбор Брока).",
+              "Коллаборация продолжает тренд последних сезонов, когда независимые дизайнерские бренды привлекают известных, но временно «свободных» креативных директоров для капсульных линеек — это позволяет обеим сторонам расширить аудиторию без долгосрочных контрактных обязательств."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-scoops/kristopher-brock-v-chapman-collaboration-1239078509/"
+          },
+          {
+            "kicker": "ИНДУСТРИЯ",
+            "headline": "Агентство WME продало права на Неделю моды в Нью-Йорке компании Signet Fashion",
+            "subhead": "WME управляло главным модным событием США больше двух десятилетий.",
+            "body": [
+              "Агентство WME, владевшее и организовывавшее Неделю моды в Нью-Йорке с 2001 года, продало права на мероприятие компании Signet Fashion. Сделка включает интеллектуальную собственность, товарные знаки и логотипы события.",
+              "Решение о продаже не стало неожиданностью: WME выставило права на продажу ещё два года назад, постепенно смещая фокус на основной агентский бизнес — работу с моделями и талантами через IMG Models, The Wall Group и Art + Commerce. Signet Fashion, в свою очередь, специализируется на развитии талантов и выстраивании связей внутри модной индустрии.",
+              "Смена владельца одного из главных мировых показов моды — знак того, что бизнес-модель Недель моды продолжает меняться: крупные агентства пересматривают, стоит ли им напрямую управлять инфраструктурой показов, или выгоднее сосредоточиться на профильных услугах для брендов и дизайнеров."
+            ],
+            "source": "The Blueprint",
+            "url": "https://theblueprint.ru/news/41136"
+          },
+          {
+            "kicker": "КОЛЛАБОРАЦИИ",
+            "headline": "H&M HOME выпустит полную коллекцию с дизайнером Келли Уэрстлер, включая капсулу одежды",
+            "subhead": "Это первая коллаборация H&M, где мебель и предметы интерьера соединены с линией готовой одежды.",
+            "body": [
+              "H&M HOME объявила о полноценном глобальном партнёрстве с американским дизайнером интерьеров Келли Уэрстлер: коллекция объединяет 29 предметов мебели и декора с капсулой готовой одежды из 8 вещей. Первый анонс сотрудничества состоялся ещё в апреле на Миланской неделе дизайна, теперь бренд раскрыл коллекцию полностью.",
+              "Для H&M это сразу несколько premiere: первое появление H&M HOME на Миланской неделе дизайна, дебют самой Уэрстлер на этом мероприятии и первая в истории бренда дизайнерская коллаборация, включающая крупногабаритную мебель наравне с более мелкими предметами и одеждой. Полная коллекция поступит в продажу 3 сентября в отдельных магазинах и на hm.com.",
+              "Уэрстлер, известная фирменным сочетанием скульптурных форм и насыщенных фактур, говорит, что стремилась сделать дизайн высокого уровня доступным массовому покупателю. Коллаборация вписывается в стратегию масс-маркета последних лет — привлекать статусных дизайнеров интерьеров и моды для капсульных линеек, которые повышают восприятие бренда без изменения его базовой ценовой политики."
+            ],
+            "source": "Morningstar / PR Newswire",
+            "url": "https://www.morningstar.com/news/pr-newswire/20260806ny21301/hm-home-and-kelly-wearstler-reveal-full-global-collaboration-featuring-ready-to-wear-capsule-alongside-interiors"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка: хип-хоп и рэп",
+        "articles": [
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Баста и Гуф выпустили совместный альбом спустя 16 лет после первого",
+            "subhead": "Презентация пройдёт 28 августа в «Лужниках», а все 14 треков уже вошли в топ Яндекс Музыки.",
+            "byline": "The Trend Times",
+            "body": [
+              "Баста и Гуф выпустили альбом «Баста/Гуф 2026» — продолжение их совместной пластинки 2010 года, которая в своё время считалась прорывной для проникновения уличной субкультуры в мейнстримовый российский рэп. Новый релиз сразу возглавил чарты Apple Music и VK Музыки, а все 14 треков вошли в топ Яндекс Музыки; за первые дни ВКонтакте зафиксировал 2,4 млн прослушиваний.",
+              "Открывает альбом трек «Из песни слов не выкинешь» с плотным цензурным запикиванием, которое, по мнению критиков, скорее иронизирует над темой ограничений в творчестве, чем маскирует действительно неприемлемую лексику. В отличие от альбома 2010 года, построенного вокруг уличной жизни и криминальной эстетики, новая пластинка делает ставку на рассказ историй, отражая то, как разошлись жизненные пути артистов за полтора десятилетия.",
+              "Презентация альбома пройдёт 28 августа на стадионе «Лужники». Ожидается, что трек «Улицам нужен твой огонь» с госпел-влиянием и запоминающимся припевом станет главным номером концерта, рассчитанным на стадионный формат."
+            ],
+            "source": "Коммерсантъ",
+            "url": "https://www.kommersant.ru/doc/8606292"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Слава КПСС выпустил альбом «Единственный рэпер»",
+            "subhead": "Название отсылает к ироничному мему из фанатского сообщества артиста.",
+            "body": [
+              "Рэпер Слава КПСС выпустил новый альбом «Единственный рэпер». Название — постироничная отсылка к мему из фан-сообщества артиста, где к его старой фотографии добавлена вырванная из контекста подпись «единственный рэпер».",
+              "На альбоме артист продолжает характерное для себя сочетание жанров — на этот раз рэп соседствует с элементами шансона, а лирика затрагивает жёсткие исторические сюжеты. Релиз доступен на всех основных стриминговых площадках.",
+              "Пластинка стала одним из заметных релизов российской рэп-сцены конца лета — на фоне выхода альбомов Gataski и дуэта Баста/Гуф август 2026 года складывается в один из самых насыщенных релизами месяцев для отечественного хип-хопа."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/slava-kpss-edinstvenny-raper"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Gataski выпустил альбом «Химия» — 13 треков о непростых отношениях",
+            "subhead": "Артист описывает эти отношения не как любовь, а как химическую реакцию, которую он «не выбирал».",
+            "body": [
+              "Российский артист Gataski 12 августа выпустил альбом «Химия» из 13 треков, посвящённый теме отношений. По словам самого исполнителя, речь не о любви, а о химической реакции, которую он «не выбирал» — отсюда и название пластинки. Синглом-предвестником альбома стал трек «Можешь», вышедший 7 августа.",
+              "Особенность альбома — отсутствие единой жанровой концепции: вместо цельного звучания слушателя ждут контрастные по настроению и эмоциям треки, диаметрально противоположные друг другу. На альбоме отметились приглашённые артисты TAKETAKE и DEATHORIA.",
+              "Релиз вышел в один месяц с новыми альбомами Славы КПСС и дуэта Баста/Гуф, что делает август 2026 года одним из самых насыщенных за последнее время для российской рэп-сцены."
+            ],
+            "source": "2x2 Музыка",
+            "url": "https://media.2x2tv.ru/drop-07-08-2026/"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Вышел первый посмертный альбом Nipsey Hussle — совместная пластинка с Bino Rideaux",
+            "subhead": "«Prolific» вышел за день до 41-летия рэпера, спустя семь лет после его гибели.",
+            "body": [
+              "14 августа, за день до того, что было бы 41-м днём рождения Nipsey Hussle, вышел альбом «Prolific» — его первая посмертная работа, совместная с рэпером из Лос-Анджелеса Bino Rideaux. Пластинку выпустили лейблы All Money In, Out The Blue Records и Atlantic Records.",
+              "По словам брата Hussle, Сэмиела «Blacc Sam» Асгедома, это не постфактум собранный сборник, а цельный проект, записанный Nipsey и Bino от начала до конца ещё в 2017 году и завершённый в соответствии с изначальным замыслом артиста. В 15 треков вошли коллаборации с Cardi B, Ty Dolla $ign, Leon Thomas, Buddy и James Fauntleroy.",
+              "Релиз стал одним из самых ожидаемых событий года в хип-хоп-сообществе: Nipsey Hussle, застреленный в 2019 году, остаётся одной из самых влиятельных фигур западного побережья, а выход завершённого совместного альбома спустя семь лет держал в фокусе внимания поклонников с момента анонса ещё в июне."
+            ],
+            "source": "Vibe",
+            "url": "https://www.vibe.com/features/editorial/bino-rideaux-marathon-new-nipsey-hussle-album-prolific-1235182606/"
+          },
+          {
+            "kicker": "КЛИП",
+            "headline": "Канье Уэст выпустил клип на трек «OK» с Don Toliver, снятый его женой Бьянкой Ченсори",
+            "subhead": "Сюрреалистичное видео с операционной и обезглавленным героем стало четвёртой режиссёрской работой Ченсори.",
+            "body": [
+              "18 августа Канье Уэст (Ye) выпустил клип на трек «OK» с участием Don Toliver — песню, ранее вошедшую в делюкс-издание альбома BULLY. Режиссёром выступила жена артиста, архитектор по образованию Бьянка Ченсори — для неё это уже четвёртая режиссёрская работа после клипов «Father», «King» и «Gemini Season».",
+              "Видео открывается сценой в морге, где врачи оперируют обезглавленного героя Уэста, извлекая из его тела предметы — от двух голубей и розы до сердца. Отдельно в кадр вносят отрубленную голову героя и кладут рядом с операционным столом. Когда начинается куплет Toliver, он появляется из шкафчика, наблюдает за процедурой, а затем возвращает голову героя на место, «оживляя» его.",
+              "Ченсори использовала архитектурный бэкграунд для построения необычного пространства клипа, продолжая выступать не просто музой, а полноценным визуальным соавтором проектов мужа."
+            ],
+            "source": "Billboard",
+            "url": "https://www.billboard.com/music/rb-hip-hop/don-toliver-ye-ok-video-1236319179/"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-08-19",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 1
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "MODELS",
+            "headline": "Google Releases Gemini 3.7 Flash Just Three Weeks After the Last Version",
+            "subhead": "The model made a notable leap in coding benchmarks and agentic workflows at half the price.",
+            "byline": "The Trend Times",
+            "body": [
+              "On August 13, Google unveiled Gemini 3.7 Flash — a lightweight, fast version of its flagship lineup built for coding, web development and agentic use cases. The release is notable for its pace: the previous version, Gemini 3.6 Flash, had launched just three weeks earlier.",
+              "Rather than training a new model from scratch, Google's engineers used algorithmic improvements and user feedback to overhaul the previous version. According to the company's own figures, the model's score on the DeepSWE v1.1 benchmark, which measures autonomous coding quality, rose from 49.0% to 65.3%.",
+              "The model is available through the Gemini API in Google AI Studio, in Android Studio, in Google Antigravity for agentic workflows, and in the enterprise Gemini Enterprise Agent Platform and mobile app. Through the end of 2026, introductory pricing applies — $0.75 per million input tokens and $3.75 per million output tokens."
+            ],
+            "source": "9to5Google",
+            "url": "https://9to5google.com/2026/08/13/gemini-3-7-flash-launch/"
+          },
+          {
+            "kicker": "PRODUCTS",
+            "headline": "OpenAI Launches a Separate Version of ChatGPT for Teens",
+            "subhead": "The service automatically detects underage users and restricts sensitive content for them.",
+            "body": [
+              "On August 18, OpenAI announced the launch of ChatGPT for Teens, a dedicated version of the chatbot for users aged 13 to 17 with enhanced safety settings. An updated Model Spec restricts topics related to self-harm, violence, eating disorders and explicit content for teenage users.",
+              "The system identifies underage accounts through three signals: the age entered at sign-up, a confirmed age, and the company's own age-prediction algorithm. Users the system mistakenly flags as minors can verify their age through the identity-verification service Persona.",
+              "The teen version includes a Study Mode with guiding questions, step-by-step explanations and visualizations for schoolwork, plus a feature that recognizes attempts to get a homework answer outright and instead nudges the user to work through the topic. Parents get a separate dashboard with parental controls and the ability to set \"quiet hours\" during which the bot is unavailable — but they cannot read their child's conversations."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+          },
+          {
+            "kicker": "SECURITY",
+            "headline": "Researchers Find a Way to Steal Hidden Reasoning From OpenAI, Anthropic and Google Models",
+            "subhead": "A flaw in how providers pass \"encrypted\" reasoning blocks let weaker models decrypt the reasoning of stronger ones.",
+            "body": [
+              "In early August, researchers published a paper, \"Stealing Reasoning Traces from Proprietary LLM APIs,\" describing a vulnerability in how OpenAI, Anthropic and Google pass hidden model \"chains of thought\" between API calls. A reasoning block generated in one session could be replayed in another — and even handed to a weaker model from the same provider, forcing it to reveal the block's contents.",
+              "The authors demonstrated four abuse scenarios: stealing proprietary reasoning for model distillation, extracting private data from someone else's published traces, recovering harmful content hidden behind a safe visible answer, and injecting malicious instructions inside opaque reasoning blocks. Working from a sample of 6,708 public agent trajectories, the team decrypted 315,320 \"thinking\" blocks.",
+              "None of the three providers has publicly acknowledged the vulnerability, but their documentation has already changed: Anthropic now advises stripping reasoning blocks when switching models, since other models simply ignore them, while Google says its backend manages compatibility automatically when models are switched within a session."
+            ],
+            "source": "The Hacker News",
+            "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "PLATFORMS",
+            "headline": "Google Ads Changes Bidding Logic for Budget-Constrained Campaigns Starting August 17",
+            "subhead": "The platform is also expanding automated bidding on unconventional queries to Performance Max and Shopping.",
+            "byline": "The Trend Times",
+            "body": [
+              "Starting August 17, Google Ads is changing how campaigns with a target cost-per-acquisition (CPA) or target return on ad spend (ROAS) behave: the system will now hold more precisely to its target even as budgets change — previously, budget-constrained campaigns often \"overshot\" their target, making results unpredictable once spending increased. The change applies to Search, Shopping, Performance Max, Demand Gen, Travel and Display campaigns.",
+              "In parallel, Google is expanding Smart Bidding Exploration — algorithmic bidding on queries atypical for a given campaign — from Search to Performance Max and Shopping. Advertisers set an acceptable ROAS deviation, and the algorithm gains the ability to bid on queries with no established conversion history. According to Google, this delivers an average 18% increase in unique converting query categories and a 19% rise in conversions.",
+              "The platform has also rolled Promotion Mode into beta — a temporary change to the allowed ROAS and daily budget for a set period (sales, holidays, launches) without manually rebuilding campaigns."
+            ],
+            "source": "PPC Land",
+            "url": "https://ppc.land/google-ads-gets-promotion-mode-and-a-major-bidding-overhaul-this-august/"
+          },
+          {
+            "kicker": "PLATFORMS",
+            "headline": "Meta Replaces the \"Sponsored\" Label With a Shorter \"Ad\" Tag on Instagram and Facebook",
+            "subhead": "The company says the change is meant to make the feed cleaner while preserving ad transparency.",
+            "body": [
+              "Meta has begun rolling out a new label for sponsored posts on Instagram and Facebook: instead of the full word \"Sponsored\" beneath a post, there's now a compact \"Ad\" tag. The company says the move is about a \"cleaner, simpler\" feed while maintaining its transparency commitments to users.",
+              "Technically, advertisers don't need to change anything in their campaign settings — the platform applies the new label automatically. Still, industry voices recommend revisiting creative layouts: the smaller tag can shift the balance of an ad's top section — the placement of the brand name, avatar and headline.",
+              "The change is part of a broader Meta interface update and comes as disclosure requirements for advertising content tighten across jurisdictions, including new regional ad levies Meta is introducing in Austria, France, Italy, Spain, Turkey and the UK to cover local digital taxes."
+            ],
+            "source": "Social Media Today",
+            "url": "https://www.socialmediatoday.com/news/meta-is-switching-up-its-ad-transparency-labels-in-stream/814890/"
+          },
+          {
+            "kicker": "CASE STUDY",
+            "headline": "Takis Racked Up 159 Million Impressions With a 15-Day Fortnite Activation",
+            "subhead": "The campaign was recognized at the Adweek Tech Stack Awards 2026 as an example of advertising that doesn't interrupt gameplay.",
+            "body": [
+              "Snack brand Takis ran a 15-day activation inside Fortnite in which its three signature flavors — Intense Nacho, Blue Heat and Fuego — became in-game \"heat gauges\" that climbed with every opponent eliminated. Instead of interruptive advertising, the brand built itself into the game mechanics, amplifying rather than disrupting play.",
+              "The campaign generated more than 159 million impressions, 15 million interactions and 2.9 million hours of play time across the brand's custom islands. The results were recognized at the Adweek Tech Stack Awards 2026 as a showcase for how data and gaming platforms help brands compete for attention.",
+              "The case fits a broader trend over the past year: major brands are increasingly using Fortnite and other gaming platforms not as an ad slot but as a full-fledged venue for branded content and sustained audience engagement."
+            ],
+            "source": "Adweek",
+            "url": "https://www.adweek.com/brand-marketing/2026-tech-stack-awards-ai-data-marketing-technology/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies on the Rise",
+        "articles": [
+          {
+            "kicker": "DEALS",
+            "headline": "Stripe Buys AI Startup OpenRouter for More Than $7 Billion",
+            "subhead": "That's more than five times the valuation the company received just three months earlier.",
+            "byline": "The Trend Times",
+            "body": [
+              "Payments giant Stripe has completed its acquisition of OpenRouter, a service that helps companies choose among different AI models for specific tasks based on budget and quality requirements. The deal is worth more than $7 billion, Bloomberg reports.",
+              "Back in May, OpenRouter raised a Series B round of $113 million at a $1.3 billion valuation, with participation from Sequoia, Andreessen Horowitz, Menlo Ventures and Alphabet's CapitalG. The current purchase price is more than a fivefold (5.4x) premium over that valuation, reached in just three months.",
+              "For Stripe, the deal is a way to embed itself in the infrastructure of paying for tokens and AI-model subscriptions, turning cross-provider routing into part of its payments stack. For the broader market, the deal became one of the starkest examples of how fast valuations are rising for AI infrastructure startups amid explosive demand for inference."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+          },
+          {
+            "kicker": "STARTUPS",
+            "headline": "Higgsfield Quadruples Its Valuation to $5.4 Billion in Eight Months",
+            "subhead": "The AI video and image generation platform grew annual revenue to $700 million and reached 30 million users across 200 countries.",
+            "body": [
+              "Higgsfield, a startup building an AI platform for video and image generation, closed a $400 million Series B round at a $5.4 billion valuation — four times the $1.3 billion valuation the company received just eight months earlier, in January 2026.",
+              "The company reports $700 million in annual revenue and 30 million users worldwide across 200 countries, while the number of users on agentic use cases — automated workflows rather than one-off content generation — grew 42x in three months. Investors point to that shift toward enterprise use as the main reason behind the sharp re-rating.",
+              "Higgsfield was founded in 2023 by Alexander Mashrabov, a former Snap executive. The company's rapid growth, against a backdrop of cooling interest in purely entertainment-focused generative video services, is being read by experts as a signal that the AI video market is shifting toward practical enterprise tools."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/"
+          },
+          {
+            "kicker": "FUNDING",
+            "headline": "Fireworks AI Raises $1.5 Billion as Revenue Grows Fivefold",
+            "subhead": "The AI-inference company for enterprises reached a $17.5 billion valuation.",
+            "body": [
+              "Fireworks AI closed a $1.505 billion Series D round at a $17.5 billion valuation. The round was led by Atreides Management, Index Ventures and TCV, with participation from existing investors including Lightspeed Venture Partners and NVIDIA.",
+              "The company helps businesses turn general-purpose models into specialized ones fine-tuned on their own data and deployed on dedicated inference infrastructure. By the time of the round, the company's annual revenue had topped $1 billion — a fivefold increase year over year — while daily token throughput nearly tripled, from 15 trillion to more than 40 trillion.",
+              "The funds will go toward expanding compute infrastructure and the engineering team. The company is betting that businesses want control over the intelligence underpinning their products rather than renting someone else's general-purpose model."
+            ],
+            "source": "Businesswire",
+            "url": "https://www.businesswire.com/news/home/20260716264405/en/Fireworks-Raises-a-$1.5-Billion-Series-D-to-Lead-the-Specialized-Intelligence-Revolution"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "IPO",
+            "headline": "Dario Amodei May Get Super-Voting Shares in Anthropic Ahead of an IPO",
+            "subhead": "The co-founder and CEO owns only about 2% of Anthropic but wants to keep control of decisions after the company goes public.",
+            "byline": "The Trend Times",
+            "body": [
+              "According to Benzinga sources, Anthropic's leadership is considering issuing shares with enhanced voting rights to CEO Dario Amodei and other co-founders ahead of a potential IPO — a structure previously used by Mark Zuckerberg at Meta and Elon Musk at Tesla and SpaceX to retain managerial control despite holding a small stake.",
+              "The situation is telling: despite leading one of the world's two top AI labs, Amodei's personal stake in Anthropic is estimated at only about 2%. The company filed a confidential IPO application (S-1) with the SEC on June 1, 2026, at a $965 billion valuation, and by the end of July its annual recurring revenue (ARR) had reached $65 billion.",
+              "Amodei has repeatedly defended the company's strategy publicly, arguing that public distrust of AI is less about fear of job losses than a crisis of confidence in whether companies and governments are building the technology in their own interest. He says he spends about 40% of his time on company culture, which he considers a bigger competitive advantage than the products themselves."
+            ],
+            "source": "Benzinga",
+            "url": "https://www.benzinga.com/markets/tech/26/08/61293111/anthropic-ceo-dario-amodei-super-voting-shares-ipo-zuckerberg-musk"
+          },
+          {
+            "kicker": "PROFILE",
+            "headline": "Higgsfield's Founder Could Become the First Russian Billionaire From the World of AI Video",
+            "subhead": "Alexander Mashrabov's stake in the $5.4 billion startup may exceed 20%, according to Forbes estimates.",
+            "body": [
+              "Forbes reports that Alexander Mashrabov, co-founder of the American AI startup Higgsfield, has a real shot at joining the ranks of Russian billionaires. After a round that lifted the company's valuation to $5.4 billion, his stake, according to investor estimates, stands at 25% to 30% — roughly $2 billion.",
+              "Before Higgsfield, Mashrabov was an executive at Snap. The company's rapid growth — its valuation quadrupled in just eight months — let the founders hold on to a large equity stake despite several rounds of outside funding, which is unusual for a startup of this scale, where founder ownership is typically diluted heavily by later rounds.",
+              "Mashrabov's story is a rare recent example of an entrepreneur with Russian roots building a major American AI business from scratch and personally benefiting from the explosive growth of the generative-video market, not just his company."
+            ],
+            "source": "Vzglyad",
+            "url": "https://vz.ru/news/2026/8/19/1444112.html"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "BRANDS",
+            "headline": "Dior Returns LVMH's Fashion Division to Growth for the First Time in Seven Quarters, Led by Jonathan Anderson",
+            "subhead": "The new creative director's debut collection and the Cigale bag drove the group's accelerating sales in the second quarter.",
+            "byline": "The Trend Times",
+            "body": [
+              "According to LVMH's first-half 2026 report, the group's six-month revenue reached €38.6 billion, with second-quarter organic growth accelerating to 3%. The fashion and leather goods division returned to sales growth — up 1% — for the first time in seven quarters, driven mainly by Dior.",
+              "Dior posted accelerating growth on the strength of new creative director Jonathan Anderson's first collections, with the Cigale bag emerging as a symbol of the rebrand and a particular hit. Beyond Dior, growth was also boosted by new Louis Vuitton flagship stores in Beijing and Seoul, steady demand for Tiffany and Bvlgari's iconic lines, growth at Sephora, and a recovery in champagne and cognac sales.",
+              "The results matter beyond LVMH: Anderson's appointment at Dior was one of the most closely watched leadership moves in luxury fashion over the past year, and the commercial success of his first collections is being read across the industry as a sign that a creative-director change really can turn around a major house's sales quickly."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/claraludmir/2026/07/28/lvmh-releases-positive-half-year-results-as-fashion-renews-with-growth/"
+          },
+          {
+            "kicker": "COLLECTIONS",
+            "headline": "V. Chapman and Kristopher Brock Launch an \"Amapola Amor\" Capsule Inspired by the Andalusian Coast",
+            "subhead": "The 26-piece collection draws on flamenco and the symbolism of the red poppy.",
+            "body": [
+              "Los Angeles-based occasionwear label V. Chapman, led by founder Victoria Salisbury, presented its Fall/Winter 2026 collection \"Amapola Amor\" (Spanish for \"poppy love\") in partnership with designer Kristopher Brock. The 26-piece line — evening gowns, denim, knitwear, outerwear, jewelry and everyday pieces — draws on the sun-soaked Andalusian coast and the emotional symbolism of the red poppy.",
+              "For Brock, who put his own label, Brock Collection, on pause back in 2021, this is far from his first collaboration in recent years — the designer has become a regular co-creator on other people's collections. Standout looks include a tiered chiffon-organza midi dress with a floral print (Salisbury's favorite) and a ruffled peasant top layered over a full white cotton-voile skirt (Brock's pick).",
+              "The collaboration continues a trend of recent seasons in which independent design labels bring in prominent but temporarily \"free\" creative directors for capsule collections — a move that lets both sides expand their audience without a long-term contractual commitment."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-scoops/kristopher-brock-v-chapman-collaboration-1239078509/"
+          },
+          {
+            "kicker": "INDUSTRY",
+            "headline": "Talent Agency WME Sells New York Fashion Week Rights to Signet Fashion",
+            "subhead": "WME had run America's flagship fashion event for more than two decades.",
+            "body": [
+              "Talent agency WME, which has owned and run New York Fashion Week since 2001, has sold the event's rights to Signet Fashion. The deal includes the event's intellectual property, trademarks and logos.",
+              "The sale wasn't a surprise: WME had put the rights up for sale two years ago, gradually shifting its focus back to its core agency business — representing models and talent through IMG Models, The Wall Group and Art + Commerce. Signet Fashion, for its part, specializes in talent development and building connections across the fashion industry.",
+              "The change of ownership at one of the world's premier fashion shows signals that the business model behind Fashion Weeks keeps evolving: major agencies are rethinking whether it makes sense to directly run show infrastructure, or whether it's more profitable to focus on specialized services for brands and designers."
+            ],
+            "source": "The Blueprint",
+            "url": "https://theblueprint.ru/news/41136"
+          },
+          {
+            "kicker": "COLLABORATIONS",
+            "headline": "H&M Home to Release a Full Collection With Designer Kelly Wearstler, Including an Apparel Capsule",
+            "subhead": "It's H&M's first collaboration to combine furniture and home decor with a ready-to-wear line.",
+            "body": [
+              "H&M Home has announced a full global partnership with American interior designer Kelly Wearstler: the collection pairs 29 furniture and decor pieces with an 8-piece ready-to-wear capsule. The collaboration was first teased in April at Milan Design Week; the brand has now revealed the collection in full.",
+              "For H&M, it marks several firsts at once: H&M Home's debut at Milan Design Week, Wearstler's own first appearance at the event, and the brand's first-ever designer collaboration to include large-scale furniture alongside smaller objects and apparel. The full collection goes on sale September 3 in select stores and on hm.com.",
+              "Wearstler, known for her signature blend of sculptural forms and richly textured materials, says she aimed to make high-end design accessible to a mass-market shopper. The collaboration fits a broader mass-market strategy of recent years — bringing in high-profile interior and fashion designers for capsule lines that elevate a brand's perception without changing its underlying price point."
+            ],
+            "source": "Morningstar / PR Newswire",
+            "url": "https://www.morningstar.com/news/pr-newswire/20260806ny21301/hm-home-and-kelly-wearstler-reveal-full-global-collaboration-featuring-ready-to-wear-capsule-alongside-interiors"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music: Hip-Hop & Rap",
+        "articles": [
+          {
+            "kicker": "RELEASE",
+            "headline": "Basta and Guf Release a Joint Album 16 Years After Their First",
+            "subhead": "The launch show is set for August 28 at Luzhniki Stadium, and all 14 tracks have already hit Yandex Music's top chart.",
+            "byline": "The Trend Times",
+            "body": [
+              "Russian rappers Basta and Guf have released \"Basta/Guf 2026,\" a sequel to their 2010 joint album, which was seen at the time as a breakthrough moment for street subculture crossing into mainstream Russian rap. The new release immediately topped the Apple Music and VK Music charts, and all 14 tracks entered Yandex Music's top chart; VKontakte logged 2.4 million plays in the first few days.",
+              "The album opens with \"You Can't Cut Words From a Song,\" a track laced with heavy censorship bleeps that critics read less as masking genuinely objectionable language than as irony aimed at creative restrictions themselves. Where the 2010 album centered on street life and crime imagery, the new record leans into storytelling, reflecting how far apart the two artists' lives have drifted over a decade and a half.",
+              "The album launch show is set for August 28 at Luzhniki Stadium. The gospel-inflected, hook-driven track \"The Streets Need Your Fire\" is expected to anchor the concert, built for a stadium-scale show."
+            ],
+            "source": "Kommersant",
+            "url": "https://www.kommersant.ru/doc/8606292"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "Slava KPSS Releases the Album \"The Only Rapper\"",
+            "subhead": "The title nods to an ironic meme from the artist's fan community.",
+            "body": [
+              "Rapper Slava KPSS has released a new album, \"The Only Rapper\" (\"Единственный рэпер\"). The title is a post-ironic reference to a meme from the artist's fan base, built around an old photo of his paired with a caption — \"the only rapper\" — lifted out of context.",
+              "On the album, the artist continues his signature genre-blending — this time pairing rap with elements of Russian chanson, with lyrics touching on grim historical themes. The release is available on all major streaming platforms.",
+              "The record is one of the notable releases on the Russian rap scene as summer winds down — alongside new albums from Gataski and the Basta/Guf duo, August 2026 is shaping up to be one of the busiest release months in recent memory for Russian hip-hop."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/slava-kpss-edinstvenny-raper"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "Gataski Releases \"Chemistry,\" a 13-Track Album About Complicated Relationships",
+            "subhead": "The artist describes the relationships not as love but as a chemical reaction he \"didn't choose.\"",
+            "body": [
+              "Russian artist Gataski released \"Chemistry\" (\"Химия\"), a 13-track album about relationships, on August 12. According to the artist, it's not about love but about a chemical reaction he \"didn't choose\" — hence the album's title. The lead single, \"You Can,\" came out on August 7.",
+              "The album's distinguishing feature is the absence of a single genre concept: rather than a cohesive sound, listeners get tracks that contrast sharply in mood and emotion, at times diametrically opposed to one another. Featured artists on the album include TAKETAKE and DEATHORIA.",
+              "The release lands in the same month as new albums from Slava KPSS and the Basta/Guf duo, making August 2026 one of the busiest recent months for the Russian rap scene."
+            ],
+            "source": "2x2 Music",
+            "url": "https://media.2x2tv.ru/drop-07-08-2026/"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "Nipsey Hussle's First Posthumous Album Arrives — a Joint Record With Bino Rideaux",
+            "subhead": "\"Prolific\" dropped a day before what would have been the rapper's 41st birthday, seven years after his death.",
+            "body": [
+              "On August 14 — a day before what would have been Nipsey Hussle's 41st birthday — \"Prolific\" was released, his first posthumous project, a joint album with Los Angeles rapper Bino Rideaux. The record was put out by the labels All Money In, Out The Blue Records and Atlantic Records.",
+              "According to Hussle's brother, Samiel \"Blacc Sam\" Asghedom, this isn't a posthumously assembled compilation but a complete project that Nipsey and Bino recorded together from start to finish back in 2017 and finished true to the artist's original vision. The 15 tracks include collaborations with Cardi B, Ty Dolla $ign, Leon Thomas, Buddy and James Fauntleroy.",
+              "The release was one of the most anticipated moments of the year in the hip-hop community: Nipsey Hussle, who was shot and killed in 2019, remains one of the most influential figures to come out of the West Coast, and the arrival of a finished joint album seven years later kept fans' attention fixed on the project since it was first announced back in June."
+            ],
+            "source": "Vibe",
+            "url": "https://www.vibe.com/features/editorial/bino-rideaux-marathon-new-nipsey-hussle-album-prolific-1235182606/"
+          },
+          {
+            "kicker": "VIDEO",
+            "headline": "Kanye West Releases the \"OK\" Video With Don Toliver, Directed by His Wife Bianca Censori",
+            "subhead": "The surreal video, featuring an operating room and a beheaded protagonist, is Censori's fourth directing credit.",
+            "body": [
+              "On August 18, Kanye West (Ye) released the video for \"OK,\" featuring Don Toliver — a track previously included on the deluxe edition of the album BULLY. The video was directed by his wife, architect-by-training Bianca Censori — her fourth directing credit, following the videos for \"Father,\" \"King\" and \"Gemini Season.\"",
+              "The video opens in a morgue, where doctors operate on a beheaded version of West's character, extracting objects from his body — from two doves and a rose to a heart. His severed head is separately brought into frame and set down beside the operating table. When Toliver's verse begins, he emerges from a locker, watches the procedure, and then returns the character's head to his body, \"reviving\" him.",
+              "Censori drew on her architectural background to construct the video's unusual spaces, continuing to serve not merely as her husband's muse but as a full creative collaborator on his visual projects."
+            ],
+            "source": "Billboard",
+            "url": "https://www.billboard.com/music/rb-hip-hop/don-toliver-ye-ok-video-1236319179/"
+          }
+        ]
+      }
+    ]
+  }
+}
