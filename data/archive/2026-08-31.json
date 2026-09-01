@@ -1,0 +1,586 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-08-31",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 2
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "РАЗРЫВ",
+            "headline": "OpenAI разрывает контракт с Cursor после его покупки SpaceX",
+            "subhead": "Илон Маск получил AI-стартап за $60 млрд — но лишился доступа к моделям GPT",
+            "byline": "The Trend Times",
+            "body": [
+              "OpenAI объявила о прекращении контракта, по которому её модели работали в кодинг-платформе Cursor, купленной SpaceX Илона Маска. Доступ к моделям OpenAI будет закрыт 12 ноября 2026 года — этот срок соответствует условию о разрыве соглашения при смене корпоративного контроля.",
+              "Компания объяснила решение историей нарушений условий использования со стороны структур Маска: по её словам, и Twitter, и xAI в прошлом уже нарушали условия соглашений с OpenAI, что признавал сам предприниматель. В OpenAI отметили, что не уверены, что SpaceX будет соблюдать её условия обслуживания.",
+              "CEO Cursor Майкл Труэлл заявил, что модели OpenAI формируют лишь около 5% трафика пользователей платформы, и компании продолжают обсуждать это решение. SpaceX закрыла сделку по покупке Cursor за $60 млрд в августе — это стало крупнейшей сделкой в истории продуктивности на основе ИИ."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html"
+          },
+          {
+            "kicker": "СУДЫ",
+            "headline": "Sony Music и Warner Chappell подали в суд на Anthropic",
+            "subhead": "Издатели утверждают, что компания использовала десятки тысяч песен без разрешения для обучения Claude",
+            "body": [
+              "Sony Music Publishing и Warner Chappell Music подали иск против Anthropic и её сооснователей Дарио Амодея и Бенджамина Манна в окружной суд Северного округа Калифорнии. Издатели обвиняют компанию в «дерзкой кампании» незаконного скачивания и торрент-загрузки авторских произведений в промышленных масштабах для обучения моделей Claude.",
+              "В иске утверждается, что были незаконно использованы «десятки тысяч» охраняемых авторским правом музыкальных композиций — это заметно шире, чем в предыдущих исках против ИИ-компаний, которые касались более узкого круга произведений.",
+              "Истцы требуют суда присяжных и компенсации до $150 000 за каждое нарушенное произведение плюс $25 000 за каждый случай удаления информации об авторских правах — в теории это может вылиться в миллиарды долларов. В Anthropic заявили, что не согласны с претензиями издателей и намерены отстаивать свою позицию в суде."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+          },
+          {
+            "kicker": "РЕГУЛИРОВАНИЕ",
+            "headline": "Кто отвечает, если ИИ-агент потратил ваши деньги без разрешения",
+            "subhead": "Google, NIST и Конгресс США одновременно взялись за правила для автономных агентов",
+            "body": [
+              "По мере того как ИИ-агенты всё чаще совершают покупки и платежи от имени пользователей, регуляторы и технологические компании сходятся в одном: нужна проверяемая запись о том, кто и на что уполномочил агента. Протокол Google Agent Payments Protocol (AP2), поддержанный более чем 60 продавцами и финансовыми организациями, создаёт «бумажный след» для каждой транзакции агента.",
+              "Национальный институт стандартов и технологий США (NIST) собирает отзывы на концептуальный документ о том, как агент может доказать свои полномочия и привязать их к конкретному человеку. Параллельно сенатор Марк Уорнер внёс в июле законопроект AI AGENT Act, который обязывает «доверенных пользовательских агентов» вести журнал действий в реальном времени.",
+              "Пока эти механизмы не связаны друг с другом: протокол Google фиксирует одобренные пользователем лимиты, но не помогает, если агент совершил покупку, которую пользователь не одобрял. Именно этот разрыв, по мнению экспертов, регуляторам предстоит закрыть в первую очередь."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/24/google-ai-agent-payment-protocol-gap/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "ПОИСК",
+            "headline": "Августовское спам-обновление Google обрушило позиции сайтов сильнее обычного",
+            "subhead": "Доля топ-10 ссылок, вылетевших из первой сотни, выросла почти вдвое",
+            "byline": "The Trend Times",
+            "body": [
+              "Google завершила раскатку августовского спам-обновления 2026 года — оно затронуло все языки и регионы и заняло два дня шестнадцать часов, начавшись 18 августа. Это уже третье подобное обновление в этом году.",
+              "По данным анализа поисковой выдачи, ссылки, занимавшие топ-10 по запросу, стали в 1,8 раза чаще вылетать за пределы первой сотни результатов по сравнению с обычным периодом без обновлений: 16,7% таких страниц потеряли позиции против 9,2% в контрольный период июля. Сильнее всего пострадали сайты в категориях моды, красоты, недвижимости и здравоохранения.",
+              "Google не объявила новых типов спам-политик — обновление проверяет сайты по уже действующим правилам и, по заявлению компании, не нацелено специально на ссылочный спам или репутационные злоупотребления. SEO-специалистам рекомендуют пересмотреть контент, сильнее всего просевший в выдаче, вместо того чтобы ждать отката алгоритма."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-august-2026-spam-update-ranking-impact-485980"
+          },
+          {
+            "kicker": "ПЛАТФОРМЫ",
+            "headline": "Meta заменяет модераторов контента системами ИИ",
+            "subhead": "Компания сворачивает работу с внешними подрядчиками, оставляя людям только сложные случаи",
+            "body": [
+              "Meta объявила о расширении использования ИИ-систем для модерации контента в Facebook и Instagram и сокращении числа сторонних модераторов-людей. Речь идёт о многолетнем плане замены тысяч подрядчиков алгоритмами, которые должны выявлять мошенничество, запрещённые материалы и нарушения правил платформы.",
+              "Полностью человеческий контроль компания сохранит только для спорных случаев и апелляций — основную нагрузку по модерации возьмут на себя ИИ-системы. Речь идёт об одном из крупнейших внедрений ИИ в задачи безопасности платформ на сегодняшний день, затрагивающем отрасль, где по всему миру заняты десятки тысяч подрядчиков.",
+              "Для маркетологов и брендов это означает более быстрые, но и менее предсказуемые решения по модерации рекламы и контента — с меньшим количеством возможностей оспорить решение алгоритма до того, как оно вступит в силу."
+            ],
+            "source": "Social Media Today",
+            "url": "https://www.socialmediatoday.com/news/meta-replaces-moderation-staff-with-ai-expands-access-to-ai-support-bot/815268/"
+          },
+          {
+            "kicker": "ВИДИМОСТЬ В ИИ",
+            "headline": "Nike и Adidas обгоняют другие модные бренды по упоминаниям в ответах ИИ",
+            "subhead": "Google AI Overview, ChatGPT и Gemini чаще всего называют именно эти два бренда",
+            "body": [
+              "Анализ ответов популярных ИИ-сервисов — Google AI Overview, AI Mode, ChatGPT и Gemini — показал, что Nike и Adidas значительно опережают конкурентов по числу упоминаний в результатах, которые пользователи получают на модные и спортивные запросы: у Nike зафиксировано 2,2 млн упоминаний, у Adidas — 1 млн.",
+              "Это подтверждает смену приоритетов в маркетинге: бренды всё активнее инвестируют в «оптимизацию для генеративных систем» (GEO) — по аналогии с классическим SEO, только теперь цель — оказаться в ответе чат-бота, а не в топе поисковой выдачи.",
+              "При этом в самой индустрии нет единого подхода: если часть брендов делает ставку на алгоритмическую эффективность, Adidas демонстративно инвестирует в кампании, полностью созданные ИИ, — например, в ролик о цветочной коллекции, — рассчитывая на то, что «ИИ может оптимизировать, но не может заставить людей переживать»."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/sourcing-journal/industry-news/ai-loves-mentioning-nike-and-adidas-than-any-fashion-brand-1239037021/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "РАУНДЫ",
+            "headline": "Base Power привлекла ещё $1 млрд на домашние батареи",
+            "subhead": "Стартап Зака Делла оценили в $13 млрд меньше чем через год после предыдущего миллиардного раунда",
+            "byline": "The Trend Times",
+            "body": [
+              "Base Power закрыла раунд серии D на $1 млрд — второй миллиардный раунд компании меньше чем за год. Новая оценка стартапа составила $13 млрд. Раунд возглавили Ribbit, Addition, Valor Equity Partners и стратегическое инвестподразделение JPMorganChase, при участии Altimeter, D1 Capital, Coatue, Thrive Capital, a16z и других фондов.",
+              "Base Power продаёт домашние батареи и энергоснабжение как единый сервис жителям Техаса, устанавливая около 100 систем в день, и планирует удвоить этот темп к концу года. Компания также представила новую версию батареи Base Core ёмкостью 39,2 кВт·ч, которую производит на своём заводе в Остине.",
+              "Деньги пойдут на наращивание производства на фоне роста спроса на распределённое хранение энергии — отчасти вызванного растущим энергопотреблением дата-центров для ИИ."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/"
+          },
+          {
+            "kicker": "ЭНЕРГИЯ",
+            "headline": "Valar Atomics подняла $1 млрд на серийное производство мини-реакторов",
+            "subhead": "Раунд возглавила Sequoia — компания оценена в $6 млрд",
+            "body": [
+              "Ядерный стартап Valar Atomics привлёк $1 млрд под руководством Sequoia Capital при участии ещё девяти фондов, включая Valor Equity Partners и Conviction. Оценка компании после раунда составила $6 млрд, а Valar также получила кредитную линию на $200 млн.",
+              "Компания строит малые модульные реакторы — компактные, собираемые на заводе энергоблоки, которые должны быть дешевле и быстрее в постройке, чем традиционные АЭС. Её пятимегаваттный реактор Ward 250 использует гелиевое охлаждение вместо водяного.",
+              "В июне Valar вместе с Nvidia продемонстрировала работу тестового реактора Ward 250, который питал дата-центр с чипами Blackwell для ИИ-нагрузок. После этого компании расширили партнёрство до строительства полноценного ядерного ИИ-комплекса мощностью 30 МВт в штате Юта. Новые деньги должны перевести Valar от демонстрационных образцов к серийному производству."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/"
+          },
+          {
+            "kicker": "ЕДИНОРОГИ",
+            "headline": "HappyRobot стал единорогом после раунда на $150 млн",
+            "subhead": "Стартап голосовых ИИ-агентов для логистики оценили в $1,2 млрд",
+            "body": [
+              "HappyRobot привлёк $150 млн в раунде серии C, который возглавили Prysm Capital и Eurazeo — оценка компании составила $1,2 млрд, а общий объём привлечённых средств достиг около $200 млн. Среди инвесторов также a16z, Y Combinator, Koch Disruptive Technologies и подразделение Deutsche Telekom.",
+              "Компанию в 2022 году основали Пабло и Хавьер Палафокс вместе с Луисом Паарупом. Её голосовые ИИ-агенты ведут переговоры по грузоперевозкам, планируют доставки и обрабатывают страховые звонки для более чем 150 корпоративных клиентов, включая DHL, Uber, Kuehne+Nagel и Repsol.",
+              "Новые деньги пойдут на выход за пределы логистики — в страхование, энергетику, телеком и авиаперевозки."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/08/04/happyrobot-raises-150m-1-2b-valuation-bring-ai-agents-critical-enterprise-work/"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "ОСНОВАТЕЛИ",
+            "headline": "25-летний CEO Cursor провернул сделку на $60 млрд со SpaceX",
+            "subhead": "Майкл Труэлл начал программировать в 11 лет — и построил один из самых дорогих ИИ-стартапов десятилетия",
+            "byline": "The Trend Times",
+            "body": [
+              "Майкл Труэлл, сооснователь и CEO платформы для программирования на основе ИИ Cursor, начал писать код в 11 лет, чтобы делать мобильные игры. После года учёбы в MIT и летней стажировки в Google в 18 лет он вместе с сокурсниками бросил университет и запустил Cursor — сначала как студенческий проект.",
+              "Четыре года спустя компания превратилась в один из самых быстрорастущих ИИ-стартапов и была куплена SpaceX Илона Маска за $60 млрд — по данным аналитиков, это крупнейшая сумма, когда-либо заплаченная за инструмент для повышения продуктивности на основе ИИ. Состояние самого Труэлла Forbes оценивает примерно в $1,3 млрд.",
+              "Через несколько часов после объявления о сделке Труэлл вышел на сцену первой в истории компании конференции для разработчиков и заявил: «Мы рассчитываем тесно сотрудничать с командой SpaceX, чтобы развивать наши передовые ИИ-возможности»."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/article/who-is-michael-truell-cursor-ceo-spacex-acquisition/"
+          },
+          {
+            "kicker": "ИСТОРИИ УСПЕХА",
+            "headline": "Сын Майкла Делла построил бизнес на $13 млрд к 30 годам",
+            "subhead": "Зак Делл вышел из тени отца и создал собственную энергетическую компанию Base Power",
+            "body": [
+              "Заку Деллу, сыну основателя Dell Technologies Майкла Делла, ещё не исполнилось 30 лет, а его компания Base Power уже оценивается в $13 млрд. Вместе с сооснователем Джастином Лопасом он построил первого в Техасе розничного поставщика электроэнергии, который в одном пакете предлагает клиентам домашнюю батарею, энергоснабжение и установку оборудования.",
+              "За три года компания прошла путь от установки одной батарейной системы в день до более чем 100 — у неё свыше 30 тысяч клиентов, и число продолжает расти. Делл описывает модель Base Power как энергоснабжение по принципу подписки — «как членство в Costco», только вместо оптовых закупок клиенты получают надёжность электросети.",
+              "История Base Power — это ставка на то, что распределённые батареи в подвалах и гаражах способны разгрузить перегруженную энергосистему США быстрее, чем строительство новых крупных электростанций."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/06/michael-dell-son-built-home-battery-business/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "КОЛЛАБОРАЦИИ",
+            "headline": "V. Chapman и Кристофер Брок выпустили капсулу Amapola Amor",
+            "subhead": "26 вещей, вдохновлённых побережьем Андалусии и символикой красного мака",
+            "byline": "The Trend Times",
+            "body": [
+              "Основательница V. Chapman Виктория Солсбери и дизайнер Кристофер Брок представили 5 августа совместную капсулу Amapola Amor — коллекцию из 26 вещей на сезон осень-зима 2026, вдохновлённую солнечным побережьем Андалусии и эмоциональной символикой красного мака.",
+              "В капсулу вошли платья с маковым принтом, вечерние наряды, деним, трикотаж, верхняя одежда и украшения — коллекция сочетает фирменный корсетный крой V. Chapman с романтичной, фактурной эстетикой Брока.",
+              "Полная линия доступна на сайте vchapmanstudio.com, отдельные вещи также продаются в Anthropologie."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-scoops/kristopher-brock-v-chapman-collaboration-1239078509/"
+          },
+          {
+            "kicker": "КАПСУЛЫ",
+            "headline": "Коллетт Динниган выпустила кашемировую капсулу с Saint James",
+            "subhead": "Австралийский дизайнер переосмыслила французскую тельняшку в роскошном материале",
+            "body": [
+              "Австралийский дизайнер Коллетт Динниган объединилась с французским морским домом Saint James, история которого насчитывает более 140 лет, чтобы выпустить капсулу из четырёх моделей — каждая в двух расцветках, полностью из кашемира.",
+              "Классическая полосатая тельняшка Saint James получила более расслабленный, роскошный крой: в капсулу вошли свитеры с круглым и V-образным вырезом, брюки и худи — вещи, одинаково уместные и дома на диване, и в дороге.",
+              "Коллекция сочетает мореходное наследие Saint James с фирменным прибрежным гламуром Динниган и выходит в продажу в конце августа."
+            ],
+            "source": "Marie Claire Australia",
+            "url": "https://www.marieclaire.com.au/fashion/fashion-news/fashion-beauty-lifestyle-news-august-2026/"
+          },
+          {
+            "kicker": "КАМПАНИИ",
+            "headline": "Tommy Hilfiger сделал Ромео Бекхэма лицом осенней денимовой кампании",
+            "subhead": "Съёмки Always Denim прошли в нью-йоркском отеле The Mark",
+            "body": [
+              "Tommy Hilfiger представил Ромео Бекхэма — модель, бывшего футболиста и сына Дэвида и Виктории Бекхэм — в качестве лица осенней кампании Always Denim 2026 года. Вместе с ним в съёмках приняли участие нидерландская модель Ясмин Вейналдум и группа молодых creative-персонажей.",
+              "Действие кампании разворачивается в нью-йоркском отеле The Mark — вечеринки на крыше, прогулки по даунтауну и повседневные сцены должны подчеркнуть универсальность денима. В коллекции — обновлённые силуэты: свободные джинсы Theo и прямые Dover для мужчин, а также модели Sarah с высокой посадкой и Daisy с низкой для женщин.",
+              "Кампания построена вокруг идеи, что хорошие джинсы никогда не выходят из моды — бренд называет это «классической американской беспечностью»."
+            ],
+            "source": "The Impression",
+            "url": "https://theimpression.com/tommy-hilfiger-taps-romeo-beckham-for-denim-campaign/"
+          },
+          {
+            "kicker": "НЕДЕЛИ МОДЫ",
+            "headline": "Copenhagen Fashion Week представила расписание сезона SS27",
+            "subhead": "Международным гостем недели впервые стал бренд Collina Strada",
+            "body": [
+              "Copenhagen Fashion Week прошла с 3 по 7 августа и включала 36 показов и презентаций. Впервые в истории недели моды был учреждён International Guest Slot — специальный статус приглашённого зарубежного бренда, который в этом сезоне получила нью-йоркская марка Collina Strada.",
+              "В расписании — постоянные участники CPHFW, включая By Malene Birger, Stine Goya, Mfpen, Alectra Rothschild/Masculina и Marimekko, а также дебютанты Almada Label и Yours Truly by Peter Jensen.",
+              "Шведский бренд Studio Constance стал первым участником программы поддержки молодых дизайнеров NewTalent из Швеции, а признание One To Watch получили Sson, René и Taus."
+            ],
+            "source": "FashionNetwork",
+            "url": "https://uk.fashionnetwork.com/news/Copenhagen-fashion-week-unveils-ss27-line-up,1836754.html"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Род Уэйв выпустил седьмой студийный альбом Don't Look Down",
+            "subhead": "24 трека вышли на стриминге в ночь на 28 августа",
+            "byline": "The Trend Times",
+            "body": [
+              "Род Уэйв представил Don't Look Down на лейбле Alamo Records — свой первый полноформатный альбом после Last Lap 2024 года, который добрался до второй строчки Billboard 200 и стал его пятым подряд топ-3 альбомом на этом чарте.",
+              "Цифровая версия включает 24 трека, физические издания на виниле и CD урезаны до 20 песен. Одновременно с релизом вышло видео на сингл Mainstay при участии Luv Von.",
+              "Альбом продолжает серию хитов Уэйва в топ-чарте R&B/хип-хопа, где его предыдущие проекты неизменно занимали первые строчки."
+            ],
+            "source": "Billboard",
+            "url": "https://www.billboard.com/music/rb-hip-hop/rod-wave-dont-look-down-album-release-date-trailer-1236274751/"
+          },
+          {
+            "kicker": "КОЛЛАБОРАЦИИ",
+            "headline": "Эрика Баду и The Alchemist выпустили совместный альбом",
+            "subhead": "Before The World Blows: The Abi and Alan Experiment записывали полтора года между Далласом и Лос-Анджелесом",
+            "body": [
+              "Эрика Баду и продюсер The Alchemist 28 августа выпустили совместный альбом Before The World Blows: The Abi and Alan Experiment — название обыгрывает их прозвища друг для друга, «Аби» и «Алан». Пластинка из 17 треков собиралась полтора года.",
+              "В записи приняли участие Earl Sweatshirt, Thundercat, Westside Gunn, Стив Лейси и Камаси Вашингтон. Альбом описывают как столкновение двух непохожих творческих почерков — гипнотического, дерзкого и предельно личного.",
+              "На пластинке Баду размышляет о том, какие части нашей истории — любовь, невинность, мечты, память, женственность — стоит сохранить «до того, как мир расколется»."
+            ],
+            "source": "HipHop-N-More",
+            "url": "https://hiphop-n-more.com/2026/08/erykah-badu-alchemist-new-album-before-the-world-blows-listen/"
+          },
+          {
+            "kicker": "НЬЮ-ЙОРК",
+            "headline": "Fat Joe вернулся к корням с альбомом Organized Rhyme",
+            "subhead": "12 треков с Jadakiss, Pusha T и Remy Ma в продюсировании Cool & Dre",
+            "body": [
+              "Бронксовская легенда рэпа Fat Joe 28 августа выпустил альбом Organized Rhyme — 12 треков жёсткой лирики и историй о Нью-Йорке, спродюсированных обладателями «Грэмми» Cool & Dre. Название обыгрывает словосочетание «organized crime» («организованная преступность»).",
+              "В записи участвовали Jadakiss, Pusha T, Remy Ma, Yung Miami, CeeLo Green, Stove God Cooks и Steven Mackie. Перед официальным релизом Fat Joe представил альбом на закрытой прослушке в офисе Roc Nation.",
+              "Пластинка стала возвращением артиста к плотному, ориентированному на текст звучанию, с которого начиналась его карьера."
+            ],
+            "source": "HipHop-N-More",
+            "url": "https://hiphop-n-more.com/2026/08/fat-joe-releases-new-album-organized-rhyme-stream/"
+          },
+          {
+            "kicker": "РОССИЯ",
+            "headline": "Баста и Гуф представили в Лужниках второй совместный альбом",
+            "subhead": "Альбом «Баста/Гуф 2026» продолжает их дуэтную пластинку 2010 года",
+            "body": [
+              "28 августа в «Лужниках» прошла презентация нового совместного альбома Басты и Гуфа — «Баста/Гуф 2026», второго дуэтного релиза артистов после их совместной пластинки 2010 года.",
+              "Альбом описывают как продолжение давней дружбы двух рэперов — с отсылками к их общей истории в русском рэпе и новыми экспериментами со звучанием.",
+              "Презентация на одной из крупнейших концертных площадок страны стала одним из главных музыкальных событий конца августа для отечественной хип-хоп-сцены."
+            ],
+            "source": "Kommersant",
+            "url": "https://www.kommersant.ru/doc/8606292"
+          },
+          {
+            "kicker": "ЛОНДОН",
+            "headline": "i61 выпустил мини-альбом Fog о переезде в Лондон",
+            "subhead": "Девять треков на стыке экспериментального хип-хопа и звучания новой британской волны",
+            "body": [
+              "Рэпер, художник и продюсер i61 (Фёдор Оралов), основатель объединения Dopeclvb, 28 августа выпустил мини-альбом Fog — девять треков, которые сам артист назвал «туманным мини-приключением в новой локации».",
+              "Пластинка родилась после переезда i61 в Лондон: артист описывает альбом как попытку превратить впечатления от ночного города, его районов и холодной архитектуры в личный музыкальный манифест на стыке экспериментального хип-хопа и электроники. За продакшн отвечал постоянный соратник артиста — Kaguya.",
+              "Fog стал очередным концептуальным релизом i61 после его тетралогии Shelby и сотрудничества с Boulevard Depo и Pharaoh."
+            ],
+            "source": "MenToday",
+            "url": "https://www.mentoday.ru/entertainment/music/interpol-i61-i-bato-daidjest-muzykalnyh-relizov-21-28-avgusta/"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-08-31",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 2
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "FALLOUT",
+            "headline": "OpenAI Cuts Off Cursor After Its $60 Billion Sale to SpaceX",
+            "subhead": "Elon Musk got the AI coding startup — but lost access to GPT models in the process",
+            "byline": "The Trend Times",
+            "body": [
+              "OpenAI said it is terminating the contract that lets its models power the Cursor coding platform, which SpaceX recently acquired. Access to OpenAI's models will be cut off on November 12, 2026, the date set by a contract clause allowing termination after a change of corporate control.",
+              "The company pointed to a history of contract violations by Musk-owned entities, noting that both Twitter and xAI have broken past agreements with OpenAI — something Musk himself has acknowledged. OpenAI said it isn't confident SpaceX will honor its terms of service going forward.",
+              "Cursor CEO Michael Truell said OpenAI's models account for only about 5% of the platform's user traffic, and that the two companies are still discussing the decision. SpaceX closed its $60 billion purchase of Cursor in August, the largest deal ever struck for an AI productivity tool."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html"
+          },
+          {
+            "kicker": "LAWSUITS",
+            "headline": "Sony Music and Warner Chappell Sue Anthropic",
+            "subhead": "The publishers say the company used tens of thousands of songs without permission to train Claude",
+            "body": [
+              "Sony Music Publishing and Warner Chappell Music have sued Anthropic and co-founders Dario Amodei and Benjamin Mann in federal court in Northern California. The publishers accuse the company of a \"brazen campaign\" of illegally torrenting and downloading copyrighted works on a massive scale to train its Claude models.",
+              "The suit alleges Anthropic unlawfully used \"tens of thousands\" of copyrighted compositions — a far larger scope than earlier AI copyright suits, which focused on narrower sets of works.",
+              "The publishers are seeking a jury trial and damages of up to $150,000 per infringed work, plus $25,000 for each instance of removed copyright management information — potentially amounting to billions of dollars. Anthropic said it disagrees with the claims and intends to defend itself vigorously in court."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+          },
+          {
+            "kicker": "REGULATION",
+            "headline": "Who's Liable When an AI Agent Spends Your Money Without Asking",
+            "subhead": "Google, NIST and Congress are all racing to write rules for autonomous agents at once",
+            "body": [
+              "As AI agents increasingly make purchases and payments on people's behalf, regulators and tech companies agree on one thing: there needs to be a verifiable record of who authorized what. Google's Agent Payments Protocol (AP2), backed by more than 60 merchants and financial institutions, creates a paper trail for every agent-driven transaction.",
+              "The National Institute of Standards and Technology is reviewing comments on a concept paper addressing how an agent can prove its authority and tie it back to a real person. Separately, Senator Mark Warner introduced the AI AGENT Act in July, which would require \"custodial user agents\" to keep real-time logs of the actions they take.",
+              "None of these efforts are yet connected: Google's protocol records the limits a user approved, but offers no recourse when an agent makes a purchase the user never authorized. Closing that gap, experts say, is the next problem regulators need to solve."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/24/google-ai-agent-payment-protocol-gap/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "SEARCH",
+            "headline": "Google's August Spam Update Hit Rankings Harder Than Usual",
+            "subhead": "The share of top-10 links falling out of the first 100 results nearly doubled",
+            "byline": "The Trend Times",
+            "body": [
+              "Google has finished rolling out its August 2026 spam update, which affected every language and region and took two days and sixteen hours starting August 18 — the third such update this year.",
+              "Pages that ranked in the top 10 for a given query became 1.8 times more likely to fall out of the top 100 compared with a normal period: 16.7% of top-ranking pages lost their spot, versus 9.2% during a control period in July. Fashion, beauty, real estate and healthcare sites were hit hardest.",
+              "Google didn't announce any new spam policy categories — the update simply enforces existing rules, and the company says it wasn't specifically targeting link spam or site reputation abuse. SEO teams are being advised to review content that dropped hardest rather than wait for the algorithm to reverse course."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-august-2026-spam-update-ranking-impact-485980"
+          },
+          {
+            "kicker": "PLATFORMS",
+            "headline": "Meta Is Replacing Content Moderators With AI Systems",
+            "subhead": "The company is scaling back outside contractors, keeping humans only for edge cases",
+            "body": [
+              "Meta announced it is expanding its use of AI for content moderation across Facebook and Instagram while cutting back on third-party human moderators. It's a multiyear plan to replace thousands of contractors with algorithms meant to catch scams, illegal content and policy violations.",
+              "Human review will be reserved for edge cases and appeals, while AI handles the bulk of enforcement — one of the largest deployments of AI for platform safety to date, in an industry that currently employs tens of thousands of contract workers worldwide.",
+              "For marketers and brands, that means faster but less predictable decisions on ad and content moderation, with fewer chances to contest a call before an algorithm's decision takes effect."
+            ],
+            "source": "Social Media Today",
+            "url": "https://www.socialmediatoday.com/news/meta-replaces-moderation-staff-with-ai-expands-access-to-ai-support-bot/815268/"
+          },
+          {
+            "kicker": "AI VISIBILITY",
+            "headline": "Nike and Adidas Are Outpacing Every Other Fashion Brand in AI Answers",
+            "subhead": "Google AI Overview, ChatGPT and Gemini mention the two brands more than any rival",
+            "body": [
+              "An analysis of responses from Google AI Overview, AI Mode, ChatGPT and Gemini found that Nike and Adidas dominate fashion- and sportswear-related AI answers, with Nike logging 2.2 million mentions and Adidas 1 million — far ahead of competitors.",
+              "It's evidence of a shift in marketing priorities: brands are increasingly investing in \"generative engine optimization\" (GEO), the AI-era answer to SEO, where the goal is to land inside a chatbot's answer rather than atop a search results page.",
+              "The industry hasn't settled on one approach, though. While many brands chase algorithmic efficiency, Adidas has leaned into campaigns made entirely by AI — including a spot for a floral collection — betting that \"AI can optimize, but it cannot make people care.\""
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/sourcing-journal/industry-news/ai-loves-mentioning-nike-and-adidas-than-any-fashion-brand-1239037021/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "Base Power Raises Another $1 Billion for Home Batteries",
+            "subhead": "Zach Dell's startup hit a $13 billion valuation less than a year after its last billion-dollar round",
+            "byline": "The Trend Times",
+            "body": [
+              "Base Power closed a $1 billion Series D — its second billion-dollar round in under a year — valuing the company at $13 billion. The round was led by Ribbit, Addition, Valor Equity Partners and JPMorganChase's strategic investment arm, with participation from Altimeter, D1 Capital, Coatue, Thrive Capital, a16z and others.",
+              "Base Power sells home batteries and energy service as a single package to Texas homeowners, installing about 100 systems a day and aiming to double that pace by year's end. The company also unveiled a new battery, Base Core, storing 39.2 kilowatt-hours, built at its Austin factory.",
+              "The money will fund manufacturing capacity as demand grows for distributed energy storage — driven in part by AI data centers' surging electricity use."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/"
+          },
+          {
+            "kicker": "ENERGY",
+            "headline": "Valar Atomics Raises $1 Billion to Mass-Produce Mini Reactors",
+            "subhead": "Sequoia led the round, valuing the nuclear startup at $6 billion",
+            "body": [
+              "Nuclear startup Valar Atomics raised $1 billion in a round led by Sequoia Capital, with nine other firms participating including Valor Equity Partners and Conviction. The round values the company at $6 billion, and Valar also lined up a $200 million credit facility.",
+              "The company builds small modular reactors — compact, factory-built power plants meant to be cheaper and faster to construct than traditional nuclear plants. Its 5-megawatt Ward 250 reactor uses helium coolant instead of water.",
+              "In June, Valar and Nvidia demonstrated a test Ward 250 reactor powering a data center running Blackwell chips for AI workloads. The companies then expanded their partnership to build a full 30-megawatt nuclear-powered AI facility in Utah. The new funding is meant to take Valar from demonstration units to volume production."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/"
+          },
+          {
+            "kicker": "UNICORNS",
+            "headline": "HappyRobot Joins the Unicorn Club After a $150 Million Round",
+            "subhead": "The voice-AI startup for logistics is now valued at $1.2 billion",
+            "body": [
+              "HappyRobot raised $150 million in a Series C round led by Prysm Capital and co-led by Eurazeo, valuing the company at $1.2 billion and bringing its total funding to roughly $200 million. Investors include a16z, Y Combinator, Koch Disruptive Technologies and a Deutsche Telekom unit.",
+              "Founded in 2022 by Pablo and Javier Palafox along with Luis Paarup, the company's voice AI agents negotiate freight, schedule deliveries and handle insurance claims calls for more than 150 enterprise customers, including DHL, Uber, Kuehne+Nagel and Repsol.",
+              "The new funding will help HappyRobot expand beyond logistics into insurance, energy, telecom and airlines."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/08/04/happyrobot-raises-150m-1-2b-valuation-bring-ai-agents-critical-enterprise-work/"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FOUNDERS",
+            "headline": "Cursor's 25-Year-Old CEO Just Struck a $60 Billion Deal With SpaceX",
+            "subhead": "Michael Truell started coding at 11 — and built one of the decade's most valuable AI startups",
+            "byline": "The Trend Times",
+            "body": [
+              "Michael Truell, co-founder and CEO of AI coding platform Cursor, started writing code at 11 to make mobile games. After a year at MIT and a summer internship at Google at 18, he dropped out with fellow students to launch Cursor — originally a college side project.",
+              "Four years later, the company had become one of the fastest-growing AI startups and was acquired by Elon Musk's SpaceX for $60 billion — the largest sum ever paid for an AI productivity tool, according to analysts. Forbes estimates Truell's own net worth at about $1.3 billion.",
+              "Hours after the deal was announced, Truell took the stage at the company's first-ever developer conference and said: \"We look forward to working closely with the SpaceX team to advance our frontier AI capabilities.\""
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/article/who-is-michael-truell-cursor-ceo-spacex-acquisition/"
+          },
+          {
+            "kicker": "SUCCESS STORIES",
+            "headline": "Michael Dell's Son Built a $13 Billion Business Before Turning 30",
+            "subhead": "Zach Dell stepped out of his father's shadow to build his own energy company, Base Power",
+            "body": [
+              "Zach Dell, son of Dell Technologies founder Michael Dell, isn't yet 30 — and his company Base Power is already valued at $13 billion. With co-founder Justin Lopas, he built Texas's first retail electricity provider to bundle a home battery, energy service and installation into one package.",
+              "In three years, the company went from installing one battery system a day to more than 100, with over 30,000 customers and counting. Dell describes Base Power's model as energy on subscription — \"like a Costco membership,\" except instead of bulk goods, customers are buying grid reliability.",
+              "Base Power is a bet that distributed batteries in garages and basements can relieve a strained U.S. power grid faster than building new large-scale power plants."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/06/michael-dell-son-built-home-battery-business/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "COLLABORATIONS",
+            "headline": "V. Chapman and Kristopher Brock Launch the Amapola Amor Capsule",
+            "subhead": "A 26-piece collection inspired by the Andalusian coast and the symbolism of the red poppy",
+            "byline": "The Trend Times",
+            "body": [
+              "V. Chapman founder Victoria Salisbury and designer Kristopher Brock unveiled Amapola Amor on August 5 — a 26-piece Fall/Winter 2026 capsule inspired by the sun-washed Andalusian coast and the emotional symbolism of the red poppy.",
+              "The collection includes poppy-print dresses, occasion pieces, denim, knitwear, outerwear and jewelry, blending V. Chapman's signature corsetry with Brock's romantic, texture-driven aesthetic.",
+              "The full line is available at vchapmanstudio.com, with select pieces also sold at Anthropologie."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-scoops/kristopher-brock-v-chapman-collaboration-1239078509/"
+          },
+          {
+            "kicker": "CAPSULES",
+            "headline": "Collette Dinnigan Launches a Cashmere Capsule With Saint James",
+            "subhead": "The Australian designer reimagines the French sailor stripe in luxury cashmere",
+            "body": [
+              "Australian designer Collette Dinnigan has teamed up with French maritime house Saint James, whose heritage spans more than 140 years, on a capsule of four styles, each offered in two colorways, made entirely from cashmere.",
+              "Saint James's classic striped shirt gets a looser, more indulgent cut: the capsule includes round-neck and V-neck sweaters, pants and hoodies — pieces meant to work equally well on the couch or on the road.",
+              "The collection pairs Saint James's nautical heritage with Dinnigan's signature coastal glamour and launches in late August."
+            ],
+            "source": "Marie Claire Australia",
+            "url": "https://www.marieclaire.com.au/fashion/fashion-news/fashion-beauty-lifestyle-news-august-2026/"
+          },
+          {
+            "kicker": "CAMPAIGNS",
+            "headline": "Tommy Hilfiger Taps Romeo Beckham for Its Fall Denim Campaign",
+            "subhead": "The Always Denim shoot was staged at New York's The Mark hotel",
+            "body": [
+              "Tommy Hilfiger named Romeo Beckham — model, former footballer, and son of David and Victoria Beckham — the face of its 2026 Always Denim fall campaign. He's joined by Dutch model Yasmin Wijnaldum and a cast of emerging creatives.",
+              "The campaign is set at New York's The Mark hotel, with rooftop gatherings, downtown outings and everyday moments meant to showcase denim's versatility. The collection features updated fits, including the relaxed Theo and straight-leg Dover for men, and the high-rise Sarah and low-rise Daisy for women.",
+              "The campaign is built around the idea that a great pair of jeans never really goes out of style — what the brand calls \"Classic American Cool.\""
+            ],
+            "source": "The Impression",
+            "url": "https://theimpression.com/tommy-hilfiger-taps-romeo-beckham-for-denim-campaign/"
+          },
+          {
+            "kicker": "FASHION WEEKS",
+            "headline": "Copenhagen Fashion Week Unveils Its SS27 Lineup",
+            "subhead": "Collina Strada becomes the first brand to hold the week's new International Guest Slot",
+            "body": [
+              "Copenhagen Fashion Week ran August 3-7 with 36 shows and presentations. For the first time, the week introduced an International Guest Slot — a special spot for an invited foreign label — which went this season to New York brand Collina Strada.",
+              "The lineup includes CPHFW regulars such as By Malene Birger, Stine Goya, Mfpen, Alectra Rothschild/Masculina and Marimekko, alongside debut brands Almada Label and Yours Truly by Peter Jensen.",
+              "Swedish label Studio Constance became the first Swedish brand admitted to the CPHFW NewTalent program, while Sson, René and Taus received the week's One To Watch recognition."
+            ],
+            "source": "FashionNetwork",
+            "url": "https://uk.fashionnetwork.com/news/Copenhagen-fashion-week-unveils-ss27-line-up,1836754.html"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "RELEASE",
+            "headline": "Rod Wave Drops His Seventh Studio Album, Don't Look Down",
+            "subhead": "24 tracks hit streaming overnight on August 28",
+            "byline": "The Trend Times",
+            "body": [
+              "Rod Wave released Don't Look Down via Alamo Records — his first full-length album since 2024's Last Lap, which peaked at No. 2 on the Billboard 200 and marked his fifth consecutive top-3 album on the chart.",
+              "The digital edition runs 24 tracks, while the vinyl and CD editions are trimmed to 20. The release came alongside a music video for the single \"Mainstay,\" featuring Luv Von.",
+              "The album continues Rod Wave's run atop the R&B/Hip-Hop Albums chart, where his previous projects have consistently debuted at No. 1."
+            ],
+            "source": "Billboard",
+            "url": "https://www.billboard.com/music/rb-hip-hop/rod-wave-dont-look-down-album-release-date-trailer-1236274751/"
+          },
+          {
+            "kicker": "COLLABORATIONS",
+            "headline": "Erykah Badu and The Alchemist Release a Joint Album",
+            "subhead": "Before The World Blows: The Abi and Alan Experiment was recorded over 18 months between Dallas and L.A.",
+            "body": [
+              "Erykah Badu and producer The Alchemist released their joint album Before The World Blows: The Abi and Alan Experiment on August 28 — its title riffing on the nicknames they use for each other, \"Abi\" and \"Alan.\" The 17-track record took a year and a half to make.",
+              "Guests include Earl Sweatshirt, Thundercat, Westside Gunn, Steve Lacy and Kamasi Washington. The album is described as a collision of two singular creative voices — hypnotic, blunt and deeply personal.",
+              "Across the record, Badu weighs which parts of our stories — love, innocence, dreams, memory, womanhood — are worth holding onto \"before the world breaks apart.\""
+            ],
+            "source": "HipHop-N-More",
+            "url": "https://hiphop-n-more.com/2026/08/erykah-badu-alchemist-new-album-before-the-world-blows-listen/"
+          },
+          {
+            "kicker": "NEW YORK",
+            "headline": "Fat Joe Returns to His Roots With Organized Rhyme",
+            "subhead": "12 tracks featuring Jadakiss, Pusha T and Remy Ma, produced by Cool & Dre",
+            "body": [
+              "Bronx rap legend Fat Joe released Organized Rhyme on August 28 — a 12-track album of gritty lyricism and New York storytelling produced by Grammy winners Cool & Dre. The title plays on the phrase \"organized crime.\"",
+              "The record features Jadakiss, Pusha T, Remy Ma, Yung Miami, CeeLo Green, Stove God Cooks and Steven Mackie. Fat Joe previewed the album at a listening party at Roc Nation's offices before its official release.",
+              "The album marks a return to the dense, lyric-driven sound that defined the start of his career."
+            ],
+            "source": "HipHop-N-More",
+            "url": "https://hiphop-n-more.com/2026/08/fat-joe-releases-new-album-organized-rhyme-stream/"
+          },
+          {
+            "kicker": "RUSSIA",
+            "headline": "Basta and Guf Premiere Their Second Joint Album at Luzhniki",
+            "subhead": "\"Basta/Guf 2026\" follows up their 2010 collaborative record",
+            "body": [
+              "On August 28, Basta and Guf held the premiere of their new joint album, \"Basta/Guf 2026,\" at Moscow's Luzhniki Stadium — the pair's second collaborative record following their 2010 release.",
+              "The album is framed as a continuation of the two rappers' long friendship, drawing on their shared history in Russian rap while pushing into new sonic territory.",
+              "The premiere at one of the country's largest venues was one of the biggest moments of late August for the Russian hip-hop scene."
+            ],
+            "source": "Kommersant",
+            "url": "https://www.kommersant.ru/doc/8606292"
+          },
+          {
+            "kicker": "LONDON",
+            "headline": "i61 Releases Fog, a Mini-Album About Moving to London",
+            "subhead": "Nine tracks blending experimental hip-hop with the sound of the new British wave",
+            "body": [
+              "Rapper, artist and producer i61 (Fyodor Oralov), founder of the Dopeclvb collective, released the mini-album Fog on August 28 — nine tracks he calls a \"foggy mini-adventure in a new location.\"",
+              "The record followed i61's move to London: he describes it as an attempt to turn the city's neighborhoods, cold architecture and nightlife into a personal musical manifesto at the crossroads of experimental hip-hop and electronic music. Longtime collaborator Kaguya handled production.",
+              "Fog is i61's latest concept release, following his Shelby tetralogy and collaborations with Boulevard Depo and Pharaoh."
+            ],
+            "source": "MenToday",
+            "url": "https://www.mentoday.ru/entertainment/music/interpol-i61-i-bato-daidjest-muzykalnyh-relizov-21-28-avgusta/"
+          }
+        ]
+      }
+    ]
+  }
+}

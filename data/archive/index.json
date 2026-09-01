@@ -10,5 +10,17 @@
       "ru": "20 материалов",
       "en": "20 articles"
     }
+  },
+  {
+    "date": "2026-08-31",
+    "number": 2,
+    "headline": {
+      "ru": "OpenAI разрывает контракт с Cursor после его покупки SpaceX",
+      "en": "OpenAI Cuts Off Cursor After Its $60 Billion Sale to SpaceX"
+    },
+    "count": {
+      "ru": "20 материалов",
+      "en": "20 articles"
+    }
   }
 ]
