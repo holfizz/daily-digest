@@ -1,0 +1,586 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-01",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 3
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "РАУНДЫ",
+            "headline": "DeepSeek привлекает $7,4 млрд перед IPO в Шанхае",
+            "subhead": "Tencent и CATL готовы войти в крупнейший раунд китайского ИИ-стартапа перед выходом на биржу в 2027 году",
+            "byline": "The Trend Times",
+            "body": [
+              "DeepSeek близка к закрытию раунда примерно на 50 млрд юаней ($7,4 млрд) при дооценке компании в районе $74 млрд, сообщают источники China Money Network. Закрытие сделки ожидается до конца августа.",
+              "Среди потенциальных инвесторов — технологический гигант Tencent, который может вложить около 10 млрд юаней, и производитель батарей CATL с потенциальным чеком в 5 млрд юаней. В переговорах также участвуют NetEase, JD.com, IDG Capital, Monolith Capital и государственные инвестфонды Китая.",
+              "Раунд должен стать промежуточным шагом перед возможной подачей заявки на IPO на шанхайской площадке STAR Market — размещение может состояться уже в 2027 году. DeepSeek, ставшая символом прорыва китайского открытого ИИ в начале 2025 года, впервые открыто готовится к выходу на публичный рынок."
+            ],
+            "source": "China Money Network",
+            "url": "https://www.chinamoneynetwork.com/2026/08/29/deepseek-nears-7-4-billion-funding-round-at-74-billion-valuation-ahead-of-2027-ipo"
+          },
+          {
+            "kicker": "ФИЗИЧЕСКИЙ ИИ",
+            "headline": "General Intuition утроила оценку до $6 млрд за два месяца",
+            "subhead": "Valor Equity Partners и Point72 вложились в модели, обученные на видеозаписях компьютерных игр",
+            "body": [
+              "Нью-йоркский стартап General Intuition приближается к раунду с дооценкой в $6 млрд — это почти втрое больше $2,3 млрд, которые компания получила всего восемь недель назад. Среди новых инвесторов — Valor Equity Partners, Point72 Ventures и Seven Seven Six, к ним присоединяются действующие акционеры Khosla Ventures и General Catalyst.",
+              "Компания, основанная Пимом де Виттом, обучает так называемые «мировые модели» на сотнях миллионов часов игрового видео, чтобы создавать ИИ-агентов, способных ориентироваться в сложных пространственно-временных средах. Новые деньги пойдут на перенос этих моделей в роботизированные тела с использованием вычислительных мощностей CoreWeave.",
+              "Для Valor Equity Partners, известной вложениями в аэрокосмическую отрасль и оборону, это первая инвестиция в ИИ-лабораторию со времён участия в SpaceX — сигнал того, что институциональный капитал разворачивается в сторону ИИ, интегрированного с «железом»."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+          },
+          {
+            "kicker": "ВНЕДРЕНИЕ",
+            "headline": "Caterpillar переносит опыт беспилотных карьерных самосвалов на корпоративный ИИ",
+            "subhead": "Компания вложит $100 млн в обучение 118 000 сотрудников работе с ИИ и автономными системами",
+            "body": [
+              "Промышленный гигант Caterpillar использует десятилетия опыта автоматизации карьерных грузовиков для масштабного внедрения ИИ по всей компании. По словам технического директора Джейми Минеарт в разговоре с TechCrunch, главная сложность — не в самих моделях, а во встраивании технологии в реальные рабочие процессы на площадках заказчиков.",
+              "Компания управляет около 1,6 млн подключённых устройств, которые генерируют более 16 петабайт структурированных данных, и планирует потратить $100 млн за пять лет на обучение 118 000 сотрудников работе с ИИ, автономностью и робототехникой.",
+              "Среди практических применений — голосовой ассистент Cat AI Assistant, который позволяет полевым техникам получать инструкции по ремонту и диагностике голосовыми командами, а также ИИ-агенты для модернизации устаревшего кода и создания цифровых двойников производственных площадок."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "РЕКЛАМА",
+            "headline": "ChatGPT начал показывать рекламу в 31 стране Европы",
+            "subhead": "Спустя полгода после запуска в США OpenAI выводит рекламный бизнес на европейский рынок",
+            "byline": "The Trend Times",
+            "body": [
+              "OpenAI начала показ рекламы в ChatGPT в 31 стране Европы с 24 августа — спустя полгода после старта тестирования рекламной модели в США. Теперь ChatGPT Ads доступна в 35 странах мира.",
+              "Первое время рекламодатели смогут покупать размещение через команду OpenAI Ads Solutions, агентства-партнёры и технологических партнёров; самостоятельный доступ через Ads Manager обещают открыть позже этим летом. Рекламу увидят только пользователи бесплатного и базового платного тарифов.",
+              "Платформа поддерживает закупку по модели CPM и CPC с оптимизацией под конверсии, геотаргетинг и кастомные аудитории; для измерения результатов используются OpenAI Pixel, Conversions API и интеграции со сторонними системами аналитики. Компания также адаптировала политику конфиденциальности под требования GDPR."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/chatgpt-ads-are-expanding-to-31-european-countries-485468"
+          },
+          {
+            "kicker": "ИИ В РЕКЛАМЕ",
+            "headline": "Google начнёт переразмечать видеоролики Performance Max с помощью ИИ",
+            "subhead": "У рекламодателей есть время до 4 сентября, чтобы отказаться от автоматической генерации форматов",
+            "body": [
+              "Google Ads переходит на генеративный ИИ для автоматического создания недостающих форматов видеообъявлений в кампаниях Performance Max. Система сканирует уже запущенные кампании на предмет отсутствующих соотношений сторон — например, вертикального 9:16 или квадратного 1:1 — и достраивает их из горизонтальных роликов 16:9.",
+              "Изменение затронет не только новые загрузки, но и уже одобренные и согласованные ролики — то есть творческие материалы, которые бренд уже утвердил, будут переработаны моделью без дополнительного согласования.",
+              "Рекламодатели, которые не хотят такой автоматической обработки, могут отказаться через менеджера аккаунта или форму отказа Google до 4 сентября; настройки видео также можно изменить в любой момент в интерфейсе Google Ads. Специалисты предупреждают о рисках для роликов с логотипами, текстовыми плашками или юридическими примечаниями у края кадра."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-ads-will-use-generative-ai-to-resize-performance-max-video-ads-485252"
+          },
+          {
+            "kicker": "НОВЫЕ ФОРМАТЫ",
+            "headline": "Time показывает рекламу, которую видят только ИИ-боты",
+            "subhead": "Издание тестирует отдельную версию сайта с проплаченными «ответами» для ChatGPT, Claude и Perplexity",
+            "body": [
+              "Журнал Time запустил отдельную, markdown-версию своего сайта, которую получают ИИ-краулеры вроде ClaudeBot, OAI-SearchBot и PerplexityBot — в отличие от обычных пользователей и поисковых роботов Google, которым отдаётся стандартная HTML-версия. Именно в этой версии размещена нативная реклама банка Ally и некоммерческой организации Project Management Institute.",
+              "Формат разительно отличается от привычной рекламы: вместо слогана — подборка «фактов» о банке в виде вопросов и ответов, похожих на те, что пользователи могли бы задать ИИ-ассистенту («хорош ли Ally для повседневных операций», «можно ли внести наличные на счёт Ally»). Расчёт в том, что языковые модели воспримут эти тексты как достоверный источник и будут пересказывать их пользователям без пометки о рекламном характере.",
+              "Time начала переводить страницы в ИИ-дружественный формат ещё в июне в партнёрстве с рекламной платформой Mobian. Появление первых рекламодателей уже вызвало дискуссию в индустрии о безопасности бренда и о том, где проходит граница между редакционным контентом и рекламой, если её не видит ни один человек."
+            ],
+            "source": "The Register",
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "IPO",
+            "headline": "Anthropic готовится к IPO с оценкой в $2 трлн",
+            "subhead": "Размещение может стать крупнейшим в истории и пройти уже в октябре",
+            "byline": "The Trend Times",
+            "body": [
+              "Инвесторы Anthropic рассчитывают на выход компании на биржу в октябре с оценкой около $2 трлн или выше — это сделало бы IPO крупнейшим в истории, обойдя предыдущие рекорды, пишет Fortune со ссылкой на источники. Компания подала конфиденциальную предварительную заявку S-1 в Комиссию по ценным бумагам и биржам США ещё 1 июня.",
+              "По данным собеседников издания, около полудюжины инвесторов Anthropic ожидают, что годовая выручка компании к концу года составит от $100 до $120 млрд. Официального решения о цене размещения, числе акций или точной дате листинга компания пока не приняла — сроки будут зависеть от рыночной конъюнктуры.",
+              "CNBC со ссылкой на источники сообщает, что в проспекте эмиссии компания намерена прямо указать «бэклэш против ИИ» как один из факторов риска — редкое для технологического сектора признание того, что общественное недоверие к ИИ может ударить по бизнесу."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/"
+          },
+          {
+            "kicker": "ДАТА-ЦЕНТРЫ",
+            "headline": "Firmus привлекла $2 млрд на ИИ-фабрики в Азиатско-Тихоокеанском регионе",
+            "subhead": "Nvidia, Blackstone и Coatue удвоили оценку бывшего майнера биткоина до $10,5 млрд",
+            "body": [
+              "Австралийская Firmus, оператор дата-центров для ИИ, закрыла раунд на $2 млрд при участии Coatue Management, Nvidia, нескольких фондов Blackstone и Jane Street. Coatue и Nvidia уже вкладывались в компанию ранее, а структуры Blackstone Tactical Opportunities и Jane Street выступили новыми инвесторами.",
+              "Раунд довёл общий объём нового капитала, привлечённого Firmus за последний год, до более чем $3 млрд, а её оценку — до $10,5 млрд, что почти вдвое больше $5,5 млрд, зафиксированных в апрельском раунде.",
+              "Компания, начинавшая как майнер биткоина, строит «ИИ-фабрики» на основе эталонной архитектуры Nvidia DSX и обладает собственным производством в Австралии для платформы HyperCube. Новые деньги пойдут на расширение проекта Southgate в Австралии и выход на другие рынки Азиатско-Тихоокеанского региона."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia"
+          },
+          {
+            "kicker": "ПЕРЕГОВОРЫ",
+            "headline": "Cognition ведёт переговоры о раунде с оценкой в $40 млрд",
+            "subhead": "Оценка разработчика ИИ-агента для программирования Devin может вырасти более чем на 50%",
+            "body": [
+              "Cognition AI, создатель автономного ИИ-агента для написания кода Devin, ведёт ранние переговоры с инвесторами о новом раунде финансирования, который может поднять оценку компании более чем на 50% — до как минимум $40 млрд, сообщает Bloomberg со ссылкой на источники, знакомые с ходом переговоров.",
+              "Компания, основанная в 2023 году, быстро выросла на фоне спроса корпораций на инструменты для автоматизации разработки ПО — на фоне общего бума ИИ-агентов для кодинга, конкурирующих с продуктами вроде Cursor и GitHub Copilot.",
+              "Условия сделки, включая состав инвесторов и точный размер раунда, ещё обсуждаются и могут измениться, отмечают источники издания."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-12/ai-startup-cognition-in-new-funding-talks-at-40-billion-value"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "ОСНОВАТЕЛИ",
+            "headline": "Основатель General Intuition начинал с крупнейшего приватного сервера Runescape",
+            "subhead": "Пим де Витт прошёл путь от геймдиректора школьных лет до ИИ-лаборатории с оценкой $6 млрд",
+            "byline": "The Trend Times",
+            "body": [
+              "В 14 лет нидерландец Пим де Витт запустил и администрировал крупнейший приватный сервер Runescape — опыт реверс-инжиниринга игр определил всю его дальнейшую карьеру. Заработанные тогда деньги он направил на поддержку гуманитарной работы «Врачей без границ», в том числе на создание краудсорсингового картографического инструмента MapSwipe в разгар эпидемии Эбола.",
+              "Позже де Витт основал Medal — крупнейшую платформу для записи и обмена игровыми моментами с примерно 10 млн активных пользователей в месяц, — а также ИИ-ассистента Highlight. В General Intuition, основанной в 2025 году, он применил тот же интерес к видеоиграм иначе: компания обучает «мировые модели» на сотнях миллионов часов игрового видео, чтобы научить ИИ-агентов ориентироваться в пространстве и времени.",
+              "Всего за несколько месяцев компания де Витта прошла путь от посевного раунда на $133,7 млн до переговоров о дооценке в $6 млрд — с инвесторами уровня Valor Equity Partners и Point72, ранее делавшими ставки на SpaceX."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+          },
+          {
+            "kicker": "СОВЕТЫ ОСНОВАТЕЛЯМ",
+            "headline": "CEO DoorDash признался, что недооценивал компанию на $87 млрд",
+            "subhead": "Тони Сюй советует предпринимателям мыслить «жадным алгоритмом» и не занижать амбиции",
+            "body": [
+              "Сооснователь и CEO DoorDash Тони Сюй рассказал в подкасте Uncapped with Jack Altman, что на старте оценивал потенциальную выручку компании всего в $100 млн в год — и был не прав на порядки. DoorDash достиг этой планки уже в 2018 году, а в первом квартале 2026-го выручка сервиса составила $4 млрд — в 40 раз больше изначального прогноза за один квартал.",
+              "Сюй призывает начинающих предпринимателей действовать по принципу «жадного алгоритма» — то есть на каждом шаге выбирать вариант с максимальным потенциалом роста, а не ограничивать себя консервативными сценариями.",
+              "Компания, оценённая сейчас в $87 млрд, выросла из сервиса доставки еды в одну из крупнейших логистических платформ США — во многом благодаря тому, что её основатели с самого начала отказывались мыслить малыми масштабами."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/04/doordash-ceo-tony-xu-once-thought-87-billion-company-only-make-100-million-tells-founders-be-greedy-dream-bigger/"
+          },
+          {
+            "kicker": "ВТОРОЙ ЗАХОД",
+            "headline": "Основатель Chroma запускает энергетический стартап для дата-центров ИИ",
+            "subhead": "Антон Тройников попал в список Forbes Next Billion-Dollar Startups с проектом American Terawatt",
+            "body": [
+              "Антон Тройников, ранее основавший векторную базу данных Chroma — инструмент, который ИИ-модели используют для хранения памяти, — переключился на инфраструктуру для энергоснабжения дата-центров. Его новая компания American Terawatt вошла в ежегодный список Forbes «Следующие стартапы на миллиард долларов» 2026 года.",
+              "American Terawatt, базирующаяся в Сан-Франциско, строит сети постоянного тока для прямого соединения дата-центров с источниками энергии — по расчётам компании, это должно избавить от потерь, возникающих при преобразовании переменного тока в постоянный. Компания уже привлекла $52 млн собственного капитала при оценке в $350 млн.",
+              "Переход от разработки инструментов для ИИ-моделей к решению проблемы энергоснабжения самих ИИ-дата-центров отражает более широкий тренд: по мере того как индустрия упирается в физические ограничения энергосетей, всё больше основателей ИИ-стартапов переключаются на инфраструктурные задачи."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/richardnieva/2026/07/28/next-billion-dollar-startups-2026/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "УХОД",
+            "headline": "Иб Камара покидает Off-White спустя четыре года",
+            "subhead": "Дом расстаётся с креативным директором без объявления преемника и показа на новый сезон",
+            "byline": "The Trend Times",
+            "body": [
+              "Off-White официально объявил 31 августа о расставании с креативным директором Ибом Камарой после четырёх лет совместной работы. Компания охарактеризовала уход как полностью взаимное решение; преемник пока не назван, показ на предстоящий сезон в календаре бренда отсутствует.",
+              "Камара возглавил креативное направление Off-White в 2022 году, сменив на этом посту основателя дома Вирджила Абло после его смерти. Последний показ под руководством Камары состоялся в марте 2026 года.",
+              "Незадолго до объявления об уходе Off-White запустил годовой проект «10×10: Off-White Icons Reimagined» — десять приглашённых креативных авторов получат по одной культовой товарной категории из архива бренда для переосмысления; инициатива продлится до апреля 2027 года."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/off-white-creative-director-ib-kamara-exit-1239173495/"
+          },
+          {
+            "kicker": "КАПСУЛЫ",
+            "headline": "Bandolier и Кейт Бартон вывели подиумную капсулу чехлов в розницу",
+            "subhead": "Три модели, впервые показанные на Неделе моды в Нью-Йорке, поступили в открытую продажу",
+            "body": [
+              "Bandolier, бренд, стоявший у истоков люксовых чехлов-кроссбоди для телефонов, впервые сделал доступной широкой публике капсулу, созданную совместно с дизайнером Кейт Бартон. Коллекция дебютировала на подиуме её показа весна-лето 2026 на Неделе моды в Нью-Йорке ещё в сентябре 2025 года, а теперь продаётся эксклюзивно на сайтах бренда и дизайнера.",
+              "В капсулу вошли три модели: Goldie, отсылающая к вирусной сумке-«золотой рыбке» Бартон, Charlie — переосмысление декора с бусинами на её мини-платье Tessa Bubble, и Kaia — трансформируемый кошелёк, созданный на основе одной из скульптурных брошей дизайнера.",
+              "Коллаборация объединяет скульптурный язык дизайна Бартон с фирменной функциональностью Bandolier «руки свободны» — аксессуары дополняли на подиуме вещи с эффектом обмана зрения, объёмными принтами и деформированными силуэтами."
+            ],
+            "source": "PRNewswire",
+            "url": "https://www.prnewswire.com/news-releases/bandolier--kate-barton-launch-limited-edition-collection-first-previewed-on-the-kate-barton-nyfw-springsummer-2026-runway-302841743.html"
+          },
+          {
+            "kicker": "КОЛЛАБОРАЦИИ",
+            "headline": "Алана Хадид выпустила первые в жизни кроссовки — с копенгагенским ARKK",
+            "subhead": "Партию из 120 пар ярко-розовых кед представили на Неделе моды в Копенгагене",
+            "body": [
+              "Алана Хадид представила свою первую в карьере коллаборацию в области обуви — с датским брендом ARKK Copenhagen. Дебют состоялся 3 августа во время Недели моды в Копенгагене на закрытом ужине для редакторов, креативных директоров и друзей обеих сторон.",
+              "Хадид переосмыслила фирменную модель бренда Forma Runner в ярко-розовом цвете — верх из сетки и веганской кожи на подошве из EVA. Тираж ограничен 120 парами.",
+              "«Я никогда не находила кроссовочный бренд, который был бы настолько моим, — рассказала Хадид. — Это одновременно андрогинно и с характером, практично и стильно — я могу пойти в них на ужин или в поход». Партнёрство стало логичным продолжением её многолетней привязанности к Копенгагену: с 2023 года, когда её впервые пригласили на местную неделю моды, она возвращается туда каждый сезон."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/footwear-news/sneaker-news/alana-hadid-arkk-copenhagen-sneaker-release-info-1239092162/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "ЧАРТЫ",
+            "headline": "«Don't Look Down» Рода Уэйва претендует на первое место Billboard 200",
+            "subhead": "По прогнозам, альбом соберёт около 102 000 условных единиц за первую неделю",
+            "byline": "The Trend Times",
+            "body": [
+              "Седьмой студийный альбом Рода Уэйва Don't Look Down, вышедший 28 августа на Alamo Records, по прогнозам аналитиков может дебютировать на первом месте Billboard 200 с результатом около 102 000 альбомных единиц за первую неделю.",
+              "Если прогноз подтвердится, это станет для артиста уже четвёртым дебютом на первой строчке чарта — после серии проектов, неизменно занимавших первые места в рейтинге R&B/хип-хоп альбомов.",
+              "Альбом вышел вслед за Last Lap 2024 года, который добрался до второй строчки Billboard 200. Цифровая версия Don't Look Down включает 24 трека."
+            ],
+            "source": "Complex",
+            "url": "https://www.complex.com/music/a/tracewilliamcowen/rod-wave-dont-look-down-projections"
+          },
+          {
+            "kicker": "СИНГЛЫ",
+            "headline": "Ice Spice и Lil Yachty выпустили совместный трек «Out My Face (My Baby)»",
+            "subhead": "Клип на песню вышел 28 августа при участии Gio, Karrahboo и Concrete Boys",
+            "body": [
+              "Ice Spice и Lil Yachty представили 28 августа совместный сингл «Out My Face (My Baby)» на лейбле 10K Projects/Capitol Records вместе с официальным клипом.",
+              "Видео срежиссировали AMD и сам Lil Yachty; помимо основных исполнителей, в кадре появляются Gio, Karrahboo, участники Concrete Boys, Che Mario и другие.",
+              "Релиз стал продолжением активной серии релизов и вирусных моментов Ice Spice в этом году."
+            ],
+            "source": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwmusic/article/ICE-SPICE-Lil-Yachty-Team-Up-for-New-Single-OUT-MY-FACE-MY-BABY-20260828"
+          },
+          {
+            "kicker": "НАГРАЖДЕНИЯ",
+            "headline": "Хип-хоп впервые с 2017 года не попал в номинацию «Артист года» на VMA",
+            "subhead": "Список претендентов на премию 2026 года возглавили Мадонна и Тейлор Свифт",
+            "body": [
+              "В номинациях на MTV Video Music Awards 2026, объявленных 20 августа, впервые с момента появления категории «Артист года» в 2017 году в ней не оказалось ни одного хип-хоп исполнителя. Список претендентов возглавили Мадонна и Тейлор Свифт, за ними — Ариана Гранде, Бруно Марс, Сабрина Карпентер и Морган Уоллен.",
+              "При этом категория «Лучший хип-хоп» получилась насыщенной: в неё вошли Cardi B при участии Kehlani («Safe»), Don Toliver («E85»), Drake («Janice STFU»), Megan Thee Stallion («Lover Girl»), Travis Scott («Dumbo») и Tyler, the Creator («Sugar on My Tongue»).",
+              "Церемония вручения премии пройдёт 27 сентября в Peacock Theater в Лос-Анджелесе с трансляцией на CBS и MTV. Наблюдатели отмечают явный крен номинаций в сторону поп-музыки и артистов с многолетней карьерой."
+            ],
+            "source": "The FADER",
+            "url": "https://www.thefader.com/2026/08/20/vmas-2026-nominations-takeaways"
+          },
+          {
+            "kicker": "РЕКОРДЫ",
+            "headline": "Баста собрал более 210 000 зрителей за три вечера в «Лужниках»",
+            "subhead": "На концертах выступили хоккеист Александр Овечкин и актёр Слава Копейкин",
+            "body": [
+              "Баста стал первым артистом, который выступил в «Лужниках» три вечера подряд и собрал больше 200 000 зрителей: 28, 29 и 30 августа концерты на Большой спортивной арене посетили в общей сложности 211 487 человек, каждый вечер проходил с аншлагом.",
+              "Первый вечер, 28 августа, Баста провёл вместе с Гуфом — в этот день они представили совместный альбом «Баста/Гуф 2026». Во время исполнения трека «Моя игра» к артистам на сцене присоединился хоккеист Александр Овечкин.",
+              "На сольном концерте 29 августа неожиданным гостем стал актёр Слава Копейкин, исполнивший вместе с Бастой трек «Раскачаем Бро». 30 августа Баста завершил трёхдневный марафон сольным выступлением с приглашёнными артистами."
+            ],
+            "source": "Афиша Daily",
+            "url": "https://daily.afisha.ru/news/113018-basta-sobral-bolee-210-tys-zriteley-na-treh-koncertah-v-luzhnikah/"
+          },
+          {
+            "kicker": "РЕЛИЗЫ",
+            "headline": "Thomas Mraz и Yanix выпустили совместный трек «Сколько ещё?»",
+            "subhead": "Песня уже доступна на всех крупных стриминговых площадках",
+            "body": [
+              "Thomas Mraz и московский рэпер Yanix выпустили совместный сингл «Сколько ещё?» — трек уже доступен на Apple Music, Spotify, «Яндекс Музыке», VK Музыке, «Звуке», Deezer и других площадках.",
+              "Релиз стал очередным примером сотрудничества артистов из разных сегментов российской сцены — мелодичного инди-рэпа Мраза и более жёсткого, панчлайн-ориентированного стиля Yanix.",
+              "Трек вышел без предварительных анонсов, в характерной для обоих артистов манере неожиданных релизов."
+            ],
+            "source": "Sobaka.ru",
+            "url": "https://www.sobaka.ru/ufa/entertainment/music/220190"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-01",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 3
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "DeepSeek Raises $7.4 Billion Ahead of a Planned Shanghai IPO",
+            "subhead": "Tencent and CATL are said to be joining the Chinese AI lab's largest round yet before a 2027 listing",
+            "byline": "The Trend Times",
+            "body": [
+              "DeepSeek is closing in on a roughly 50-billion-yuan ($7.4 billion) funding round at a pre-money valuation of about $74 billion, according to China Money Network. The round is expected to close before the end of August.",
+              "Prospective backers include tech giant Tencent, reportedly weighing a commitment of around 10 billion yuan, and battery maker CATL, considering roughly 5 billion yuan. NetEase, JD.com, IDG Capital, Monolith Capital and Chinese state-backed AI funds are also said to be in talks to participate.",
+              "The round is seen as a stepping stone toward a potential listing on Shanghai's STAR Market, with an IPO as early as 2027. DeepSeek, which became a symbol of China's open-source AI breakthrough in early 2025, is now openly positioning itself for a public listing."
+            ],
+            "source": "China Money Network",
+            "url": "https://www.chinamoneynetwork.com/2026/08/29/deepseek-nears-7-4-billion-funding-round-at-74-billion-valuation-ahead-of-2027-ipo"
+          },
+          {
+            "kicker": "PHYSICAL AI",
+            "headline": "General Intuition Triples Its Valuation to $6 Billion in Two Months",
+            "subhead": "Valor Equity Partners and Point72 are backing models trained on video-game footage",
+            "body": [
+              "New York startup General Intuition is closing in on a $6 billion pre-money valuation, nearly triple the $2.3 billion mark it hit just eight weeks ago. New backers Valor Equity Partners, Point72 Ventures and Seven Seven Six are joining existing investors Khosla Ventures and General Catalyst.",
+              "Founded by Pim de Witte, the company trains so-called \"world models\" on hundreds of millions of hours of video-game footage to build AI agents that can navigate complex spatial and temporal environments. The fresh capital will help push those models into robotic bodies using CoreWeave's compute.",
+              "For Valor Equity Partners, known for its aerospace and defense bets, it's the firm's first investment in an AI lab since backing SpaceX — a sign that institutional capital is tilting toward AI tightly coupled with hardware."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+          },
+          {
+            "kicker": "ADOPTION",
+            "headline": "Caterpillar Applies Its Autonomous-Mining Playbook to Enterprise AI",
+            "subhead": "The company is spending $100 million to train 118,000 employees on AI and autonomy",
+            "body": [
+              "Industrial giant Caterpillar is drawing on decades of experience automating mining trucks to roll out AI across the entire company. The real challenge isn't the models themselves, CTO Jaime Mineart told TechCrunch, but weaving the technology into actual workflows on customer job sites.",
+              "The company runs about 1.6 million connected assets that generate more than 16 petabytes of structured data, and plans to spend $100 million over five years training its 118,000 employees on AI, autonomy and robotics.",
+              "Practical applications include the Cat AI Assistant, which lets field technicians pull up repair and troubleshooting instructions with voice commands, along with AI agents used to modernize legacy code and build digital twins of manufacturing sites."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "ADVERTISING",
+            "headline": "ChatGPT Starts Showing Ads in 31 European Countries",
+            "subhead": "Six months after its U.S. debut, OpenAI is taking its ad business international",
+            "byline": "The Trend Times",
+            "body": [
+              "OpenAI began serving ads inside ChatGPT across 31 European markets on August 24, six months after it started testing advertising in the U.S. ChatGPT Ads is now live in 35 countries worldwide.",
+              "Advertisers will initially buy placements through OpenAI's Ads Solutions team, agency partners and technology partners, with self-serve access through Ads Manager promised later this summer. Ads will only appear for users on the Free and Go plans.",
+              "The platform supports CPM and CPC buying with conversion optimization, geo-targeting and custom audiences, measured through the OpenAI Pixel, Conversions API and third-party integrations. OpenAI has also adjusted its privacy policies to meet GDPR requirements."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/chatgpt-ads-are-expanding-to-31-european-countries-485468"
+          },
+          {
+            "kicker": "AI IN ADVERTISING",
+            "headline": "Google Will Use AI to Reformat Performance Max Video Ads",
+            "subhead": "Advertisers have until September 4 to opt out of the automatic resizing",
+            "body": [
+              "Google Ads is turning to generative AI to fill in missing video ad formats in Performance Max campaigns. The system scans live campaigns for missing aspect ratios — such as vertical 9:16 or square 1:1 — and extends horizontal 16:9 footage to fit them.",
+              "The change applies not just to new uploads but to creative that's already been approved and signed off, meaning assets a brand has already cleared can be reworked by the model without a second review.",
+              "Advertisers who don't want the automatic treatment can opt out through their account manager or Google's opt-out form by September 4; video settings can also be changed at any time in the Google Ads interface. Specialists warn of brand-safety risks for videos with logos, burned-in text or legal disclaimers near the edges of the frame."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-ads-will-use-generative-ai-to-resize-performance-max-video-ads-485252"
+          },
+          {
+            "kicker": "NEW FORMATS",
+            "headline": "Time Is Running Ads Only AI Bots Can See",
+            "subhead": "The magazine is testing a separate site version with paid \"answers\" for ChatGPT, Claude and Perplexity",
+            "body": [
+              "Time has launched a separate, Markdown version of its site served specifically to AI crawlers such as ClaudeBot, OAI-SearchBot and PerplexityBot — while human readers and Google's bots still get the standard HTML page. That AI-only version is where Time has placed sponsored content for Ally Bank and the nonprofit Project Management Institute.",
+              "The format looks nothing like a normal ad: instead of a slogan, it's a set of FAQ-style \"facts\" about the bank, phrased like questions a user might actually ask an AI assistant — \"Is Ally good for everyday banking,\" \"Can you deposit cash at Ally Bank.\" The bet is that language models will treat the text as a trustworthy source and repeat it to users with no indication it's sponsored.",
+              "Time began converting its pages into AI-friendly formats back in June through a partnership with adtech platform Mobian. The arrival of its first advertisers has already sparked an industry debate over brand safety and where editorial content ends and advertising begins when no human ever sees the ad."
+            ],
+            "source": "The Register",
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/05/time-magazine-has-a-separate-version-of-its-website-with-ads-only-ai-can-see/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "IPO",
+            "headline": "Anthropic Is Preparing an IPO at a $2 Trillion Valuation",
+            "subhead": "The listing could be the largest in history and could happen as soon as October",
+            "byline": "The Trend Times",
+            "body": [
+              "Anthropic's investors are expecting the company to go public in October at a valuation of around $2 trillion or more, which would make it the largest IPO ever, eclipsing every previous record, Fortune reports, citing sources. The company confidentially filed a draft S-1 registration with the SEC on June 1.",
+              "About half a dozen of Anthropic's backers told the outlet they expect the company's annualized revenue to land between $100 billion and $120 billion by year's end. Anthropic hasn't set a share price, share count or listing date, and has said timing will depend on market conditions.",
+              "CNBC reports, citing sources, that Anthropic's IPO filing will explicitly list \"AI backlash\" as a risk factor — a rare admission from a tech company that public distrust of AI could hurt its business."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/"
+          },
+          {
+            "kicker": "DATA CENTERS",
+            "headline": "Firmus Raises $2 Billion to Expand AI Factories Across Asia-Pacific",
+            "subhead": "Nvidia, Blackstone and Coatue doubled the former bitcoin miner's valuation to $10.5 billion",
+            "body": [
+              "Australian AI data center operator Firmus closed a $2 billion round backed by Coatue Management, Nvidia, several Blackstone vehicles and Jane Street. Coatue and Nvidia had backed the company before; Blackstone Tactical Opportunities and Jane Street are new investors.",
+              "The round brings Firmus's total new capital raised over the past year to more than $3 billion and lifts its valuation to $10.5 billion — nearly double the $5.5 billion it was valued at in an April round.",
+              "The company, which started out as a bitcoin miner, builds \"AI factories\" based on Nvidia's DSX reference architecture and has its own Australian manufacturing line for its HyperCube platform. The new funding will expand its Project Southgate buildout in Australia and support entry into other Asia-Pacific markets."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia"
+          },
+          {
+            "kicker": "TALKS",
+            "headline": "Cognition Is in Talks for a Round at a $40 Billion Valuation",
+            "subhead": "The valuation of the Devin coding-agent maker could rise more than 50%",
+            "body": [
+              "Cognition AI, maker of the autonomous coding agent Devin, is in early talks with investors about a new funding round that could raise its valuation by more than 50%, to at least $40 billion, Bloomberg reports, citing people familiar with the discussions.",
+              "Founded in 2023, the company has grown quickly on corporate demand for tools that automate software development, riding a broader boom in AI coding agents that compete with products like Cursor and GitHub Copilot.",
+              "The terms of the deal, including the investor lineup and the exact size of the round, are still being discussed and could change, the sources said."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-12/ai-startup-cognition-in-new-funding-talks-at-40-billion-value"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FOUNDERS",
+            "headline": "General Intuition's Founder Started With Runescape's Biggest Private Server",
+            "subhead": "Pim de Witte went from a teenage gaming project to a $6 billion AI lab",
+            "byline": "The Trend Times",
+            "body": [
+              "At 14, Dutch entrepreneur Pim de Witte started and ran Runescape's largest private server — the reverse-engineering skills he picked up there shaped his entire career. He put the money he made into supporting humanitarian work for Médecins Sans Frontières, including co-creating the crowdsourced mapping tool MapSwipe at the height of the Ebola crisis.",
+              "He went on to found Medal, the largest platform for capturing and sharing gaming clips, with roughly 10 million monthly active users, and later the AI assistant Highlight. At General Intuition, founded in 2025, he's applying that same fascination with games differently: the company trains \"world models\" on hundreds of millions of hours of video-game footage to teach AI agents to navigate space and time.",
+              "In just a few months, de Witte's company has gone from a $133.7 million seed round to talks over a $6 billion valuation, with backers including Valor Equity Partners and Point72 — both previous SpaceX investors."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
+          },
+          {
+            "kicker": "FOUNDER ADVICE",
+            "headline": "DoorDash's CEO Admits He Underestimated His $87 Billion Company",
+            "subhead": "Tony Xu tells founders to run \"the greedy algorithm\" and stop capping their ambitions",
+            "body": [
+              "DoorDash co-founder and CEO Tony Xu said on the Uncapped with Jack Altman podcast that he once projected the company would generate only about $100 million a year in revenue — off by orders of magnitude. DoorDash hit that mark back in 2018, and its first-quarter 2026 revenue alone reached $4 billion, 40 times his original full-year projection.",
+              "Xu tells early-stage founders to run what he calls \"the greedy algorithm\" — picking the highest-growth option at every step rather than boxing themselves into conservative plans.",
+              "Now valued at $87 billion, DoorDash grew from a food-delivery app into one of the largest logistics platforms in the U.S., Xu says, largely because its founders refused to think small from day one."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/04/doordash-ceo-tony-xu-once-thought-87-billion-company-only-make-100-million-tells-founders-be-greedy-dream-bigger/"
+          },
+          {
+            "kicker": "SECOND ACT",
+            "headline": "Chroma's Founder Is Now Building a Power Grid Startup for AI Data Centers",
+            "subhead": "Anton Troynikov's American Terawatt made Forbes' Next Billion-Dollar Startups list",
+            "body": [
+              "Anton Troynikov, who previously founded the vector database Chroma — a tool AI models use to store memory — has pivoted to power infrastructure for data centers. His new company, American Terawatt, made Forbes' 2026 Next Billion-Dollar Startups list.",
+              "The San Francisco-based startup is building direct-current transmission grids to connect data centers straight to power sources, aiming to eliminate the energy losses that come from converting AC to DC. The company has already raised $52 million in equity at a $350 million valuation.",
+              "The shift from building tools for AI models to solving the power problem behind AI data centers themselves reflects a broader trend: as the industry runs into the physical limits of the grid, more AI founders are turning their attention to infrastructure."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/richardnieva/2026/07/28/next-billion-dollar-startups-2026/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "DEPARTURE",
+            "headline": "Ib Kamara Exits Off-White After Four Years",
+            "subhead": "The house parts ways with its creative director with no successor named and no show on the calendar",
+            "byline": "The Trend Times",
+            "body": [
+              "Off-White confirmed on August 31 that creative director Ib Kamara is leaving after four years, describing the split as entirely mutual. No successor has been named, and there's no runway show scheduled for the coming season.",
+              "Kamara took over Off-White's creative direction in 2022, succeeding house founder Virgil Abloh after his death. His final show for the brand was in March 2026.",
+              "Shortly before announcing Kamara's exit, Off-White launched a year-long project called \"10×10: Off-White Icons Reimagined,\" handing ten invited creatives one iconic product category each from the brand's archive to reinterpret; the initiative runs through April 2027."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/off-white-creative-director-ib-kamara-exit-1239173495/"
+          },
+          {
+            "kicker": "CAPSULES",
+            "headline": "Bandolier and Kate Barton Bring Their Runway Phone Cases to Retail",
+            "subhead": "Three styles first shown at New York Fashion Week are now available to the public",
+            "body": [
+              "Bandolier, the brand credited with pioneering the luxury crossbody phone case, has made its collaboration with designer Kate Barton available to the public for the first time. The capsule first appeared on the runway at Barton's Spring/Summer 2026 New York Fashion Week show back in September 2025, and now sells exclusively through the brand's and designer's own sites.",
+              "The capsule includes three styles: Goldie, referencing Barton's viral Goldfish Bag; Charlie, a reworking of the bead detailing on her Tessa Bubble mini dress; and Kaia, a removable wallet adapted from one of her sculptural brooches.",
+              "The collaboration pairs Barton's sculptural design language with Bandolier's signature hands-free functionality — accessories that, on the runway, accompanied pieces exploring trompe l'oeil, dimensional prints and distorted silhouettes."
+            ],
+            "source": "PRNewswire",
+            "url": "https://www.prnewswire.com/news-releases/bandolier--kate-barton-launch-limited-edition-collection-first-previewed-on-the-kate-barton-nyfw-springsummer-2026-runway-302841743.html"
+          },
+          {
+            "kicker": "COLLABORATIONS",
+            "headline": "Alana Hadid Launches Her First-Ever Sneaker, With Copenhagen's ARKK",
+            "subhead": "A limited run of 120 hot-pink pairs debuted at Copenhagen Fashion Week",
+            "body": [
+              "Alana Hadid unveiled her first-ever footwear collaboration, with Danish brand ARKK Copenhagen. The debut took place on August 3 during Copenhagen Fashion Week at an intimate dinner for editors, creatives and friends of both Hadid and the brand.",
+              "Hadid reworked the brand's signature Forma Runner silhouette in a bright pink colorway, with a mesh and vegan-leather upper on an EVA sole. The run is limited to 120 pairs.",
+              "\"I've never found a sneaker brand that felt so me,\" Hadid said. \"It's androgynous and still has flair, utilitarian and still stylish — I can wear it to a dinner and on a hike.\" The partnership caps a years-long attachment to Copenhagen: since her first invitation to the city's fashion week in 2023, she has returned every season."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/footwear-news/sneaker-news/alana-hadid-arkk-copenhagen-sneaker-release-info-1239092162/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "CHARTS",
+            "headline": "Rod Wave's \"Don't Look Down\" Is Eyeing a No. 1 Billboard 200 Debut",
+            "subhead": "Projections have the album pulling in roughly 102,000 units in its first week",
+            "byline": "The Trend Times",
+            "body": [
+              "Rod Wave's seventh studio album, Don't Look Down, released August 28 on Alamo Records, is projected by industry analysts to debut atop the Billboard 200 with roughly 102,000 equivalent album units in its first week.",
+              "If the projection holds, it would mark the fourth time Rod Wave has debuted at No. 1, continuing a run of projects that have consistently topped the R&B/Hip-Hop Albums chart.",
+              "The album follows 2024's Last Lap, which peaked at No. 2 on the Billboard 200. The digital edition of Don't Look Down runs 24 tracks."
+            ],
+            "source": "Complex",
+            "url": "https://www.complex.com/music/a/tracewilliamcowen/rod-wave-dont-look-down-projections"
+          },
+          {
+            "kicker": "SINGLES",
+            "headline": "Ice Spice and Lil Yachty Team Up on \"Out My Face (My Baby)\"",
+            "subhead": "The video, released August 28, features Gio, Karrahboo and Concrete Boys",
+            "body": [
+              "Ice Spice and Lil Yachty released their joint single \"Out My Face (My Baby)\" on August 28 via 10K Projects/Capitol Records, alongside an official music video.",
+              "The video was directed by AMD and Lil Yachty himself, with appearances from Gio, Karrahboo, members of Concrete Boys, Che Mario and others.",
+              "The release continues Ice Spice's active run of releases and viral moments this year."
+            ],
+            "source": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwmusic/article/ICE-SPICE-Lil-Yachty-Team-Up-for-New-Single-OUT-MY-FACE-MY-BABY-20260828"
+          },
+          {
+            "kicker": "AWARDS",
+            "headline": "Hip-Hop Is Shut Out of VMA Artist of the Year for the First Time Since 2017",
+            "subhead": "Madonna and Taylor Swift lead the nominations for the 2026 ceremony",
+            "body": [
+              "Nominations for the 2026 MTV Video Music Awards, announced August 20, left hip-hop with zero nominees in the Artist of the Year category for the first time since it was introduced in 2017. Madonna and Taylor Swift lead the field, followed by Ariana Grande, Bruno Mars, Sabrina Carpenter and Morgan Wallen.",
+              "The Best Hip-Hop category, by contrast, is stacked: nominees include Cardi B featuring Kehlani (\"Safe\"), Don Toliver (\"E85\"), Drake (\"Janice STFU\"), Megan Thee Stallion (\"Lover Girl\"), Travis Scott (\"Dumbo\") and Tyler, the Creator (\"Sugar on My Tongue\").",
+              "The ceremony airs September 27 from the Peacock Theater in Los Angeles, simulcast on CBS and MTV. Observers have noted the nominations lean heavily toward pop and legacy acts this year."
+            ],
+            "source": "The FADER",
+            "url": "https://www.thefader.com/2026/08/20/vmas-2026-nominations-takeaways"
+          },
+          {
+            "kicker": "RECORDS",
+            "headline": "Basta Draws More Than 210,000 Fans Over Three Nights at Luzhniki",
+            "subhead": "Hockey star Alexander Ovechkin and actor Slava Kopeikin joined him onstage",
+            "body": [
+              "Basta became the first artist to play Luzhniki Stadium three nights in a row and draw more than 200,000 fans: the shows on August 28, 29 and 30 at the Grand Sports Arena drew a combined 211,487 people, with every night sold out.",
+              "The first night, August 28, Basta shared the stage with Guf, marking the premiere of their joint album \"Basta/Guf 2026.\" Hockey star Alexander Ovechkin joined them onstage for the track \"Moya Igra.\"",
+              "At the solo show on August 29, actor Slava Kopeikin made a surprise appearance, performing the track \"Raskachaem Bro\" alongside Basta. On August 30, Basta closed out the three-night run with a solo set featuring additional guest performers."
+            ],
+            "source": "Afisha Daily",
+            "url": "https://daily.afisha.ru/news/113018-basta-sobral-bolee-210-tys-zriteley-na-treh-koncertah-v-luzhnikah/"
+          },
+          {
+            "kicker": "RELEASES",
+            "headline": "Thomas Mraz and Yanix Drop a Joint Single, \"Skolko Yeshcho?\"",
+            "subhead": "The track is now available on all major streaming platforms",
+            "body": [
+              "Thomas Mraz and Moscow rapper Yanix released a joint single, \"Skolko Yeshcho?\" (\"How Much Longer?\"), now streaming on Apple Music, Spotify, Yandex Music, VK Music, Zvuk, Deezer and other platforms.",
+              "The release pairs two different corners of the Russian scene — Mraz's melodic indie-rap sound and Yanix's harder, punchline-driven style.",
+              "The track dropped with no prior announcement, in keeping with both artists' habit of surprise releases."
+            ],
+            "source": "Sobaka.ru",
+            "url": "https://www.sobaka.ru/ufa/entertainment/music/220190"
+          }
+        ]
+      }
+    ]
+  }
+}

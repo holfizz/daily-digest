@@ -22,5 +22,17 @@
       "ru": "20 материалов",
       "en": "20 articles"
     }
+  },
+  {
+    "date": "2026-09-01",
+    "number": 3,
+    "headline": {
+      "ru": "DeepSeek привлекает $7,4 млрд перед IPO в Шанхае",
+      "en": "DeepSeek Raises $7.4 Billion Ahead of a Planned Shanghai IPO"
+    },
+    "count": {
+      "ru": "20 материалов",
+      "en": "20 articles"
+    }
   }
 ]
