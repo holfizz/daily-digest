@@ -34,5 +34,17 @@
       "ru": "20 материалов",
       "en": "20 articles"
     }
+  },
+  {
+    "date": "2026-09-02",
+    "number": 4,
+    "headline": {
+      "ru": "Anthropic заключает сделку на $35 млрд с Lambda ради вычислительных мощностей в Техасе",
+      "en": "Anthropic Strikes $35 Billion Deal With Lambda for Texas Compute"
+    },
+    "count": {
+      "ru": "19 материалов",
+      "en": "19 articles"
+    }
   }
 ]
