@@ -46,5 +46,17 @@
       "ru": "19 материалов",
       "en": "19 articles"
     }
+  },
+  {
+    "date": "2026-09-03",
+    "number": 5,
+    "headline": {
+      "ru": "Новая модель OpenAI Astra впервые пересекла «критический» порог кибербезопасности",
+      "en": "OpenAI's Astra Becomes First Model to Cross the 'Critical' Cybersecurity Threshold"
+    },
+    "count": {
+      "ru": "17 материалов",
+      "en": "17 articles"
+    }
   }
 ]

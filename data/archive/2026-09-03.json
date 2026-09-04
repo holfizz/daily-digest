@@ -1,0 +1,504 @@
+{
+  "ru": {
+    "issue": { "date": "2026-09-03", "edition": "Утренний выпуск", "volume": "Vol. I", "number": 5 },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "КИБЕРБЕЗОПАСНОСТЬ",
+            "headline": "Новая модель OpenAI Astra впервые пересекла «критический» порог кибербезопасности",
+            "subhead": "Компания усилила меры предосторожности после того, как ИИ самостоятельно нашёл две неизвестные уязвимости нулевого дня.",
+            "byline": "The Trend Times",
+            "body": [
+              "Модель OpenAI Astra стала первой в истории компании, чьи возможности в области кибербезопасности были отнесены к уровню «Critical» согласно внутренней системе оценки рисков Preparedness Framework.",
+              "На тестовом наборе ExploitBench, который проверяет способность ИИ превращать известные уязвимости в работающие эксплойты, Astra показала максимальный результат, а в отдельном эксперименте самостоятельно обнаружила две ранее неизвестные уязвимости нулевого дня.",
+              "Согласно правилам OpenAI, такая классификация требует дополнительных мер защиты перед выпуском модели. В компании заявили, что новые защитные механизмы «в достаточной степени минимизируют риск серьёзного вреда», и разрешили релиз Astra."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html"
+          },
+          {
+            "kicker": "МОДЕЛИ",
+            "headline": "Google выпустила Gemini 3.8 Flash — быструю модель с отдельной версией для кибербезопасности",
+            "subhead": "Новая линейка ориентирована на программирование и агентные сценарии, а специализированная версия Cyber — на поиск уязвимостей.",
+            "body": [
+              "Google представила Gemini 3.8 Flash и её специализированную версию Gemini 3.8 Flash Cyber, ориентированную на задачи кибербезопасности.",
+              "По данным компании, инженеры Google в закрытом тестировании чаще предпочитали ответы 3.8 Flash при сложных задачах программирования по сравнению с более крупными моделями конкурентов — из-за низкой задержки, лаконичных ответов и меньшего числа галлюцинаций.",
+              "Команда безопасности Chrome сообщила, что версия Cyber генерирует в 2,6 раза больше корректных патчей для уязвимостей браузера, чем крупнейшие коммерческие модели. Модель доступна разработчикам через Gemini API, бизнесу — через Gemini Enterprise, а пользователям подписок Google AI Pro и Ultra — в приложении Gemini и поиске. Стоимость осталась на уровне предыдущей версии — $0,75 за миллион входных токенов и $3,75 за миллион выходных."
+            ],
+            "source": "Google Blog",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+          },
+          {
+            "kicker": "ПРАВО",
+            "headline": "Администрация Трампа впервые вступилась за ИИ-компанию в суде — на стороне OpenAI против The New York Times",
+            "subhead": "Минюст назвал дело «вопросом национального приоритета» и указал на интересы науки, экономики и безопасности.",
+            "body": [
+              "Министерство юстиции США подало в суд заявление о своей позиции в поддержку защиты OpenAI по принципу добросовестного использования (fair use) в тяжбе с The New York Times — впервые федеральное правительство официально высказалось в череде исков издателей, авторов и лейблов против разработчиков ИИ.",
+              "Документ подан во вторник в суд Южного округа Нью-Йорка, где дело рассматривает судья Сидни Стайн. Позиция администрации: обучение больших языковых моделей на защищённых авторским правом текстах подпадает под добросовестное использование, а ограничение этой практики угрожает научному и экономическому развитию США.",
+              "The New York Times ответила резко: по словам представителя издания Грэма Джеймса, «администрация встаёт на сторону горстки ИИ-компаний с триллионной капитализацией в ущерб бесчисленным американским авторам, чьи работы были украдены»."
+            ],
+            "source": "Deadline",
+            "url": "https://deadline.com/2026/09/new-york-times-justice-department-openai-1237066310/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "РЕКЛАМНЫЕ ПЛАТФОРМЫ",
+            "headline": "Reddit запустил глобальный формат «вовлечённых просмотров» для видеорекламы",
+            "subhead": "Новая метрика засчитывает досмотр ролика длиной от 15 секунд и должна направить бюджеты туда, где зрители действительно вовлечены.",
+            "byline": "The Trend Times",
+            "body": [
+              "Reddit объявил о глобальном публичном бета-запуске формата 15-Second Engaged Video Views — новой цели оптимизации и модели оплаты для видеорекламы.",
+              "Для роликов короче 15 секунд просмотром засчитывается полный досмотр; для более длинных — просмотр не менее 15 секунд. Формат ориентирован на контент, требующий более длительного внимания: трейлеры фильмов и сериалов, демонстрации продуктов, бренд-сторителлинг.",
+              "По данным платформы, на альфа-тестировании рекламодатели зафиксировали рост показателя просмотров на 15 секунд (VTR15) в среднем на 51% и рост завершённых просмотров (VCR) — на 71%. Оплата взимается только за засчитанные вовлечённые просмотры."
+            ],
+            "source": "BestMediaInfo",
+            "url": "https://bestmediainfo.com/interviews/digital/reddit-launches-15-second-engaged-video-views-advertisers-globally-12482146"
+          },
+          {
+            "kicker": "АГЕНТСТВА",
+            "headline": "Publicis забрал у Omnicom глобальный медиабюджет PepsiCo и вышел из тендера Coca-Cola",
+            "subhead": "Решение выглядит показательным на фоне давнего соперничества двух напитковых гигантов.",
+            "body": [
+              "PepsiCo передала Publicis Groupe свой глобальный медиабюджет объёмом около $1,7 млрд, ранее в основном обслуживавшийся Omnicom. Цель пересмотра — объединить стратегию медиапланирования, закупок, данных и технологий на фоне растущей роли ИИ в индустрии.",
+              "После победы в тендере PepsiCo агентство решило выйти из параллельного тендера на глобальный медиабюджет Coca-Cola объёмом около $4 млрд, оставив бороться за него WPP и Omnicom.",
+              "Publicis уже ведёт часть медиа PepsiCo в Азии и Восточной Европе и незадолго до этого выиграла североамериканский медиабюджет Coca-Cola — так что решение выйти из глобального тендера конкурента выглядит осознанным выбором стороны в давнем противостоянии брендов."
+            ],
+            "source": "Adweek",
+            "url": "https://www.adweek.com/agencies/publicis-lands-pepsicos-global-media-business-withdraws-from-coke-pitch/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "РАУНДЫ",
+            "headline": "Lasso Security привлекла $30 млн на «защитников» ИИ-агентов, работающих без видеокарт",
+            "subhead": "Новая технология LEAP обрабатывает запросы менее чем за 5 миллисекунд на обычных процессорах.",
+            "byline": "The Trend Times",
+            "body": [
+              "Раунд на $30 млн возглавил ClearSky, участие приняли Entrée Capital, iAngels, Singtel Innov8, Mindset и Swish Data.",
+              "Компания представила LEAP — новый класс «трансформер-фри» защитных фильтров для ИИ, обеспечивающих точность обнаружения угроз на обычных процессорах без GPU, с задержкой менее 5 миллисекунд и в тысячи раз большей пропускной способностью, чем у существующих решений.",
+              "Продукт Lasso уже развёрнут у клиентов в финансах, страховании, гостиничном бизнесе и автопроме — включая BMW, eToro, Fiverr и Минбезопасности США — и покрывает десятки тысяч ИИ-агентов и миллиарды запросов в месяц. Новые средства пойдут на найм инженеров в Тель-Авиве и Нью-Йорке и расширение продаж в госсекторе."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/09/02/lasso-security-launches-cpu-only-ai-guardrail-raises-30m/"
+          },
+          {
+            "kicker": "РОСТ",
+            "headline": "Японский стартап PeopleX привлёк $34 млн после 17-кратного роста выручки за год",
+            "subhead": "Компания строит ИИ-модель специально для HR-задач и уже работает с более чем 3000 организаций.",
+            "body": [
+              "Токийский стартап PeopleX привлёк ¥5,45 млрд (около $34 млн) в раунде Series A, доведя общий объём финансирования с момента основания в апреле 2024 года до ¥7,82 млрд. Среди инвесторов — En Japan, Angel Bridge, Open Up Group, WiL и One Capital.",
+              "Компания разрабатывает ИИ-продукты для проведения интервью, общения с сотрудниками и ролевых тренировок по продажам, а также собственную языковую модель для HR-задач и платформу MotherAI OS Athena.",
+              "По словам компании, её продуктами уже пользуются более 3000 организаций, а выручка выросла в 17 раз за год при практически нулевом оттоке крупных клиентов."
+            ],
+            "source": "VentureBurn",
+            "url": "https://ventureburn.com/peoplex-raises-34-million-expand-ai-hr-ecosystem-motherai-launch/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Производитель умных колец Oura готовится к IPO с оценкой выше $16 млрд",
+            "subhead": "Это почти на 50% больше прошлогодней оценки компании — на фоне роста выручки и отказа от предложений о поглощении со стороны крупных технологических корпораций.",
+            "body": [
+              "По информации источников, Oura рассматривает возможность IPO в США уже в следующем месяце, планируя привлечь до $3 млрд при оценке компании выше $16 млрд.",
+              "Это заметный скачок по сравнению с оценкой в $10,9 млрд, которую компания получила годом ранее. В компании работает более 900 человек.",
+              "Ранее сооснователь Oura рассказывал, что компания неоднократно отклоняла предложения о поглощении от крупных технологических корпораций, предпочитая развивать партнёрства самостоятельно."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "ОСНОВАТЕЛИ",
+            "headline": "Стартап Aslan вышел из тени с $20,8 млн на ИИ-агентов для спецслужб",
+            "subhead": "Основатели говорят, что их «оперативники» действуют так же, как аналитики ФБР и агенты под прикрытием.",
+            "byline": "The Trend Times",
+            "body": [
+              "Aslan, стартап, создающий ИИ-агентов для миссий национальной безопасности, объявил о публичном запуске после привлечения $20,8 млн. Раунд возглавили Khosla Ventures и XYZ Venture Capital, участие приняли 2048 Ventures, BoxGroup, Liquid2, Alumni Ventures и другие.",
+              "Компанию в 2025 году основали Ансель Т. и Чейз Рид. По словам CEO Чейза Рида, ИИ-агенты Aslan, которые всегда находятся под контролем человека, действуют так же, как аналитики ФБР и агенты под прикрытием, внедряющиеся в Telegram-каналы и форумы даркнета.",
+              "Клиенты Aslan уже использовали агентов компании, чтобы вскрыть сеть контрабанды на границе США и Мексики, раскрыть площадку кибермошенничества, обходившую санкции, и выявить сети передачи технологий, через которые китайское правительство получало доступ к американской ИИ-инфраструктуре."
+            ],
+            "source": "Axios",
+            "url": "https://www.axios.com/2026/09/01/aslan-agentic-ai-national-security-funding"
+          },
+          {
+            "kicker": "УРОКИ",
+            "headline": "31-летний миллионер — поколению Z: «Сейчас пугающе легко разбогатеть»",
+            "subhead": "Предприниматель Тимоти Армо считает нынешний момент величайшей эпохой создания богатства и не жалеет молодёжь, жалующуюся на рынок труда.",
+            "body": [
+              "Тимоти Армо, ставший миллионером ещё до 30 лет, заявил, что не испытывает сочувствия к безработным представителям поколения Z, которые винят в своих трудностях сложный рынок труда и ИИ.",
+              "«Это пугающе легко», — сказал он о создании богатства сегодня, назвав текущий момент «величайшей эпохой создания богатства за всю историю». По его словам, в 2026 году один из самых очевидных путей к успеху — строить небольшие проекты с использованием ИИ.",
+              "По данным LinkedIn, «основатель» — вторая по темпам роста профессия среди поколения Z, а 43% его представителей рассматривают возможность запуска собственного бизнеса в 2026 году — больше, чем в любой другой возрастной группе."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/31/timothy-armoo-millionaire-unemployed-gen-z-ai-scarily-easy-get-rich/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "ДЕБЮТ",
+            "headline": "Питер Мюлье представил первый образ для Versace — на Николь Кидман",
+            "subhead": "Дизайнер официально возглавил дом в июле, но подиумный дебют запланирован лишь на предстоящий сезон.",
+            "byline": "The Trend Times",
+            "body": [
+              "Николь Кидман вышла на красную дорожку лос-анджелесской премьеры фильма «Практическая магия 2» в асимметричном платье Atelier Versace — первой работе Питера Мюлье в качестве креативного директора дома.",
+              "Наряд полностью выполнен в технике ручного интарсия-кружева с глубоким округлым вырезом, отделанным чёрной атласной лентой.",
+              "Мюлье, ранее возглавлявший Alaïa, официально вступил в должность в Versace 1 июля. Перед ним стоит задача вернуть контролируемый Prada Group итальянский дом к росту и актуальности — задолго до того, как он представит свою первую подиумную коллекцию."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-scoops/nicole-kidman-pieter-mulier-atelier-versace-look-debut-1239176955/"
+          },
+          {
+            "kicker": "НЕДЕЛИ МОДЫ",
+            "headline": "Неделя моды в Нью-Йорке пройдёт 10–15 сентября: дебют Хенри Занкова в Diane von Furstenberg и финал от Тома Брауна",
+            "subhead": "В программе — около 70 показов, включая Tommy Hilfiger, Calvin Klein и Carolina Herrera.",
+            "body": [
+              "Неделя моды в Нью-Йорке начнётся 10 сентября дебютным показом Хенри Занкова в качестве креативного директора Diane von Furstenberg и завершится 15 сентября показом Тома Брауна.",
+              "В официальном расписании — около 70 показов признанных американских марок: Calvin Klein Collection, Carolina Herrera, Michael Kors Collection, Khaite, Altuzarra и Tory Burch, а также новое поколение молодых дизайнеров.",
+              "Показы представят коллекции весна–лето 2027 — за неделей моды в Нью-Йорке последуют Лондон (17–21 сентября) и Милан (22–28 сентября)."
+            ],
+            "source": "Haute Living",
+            "url": "https://hauteliving.com/2026/08/new-york-fashion-week-september-2026/793281/"
+          },
+          {
+            "kicker": "ВОЗВРАЩЕНИЕ",
+            "headline": "McQueen и Mulberry возвращаются в расписание Недели моды в Лондоне после долгого перерыва",
+            "subhead": "Шон Макгирр представит первый лондонский показ для McQueen, а Кристофер Кейн — дебютную коллекцию для Mulberry.",
+            "body": [
+              "Неделя моды в Лондоне пройдёт с 17 по 21 сентября. McQueen возвращается в город с показом Шона Макгирра — это будет его первый показ для дома в Лондоне, объединяющий мужскую и женскую коллекции весна–лето 2027.",
+              "«Лондон всегда был сердцем McQueen — в городе есть особая живая энергия, которая пронизывает историю дома и продолжает вдохновлять всё, что мы делаем сегодня», — говорит Макгирр.",
+              "Mulberry вернётся на официальное расписание впервые за шесть лет — с дебютной коллекцией креативного директора Кристофера Кейна, которая поступит в продажу в январе 2027 года."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/london-fashion-week-schedule-mcqueen-mulberry-hm-1239073317/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "French Montana и Max B выпускают совместный диско-альбом «Night To Remember»",
+            "subhead": "Десять треков продолжают серию совместных релизов дуэта под собственным лейблом Coke Boys Records.",
+            "byline": "The Trend Times",
+            "body": [
+              "French Montana и Max B готовят выход альбома «Night To Remember» — десять треков под лейблом Coke Boys Records.",
+              "Пластинка вдохновлена диско-звучанием и сочетает хип-хоп с танцевальными элементами — авторы называют её саундтреком к празднику, ночной жизни и незабываемым моментам.",
+              "Релизу предшествовал сингл «Ever Since U Left Me», ставший одним из самых заметных моментов творческого воссоединения дуэта и представивший их совместную работу новому поколению слушателей."
+            ],
+            "source": "HipHopVibe",
+            "url": "https://hip-hopvibe.com/news/french-montana-and-max-b-to-release-disco-inspired-album-night-to-remember-on-august-21/"
+          },
+          {
+            "kicker": "БРИТАНСКИЙ РЭП",
+            "headline": "Nemzzz выпускает микстейп «Locked In» с участием Lil Yachty",
+            "subhead": "17-трековый проект продолжает успех микстейпа «Rent's Due», вошедшего в топ-10 британских чартов.",
+            "body": [
+              "Британский рэпер Nemzzz представляет новый 17-трековый проект «Locked In» — продолжение своего попадания в топ-10 чартов Великобритании с микстейпом «Rent's Due».",
+              "В числе ключевых треков — «Geekin» при участии Lil Yachty, «Locked In Freestyle», «Killin Em» и «Prince Of The Scene».",
+              "Артист называет альбом новой главой в своём творчестве — одном из самых заметных голосов современного британского рэпа."
+            ],
+            "source": "GRM Daily",
+            "url": "https://grmdaily.com/nemzzz-lil-yachty-geekin/"
+          },
+          {
+            "kicker": "КОНФЛИКТ",
+            "headline": "Участники дуэта «Второй Ка» публично разошлись во мнениях из-за нового трека",
+            "subhead": "Султан Ботобаев заявил, что не давал согласия на релиз песни «Дорогая дальняя».",
+            "body": [
+              "Вокалист дуэта «Второй Ка» Султан Ботобаев публично высказался о конфликте внутри проекта и объяснил, почему отказался участвовать в готовящемся туре: по его словам, в начале лета Илья Семёнов сказал ему, что проект «зашёл в тупик» и что он больше не хочет им заниматься.",
+              "Разногласия касаются не только творческого лидерства, но и практических вопросов — туров, студийных сессий, прав на название, роялти и распределения дохода. Конфликт дошёл до обращений в полицию и допросов.",
+              "На этом фоне Илья пересмотрел распределение долей в проекте, а Султан предложил зафиксировать прежние договорённости о равном разделении 50 на 50."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/news/vtoroi-ka-konflikt-bolshoy-post"
+          },
+          {
+            "kicker": "АНОНС",
+            "headline": "Kai Angel тизерит новый альбом в эстетике Дэвида Линча",
+            "subhead": "Релиз ожидается уже в эту пятницу.",
+            "body": [
+              "Российский рэпер Kai Angel анонсировал новый проект, оформив тизер-кампанию в стилистике Дэвида Линча — с характерными визуальными отсылками и намеренно «неровными» шрифтами на баннерах.",
+              "Название альбома пока не раскрыто, но, по словам артиста, релиз выйдет уже в эту пятницу.",
+              "Это уже не первый релиз Kai Angel в 2026 году — ранее он выпускал другие проекты, продолжая оставаться одним из самых активных артистов российской рэп-сцены."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/kai-angel-albom-2026"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": { "date": "2026-09-03", "edition": "Morning Edition", "volume": "Vol. I", "number": 5 },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "CYBERSECURITY",
+            "headline": "OpenAI's Astra Becomes First Model to Cross the 'Critical' Cybersecurity Threshold",
+            "subhead": "The company tightened safeguards after the model found two previously unknown zero-day vulnerabilities on its own.",
+            "byline": "The Trend Times",
+            "body": [
+              "OpenAI's Astra is the first model in the company's history whose cybersecurity capabilities have been classified as 'Critical' under its internal Preparedness Framework risk system.",
+              "On ExploitBench, a benchmark that measures a model's ability to turn known vulnerabilities into working exploits, Astra scored a perfect result. In a separate evaluation, it independently uncovered two previously unknown zero-day vulnerabilities.",
+              "Under OpenAI's own rules, that classification requires additional safeguards before release. The company said its new protections 'sufficiently minimize the risk of severe harm' and cleared Astra for launch."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html"
+          },
+          {
+            "kicker": "MODELS",
+            "headline": "Google Ships Gemini 3.8 Flash, With a Dedicated Cybersecurity Variant",
+            "subhead": "The new lineup targets coding and agentic workflows, while the specialized Cyber version hunts for vulnerabilities.",
+            "body": [
+              "Google has introduced Gemini 3.8 Flash alongside a specialized version, Gemini 3.8 Flash Cyber, built for cybersecurity tasks.",
+              "In internal blind testing, Google engineers said they preferred 3.8 Flash's answers on complex coding tasks over larger rival models, citing its lower latency, terser output and fewer hallucinations.",
+              "Chrome's security team said the Cyber variant produced 2.6 times more correct patches for browser vulnerabilities than the largest commercial models. The model is available to developers through the Gemini API, to enterprises via Gemini Enterprise, and to Google AI Pro and Ultra subscribers in the Gemini app and Search. Pricing stays at the previous tier — $0.75 per million input tokens and $3.75 per million output tokens."
+            ],
+            "source": "Google Blog",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+          },
+          {
+            "kicker": "LAW",
+            "headline": "Trump Administration Backs OpenAI in Court for the First Time — Against The New York Times",
+            "subhead": "The Justice Department called the case a matter of national priority, citing science, the economy and national security.",
+            "body": [
+              "The U.S. Department of Justice filed a statement of interest backing OpenAI's fair-use defense in its copyright fight with The New York Times — the first time the federal government has formally weighed in on the wave of lawsuits publishers, authors and labels have filed against AI developers.",
+              "The filing landed Tuesday in the Southern District of New York, where the case is before Judge Sidney Stein. The administration's position: training large language models on copyrighted text falls under fair use, and restricting that practice would threaten U.S. scientific and economic progress.",
+              "The Times pushed back hard. 'The Administration is siding with a handful of trillion-dollar AI companies at the expense of the countless American creators whose work they stole,' spokesman Graham James said."
+            ],
+            "source": "Deadline",
+            "url": "https://deadline.com/2026/09/new-york-times-justice-department-openai-1237066310/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "AD PLATFORMS",
+            "headline": "Reddit Rolls Out a Global 'Engaged Views' Format for Video Ads",
+            "subhead": "The new metric only counts a view once a viewer sticks around for at least 15 seconds, aiming budgets at people who are actually paying attention.",
+            "byline": "The Trend Times",
+            "body": [
+              "Reddit announced a global public beta of 15-Second Engaged Video Views, a new optimization goal and billing model for video advertising.",
+              "For ads 15 seconds or shorter, a completed view counts as engaged; for longer ads, a view counts once someone watches for at least 15 seconds. The format targets content that needs sustained attention — film and TV trailers, product demos, brand storytelling.",
+              "Reddit said alpha testers saw a 51% average lift in 15-second view-through rate and a 71% lift in completion rate. Advertisers are billed only for views that clear the engaged threshold."
+            ],
+            "source": "BestMediaInfo",
+            "url": "https://bestmediainfo.com/interviews/digital/reddit-launches-15-second-engaged-video-views-advertisers-globally-12482146"
+          },
+          {
+            "kicker": "AGENCIES",
+            "headline": "Publicis Takes PepsiCo's Global Media Business From Omnicom, Drops Out of the Coca-Cola Pitch",
+            "subhead": "The move is a striking one given the two soda giants' long-running rivalry.",
+            "body": [
+              "PepsiCo has handed its roughly $1.7 billion global media account to Publicis Groupe, taking the bulk of the business away from Omnicom. The review was aimed at unifying media strategy, planning, data and technology across markets as AI reshapes the industry.",
+              "After landing PepsiCo, Publicis withdrew from the parallel pitch for Coca-Cola's roughly $4 billion global media business, leaving WPP and Omnicom to fight it out.",
+              "Publicis already handles part of PepsiCo's media in Asia and Eastern Europe and had recently won Coca-Cola's North American media account — making the decision to bow out of Coke's global review a pointed one, given the brands' longstanding rivalry."
+            ],
+            "source": "Adweek",
+            "url": "https://www.adweek.com/agencies/publicis-lands-pepsicos-global-media-business-withdraws-from-coke-pitch/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "Lasso Security Raises $30 Million for AI Guardrails That Run Without a GPU",
+            "subhead": "Its new LEAP technology processes requests in under 5 milliseconds on ordinary processors.",
+            "byline": "The Trend Times",
+            "body": [
+              "The $30 million round was led by ClearSky, with participation from Entrée Capital, iAngels, Singtel Innov8, Mindset and Swish Data.",
+              "The company unveiled LEAP, a new transformer-free class of AI guardrails that delivers top-tier threat detection on ordinary CPUs — no GPU required — at under five milliseconds per decision and thousands of times the throughput of existing tools.",
+              "Lasso's software is already deployed across financial services, insurance, hospitality and automotive customers — including BMW, eToro, Fiverr and the U.S. Department of Homeland Security — covering tens of thousands of AI agents and billions of requests a month. The new funding will go toward hiring engineers in Tel Aviv and New York and expanding federal and regulated-industry sales."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/09/02/lasso-security-launches-cpu-only-ai-guardrail-raises-30m/"
+          },
+          {
+            "kicker": "GROWTH",
+            "headline": "Japan's PeopleX Raises $34 Million After Revenue Grew 17-Fold in a Year",
+            "subhead": "The startup is building an AI model purpose-built for HR and already counts more than 3,000 client organizations.",
+            "body": [
+              "Tokyo-based PeopleX raised ¥5.45 billion (about $34 million) in a Series A round, bringing its total funding since its April 2024 founding to ¥7.82 billion. Investors include En Japan, Angel Bridge, Open Up Group, WiL and One Capital.",
+              "The company builds AI products for interviews, employee conversations and sales role-play, along with its own HR-focused language model and a platform called MotherAI OS Athena.",
+              "PeopleX says more than 3,000 organizations already use its products, with revenue up 17-fold over the past year and virtually no churn among its largest clients."
+            ],
+            "source": "VentureBurn",
+            "url": "https://ventureburn.com/peoplex-raises-34-million-expand-ai-hr-ecosystem-motherai-launch/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Smart Ring Maker Oura Is Reportedly Eyeing an IPO Above a $16 Billion Valuation",
+            "subhead": "That's nearly 50% above last year's valuation, as revenue climbs and the company keeps turning down acquisition offers from Big Tech.",
+            "body": [
+              "Oura is reportedly considering a U.S. IPO as soon as next month, aiming to raise up to $3 billion at a valuation north of $16 billion, according to people familiar with the matter.",
+              "That would mark a sharp jump from the $10.9 billion valuation the company was assigned just a year earlier. Oura now employs more than 900 people.",
+              "Oura's co-founder has previously said the company has repeatedly turned down acquisition offers from major tech players, preferring to build its own partnerships instead."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FOUNDERS",
+            "headline": "Aslan Comes Out of Stealth With $20.8 Million for National-Security AI Agents",
+            "subhead": "Its founders say their AI 'operatives' work the same way FBI analysts and undercover agents do.",
+            "byline": "The Trend Times",
+            "body": [
+              "Aslan, a startup building AI agents for national-security missions, is publicly launching after raising $20.8 million. The round was led by Khosla Ventures and XYZ Venture Capital, with 2048 Ventures, BoxGroup, Liquid2, Alumni Ventures and others also participating.",
+              "The company was founded in 2025 by Ansel T. and Chase Reid. CEO Chase Reid says Aslan's AI agents, which are always overseen by a human, act the same way FBI analysts and undercover operatives do — infiltrating Telegram channels and dark-web forums.",
+              "Aslan's customers have already used the agents to map a smuggling network on the U.S.-Mexico border, uncover a cyber-fraud marketplace that was evading sanctions, and surface technology-transfer networks that let the Chinese government access U.S. AI infrastructure."
+            ],
+            "source": "Axios",
+            "url": "https://www.axios.com/2026/09/01/aslan-agentic-ai-national-security-funding"
+          },
+          {
+            "kicker": "LESSONS",
+            "headline": "31-Year-Old Millionaire to Gen Z: 'It Is Scarily Easy' to Get Rich Right Now",
+            "subhead": "Entrepreneur Timothy Armoo calls this the greatest era of wealth creation ever — and has little patience for young people blaming the job market.",
+            "body": [
+              "Timothy Armoo, who became a millionaire before turning 30, says he has zero sympathy for unemployed Gen Zers who blame a brutal job market and AI for their struggles.",
+              "'It is scarily easy' to build wealth today, he said, calling this 'the greatest era of wealth creation ever.' In 2026, he argues, one of the most obvious paths to success is building small projects with AI.",
+              "According to LinkedIn, 'founder' is the second-fastest-growing job title among Gen Z, and 43% of the generation is considering starting a business in 2026 — more than any other age group."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/31/timothy-armoo-millionaire-unemployed-gen-z-ai-scarily-easy-get-rich/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "DEBUT",
+            "headline": "Pieter Mulier Shows His First Versace Look — on Nicole Kidman",
+            "subhead": "The designer officially took over the house in July, but his runway debut is still a season away.",
+            "byline": "The Trend Times",
+            "body": [
+              "Nicole Kidman walked the Los Angeles premiere of 'Practical Magic 2' in an asymmetrical Atelier Versace gown — the first look released by Pieter Mulier as the house's creative director.",
+              "The gown was rendered entirely in hand-intarsia lace, with a deep, rounded neckline finished in black satin ribbon.",
+              "Mulier, previously creative director of Alaïa, officially started at Versace on July 1. He faces the task of returning the Prada Group-owned Italian house to growth and relevance — well before he presents his first runway collection."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-scoops/nicole-kidman-pieter-mulier-atelier-versace-look-debut-1239176955/"
+          },
+          {
+            "kicker": "FASHION WEEKS",
+            "headline": "New York Fashion Week Runs September 10–15, With Henry Zankov's DVF Debut and Thom Browne to Close",
+            "subhead": "The lineup includes roughly 70 shows, among them Tommy Hilfiger, Calvin Klein and Carolina Herrera.",
+            "body": [
+              "New York Fashion Week opens September 10 with Henry Zankov's debut as creative director of Diane von Furstenberg, and closes September 15 with Thom Browne.",
+              "The official schedule includes about 70 shows from established American names — Calvin Klein Collection, Carolina Herrera, Michael Kors Collection, Khaite, Altuzarra and Tory Burch — alongside a new generation of emerging designers.",
+              "The shows will present spring/summer 2027 collections, with London (September 17–21) and Milan (September 22–28) to follow."
+            ],
+            "source": "Haute Living",
+            "url": "https://hauteliving.com/2026/08/new-york-fashion-week-september-2026/793281/"
+          },
+          {
+            "kicker": "COMEBACK",
+            "headline": "McQueen and Mulberry Return to London Fashion Week's Schedule After Long Absences",
+            "subhead": "Seán McGirr will present McQueen's first London show, while Christopher Kane debuts his first collection for Mulberry.",
+            "body": [
+              "London Fashion Week runs September 17–21. McQueen returns to the city with a show from Seán McGirr — his first for the house in London, combining men's and women's spring/summer 2027 collections.",
+              "'London has always been at the heart of McQueen; there's a uniquely visceral energy to the city that runs throughout the house's history and continues to inspire everything we do today,' McGirr said.",
+              "Mulberry returns to the official schedule for the first time in six years, with creative director Christopher Kane's debut collection due to hit stores and online in January 2027."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/london-fashion-week-schedule-mcqueen-mulberry-hm-1239073317/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "RELEASE",
+            "headline": "French Montana and Max B Team Up for Disco-Inspired Album 'Night To Remember'",
+            "subhead": "The ten-track project continues the duo's run of collaborative releases on their own Coke Boys Records.",
+            "byline": "The Trend Times",
+            "body": [
+              "French Montana and Max B are set to release 'Night To Remember,' a ten-track album on their Coke Boys Records label.",
+              "The project is disco-inspired, blending hip-hop with dance elements — the pair describe it as a soundtrack to celebration, nightlife and unforgettable moments.",
+              "The album follows the single 'Ever Since U Left Me,' one of the biggest moments of the duo's reunion run and a track that introduced their partnership to a new generation of fans."
+            ],
+            "source": "HipHopVibe",
+            "url": "https://hip-hopvibe.com/news/french-montana-and-max-b-to-release-disco-inspired-album-night-to-remember-on-august-21/"
+          },
+          {
+            "kicker": "UK RAP",
+            "headline": "Nemzzz Drops 'Locked In' Mixtape Featuring Lil Yachty",
+            "subhead": "The 17-track project follows 'Rent's Due,' which cracked the UK Top 10.",
+            "body": [
+              "UK rapper Nemzzz is releasing a new 17-track project, 'Locked In,' following the success of his UK Top 10 mixtape 'Rent's Due.'",
+              "Standout tracks include 'Geekin' featuring Lil Yachty, 'Locked In Freestyle,' 'Killin Em' and 'Prince Of The Scene.'",
+              "Nemzzz calls the album the next chapter for one of UK rap's most exciting current voices."
+            ],
+            "source": "GRM Daily",
+            "url": "https://grmdaily.com/nemzzz-lil-yachty-geekin/"
+          },
+          {
+            "kicker": "FALLOUT",
+            "headline": "Russian Duo Vtoroy Ka Splits Publicly Over a Disputed New Track",
+            "subhead": "Vocalist Sultan Botobayev says he never consented to the release of the song 'Dorogaya Dalnyaya.'",
+            "body": [
+              "Vtoroy Ka vocalist Sultan Botobayev went public about the conflict inside the project and explained why he's sitting out its upcoming tour: he says bandmate Ilya Semyonov told him earlier this summer that the project had 'hit a dead end' and that he no longer wanted to continue it.",
+              "The dispute covers more than creative direction — it touches tours, studio sessions, rights to the name, royalties and how income is split. It has escalated to police complaints and questioning.",
+              "Amid the fallout, Semyonov has moved to revise how the project's shares are split, while Botobayev has proposed formalizing their original 50-50 agreement."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/news/vtoroi-ka-konflikt-bolshoy-post"
+          },
+          {
+            "kicker": "TEASER",
+            "headline": "Kai Angel Teases New Album With a David Lynch-Inspired Rollout",
+            "subhead": "The release is expected as soon as this Friday.",
+            "body": [
+              "Russian rapper Kai Angel has announced a new project, framing the teaser campaign around David Lynch-style visuals and deliberately 'glitchy' typos on the promotional banners.",
+              "The album's title hasn't been revealed yet, but the artist says it's due out this Friday.",
+              "It's not Kai Angel's first release of 2026 — he's already put out other projects this year, keeping up a pace that makes him one of the most active artists on the Russian rap scene."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/kai-angel-albom-2026"
+          }
+        ]
+      }
+    ]
+  }
+}
