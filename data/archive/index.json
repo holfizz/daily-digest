@@ -58,5 +58,17 @@
       "ru": "17 материалов",
       "en": "17 articles"
     }
+  },
+  {
+    "date": "2026-09-04",
+    "number": 6,
+    "headline": {
+      "ru": "Anthropic выпустила Claude Fable 5.1 и Mythos 5.1 — с более дешёвым кэшированием и усиленной защитой",
+      "en": "Anthropic Ships Claude Fable 5.1 and Mythos 5.1, With Cheaper Caching and Tighter Safeguards"
+    },
+    "count": {
+      "ru": "18 материалов",
+      "en": "18 articles"
+    }
   }
 ]

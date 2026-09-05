@@ -1,0 +1,528 @@
+{
+  "ru": {
+    "issue": { "date": "2026-09-04", "edition": "Утренний выпуск", "volume": "Vol. I", "number": 6 },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "МОДЕЛИ",
+            "headline": "Anthropic выпустила Claude Fable 5.1 и Mythos 5.1 — с более дешёвым кэшированием и усиленной защитой",
+            "subhead": "Новая линейка снижает стоимость обращений к кэшу на 75% и предназначена для программирования, кибербезопасности и биологических исследований.",
+            "byline": "The Trend Times",
+            "body": [
+              "Anthropic представила две новые модели на общей архитектуре: Claude Fable 5.1, доступную всем пользователям и ориентированную на программирование и сложную интеллектуальную работу, и Claude Mythos 5.1 — модель с усиленными защитными механизмами для кибербезопасности и наук о жизни, доступную только проверенным организациям.",
+              "По данным компании, Fable 5.1 обходится примерно на 25% дешевле предшественника при типичной нагрузке — в первую очередь за счёт снижения цены обращений к кэшу на 75%. Anthropic заявляет, что новые модели устраняют коренные причины программных ошибок, а не идут на компромиссы, снижающие качество патчей.",
+              "В компании также сообщили, что улучшенные защитные механизмы Mythos 5.1 снизили количество ложных срабатываний при задачах, связанных с кибербезопасностью, на 60% по сравнению с предыдущим поколением."
+            ],
+            "source": "Anthropic",
+            "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+          },
+          {
+            "kicker": "ЗДРАВООХРАНЕНИЕ",
+            "headline": "OpenAI подключила ChatGPT для медицины к системе электронных карт Epic",
+            "subhead": "Интеграция позволяет врачам получать данные пациентов прямо в ChatGPT — без возможности вносить изменения в карту.",
+            "body": [
+              "OpenAI представила интеграцию, которая позволяет авторизованным врачам получать и обобщать данные пациентов — клинические заметки, результаты анализов, назначения, записи специалистов — прямо в ChatGPT или в рабочих процессах Epic. Электронная система Epic охватывает записи более 325 млн пациентов; интеграция работает только на чтение, без возможности вносить изменения в карту.",
+              "Компания также запустила плагин Healthcare Public Data, использующий девять официальных баз данных, включая PubMed, DailyMed и реестр покрытия Medicare (CMS).",
+              "По данным OpenAI, ответы модели с подключённой картой пациента протестировали на 27 клинических сценариях и 4363 оценках врачей: 99,1% ответов признаны безопасными, а 93% получили оценку «хорошая» точность или выше. Пилотным партнёром выступает UCSF Health."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+          },
+          {
+            "kicker": "РЕЛИЗЫ",
+            "headline": "Alibaba выпустила Qwen3.8-Flash-Next — превью архитектуры будущей Qwen4",
+            "subhead": "Модель с 125 млрд параметров активирует лишь 6 млрд на токен и, по данным компании, обходит DeepSeek-V4-Flash и Claude Opus 4.6 в большинстве тестов.",
+            "body": [
+              "Команда Qwen представила Qwen3.8-Flash-Next — мультимодальную модель типа mixture-of-experts со 125 млрд параметров, из которых на каждый токен активируется лишь 6 млрд (плюс отдельный слой N-грамм-эмбеддингов на 51 млрд параметров). Модель нативно поддерживает контекст в 262 144 токена с возможностью расширения до 1 млн.",
+              "Релиз вышел под лицензией Qwen Community как архитектурное превью будущей Qwen4. По заявлению Alibaba, модель превосходит Qwen3.7-Plus почти при девятикратно меньшей стоимости обучения, а наибольший прирост показывает в задачах программирования и офисной работы.",
+              "Опубликованные компанией бенчмарки показывают, что Qwen3.8-Flash-Next обходит DeepSeek-V4-Flash и Claude Opus 4.6 в большинстве тестов — несмотря на то, что модели-конкуренты крупнее и дороже."
+            ],
+            "source": "MarkTechPost",
+            "url": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "РЕКЛАМНЫЕ ПЛАТФОРМЫ",
+            "headline": "Google принудительно переводит всех рекламодателей на AI Max — без возможности отказаться",
+            "subhead": "Миграция кампаний в Google Ads идёт с 1 по 30 сентября; Microsoft тем временем включила аналог AI Max по умолчанию.",
+            "byline": "The Trend Times",
+            "body": [
+              "С 1 сентября 2026 года Google начала автоматически переводить все поисковые кампании с широким соответствием на уровне кампании и устаревшими автоматически создаваемыми объявлениями (ACA) на систему AI Max; процесс продлится до конца сентября. Отказаться нельзя — создавать новые кампании с широким соответствием на уровне кампании или устаревшим ACA Google запретила ещё 3 августа.",
+              "Кампании с ACA получат включённые по умолчанию «поиск по смыслу запроса» и «адаптацию текста», кампании с широким соответствием — только сопоставление по смыслу запроса. Google заявляет, что существующие списки включения и исключения брендов переносятся автоматически. Параллельно Microsoft вывела в общий доступ собственный аналог AI Max, включённый по умолчанию для новых поисковых кампаний.",
+              "Рекламодатели и аналитики — включая сооснователя Adalysis Брэда Геддеса — предупреждают, что AI Max размывает контроль над типами соответствия, создаёт неопределённость в атрибуции конверсий и повышает риски для бренда, поскольку сопоставление опирается на предполагаемое намерение пользователя, а не на буквальный текст запроса."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-sets-ai-max-migration-timeline-for-search-campaigns-485006"
+          },
+          {
+            "kicker": "НАЗНАЧЕНИЯ",
+            "headline": "Легендарный маркетолог Stellantis Оливье Франсуа уходит с поста глобального CMO после двух десятилетий",
+            "subhead": "Автора рекламы Chrysler «Imported from Detroit» на европейском рынке сменит выходец из Renault Арно Беллони.",
+            "body": [
+              "Оливье Франсуа, входящий в Зал славы Американской рекламной федерации и почти два десятилетия остававшийся главным маркетологом Stellantis, покидает пост глобального директора по маркетингу. Он известен, в частности, культовым роликом Chrysler «Imported from Detroit», вышедшим в перерыве Супербоула в 2011 году.",
+              "Франсуа будет сопровождать переходный период до середины октября, после чего останется в Stellantis в роли стратегического советника по бренду и продуктовой стратегии — полностью компанию он не покидает. В Европе его сменит Арно Беллони, который возвращается в Stellantis после 16 лет работы с итальянскими и французскими брендами компании; последние годы он занимал пост глобального CMO Renault Group. Беллони также назначен CEO Fiat, Abarth и Lancia.",
+              "«Мы рады снова видеть Арно в Stellantis. Его глобальный опыт, творческое лидерство и глубокое знание наших брендов станут бесценными активами по мере усиления маркетинга в Европе», — заявил операционный директор Stellantis по расширенной Европе Эмануэле Каппеллано. Перестановка — часть более широкой реорганизации руководства компании в регионе."
+            ],
+            "source": "Adweek",
+            "url": "https://www.adweek.com/brand-marketing/stellantis-olivier-francois-steps-down-but-hasnt-driven-off-into-the-sunset-yet/"
+          },
+          {
+            "kicker": "РЕКЛАМНЫЕ ТЕХНОЛОГИИ",
+            "headline": "The Trade Desk запустила ИИ-агентов «Kokai Zuma» для закупки рекламы — с приростом эффективности на 32%",
+            "subhead": "Новый разговорный ассистент Koa позволяет рекламодателям создавать кампании и аудитории простыми текстовыми командами.",
+            "body": [
+              "The Trade Desk 27 августа объявила о масштабном обновлении своей платформы Kokai под названием «Zuma» — оно доступно всем рекламодателям на DSP. В центре обновления — разговорный ИИ-инструмент Koa Assistant (открытая бета-версия, полный релиз ожидается к концу года), позволяющий поручать ИИ-агентам создание кампаний, подбор аудиторий, устранение проблем и оптимизацию частоты показов через текстовые запросы.",
+              "Новый агент Audience Creation предлагает аудитории для таргетинга и исключения на основе описания кампании. За интерфейсом стоит переработанный движок прогнозирования и оценки инвентаря, который теперь управляет решениями Koa в реальном времени.",
+              "По данным компании, улучшенное моделирование Zuma уже обеспечило в среднем 32-процентный прирост эффективности по показателю CPA на ранних результатах. ИИ-функции работают по принципу «включи по желанию», хотя обновлённый интерфейс распространяется на всех пользователей, а часть агентных возможностей остаётся в закрытой бете."
+            ],
+            "source": "AdExchanger",
+            "url": "https://www.adexchanger.com/technology/the-trade-desks-zuma-update-adds-a-host-of-ai-powered-easy-buttons-to-its-kokai-platform/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "РАУНДЫ",
+            "headline": "Стартап Wonderful удвоил оценку до $5 млрд менее чем за полгода",
+            "subhead": "Salesforce впервые вложился в компанию, которая строит «операционную систему» для ИИ-агентов на предприятиях.",
+            "byline": "The Trend Times",
+            "body": [
+              "Израильско-нидерландский стартап Wonderful привлёк $550 млн в раунде Series C при оценке в $5 млрд — более чем вдвое выше $2 млрд, которые компания получила менее полугода назад, на раунде Series B в марте 2026 года. Раунд возглавил Insight Partners, а Salesforce впервые выступил инвестором компании; участие также приняли Index Ventures, IVP, Vine Ventures, 9Yards Capital и Bessemer Venture Partners.",
+              "С момента мартовского раунда Wonderful расширилась более чем на 35 рынков и выросла примерно до 650 сотрудников по всему миру. Компания, основанная в 2025 году, создаёт «операционную систему для ИИ» — единый слой координации агентов, рабочих процессов, интеграций и управления в корпоративных системах, не заменяющий существующую инфраструктуру.",
+              "Проект начинал с платформы ИИ-агентов для клиентской поддержки на неанглоязычных рынках, прежде чем расшириться до более широкой платформы Wonderful AI OS — позиционируемой как способ избежать фрагментации, с которой корпорации столкнулись при внедрении традиционного SaaS."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+          },
+          {
+            "kicker": "КИБЕРБЕЗОПАСНОСТЬ",
+            "headline": "Основатель Wiz вложился в Guardio — сервис кибербезопасности для обычных пользователей оценили в $1,1 млрд",
+            "subhead": "Компания сообщает о выручке в $150 млн и более чем 100-процентном росте четвёртый год подряд на фоне волны ИИ-мошенничества.",
+            "body": [
+              "Тель-авивская компания Guardio привлекла $40 млн, подняв оценку до $1,1 млрд. Среди новых инвесторов — Асаф Раппапорт, сооснователь и CEO Wiz, проданной Google за $32 млрд; также участвовали действующие инвесторы ION Crossover Partners, Union Tech Ventures, Vintage Investment Partners, Cerca Partners и Emerge Ventures. Общий объём привлечённого Guardio финансирования достиг $167 млн.",
+              "Guardio использует ИИ, чтобы дать обычным пользователям защиту корпоративного уровня — от мошенничества, фишинга, вредоносных сайтов и кражи личных данных — в браузере, почте, сообщениях и на устройствах.",
+              "По данным компании, выручка растёт более чем на 100% в год уже четвёртый год подряд; сервис обслуживает миллион платящих клиентов и приносит $150 млн годового регулярного дохода — рост компания частично связывает с всплеском ИИ-мошенничества, повышающим спрос потребителей на защиту."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/09/03/guardio-raises-40m-at-1-1b-valuation-to-enhance-consumer-cybersecurity/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Shein вышла на биржу в Гонконге и привлекла $1,74 млрд — акции сразу упали на 9%",
+            "subhead": "Оценка компании составила около $26,5 млрд — втрое ниже частной оценки 2022 года, после неудачных попыток выйти на биржу в Нью-Йорке и Лондоне.",
+            "body": [
+              "Гигант быстрой моды Shein начал торги на Гонконгской фондовой бирже (тикер 00625) во вторник, 1 сентября 2026 года, после многолетних попыток провести IPO — ранее заблокированных в Нью-Йорке (конфиденциальная заявка 2023 года) и в Лондоне (Пекин не одобрил раскрытие рисков цепочки поставок в Китае).",
+              "Компания продала около 280 млн акций класса B по цене примерно HK$48,56 (около $6) за штуку — по середине заявленного диапазона — привлёкв около HK$13,6 млрд ($1,74 млрд). В первый день торгов акции упали примерно на 9%, оценив компанию примерно в $26,5 млрд — резкое падение по сравнению с частной оценкой в $100 млрд в 2022 году.",
+              "Shein, основанная в Китае и базирующаяся ныне в Сингапуре, направит 40% выручки на технологии, ещё 40% — на узнаваемость бренда и глобальную экспансию, остальное — на корпоративную ответственность и общие нужды."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "ОСНОВАТЕЛИ",
+            "headline": "Adobe купила индийский ИИ-стартап Rilo — команда основателей проработала над ним меньше года",
+            "subhead": "Выпускники IIT Bombay привлекли всего $1 млн на посевном раунде, прежде чем их наняла крупная корпорация.",
+            "byline": "The Trend Times",
+            "body": [
+              "Adobe объявила 2 сентября 2026 года о приобретении индийского стартапа Rilo, специализирующегося на ИИ для маркетинговой аналитики. Сделка предполагает лицензирование технологий и найм команды. Rilo основали в 2025 году выпускники IIT Bombay Гьорги Боби и Дхрув Джаглан — Джаглан ранее сооснователь платформы ИИ-рекрутинга Babblebots.ai, а Боби руководил технологиями в компании по роботизации готовки CloudChef.",
+              "Стартап создавал ИИ-агентов для команд go-to-market: автоматизацию конкурентной разведки, переупаковку и дистрибуцию контента, анализ звонков продавцов и кастомные рабочие процессы. До сделки Rilo привлекла лишь $1 млн посевных инвестиций от Peak XV, DeVC и Day Zero Ventures при оценке $10 млн.",
+              "По условиям сделки команду из шести человек наймёт Adobe, инвесторы Rilo получат выход, а самостоятельная платформа Rilo закроется — существующие клиенты потеряют доступ к сервису. Условия сделки не раскрываются. Это уже второе приобретение Adobe в Индии после покупки видео-стартапа Rephrase.ai в 2023 году — компания продолжает делать ставку на агентный ИИ в маркетинге."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "НАЗНАЧЕНИЯ",
+            "headline": "Рэйчел Скотт возглавила Proenza Schouler спустя девять месяцев после ухода основателей дома",
+            "subhead": "Основательница нью-йоркского бренда Diotima станет одной из немногих ямайских дизайнеров во главе крупного американского модного дома.",
+            "byline": "The Trend Times",
+            "body": [
+              "Proenza Schouler назначил Рэйчел Скотт, основательницу известного нью-йоркского бренда Diotima, новым креативным директором. Назначение случилось примерно через девять месяцев после того, как сооснователи дома Джек Макколлоу и Лазаро Эрнандес покинули его, чтобы сменить Джонатана Андерсона в Loewe.",
+              "Скотт, родившаяся на Ямайке и обучавшаяся в миланском Istituto Marangoni, ранее работала в Costume National и у Рейчел Коми, прежде чем основать Diotima в 2021 году, где получила награды CFDA как «Восходящий дизайнер года» (2023) и «Дизайнер женской одежды США года» (2024), а также награду Fashion Trust U.S. в номинации ready-to-wear (2025).",
+              "Официально она приступила к работе в Proenza Schouler в августе, будет курировать все товарные категории и продолжит параллельно руководить Diotima. Первая полноценная коллекция Скотт для Proenza Schouler дебютирует на подиуме в феврале."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/rachel-scott-proenza-schoulers-new-creative-director-1238093115/"
+          },
+          {
+            "kicker": "КОЛЛАБОРАЦИИ",
+            "headline": "Симона Роша выпускает первую коллекцию с Adidas Originals 10 сентября",
+            "subhead": "Дебютный дроп совпадёт с открытием Недели моды в Нью-Йорке и включит три модели обуви.",
+            "body": [
+              "Лондонский дизайнер Симона Роша и Adidas Originals выпустят свою первую совместную коллекцию по всему миру 10 сентября — в день открытия Недели моды в Нью-Йорке. Коллаборацию впервые показали на подиуме на показе осень-зима 2026 Роши в рамках Недели моды в Лондоне в феврале.",
+              "Линейка обуви включает три модели — SR Taekwondo Ballerina, SR Climacool и SR Japan Fuzzy Slip-On, — а также одежду и аксессуары, соединяющие фирменную романтичную, отсылающую к викторианской эпохе эстетику Роши со спортивными и архивными силуэтами Adidas.",
+              "Коллекция поступит в продажу через Adidas Confirmed, adidas.com, магазины Adidas и Simone Rocha, а также сайт дизайнера и отдельные ритейлеры — и станет началом продолжительного партнёрства с несколькими дропами."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/footwear-news/sneaker-news/simone-rocha-adidas-ballerina-climacool-release-date-1239196805/"
+          },
+          {
+            "kicker": "УСТОЙЧИВОЕ РАЗВИТИЕ",
+            "headline": "Выбросы модной индустрии выросли почти на 14% за два года, показал новый отчёт",
+            "subhead": "Рост производства и увеличение доли полиэстера свели на нет усилия брендов по декарбонизации, отмечают авторы исследования.",
+            "body": [
+              "Согласно новому отчёту Apparel Impact Institute (Aii), выбросы парниковых газов модной индустрии второй год подряд выросли: на 6,3% в 2024 году после роста на 7,5% в 2023-м — совокупно на 13,8% за два года, достигнув примерно 1 гигатонны, или около 2% мировых выбросов (сопоставимо с годовым выбросом порядка 219 угольных электростанций).",
+              "Рост связывают с перепроизводством и растущей зависимостью от полиэстера на нефтяной основе: мировое производство волокна в 2024 году достигло рекордных 132 млн тонн (против около 125 млн в 2023-м), а на полиэстер теперь приходится 57-59% всего производства волокна.",
+              "«Читаешь о том, как бренды отказываются от угля, инвестируют в возобновляемую энергию и работают над декарбонизацией цепочек поставок, — а потом видишь, что выбросы всё равно выросли. Это несоответствие тревожит больше всего», — отметил финансовый директор Aii Райан Гейнс. В отчёте содержится призыв бороться как с углеродоёмкостью материалов, так и с объёмами производства — доклад вышел незадолго до начала месяца моды."
+            ],
+            "source": "Business of Fashion",
+            "url": "https://www.businessoffashion.com/news/sustainability/fashions-climate-emissions-increased-almost-14-over-two-years/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "АНОНС",
+            "headline": "Дрейк анонсировал загадочный проект «FOMO» с премьерой на YouTube 15 сентября",
+            "subhead": "Никаких деталей, кроме даты и платформы, — фанаты гадают, будет ли это четвёртый альбом рэпера в 2026 году.",
+            "byline": "The Trend Times",
+            "body": [
+              "Дрейк объявил о премьере на YouTube под названием «FOMO» (Fear Of Missing Out — «страх упустить») — трансляция состоится 15 сентября в 21:00 по восточному времени США. Никаких других деталей не раскрыто — ни подтверждения альбома, ни информации о туре.",
+              "Догадки разделились: одни считают, что это станет четвёртым полноформатным альбомом Дрейка за 2026 год — после ICEMAN, HABIBTI и MAID OF HONOUR, — другие полагают, что речь пойдёт об анонсе тура или о чём-то совершенно ином.",
+              "Слухи об альбоме подогрели продюсеры London Cyr, участвовавший в создании трека «Plot Twist» с ICEMAN, и B4uuuuuuuuu, тесно связанный с творческим циклом Дрейка в 2026 году, — оба репостнули тизер. Если это действительно альбом, Дрейк установит беспрецедентный рекорд — четыре полноформатных релиза за один календарный год."
+            ],
+            "source": "The Source",
+            "url": "https://thesource.com/2026/09/03/drakes-mysterious-fomo-project-set-for-september-15-youtube-premiere/"
+          },
+          {
+            "kicker": "СОБЫТИЯ",
+            "headline": "Jay-Z разочаровал фанатов на прослушивании «JAY-Z30» — новых треков не прозвучало",
+            "subhead": "Виртуальная вечеринка была приурочена к юбилеям альбомов Reasonable Doubt и The Blueprint и распродаваемым концертам в Лондоне.",
+            "body": [
+              "Jay-Z провёл виртуальное прослушивание «JAY-Z30» 3 сентября, приурочив его к своим распроданным концертам на стадионе «Тоттенхэм Хотспур» в Лондоне и к 30-летию альбома Reasonable Doubt и 25-летию The Blueprint. Чтобы присоединиться, фанатам пришлось скачать отдельное приложение.",
+              "Ожидания были высоки — многие рассчитывали на премьеру новой музыки. Вместо этого прозвучали только треки из классического каталога рэпера — ни одной новой песни представлено не было.",
+              "Фанаты и подкастеры открыто выразили разочарование; в одном из широко разошедшихся постов отмечалось: «Как потребители, мы рассчитывали хотя бы на одну новую песню»."
+            ],
+            "source": "iHeart / 93.9 The Beat",
+            "url": "https://939beat.iheart.com/content/2026-09-03-ja-z-fuels-rumors-about-new-music-after-announcing-listening-party-in-london/"
+          },
+          {
+            "kicker": "СУД",
+            "headline": "На суде по делу Lil Durk прозвучали показания бывшего личного ассистента рэпера",
+            "subhead": "Свидетель обвинения утверждает, что Дёрк сказал «наконец-то мы его достали» после убийства; судья разрешил использовать тексты песен рэпера как доказательство.",
+            "body": [
+              "Дёрк (Дёрк Бэнкс) проходит по федеральному делу в Центральном округе Калифорнии в связи с убийством в августе 2022 года Савьи «Лул Паб» Робинсон — двоюродной сестры рэпера Quando Rondo — в рамках предполагаемого заказного покушения на самого Рондо. Дело обвинения вступило во вторую неделю и близится к завершению.",
+              "Специальный агент ФБР Коди Бёрк дал показания о тюремном звонке, записанном примерно через пять дней после убийства, в котором соратник Дёрка по OTF Антонио «Буни Мо» Джонс якобы издевательски высказывался о смерти Лул Паб. Сотрудничающий со следствием свидетель Кавон «OTF Вонни» Грант — бывший личный ассистент Дёрка — заявил, что рэпер сказал «наконец-то мы его достали» после стрельбы; его показания теперь оспариваются из-за расхождений с записями тюремных звонков.",
+              "Судья разрешил обвинению использовать собственные тексты песен Дёрка — включая «Piss Me Off» и неизданный трек «Red Man» — как доказательство умысла. Также дают показания другие сотрудничающие со следствием свидетели — OTF Jam и Flacka."
+            ],
+            "source": "The Source",
+            "url": "https://thesource.com/2026/09/01/lil-durk-trial-updates-prosecution-case-winding-down/"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Kizaru анонсировал альбом «Заводчане, общий сбор» и задел рэпера Дору в новом сниппете",
+            "subhead": "Девятый студийный альбом выйдет 11 сентября — артист называет его единственным полноформатным релизом 2026 года.",
+            "body": [
+              "Kizaru опубликовал новый сниппет с предстоящего девятого студийного альбома «Заводчане, общий сбор», релиз которого назначен на 11 сентября. В проекте больше 16 треков, работа над которыми началась в конце 2025 года; над продакшеном работал в том числе Big Baby Tape.",
+              "В сниппете звучит диссовая строчка в адрес рэпера и блогера Доры: «Доброе утро, я кидаю бар, будто кого-то снесла фура / Эта Дора, бля, в натуре дура, очередная шкура». Публичного ответа от Доры пока не последовало.",
+              "Ранее Kizaru описывал альбом как единственный полноформатный релиз 2026 года, называя его «духовно сильным» и стилистически разнообразным, а не привязанным к одному звучанию, — отчасти вдохновлённым эстетикой западного побережья США."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/kizaru-2026"
+          },
+          {
+            "kicker": "ДЕБЮТ",
+            "headline": "Slatt Savage выпустил дебютный альбом «Хороший день»",
+            "subhead": "16 коротких и намеренно абсурдных треков — с участием Mayot, DooMee, Unki и Hood Rich Luka.",
+            "body": [
+              "Российский трэп-исполнитель Slatt Savage выпустил дебютный альбом «Хороший день» — 16 треков общей продолжительностью около 25 минут. Среди приглашённых артистов — Mayot, DooMee, Unki и Hood Rich Luka.",
+              "Обозреватели описывают релиз как концентрированную ироничную версию художественного мира артиста: короткие, абсурдистские и намеренно смешные треки — среди названий «Чепуха» и «Бла-бла-бла», — построенные на быстром комическом эффекте, а не на традиционной структуре песни.",
+              "Альбом доступен на Spotify, Apple Music и VK Музыке."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/slatt-savage-korotkij-trep-sprint-kotoryj-kachaet/"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": { "date": "2026-09-04", "edition": "Morning Edition", "volume": "Vol. I", "number": 6 },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "MODELS",
+            "headline": "Anthropic Ships Claude Fable 5.1 and Mythos 5.1, With Cheaper Caching and Tighter Safeguards",
+            "subhead": "The new lineup cuts cache-read costs by 75% and targets coding, cybersecurity and life-sciences work.",
+            "byline": "The Trend Times",
+            "body": [
+              "Anthropic introduced two new models built on a shared architecture: Claude Fable 5.1, generally available and aimed at coding and complex knowledge work, and Claude Mythos 5.1, a version with stronger safeguards for cybersecurity and life-sciences use, restricted to vetted organizations.",
+              "The company says Fable 5.1 costs roughly 25% less than its predecessor for typical workloads, driven mainly by a 75% price cut on cache reads. Anthropic says the new models fix the root causes of software bugs rather than taking shortcuts that produce lower-quality patches.",
+              "Anthropic also said Mythos 5.1's improved safeguards cut false positives on cybersecurity tasks by 60% compared with the prior generation."
+            ],
+            "source": "Anthropic",
+            "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+          },
+          {
+            "kicker": "HEALTHCARE",
+            "headline": "OpenAI Links ChatGPT for Healthcare to Epic's Patient Records",
+            "subhead": "The integration lets clinicians pull patient data straight into ChatGPT — with no ability to write back to the chart.",
+            "body": [
+              "OpenAI unveiled an integration that lets authorized clinicians import and summarize patient data — clinical notes, lab results, medications, specialist records — directly inside ChatGPT or Epic's own workflows. Epic's EHR covers records for more than 325 million patients, and the integration is read-only, with no way to edit the chart.",
+              "The company also launched a Healthcare Public Data plugin drawing on nine official datasets, including PubMed, DailyMed and the CMS Coverage Database.",
+              "OpenAI said it tested connected-EHR responses across 27 clinical use cases and 4,363 physician ratings, with 99.1% rated safe and 93% rated \"good\" accuracy or better. UCSF Health is the pilot partner."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+          },
+          {
+            "kicker": "RELEASES",
+            "headline": "Alibaba Ships Qwen3.8-Flash-Next, a Preview of the Coming Qwen4 Architecture",
+            "subhead": "The 125-billion-parameter model activates just 6 billion per token and, Alibaba says, beats DeepSeek-V4-Flash and Claude Opus 4.6 on most benchmarks.",
+            "body": [
+              "The Qwen team released Qwen3.8-Flash-Next, a multimodal mixture-of-experts model with 125 billion total parameters but only 6 billion active per token, plus a separate 51-billion-parameter N-gram embedding layer. It natively supports 262,144 tokens of context, extendable to 1 million.",
+              "The model shipped under the Qwen Community license as an architectural preview of the coming Qwen4. Alibaba says it outperforms Qwen3.7-Plus at roughly one-ninth the training cost, with the biggest gains in coding and office tasks.",
+              "Alibaba's own published benchmarks show Qwen3.8-Flash-Next beating DeepSeek-V4-Flash and Anthropic's Claude Opus 4.6 on most tested tasks, despite those rivals being larger and more expensive to run."
+            ],
+            "source": "MarkTechPost",
+            "url": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "AD PLATFORMS",
+            "headline": "Google Force-Migrates All Advertisers to AI Max, With No Opt-Out",
+            "subhead": "The Google Ads migration runs September 1-30, while Microsoft has quietly turned on its own AI Max rival by default.",
+            "byline": "The Trend Times",
+            "body": [
+              "Starting September 1, 2026, Google began automatically migrating all campaign-level broad-match and legacy Automatically Created Assets (ACA) search campaigns onto its AI Max system, with the rollout continuing through the end of the month. There's no way to opt out — Google already blocked advertisers from creating new campaign-level broad-match or legacy ACA campaigns back on August 3.",
+              "Campaigns using ACA get \"search term matching\" and \"text customization\" switched on by default; broad-match campaigns get search term matching turned on. Google says existing brand inclusion and exclusion lists carry over automatically. Separately, Microsoft rolled its own AI Max rival into general release, on by default for new search campaigns.",
+              "Advertisers and analysts — including Adalysis co-founder Brad Geddes — warn that AI Max blurs match-type controls, muddies conversion attribution by claiming credit for conversions that might have happened anyway, and raises brand-safety risk, since matching now relies on inferred intent rather than the literal query text."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-sets-ai-max-migration-timeline-for-search-campaigns-485006"
+          },
+          {
+            "kicker": "APPOINTMENTS",
+            "headline": "Stellantis's Legendary Marketer Olivier François Steps Down as Global CMO After Two Decades",
+            "subhead": "The mind behind Chrysler's \"Imported from Detroit\" ad will be succeeded in Europe by Renault veteran Arnaud Belloni.",
+            "body": [
+              "Olivier François, an Advertising Hall of Famer who has been Stellantis's top marketer for close to two decades, is stepping down as global chief marketing officer. He's best known for Chrysler's iconic \"Imported from Detroit\" ad, which aired during the 2011 Super Bowl.",
+              "François will support the transition through mid-October, then stay on at Stellantis as a strategic advisor on brand and product — he isn't leaving the company outright. Taking over in Europe is Arnaud Belloni, who returns to Stellantis after 16 years across its Italian and French brands; most recently he was global CMO of Renault Group. Belloni has also been named CEO of Fiat, Abarth and Lancia.",
+              "\"We are delighted to welcome Arnaud back to Stellantis. His global perspective, creative leadership and deep knowledge of our brands will be invaluable as we strengthen marketing across Europe,\" said Emanuele Cappellano, Stellantis's COO for Enlarged Europe. The move is part of a broader leadership reshuffle across the region."
+            ],
+            "source": "Adweek",
+            "url": "https://www.adweek.com/brand-marketing/stellantis-olivier-francois-steps-down-but-hasnt-driven-off-into-the-sunset-yet/"
+          },
+          {
+            "kicker": "AD TECH",
+            "headline": "The Trade Desk Rolls Out 'Kokai Zuma' AI Agents for Ad Buying, Claims a 32% Performance Lift",
+            "subhead": "The new Koa conversational assistant lets advertisers build campaigns and audiences with plain-text prompts.",
+            "body": [
+              "The Trade Desk announced a sweeping upgrade to its Kokai platform called \"Zuma\" on August 27, now available to all advertisers on the DSP. At its center is Koa Assistant, a conversational AI tool (in open beta, with full rollout expected by year-end) that lets advertisers prompt AI agents to build campaigns, find audiences, troubleshoot issues and optimize frequency using plain-text requests.",
+              "A new Audience Creation agent suggests targeting and exclusion audiences straight from a campaign brief. Behind the interface, The Trade Desk rebuilt its forecasting and inventory-prediction engine, which now powers Koa's real-time decisions.",
+              "The company says Zuma's improved modeling has driven an average 32% lift in CPA performance in early results. The AI features are opt-in, though the redesigned interface applies to everyone, and some agentic capabilities remain in closed beta."
+            ],
+            "source": "AdExchanger",
+            "url": "https://www.adexchanger.com/technology/the-trade-desks-zuma-update-adds-a-host-of-ai-powered-easy-buttons-to-its-kokai-platform/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "Startup Wonderful Doubles Its Valuation to $5 Billion in Under Six Months",
+            "subhead": "Salesforce made its first investment in the company, which is building an \"operating system\" for enterprise AI agents.",
+            "byline": "The Trend Times",
+            "body": [
+              "Israeli-Dutch startup Wonderful raised $550 million in a Series C round at a $5 billion valuation — more than double the $2 billion valuation it held less than six months earlier, at its Series B in March 2026. The round was led by Insight Partners, with Salesforce investing in the company for the first time; Index Ventures, IVP, Vine Ventures, 9Yards Capital and Bessemer Venture Partners also participated.",
+              "Since the March raise, Wonderful has expanded into more than 35 markets and grown to roughly 650 employees worldwide. Founded in 2025, the company builds what it calls an \"AI operating system\" — a shared coordination layer for agents, workflows, integrations and governance across enterprise systems, without replacing existing infrastructure.",
+              "Wonderful got its start with an AI customer-service agent platform for non-English-speaking markets before expanding into its broader Wonderful AI OS platform — pitched as a way to avoid the fragmentation that plagued enterprise adoption of traditional SaaS."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+          },
+          {
+            "kicker": "CYBERSECURITY",
+            "headline": "Wiz Founder Backs Guardio as Consumer Cybersecurity Startup Hits $1.1 Billion Valuation",
+            "subhead": "The company says revenue has grown more than 100% for a fourth straight year, fueled partly by a wave of AI-powered scams.",
+            "body": [
+              "Tel Aviv-based Guardio raised $40 million, pushing its valuation to $1.1 billion. New investor Assaf Rappaport, co-founder and CEO of Wiz — sold to Google for $32 billion — joined alongside existing backers ION Crossover Partners, Union Tech Ventures, Vintage Investment Partners, Cerca Partners and Emerge Ventures. The raise brings Guardio's total funding to $167 million.",
+              "Guardio uses AI to bring enterprise-grade protection against scams, phishing, malicious sites and identity theft to individual consumers across browsing, email, texting and devices.",
+              "The company says revenue has grown more than 100% year-over-year for four straight years, with one million paying customers and $150 million in annual recurring revenue — growth it attributes partly to a surge in AI-powered scams driving consumer demand for protection."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/09/03/guardio-raises-40m-at-1-1b-valuation-to-enhance-consumer-cybersecurity/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Shein Debuts in Hong Kong, Raises $1.74 Billion — Then Shares Drop 9%",
+            "subhead": "The listing values the fast-fashion giant at about $26.5 billion, a third of its 2022 private valuation, after failed IPO attempts in New York and London.",
+            "body": [
+              "Fast-fashion giant Shein began trading on the Hong Kong Stock Exchange (ticker 00625) on Tuesday, September 1, 2026, capping years of stalled IPO attempts — blocked previously in New York (a confidential 2023 filing) and in London (over Beijing's refusal to clear supply-chain risk disclosures).",
+              "Shein sold about 280 million Class B shares at roughly HK$48.56 (about $6) each — the midpoint of its range — raising approximately HK$13.6 billion ($1.74 billion). Shares fell about 9% on debut, valuing the company at roughly $26.5 billion, a steep drop from the $100 billion valuation it commanded in private markets in 2022.",
+              "Shein, founded in China and now headquartered in Singapore, plans to put 40% of the proceeds toward technology, another 40% toward brand awareness and global expansion, and the rest toward corporate responsibility and general purposes."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FOUNDERS",
+            "headline": "Adobe Acquires Indian AI Startup Rilo — Built by Its Founders in Under a Year",
+            "subhead": "The IIT Bombay graduates raised just $1 million in seed funding before being acqui-hired by a tech giant.",
+            "byline": "The Trend Times",
+            "body": [
+              "Adobe announced on September 2, 2026 that it is acquiring Rilo, an Indian AI marketing-intelligence startup, through a mix of technology licensing and an acqui-hire of its team. Rilo was founded in 2025 by IIT Bombay graduates Georgi Boby and Dhruv Jaglan — Jaglan had previously co-founded AI recruitment platform Babblebots.ai, while Boby led technology at cooking-robotics company CloudChef.",
+              "The startup built AI agents for go-to-market teams — automating competitor intelligence, content repurposing and distribution, sales-call analysis and custom workflows. Before the deal, Rilo had raised just $1 million in seed funding from Peak XV, DeVC and Day Zero Ventures at a $10 million valuation.",
+              "Under the deal, Adobe will onboard the six-person team, Rilo's investors get an exit, and the standalone platform will shut down, with existing customers losing access. Terms weren't disclosed. It's Adobe's second India-based acquisition, following its 2023 purchase of AI video startup Rephrase.ai, as the company keeps betting on agentic AI for marketing."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "APPOINTMENTS",
+            "headline": "Rachel Scott Named Creative Director of Proenza Schouler, Nine Months After Its Founders Departed",
+            "subhead": "The founder of New York label Diotima becomes one of the few Jamaican-born designers to lead a major American fashion house.",
+            "byline": "The Trend Times",
+            "body": [
+              "Proenza Schouler has named Rachel Scott, founder of the acclaimed New York label Diotima, as its new creative director — roughly nine months after co-founders Jack McCollough and Lazaro Hernandez left to succeed Jonathan Anderson at Loewe.",
+              "Scott, born in Jamaica and trained at Istituto Marangoni in Milan, previously worked at Costume National and Rachel Comey before launching Diotima in 2021, where she won CFDA Emerging Designer of the Year (2023) and American Womenswear Designer of the Year (2024), plus the Fashion Trust U.S. 2025 ready-to-wear award.",
+              "She officially started at Proenza Schouler in August, will oversee all product categories, and will keep running Diotima at the same time. Her first full Proenza Schouler collection is set to debut on the runway in February."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/rachel-scott-proenza-schoulers-new-creative-director-1238093115/"
+          },
+          {
+            "kicker": "COLLABORATIONS",
+            "headline": "Simone Rocha's Debut Adidas Originals Collection Drops September 10",
+            "subhead": "The first release lands as New York Fashion Week opens, and includes three footwear silhouettes.",
+            "body": [
+              "London designer Simone Rocha and Adidas Originals will globally release their debut joint collection on September 10 — the opening day of New York Fashion Week. The collaboration was first previewed on the runway at Rocha's autumn/winter 2026 show during London Fashion Week in February.",
+              "The footwear lineup includes three silhouettes — the SR Taekwondo Ballerina, the SR Climacool and the SR Japan Fuzzy Slip-On — alongside apparel and accessories that blend Rocha's signature romantic, Victorian-inflected aesthetic with Adidas's performance and archive silhouettes.",
+              "The collection will be sold through Adidas Confirmed, adidas.com, Adidas and Simone Rocha stores, the designer's own site and select retailers — marking the start of an ongoing multi-drop partnership between the two brands."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/footwear-news/sneaker-news/simone-rocha-adidas-ballerina-climacool-release-date-1239196805/"
+          },
+          {
+            "kicker": "SUSTAINABILITY",
+            "headline": "Fashion's Emissions Rose Nearly 14% Over Two Years, New Report Finds",
+            "subhead": "Rising output and growing reliance on polyester are outpacing brands' decarbonization efforts, researchers say.",
+            "body": [
+              "Fashion-industry greenhouse gas emissions rose for a second straight year, according to a new Apparel Impact Institute (Aii) report — up 6.3% in 2024 after a 7.5% rise in 2023, a combined 13.8% increase over two years, reaching roughly 1 gigaton, or about 2% of global emissions, comparable to the annual output of around 219 coal plants.",
+              "The increase is being driven by overproduction and growing reliance on fossil-based polyester: global fiber production hit a record 132 million metric tons in 2024, up from about 125 million in 2023, with polyester now accounting for 57-59% of total fiber output.",
+              "\"You read about brands phasing out coal, investing in renewables and working to decarbonize supply chains — and then you see emissions still went up. That disconnect is what is most alarming,\" said Aii chief financial officer Ryan Gaines. The report calls for action on both the carbon intensity of materials and production volume itself, landing just as fashion month begins."
+            ],
+            "source": "Business of Fashion",
+            "url": "https://www.businessoffashion.com/news/sustainability/fashions-climate-emissions-increased-almost-14-over-two-years/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "ANNOUNCEMENT",
+            "headline": "Drake Announces Mystery Project 'FOMO,' Premiering on YouTube September 15",
+            "subhead": "No details beyond the date and platform — fans are debating whether it's his fourth album of 2026.",
+            "byline": "The Trend Times",
+            "body": [
+              "Drake announced a YouTube premiere titled \"FOMO\" (Fear of Missing Out), streaming September 15 at 9 p.m. ET. No further details have been revealed — no confirmed album, no tour information.",
+              "Speculation is split: some think it's a fourth full-length Drake album for 2026, following ICEMAN, HABIBTI and MAID OF HONOUR; others think it could be a tour announcement or something else entirely.",
+              "Fueling the album rumors, producers London Cyr — who co-produced \"Plot Twist\" on ICEMAN — and B4uuuuuuuuu, closely tied to Drake's 2026 creative run, both reposted the teaser. If it is an album, it would make Drake the first artist to release four full-length projects in a single calendar year."
+            ],
+            "source": "The Source",
+            "url": "https://thesource.com/2026/09/03/drakes-mysterious-fomo-project-set-for-september-15-youtube-premiere/"
+          },
+          {
+            "kicker": "EVENTS",
+            "headline": "Jay-Z's 'JAY-Z30' Listening Party Leaves Fans Disappointed — No New Music",
+            "subhead": "The virtual event marked the anniversaries of Reasonable Doubt and The Blueprint, timed to his sold-out London shows.",
+            "body": [
+              "Jay-Z held a virtual \"JAY-Z30\" listening party on September 3, timed to his sold-out shows at Tottenham Hotspur Stadium in London and to the 30th anniversary of Reasonable Doubt and the 25th anniversary of The Blueprint. Fans had to download a dedicated app to join.",
+              "Expectations ran high, with many fans anticipating a new-music premiere. Instead, the event played only catalog classics — no new songs were shared.",
+              "Fans and podcasters publicly voiced their disappointment, with one widely shared post noting: \"As consumers, we expected at least a new song.\""
+            ],
+            "source": "iHeart / 93.9 The Beat",
+            "url": "https://939beat.iheart.com/content/2026-09-03-ja-z-fuels-rumors-about-new-music-after-announcing-listening-party-in-london/"
+          },
+          {
+            "kicker": "TRIAL",
+            "headline": "Lil Durk's Former Personal Assistant Testifies at His Murder-for-Hire Trial",
+            "subhead": "A cooperating witness says Durk said \"finally, we got somebody\" after the shooting; the judge has allowed his lyrics as evidence.",
+            "body": [
+              "Durk (Durk Banks) is on federal trial in the Central District of California over the August 2022 shooting death of Saviay'a \"Lul Pab\" Robinson, cousin of rapper Quando Rondo, in what prosecutors describe as a botched hit targeting Rondo. The prosecution's case is now in its second week and nearing its close.",
+              "FBI Supervisory Special Agent Cody Burke testified about a jail call, obtained roughly five days after the killing, in which OTF associate Antonio \"Boonie Moe\" Jones allegedly mocked Lul Pab's death. Cooperating witness Kavon \"OTF Vonni\" Grant, Durk's former personal assistant, testified that Durk said \"finally, we got somebody\" after the shooting; his credibility is now being challenged over inconsistencies with the jail-call recordings.",
+              "The judge has allowed prosecutors to use Durk's own lyrics — including \"Piss Me Off\" and the unreleased track \"Red Man\" — as evidence of intent. Other cooperating witnesses, including OTF Jam and Flacka, are also testifying."
+            ],
+            "source": "The Source",
+            "url": "https://thesource.com/2026/09/01/lil-durk-trial-updates-prosecution-case-winding-down/"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "Kizaru Announces Album 'Заводчане, общий сбор,' Takes a Jab at Rapper Dora in New Snippet",
+            "subhead": "The ninth studio album drops September 11 — the artist calls it his only full-length release of 2026.",
+            "body": [
+              "Kizaru released a new snippet from his upcoming ninth studio album, \"Заводчане, общий сбор\" (\"Factory Workers, General Assembly\"), due out September 11. The project runs more than 16 tracks and has been in the works since late 2025, with production including contributions from Big Baby Tape.",
+              "The snippet includes a diss line aimed at rapper and blogger Dora: \"Good morning, I'm dropping bars like a truck ran someone over / that Dora, damn, is truly a fool, just another fake.\" Dora has not publicly responded.",
+              "Kizaru has previously described the album as his only full-length release of 2026, calling it \"spiritually strong\" and stylistically varied rather than locked into one sound — partly inspired by West Coast hip-hop."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/kizaru-2026"
+          },
+          {
+            "kicker": "DEBUT",
+            "headline": "Slatt Savage Releases Debut Album 'Хороший день' ('Good Day')",
+            "subhead": "Sixteen short, deliberately absurdist tracks feature Mayot, DooMee, Unki and Hood Rich Luka.",
+            "body": [
+              "Russian trap artist Slatt Savage has released his debut album \"Хороший день\" (\"Good Day\") — 16 tracks running about 25 minutes total. Featured guests include Mayot, DooMee, Unki and Hood Rich Luka.",
+              "Reviewers describe the project as a concentrated, ironic distillation of the artist's world: short, absurdist, deliberately funny tracks — among them \"Чепуха\" (\"Nonsense\") and \"Бла-бла-бла\" (\"Blah Blah Blah\") — built for quick comedic effect rather than conventional song structure.",
+              "The album is available on Spotify, Apple Music and VK Music."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/slatt-savage-korotkij-trep-sprint-kotoryj-kachaet/"
+          }
+        ]
+      }
+    ]
+  }
+}
