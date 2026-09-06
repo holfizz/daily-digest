@@ -70,5 +70,17 @@
       "ru": "18 материалов",
       "en": "18 articles"
     }
+  },
+  {
+    "date": "2026-09-05",
+    "number": 7,
+    "headline": {
+      "ru": "Google DeepMind представила WeatherNext 3 — самую точную ИИ-модель прогноза погоды",
+      "en": "Google DeepMind Unveils WeatherNext 3, Its Most Accurate AI Weather Model Yet"
+    },
+    "count": {
+      "ru": "18 материалов",
+      "en": "18 articles"
+    }
   }
 ]
