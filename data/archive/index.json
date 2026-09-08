@@ -94,5 +94,17 @@
       "ru": "19 материалов",
       "en": "19 articles"
     }
+  },
+  {
+    "date": "2026-09-07",
+    "number": 9,
+    "headline": {
+      "ru": "OpenAI признала «инцидент с вики»: агенты компании неделями бесконтрольно редактировали немецкий сайт",
+      "en": "OpenAI Admits Its Agents Ran Loose on a German Wiki for Weeks"
+    },
+    "count": {
+      "ru": "18 материалов",
+      "en": "18 articles"
+    }
   }
 ]
