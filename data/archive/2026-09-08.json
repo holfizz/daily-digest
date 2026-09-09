@@ -1,0 +1,482 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-08",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 10
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "РЕГУЛИРОВАНИЕ",
+            "headline": "Anthropic разошлась с OpenAI и Google в споре о самом жёстком в США законе об ИИ",
+            "subhead": "Массачусетс продвигает обязательные независимые проверки «катастрофических» рисков — Anthropic поддерживает жёсткие нормы, конкуренты выступают против.",
+            "byline": "The Trend Times",
+            "body": [
+              "Массачусетс стал новой площадкой борьбы за то, как штаты будут регулировать передовые модели ИИ: ещё в июле сенат штата включил в законопроект об экономическом развитии нормы, которые обязывают компании с выручкой от ИИ выше $500 млн или расходами на R&D свыше $1 млрд публиковать рамки безопасности и раз в четыре месяца проходить независимую оценку катастрофических рисков.",
+              "Anthropic поддержала инициативу как самую строгую программу безопасности ИИ на уровне штата в стране и, по данным СМИ, пожертвовала более $120 тыс. массачусетским демократам в августе. OpenAI и Google, напротив, лоббируют более мягкий вариант — по образцу закона Иллинойса, который ограничивается ежегодным независимым аудитом.",
+              "По состоянию на начало сентября законопроект находится на согласительной стадии между палатами законодателей, и его итоговый вид может существенно отличаться от версии, принятой сенатом."
+            ],
+            "source": "PYMNTS",
+            "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openai-split-as-massachusetts-pushes-nations-toughest-ai-safety-rules/"
+          },
+          {
+            "kicker": "ИНТЕРВЬЮ",
+            "headline": "Сэм Альтман признал: индустрия ИИ провалила разговор о пользе технологии",
+            "subhead": "Глава OpenAI заявил Bloomberg, что компании, включая его собственную, не сумели объяснить обществу, зачем нужен искусственный интеллект.",
+            "body": [
+              "В интервью Bloomberg Television 3 сентября генеральный директор OpenAI Сэм Альтман заявил, что ведущие разработчики ИИ «в целом ужасно справились» с задачей объяснить пользу технологии обществу, из-за чего отрасль стала уязвима для растущего недовольства на местах.",
+              "Альтман признал, что и сама OpenAI не была исключением и тоже не справилась с этой коммуникационной задачей, отметив, что компании не смогли внятно показать, как ИИ может поддержать творчество и предпринимательство обычных людей.",
+              "По его словам, важно, чтобы ИИ давал людям больше власти и самостоятельности, а не создавал ощущение потери контроля — это особенно актуально на фоне растущего сопротивления местных сообществ строительству дата-центров."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-03/sam-altman-says-openai-has-fumbled-at-communicating-ai-benefits"
+          },
+          {
+            "kicker": "СДЕЛКА",
+            "headline": "Nvidia покупает Hugging Face за $12,9 млрд, обещая сохранить платформу открытой",
+            "subhead": "Это вторая по величине сделка в истории Nvidia — крупнейшей остаётся покупка активов Groq за $20 млрд.",
+            "body": [
+              "Nvidia объявила о покупке открытой платформы искусственного интеллекта Hugging Face за $12,9 млрд, поднимаясь по цепочке создания ИИ-продуктов выше уровня производства чипов. Из этой суммы $11,9 млрд пойдёт напрямую акционерам Hugging Face, ещё до $1 млрд — на удержание сотрудников компании, которые перейдут в Nvidia, в виде опционов.",
+              "Сделка, которая должна закрыться в первой половине 2027 года при условии одобрения регуляторов, затронет платформу, которой пользуются более 18 млн разработчиков и исследователей: на ней размещено свыше 3 млн моделей и датасетов, а более 200 тыс. компаний используют её для поиска и развёртывания ИИ.",
+              "Nvidia пообещала сохранить Hugging Face открытой платформой, где модели и данные можно свободно публиковать и скачивать, а сам сервис продолжит работать с чипами других производителей, а не только Nvidia. Гендиректор Hugging Face Клеман Деланг рассказал CNBC, что сам вышел на главу Nvidia Дженсена Хуанга ещё летом с предложением о сделке."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "РЕКЛАМНЫЕ ПЛАТФОРМЫ",
+            "headline": "Reddit запустил глобальный формат «вовлечённых» 15-секундных просмотров видео",
+            "subhead": "Новая цель оптимизации рассчитана на ролики, которым нужно больше времени, чтобы донести сообщение, — трейлеры, демо продуктов, брендинг.",
+            "byline": "The Trend Times",
+            "body": [
+              "Reddit объявил о глобальном публичном бета-запуске новой цели оптимизации и модели оплаты для рекламодателей — 15-Second Engaged Video Views: показ засчитывается, если пользователь досмотрел короткий ролик целиком либо посмотрел не менее 15 секунд более длинного видео.",
+              "Формат рассчитан на форматы, которым нужно больше времени, чтобы «зайти», — трейлеры фильмов, сериалов и игр, демонстрации продуктов, объясняющие ролики, отзывы клиентов и более длинный брендированный контент.",
+              "По данным платформы, на альфа-тестировании у рекламодателей средний рост показателя досматриваемости за 15 секунд (VTR15) составил 51%, а показателя полного досмотра ролика (VCR) — 71%. Новая опция дополнит существующую цель по 6-секундным просмотрам, а оплата будет списываться именно за «вовлечённые» просмотры."
+            ],
+            "source": "Social Media Today",
+            "url": "https://www.socialmediatoday.com/news/reddit-launches-15-second-video-views-ad-goal/829375/"
+          },
+          {
+            "kicker": "ИЗМЕРЕНИЯ",
+            "headline": "Comscore научилась измерять эффект спонсируемой рекламы в ИИ-чатах",
+            "subhead": "Новый инструмент связывает показы рекламы внутри ответов чат-ботов с последующим поведением пользователей на сайтах брендов.",
+            "body": [
+              "Comscore объявила о расширении своего продукта Comscore AI Intelligence: теперь он позволяет брендам и издателям измерять эффект спонсируемой рекламы, которая появляется рядом с ответами ИИ-чат-ботов, и связывать эти показы с последующим поведением пользователей — например, переходами на сайт.",
+              "Новая возможность встроена в ежемесячный цикл отчётности Comscore и призвана закрыть растущий запрос индустрии на независимые измерения по мере того, как ИИ-чаты сами становятся полноценной рекламной средой.",
+              "По собственным данным компании, доля спонсируемых ссылок в ответах ChatGPT на запросы про отели выросла с 6% в марте 2026 года до 14% в апреле и 24% в мае, а сам ChatGPT остаётся самым массовым ИИ-ассистентом — на него в июне пришлось около 69% уникальных посетителей категории."
+            ],
+            "source": "Comscore",
+            "url": "https://www.comscore.com/Insights/Press-Releases/2026/9/Comscore-Expands-Its-AI-Intelligence-to-Measure-Sponsored-Chat-Advertising-and-Its-Business-Impact"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "РОСТ",
+            "headline": "Стартап Wonderful удвоил оценку до $5 млрд меньше чем за полгода",
+            "subhead": "Компания строит «операционную систему» для корпоративных ИИ-агентов и уже работает в 35 странах.",
+            "byline": "The Trend Times",
+            "body": [
+              "Израильско-нидерландский стартап Wonderful закрыл раунд серии C на $550 млн, подняв оценку компании до $5 млрд — более чем вдвое по сравнению с $2 млрд, которые она получила по итогам предыдущего раунда всего полгода назад. Раунд возглавила Insight Partners, участвовали действующие инвесторы Index Ventures, IVP, Vine Ventures, 9Yards и Bessemer, а новым инвестором стала Salesforce.",
+              "Wonderful называет свой продукт «операционной системой для ИИ»: софт позволяет компаниям создавать корпоративных ИИ-агентов, подключать их к уже используемым системам и отслеживать их действия в одном месте — независимо от того, какие модели и приложения уже стоят у клиента. Среди клиентов — банки, страховые, ретейлеры, телеком- и энергетические компании.",
+              "С момента раунда серии B в марте компания выросла до 650 сотрудников и присутствия в более чем 35 странах; годовая выручка достигла примерно $70 млн и, по прогнозам компании, превысит $100 млн к концу года."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+          },
+          {
+            "kicker": "ФИНАНСИРОВАНИЕ",
+            "headline": "Gimlet Labs привлекла $300 млн при оценке $3 млрд ради ИИ-инференса на разных чипах",
+            "subhead": "Раунд возглавила Andreessen Horowitz, среди новых инвесторов — Arm и венчурный фонд Microsoft.",
+            "body": [
+              "Стартап Gimlet Labs, который помогает распределять задачи ИИ-инференса между разными типами чипов, привлёк $300 млн в раунде серии B, доведя оценку компании до $3 млрд, а общий объём привлечённого финансирования — до $392 млн.",
+              "Раунд возглавила Andreessen Horowitz, среди новых участников — Arm Holdings и M12, венчурный фонд Microsoft. По словам гендиректора Зейна Асгара, компания строит первое в отрасли мульти-силиконовое инференс-облако для агентных ИИ-нагрузок, которое подбирает под каждую задачу подходящий тип чипа.",
+              "Идея в том, чтобы заставить GPU и специализированные ускорители работать как единая система — это, по словам компании, даёт заметно больше пропускной способности и интерактивности на каждый ватт мощности, что особенно важно для быстрых агентных сценариев."
+            ],
+            "source": "TechFundingNews",
+            "url": "https://techfundingnews.com/andreessen-backed-gimlet-labs-hits-3b-valuation-with-300m-round-as-ai-goes-multi-chip/"
+          },
+          {
+            "kicker": "ИНФРАСТРУКТУРА",
+            "headline": "Crusoe привлекла ещё $3 млрд при оценке $30 млрд на фоне бума ИИ-дата-центров",
+            "subhead": "Раунд возглавили Atreides Management и Valor Equity Partners.",
+            "body": [
+              "Оператор дата-центров и облачной инфраструктуры Crusoe закрыл раунд финансирования на сумму свыше $3 млрд, подняв оценку компании до $30 млрд. Раунд возглавили инвестиционные фонды Atreides Management и Valor Equity Partners.",
+              "Сделка стала одной из двух крупнейших на неделе в сегменте ИИ-инфраструктуры: почти одновременно конкурент Fluidstack закрыл раунд на $1,5 млрд при оценке $18 млрд под руководством Jane Street Capital — при том что Fluidstack, по собственным данным, не владеет ни одним чипом, а арендует вычислительные мощности.",
+              "Взрывной интерес инвесторов к компаниям, которые строят и эксплуатируют дата-центры для обучения и инференса моделей, отражает более широкий сдвиг: пока лаборатории ИИ соревнуются за лучшие модели, вложения в физическую инфраструктуру под них растут ещё быстрее."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "ОСНОВАТЕЛИ",
+            "headline": "От провалившегося чат-бота для подростков до сделки на $12,9 млрд: путь основателя Hugging Face",
+            "subhead": "Клеман Деланг сам предложил Nvidia купить его компанию — и получил один из крупнейших ИИ-выходов года.",
+            "byline": "The Trend Times",
+            "body": [
+              "Клеман Деланг занялся предпринимательством ещё подростком: в 17 лет он был одним из самых успешных французских продавцов на eBay — задолго до того, как занялся созданием инфраструктуры для ИИ.",
+              "Hugging Face начинался в 2016 году как чат-бот-компаньон для скучающих подростков — продукт, который, по словам самого Деланга, провалился. Но когда он открыл исходный код лежавшей в его основе технологии, тот неожиданно нашёл куда более широкую аудиторию среди разработчиков ИИ, чем оригинальное приложение когда-либо имело.",
+              "Спустя десятилетие Hugging Face — центральная площадка для обмена открытыми моделями, которой пользуются более 18 млн разработчиков; 3 сентября компания объявила о продаже Nvidia за $12,9 млрд. По данным CNBC, именно Деланг ещё летом сам вышел на главу Nvidia Дженсена Хуанга с предложением о сделке."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+          },
+          {
+            "kicker": "СЕРИЙНЫЙ ПРЕДПРИНИМАТЕЛЬ",
+            "headline": "Бар Уинклер уже продавал один стартап — теперь его Wonderful оценили в $5 млрд за 20 месяцев",
+            "subhead": "Сооснователь и гендиректор Wonderful ранее продал компанию Approve.com платформе Tipalti.",
+            "body": [
+              "Бар Уинклер — серийный основатель: до Wonderful он построил компанию Approve.com, которую впоследствии купила платформа автоматизации финансов Tipalti. В начале 2025 года вместе с техническим директором Рои Лалазаром он запустил Wonderful — стартап, создающий «операционную систему» для корпоративных ИИ-агентов.",
+              "Меньше чем за два года компания выросла до оценки в $5 млрд: раунд серии B в марте оценил Wonderful в $2 млрд, а уже в сентябре новый раунд на $550 млн удвоил эту цифру — при поддержке Insight Partners, Salesforce и других инвесторов.",
+              "За это время штат компании вырос до 650 человек в более чем 35 странах, а среди клиентов Wonderful — крупные банки, страховые и телеком-компании, использующие платформу для управления собственными ИИ-агентами."
+            ],
+            "source": "Calcalistech",
+            "url": "https://www.calcalistech.com/ctechnews/article/of77ag6kn"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "НАЗНАЧЕНИЕ",
+            "headline": "Lululemon сегодня официально возглавила экс-топ-менеджер Nike Хайди О'Нил",
+            "subhead": "Совет директоров утвердил её кандидатуру ещё в апреле — после почти 25 лет в Nike она отвечает за глобальный бренд, диджитал и операции.",
+            "byline": "The Trend Times",
+            "body": [
+              "Хайди О'Нил официально вступила в должность генерального директора Lululemon 8 сентября — совет директоров компании единогласно утвердил её кандидатуру ещё 22 апреля по итогам масштабного поиска. Она также вошла в совет директоров, а её рабочей базой станет Ванкувер.",
+              "О'Нил проработала в Nike более 25 лет, входя в руководство, которое провело компанию путь от бизнеса с выручкой свыше $9 млрд до глобального лидера с выручкой более $45 млрд, отвечая за продукт, бренд и операционную деятельность.",
+              "По условиям контракта, подписанного 21 апреля, О'Нил получит базовую зарплату $1,4 млн, значительный бонус по результатам работы, ежегодные опционы, а также разовые акции при вступлении в должность и удерживающий бонус в $2 млн, привязанный к двум годам работы в компании. Прежние временные со-CEO Меган Фрэнк и Андре Маэстрини вернутся к своим прежним ролям."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/04/22/lululemon-names-former-nike-exec-heidi-oneill-as-new-ceo.html"
+          },
+          {
+            "kicker": "УХОД",
+            "headline": "Иб Камара покинул пост креативного директора Off-White после четырёх лет",
+            "subhead": "Показ на этот сезон отменён, преемника бренд пока не назвал.",
+            "body": [
+              "Иб Камара, ближайший соратник Вирджила Абло, объявил об уходе с поста креативного директора Off-White — 31 августа компания подтвердила, что расставание было полностью взаимным. Камара пришёл в бренд в 2022 году как арт- и имидж-директор, а его последний показ прошёл в марте 2026 года.",
+              "За четыре года работы Камара, в частности, организовал первый показ Off-White в Нью-Йорке в 2024 году. «Работа в Off-White была честью и глубоким творческим образованием», — сказал он в комментарии WWD.",
+              "Преемника на посту креативного директора бренд пока не назвал, показа на предстоящий сезон не запланировано. Вместо этого Off-White запускает годовой проект 10×10: Off-White Icons Reimagined, в рамках которого десять творческих деятелей — включая Kid Cudi, A$AP Nast и Стефана Ашпуля — получат по одной культовой категории товаров бренда для переосмысления; проект продлится до апреля 2027 года."
+            ],
+            "source": "Yahoo Entertainment",
+            "url": "https://www.yahoo.com/entertainment/articles/ib-kamara-exits-off-white-154435969.html"
+          },
+          {
+            "kicker": "НАЗНАЧЕНИЕ",
+            "headline": "JD Sports назначила экс-главу IKEA Петера Агнефьелля председателем совета директоров",
+            "subhead": "Назначение вступило в силу 1 сентября — Агнефьелль сменил временного председателя Даррена Шапленда.",
+            "body": [
+              "Британский ритейлер JD Sports Fashion объявил о назначении Петера Агнефьелля председателем совета директоров с 1 сентября. Он сменил на этом посту Даррена Шапленда, который исполнял обязанности временного председателя с момента ухода Энди Хиггинсона в июле.",
+              "Агнефьелль почти два десятилетия проработал в IKEA Group, в 2013–2017 годах занимая пост президента и генерального директора компании, а с 2021 по 2025 год возглавлял совет директоров Ahold Delhaize."
+            ],
+            "source": "The Retail Bulletin",
+            "url": "https://www.theretailbulletin.com/fashion/jd-sports-appoints-former-ikea-ceo-peter-agnefjall-as-chair-07-08-2026/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Британский рэпер Nemzzz выпустил микстейп Locked In с Трэвисом Скоттом и Latto",
+            "subhead": "17-трековый проект продолжает успех его микстейпа Rent's Due, вошедшего в топ-10 британского чарта.",
+            "byline": "The Trend Times",
+            "body": [
+              "Британский рэпер Nemzzz 4 сентября выпустил микстейп Locked In — 17-трековый проект с участием Lil Yachty, Cash Cobain, Latto и Трэвиса Скотта.",
+              "Пластинка выходит вслед за его предыдущим микстейпом Rent's Due, который вошёл в топ-10 британского альбомного чарта, и закрепляет позиции Nemzzz как одного из самых заметных новых голосов британского рэпа с прицелом на американскую аудиторию."
+            ],
+            "source": "HotNewHipHop",
+            "url": "https://www.hotnewhiphop.com/1008495-locked-in-nemzzz"
+          },
+          {
+            "kicker": "АЛЬБОМ",
+            "headline": "Blu и продюсер Sndtrak выпустили совместный альбом LA",
+            "subhead": "Пластинка на лейбле Nature Sounds объединяет рэпера из Лос-Анджелеса и продюсера, аффилированного с 9th Wonder.",
+            "body": [
+              "Рэпер Blu и продюсер Sndtrak 4 сентября выпустили совместный альбом LA на лейбле Nature Sounds — десять треков с участием Cashus King, MED, Thurz и Volume 10.",
+              "Проект объединяет рэпера родом из Лос-Анджелеса и продюсера из Окленда, аффилированного с командой 9th Wonder, и продолжает вест-коустскую линию, которую Blu ведёт последние два десятилетия."
+            ],
+            "source": "Raw Drive",
+            "url": "https://www.rawdrive.com/2026/09/03/blu-sndtrak-la-album-feat-cashus-king-med-thurz-volume-10-more/"
+          },
+          {
+            "kicker": "РОССИЙСКИЙ РЭП",
+            "headline": "Грязный Рамирес выпустил альбом «Король обезьян»",
+            "subhead": "Пластинка сохраняет узнаваемый агрессивный стиль артиста с обновлённым звучанием.",
+            "body": [
+              "Рэпер Грязный Рамирес (Ram) 3 сентября выпустил альбом «Король обезьян» — одиннадцать треков с участием Bumble Beezy, Gspd, Future Fire, Booker, Plc и Jahmal TGK.",
+              "Пластинка сохраняет фирменную агрессивную читку артиста, но, по описанию самого Рамиреса, звучит по-новому; сам он называет альбом способом «убежать от тени прошлого»."
+            ],
+            "source": "YouTube",
+            "url": "https://www.youtube.com/watch?v=pOv_AkQMyEU"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-08",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 10
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "REGULATION",
+            "headline": "Anthropic Splits From OpenAI and Google Over the Toughest State AI Safety Bill in the US",
+            "subhead": "Massachusetts is pushing mandatory independent reviews of 'catastrophic' risk — Anthropic backs the tough rules, its rivals are fighting them.",
+            "byline": "The Trend Times",
+            "body": [
+              "Massachusetts has become the newest battleground over how US states regulate frontier AI: back in July, the state Senate folded rules into an economic development bill requiring companies with more than $500 million in AI-derived revenue or over $1 billion in R&D spending to publish safety frameworks and undergo independent reviews of catastrophic risk every four months.",
+              "Anthropic has backed the measure as the strongest state-level AI safety proposal in the country and, according to reports, donated more than $120,000 to Massachusetts Democrats in August. OpenAI and Google, by contrast, are lobbying for a lighter-touch version modeled on Illinois's law, which limits itself to an annual third-party audit.",
+              "As of early September, the bill is in conference negotiations between the two legislative chambers, and its final form could look very different from the version the Senate passed."
+            ],
+            "source": "PYMNTS",
+            "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openai-split-as-massachusetts-pushes-nations-toughest-ai-safety-rules/"
+          },
+          {
+            "kicker": "INTERVIEW",
+            "headline": "Sam Altman Admits the AI Industry Has Fumbled Explaining Its Own Benefits",
+            "subhead": "The OpenAI CEO told Bloomberg that companies, including his own, have failed to make the case for why AI matters.",
+            "body": [
+              "In a September 3 interview with Bloomberg Television, OpenAI CEO Sam Altman said leading AI developers have \"done a terrible job on the whole\" of communicating the technology's benefits to the public, leaving the industry exposed to growing local backlash.",
+              "Altman said OpenAI is no exception, acknowledging his own company hasn't handled the messaging well either, and that developers have failed to clearly show how AI can support ordinary people's creativity and entrepreneurship.",
+              "He said it's essential that AI make people feel more powerful and in control rather than less — a point he tied directly to mounting community opposition to new data center construction."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-03/sam-altman-says-openai-has-fumbled-at-communicating-ai-benefits"
+          },
+          {
+            "kicker": "DEAL",
+            "headline": "Nvidia Is Buying Hugging Face for $12.9 Billion, and Says It Will Keep the Platform Open",
+            "subhead": "It's Nvidia's second-largest deal ever, after its $20 billion purchase of Groq's assets.",
+            "body": [
+              "Nvidia announced it will acquire open AI platform Hugging Face for $12.9 billion, pushing further up the AI stack beyond chipmaking alone. Of that total, $11.9 billion goes directly to Hugging Face shareholders, with up to $1 billion more set aside as retention equity for employees joining Nvidia.",
+              "The deal, expected to close in the first half of 2027 pending regulatory approval, touches a platform used by more than 18 million developers and researchers, hosting over 3 million models and datasets, with more than 200,000 companies relying on it to find and deploy AI.",
+              "Nvidia pledged to keep Hugging Face open, letting developers freely publish and download models and data, and said the service will keep working with chipmakers beyond Nvidia itself. Hugging Face CEO Clément Delangue told CNBC he personally approached Nvidia's Jensen Huang about a deal over the summer."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "AD PLATFORMS",
+            "headline": "Reddit Rolls Out a Global 15-Second 'Engaged' Video View Metric",
+            "subhead": "The new optimization goal targets ads that need more time to land — trailers, product demos, brand storytelling.",
+            "byline": "The Trend Times",
+            "body": [
+              "Reddit announced a global public beta of a new optimization goal and billing option for advertisers, 15-Second Engaged Video Views: a short ad counts as viewed once it's watched to completion, while a longer one counts once someone watches at least 15 seconds.",
+              "The format targets ad types that need more runway to land — film, TV and game trailers, product demos, explainer videos, testimonials and longer brand storytelling.",
+              "Reddit says alpha testers saw a 51% average lift in 15-second view-through rate and a 71% lift in completion rate. The new option complements Reddit's existing 6-second view goal, with advertisers now billed specifically for engaged views."
+            ],
+            "source": "Social Media Today",
+            "url": "https://www.socialmediatoday.com/news/reddit-launches-15-second-video-views-ad-goal/829375/"
+          },
+          {
+            "kicker": "MEASUREMENT",
+            "headline": "Comscore Can Now Measure How Sponsored Ads Inside AI Chatbots Actually Perform",
+            "subhead": "The new tool ties ad placements inside chatbot answers to what users do afterward.",
+            "body": [
+              "Comscore announced an expansion of its Comscore AI Intelligence product that lets brands and publishers measure the impact of sponsored ads appearing alongside AI chatbot answers, and connect those placements to what users do afterward, such as visiting a brand's site.",
+              "The new capability is now built into Comscore's monthly reporting cycle, addressing industry demand for independent measurement as AI chat itself becomes a full-fledged advertising channel.",
+              "In its own analysis, Comscore found the share of sponsored links in ChatGPT's hotel-related answers climbing from 6% in March 2026 to 14% in April and 24% in May, while ChatGPT remains the most-used AI assistant, accounting for roughly 69% of unique visitors in the category in June."
+            ],
+            "source": "Comscore",
+            "url": "https://www.comscore.com/Insights/Press-Releases/2026/9/Comscore-Expands-Its-AI-Intelligence-to-Measure-Sponsored-Chat-Advertising-and-Its-Business-Impact"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "GROWTH",
+            "headline": "AI Startup Wonderful Doubles Its Valuation to $5 Billion in Under Six Months",
+            "subhead": "The company is building an 'operating system' for corporate AI agents and now operates in 35 countries.",
+            "byline": "The Trend Times",
+            "body": [
+              "Israeli-Dutch startup Wonderful closed a $550 million Series C, pushing its valuation to $5 billion — more than double the $2 billion it was worth after its last round just six months earlier. Insight Partners led the round, joined by existing backers Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer, with Salesforce coming in as a new investor.",
+              "Wonderful calls its product an AI operating system: software that lets companies build corporate AI agents, hook them into systems they already use, and monitor what those agents do, all in one place, regardless of which models or apps a customer already runs. Its customers include banks, insurers, retailers, telecoms and utilities.",
+              "Since its Series B in March, the company has grown to 650 employees across more than 35 countries; annual revenue has reached roughly $70 million and is expected to top $100 million by year's end."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+          },
+          {
+            "kicker": "FUNDING",
+            "headline": "Gimlet Labs Raises $300 Million at a $3 Billion Valuation to Spread AI Inference Across Chips",
+            "subhead": "Andreessen Horowitz led the round, with Arm and Microsoft's venture arm joining as new backers.",
+            "body": [
+              "Gimlet Labs, which helps companies split AI inference workloads across different types of chips, raised a $300 million Series B that values the company at $3 billion, bringing its total funding to $392 million.",
+              "Andreessen Horowitz led the round, with new investors including Arm Holdings and M12, Microsoft's venture fund. CEO Zain Asgar said the company is building the industry's first multi-silicon inference cloud for agentic AI workloads, matching each task to the right kind of chip.",
+              "The idea is to make GPUs and purpose-built accelerators work as a single system — which the company says delivers meaningfully more throughput and interactivity per watt, a particular advantage for fast-moving agentic workloads."
+            ],
+            "source": "TechFundingNews",
+            "url": "https://techfundingnews.com/andreessen-backed-gimlet-labs-hits-3b-valuation-with-300m-round-as-ai-goes-multi-chip/"
+          },
+          {
+            "kicker": "INFRASTRUCTURE",
+            "headline": "Crusoe Raises Another $3 Billion at a $30 Billion Valuation as AI Data Center Spending Booms",
+            "subhead": "Atreides Management and Valor Equity Partners led the round.",
+            "body": [
+              "Data center and cloud operator Crusoe closed a funding round of more than $3 billion, valuing the company at $30 billion. Investment firms Atreides Management and Valor Equity Partners led the round.",
+              "It was one of two megadeals in AI infrastructure that week: rival Fluidstack closed a $1.5 billion round at an $18 billion valuation led by Jane Street Capital around the same time — even though Fluidstack says it doesn't own a single chip, instead renting compute capacity.",
+              "The investor frenzy around companies that build and run the data centers behind model training and inference points to a broader shift: even as AI labs race for the best models, spending on the physical infrastructure underneath them is growing even faster."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FOUNDERS",
+            "headline": "From a Failed Teen Chatbot to a $12.9 Billion Exit: the Hugging Face Founder's Story",
+            "subhead": "Clément Delangue pitched Nvidia on buying his company himself — and landed one of the year's biggest AI exits.",
+            "byline": "The Trend Times",
+            "body": [
+              "Clément Delangue got his start as a teenager, becoming one of France's most successful eBay sellers by age 17, well before he turned to building AI infrastructure.",
+              "Hugging Face began in 2016 as a chatbot app aimed at bored teenagers — a product Delangue has said flopped. But when he open-sourced the underlying code, it found a far bigger audience among AI developers than the original app ever had.",
+              "A decade later, Hugging Face is the central hub for open model-sharing used by more than 18 million developers; on September 3, the company announced it's selling to Nvidia for $12.9 billion. According to CNBC, it was Delangue himself who approached Nvidia CEO Jensen Huang about the deal over the summer."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+          },
+          {
+            "kicker": "SERIAL FOUNDER",
+            "headline": "Bar Winkler Already Sold One Startup — Now His Wonderful Is Worth $5 Billion After 20 Months",
+            "subhead": "The Wonderful co-founder and CEO previously sold Approve.com to Tipalti.",
+            "body": [
+              "Bar Winkler is a repeat founder: before Wonderful, he built Approve.com, which was later acquired by finance automation platform Tipalti. In early 2025, he and co-founder and CTO Roey Lalazar launched Wonderful, a startup building an 'operating system' for corporate AI agents.",
+              "In under two years, the company has climbed to a $5 billion valuation: a March Series B valued Wonderful at $2 billion, and a new $550 million round in September doubled that figure, backed by Insight Partners, Salesforce and others.",
+              "Over that stretch, headcount has grown to 650 people across more than 35 countries, with customers including major banks, insurers and telecoms using the platform to manage their own AI agents."
+            ],
+            "source": "Calcalistech",
+            "url": "https://www.calcalistech.com/ctechnews/article/of77ag6kn"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "APPOINTMENT",
+            "headline": "Nike Veteran Heidi O'Neill Officially Takes the Helm at Lululemon Today",
+            "subhead": "The board approved her back in April — after nearly 25 years at Nike, she now oversees global brand, digital and operations.",
+            "byline": "The Trend Times",
+            "body": [
+              "Heidi O'Neill formally became Lululemon's chief executive on September 8, after the company's board unanimously approved her appointment back on April 22 following an extensive search. She also joins the board and will be based in Vancouver.",
+              "O'Neill spent more than 25 years at Nike, where she was part of the leadership team that grew the company from a business with over $9 billion in revenue to a global leader topping $45 billion, overseeing product, brand and operations along the way.",
+              "Under an employment agreement signed April 21, O'Neill will receive a $1.4 million base salary, a substantial performance bonus opportunity, annual equity grants, sign-on stock awards and a $2 million retention bonus tied to a two-year commitment. Interim co-CEOs Meghan Frank and André Maestrini return to their previous roles."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/04/22/lululemon-names-former-nike-exec-heidi-oneill-as-new-ceo.html"
+          },
+          {
+            "kicker": "DEPARTURE",
+            "headline": "Ib Kamara Steps Down as Off-White's Creative Director After Four Years",
+            "subhead": "This season's show has been scrapped, and the brand hasn't named a successor.",
+            "body": [
+              "Ib Kamara, a close collaborator of the late Virgil Abloh, is stepping down as Off-White's creative director; the company confirmed on August 31 that the split was entirely mutual. Kamara joined the brand in 2022 as art and image director, and staged his final show in March 2026.",
+              "Over four years, Kamara notably brought Off-White's first New York show to life in 2024. \"Working at Off-White has been an honor and a profound creative education,\" he told WWD.",
+              "Off-White hasn't named a successor, and no runway show is planned for the coming season. Instead, the brand is launching 10x10: Off-White Icons Reimagined, a year-long project handing ten creatives — including Kid Cudi, A$AP Nast and Stéphane Ashpool — one iconic product category each to reinterpret, running through April 2027."
+            ],
+            "source": "Yahoo Entertainment",
+            "url": "https://www.yahoo.com/entertainment/articles/ib-kamara-exits-off-white-154435969.html"
+          },
+          {
+            "kicker": "APPOINTMENT",
+            "headline": "JD Sports Names Former IKEA Chief Peter Agnefjäll as Board Chair",
+            "subhead": "The appointment took effect September 1, with Agnefjäll succeeding interim chair Darren Shapland.",
+            "body": [
+              "British retailer JD Sports Fashion named Peter Agnefjäll as chair of its board, effective September 1. He succeeds Darren Shapland, who had served as interim chair since Andy Higginson's departure in July.",
+              "Agnefjäll spent nearly two decades at IKEA Group, serving as president and CEO from 2013 to 2017, and chaired Ahold Delhaize's board from 2021 to 2025."
+            ],
+            "source": "The Retail Bulletin",
+            "url": "https://www.theretailbulletin.com/fashion/jd-sports-appoints-former-ikea-ceo-peter-agnefjall-as-chair-07-08-2026/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "RELEASE",
+            "headline": "UK Rapper Nemzzz Drops Locked In, Featuring Travis Scott and Latto",
+            "subhead": "The 17-track mixtape follows his UK top-10 project Rent's Due.",
+            "byline": "The Trend Times",
+            "body": [
+              "UK rapper Nemzzz released the mixtape Locked In on September 4 — a 17-track project featuring Lil Yachty, Cash Cobain, Latto and Travis Scott.",
+              "The project follows his previous mixtape Rent's Due, which cracked the UK albums chart's top 10, and cements Nemzzz's status as one of the most closely watched new voices in British rap with an eye on American audiences."
+            ],
+            "source": "HotNewHipHop",
+            "url": "https://www.hotnewhiphop.com/1008495-locked-in-nemzzz"
+          },
+          {
+            "kicker": "ALBUM",
+            "headline": "Blu and Producer Sndtrak Team Up for the Album LA",
+            "subhead": "The Nature Sounds release pairs the Los Angeles rapper with a 9th Wonder-affiliated producer.",
+            "body": [
+              "Rapper Blu and producer Sndtrak released their joint album LA on Nature Sounds on September 4 — a 10-track project featuring Cashus King, MED, Thurz and Volume 10.",
+              "The project pairs an LA-born rapper with an Oakland-based producer affiliated with the 9th Wonder camp, extending the West Coast lineage Blu has built over the past two decades."
+            ],
+            "source": "Raw Drive",
+            "url": "https://www.rawdrive.com/2026/09/03/blu-sndtrak-la-album-feat-cashus-king-med-thurz-volume-10-more/"
+          },
+          {
+            "kicker": "RUSSIAN RAP",
+            "headline": "Dirty Ramirez Releases the Album The Monkey King",
+            "subhead": "The record keeps the Russian rapper's aggressive delivery while updating the sound.",
+            "body": [
+              "Russian rapper Dirty Ramirez, known as Ram, released the album Король обезьян (The Monkey King) on September 3 — eleven tracks featuring Bumble Beezy, Gspd, Future Fire, Booker, Plc and Jahmal TGK.",
+              "The record keeps the artist's signature aggressive flow while, by his own description, sounding new; Ramirez has called the album a way to \"escape the shadow of the past.\""
+            ],
+            "source": "YouTube",
+            "url": "https://www.youtube.com/watch?v=pOv_AkQMyEU"
+          }
+        ]
+      }
+    ]
+  }
+}

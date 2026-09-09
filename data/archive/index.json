@@ -106,5 +106,17 @@
       "ru": "18 материалов",
       "en": "18 articles"
     }
+  },
+  {
+    "date": "2026-09-08",
+    "number": 10,
+    "headline": {
+      "ru": "Anthropic разошлась с OpenAI и Google в споре о самом жёстком в США законе об ИИ",
+      "en": "Anthropic Splits From OpenAI and Google Over the Toughest State AI Safety Bill in the US"
+    },
+    "count": {
+      "ru": "16 материалов",
+      "en": "16 articles"
+    }
   }
 ]
