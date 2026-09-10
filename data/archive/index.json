@@ -118,5 +118,17 @@
       "ru": "16 материалов",
       "en": "16 articles"
     }
+  },
+  {
+    "date": "2026-09-09",
+    "number": 11,
+    "headline": {
+      "ru": "Mistral привлекла рекордные €3 млрд и стала самой дорогой ИИ-компанией Европы",
+      "en": "Mistral Raises a Record €3 Billion, Becoming Europe's Most Valuable AI Company"
+    },
+    "count": {
+      "ru": "16 материалов",
+      "en": "16 articles"
+    }
   }
 ]

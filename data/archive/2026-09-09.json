@@ -1,0 +1,488 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-09",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 11
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "ФИНАНСИРОВАНИЕ",
+            "headline": "Mistral привлекла рекордные €3 млрд и стала самой дорогой ИИ-компанией Европы",
+            "subhead": "Раунд возглавил Samsung, оценка компании выросла почти вдвое до €21 млрд за год.",
+            "byline": "The Trend Times",
+            "body": [
+              "Французская Mistral AI объявила о закрытии раунда серии D на €3 млрд (около $3,5 млрд) при пост-инвестиционной оценке свыше €21 млрд — это крупнейший раунд в истории европейских технологических компаний.",
+              "Раунд возглавил южнокорейский Samsung Electronics, соинвесторами выступили Scaleup Europe Fund под управлением EQT и действующий инвестор PSG Equity; в раунд также вошли Advent, фонды под управлением BlackRock и правительство Люксембурга, а также прежние акционеры — a16z, ASML, General Catalyst, Lightspeed, Nvidia и Salesforce Ventures.",
+              "Годом ранее раунд серии C оценивал Mistral в €11,7 млрд — новая оценка почти вдвое выше. Компания говорит, что направит средства на расширение исследований передовых моделей и наращивание вычислительных мощностей для обучения и инференса."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "OpenAI объявила о наступлении «эры AGI» с запуском GPT-6 Astra",
+            "subhead": "Модель с окном контекста в 1,05 млн токенов уже доступна пользователям Plus, Business и Enterprise.",
+            "body": [
+              "OpenAI начала массовый выпуск GPT-6 Astra — новой флагманской модели, которую содиректор компании Грег Брокман назвал началом «эры AGI». Ограниченный доступ модель получила ещё 3 сентября для участников программы кибербезопасности компании, а с 4 сентября раскатка пошла на всех пользователей платных тарифов ChatGPT Plus, Pro, Business и Enterprise, а также через API OpenAI, Microsoft Azure и AWS Bedrock.",
+              "Astra поддерживает окно контекста в 1,05 млн токенов и до 128 тыс. токенов на выходе; цена в API составляет $10 за миллион входных токенов и $50 за миллион выходных. Пользователям самого дешёвого тарифа ChatGPT Go за $8 в месяц доступ к Astra и к GPT-5.6 не предоставляется.",
+              "Раскатка модели прошла не без сбоев: часть пользователей столкнулась с задержками доступа, и в OpenAI признали, что запуск получился «не самым гладким», не уточнив, что именно пошло не так."
+            ],
+            "source": "VentureBeat",
+            "url": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra"
+          },
+          {
+            "kicker": "АГЕНТЫ",
+            "headline": "Meta выпустила личного ИИ-агента Muse, который умеет действовать за пользователя",
+            "subhead": "Агент открывает браузеры, заполняет формы и договаривается по делам — пока доступен только пользователям от 18 лет в США.",
+            "body": [
+              "Meta представила Muse — персонального ИИ-агента для повседневных задач вроде планирования расписания, покупок и превращения долгосрочных целей в конкретные планы действий. Сервис построен на модели Muse Spark и доступен пользователям от 18 лет через сайт muse.ai, приложения на iOS и Android, а также в чатах WhatsApp — пока только в США.",
+              "Получив от пользователя цель, Muse помогает составить персональный план, распределяет время и ресурсы, а затем самостоятельно продвигает работу дальше — вплоть до того, чтобы открыть браузер, заполнить форму или провести переговоры от имени пользователя.",
+              "Сервис бесплатен, с двумя платными тарифами — Power за $20 в месяц и Maximum за $100. Meta заявляет, что Muse работает в изолированной виртуальной машине, а до конца года получит версию Muse Confidential VM, после которой доступ к данным пользователя не будет даже у самой компании."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "РЕКЛАМНЫЕ ПЛАТФОРМЫ",
+            "headline": "Google принудительно переводит рекламные кампании в Поиске на AI Max",
+            "subhead": "С 1 по 30 сентября устаревшие кампании с широким соответствием и авто-создаваемыми объявлениями обновляются автоматически, без участия рекламодателей.",
+            "byline": "The Trend Times",
+            "body": [
+              "Google начал автоматический перевод поисковых кампаний, использующих кампанейское широкое соответствие или устаревшие автоматически создаваемые объявления (Automatically Created Assets), на формат AI Max — процесс идёт поэтапно весь сентябрь, с 1 по 30 число.",
+              "Ещё 3 августа компания закрыла возможность создавать новые кампании с этими настройками в интерфейсе Google Ads, Ads Editor и через API, а в сентябре в аккаунтах рекламодателей начали появляться уведомления с призывом добровольно перевести на AI Max и кампании динамических поисковых объявлений — пока это не стало обязательным.",
+              "Кампании переносятся «на месте» с эквивалентными настройками AI Max, чтобы минимизировать сбои: списки включений и исключений брендов сохраняются автоматически. Аналогичный шаг вслед за Google сделал и Microsoft, включив собственный AI Max по умолчанию для всех рекламодателей."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-sets-ai-max-migration-timeline-for-search-campaigns-485006"
+          },
+          {
+            "kicker": "ИЗМЕРЕНИЯ",
+            "headline": "Исследование показало: ИИ-чат-боты вдвое расходятся в том, какие бренды рекомендовать",
+            "subhead": "По данным Treyci, в одной и той же товарной категории один ИИ-движок называл отслеживаемые бренды в 81% ответов, другой — лишь в 43%.",
+            "body": [
+              "Компания Treyci, занимающаяся измерением видимости брендов в ответах генеративного ИИ, опубликовала анализ, показавший, что разные ИИ-движки могут расходиться почти вдвое в том, какие бренды они называют покупателям в ответ на один и тот же запрос.",
+              "В одной из измеренных категорий B2B-софта один движок упоминал отслеживаемые бренды в 81% ответов, а другой — только в 43%: с точки зрения пользователя оба сервиса воспринимаются как взаимозаменяемые, но фактически дают совершенно разную картину рынка.",
+              "Методология включала около 100 вопросов с покупательским намерением на категорию, которые прогонялись через ChatGPT, Perplexity, Gemini и Grok трижды в месяц на каждый движок; в сумме было оценено свыше 1200 ответов на предмет упоминаний, рекомендаций и цитирования брендов. Treyci не раскрыла ни названия самих движков, ни категорию, ни сам список промптов."
+            ],
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/09/03/3356050/0/en/new-measurement-data-ai-engines-disagree-by-2-on-which-brands-to-recommend-treyci-analysis-finds.html"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "IPO",
+            "headline": "Производитель умных колец Oura подал документы на IPO при выручке $1,4 млрд",
+            "subhead": "Компания планирует листинг на Nasdaq под тикером OURA и рассчитывает привлечь до $3 млрд.",
+            "byline": "The Trend Times",
+            "body": [
+              "Производитель умного кольца Oura 3 сентября подал в SEC документы на первичное размещение акций на Nasdaq под тикером OURA. Выручка компании за двенадцать месяцев по конец июня 2026 года составила $1,4 млрд, а за девять месяцев — $1,21 млрд, рост на 74% год к году.",
+              "Число платных подписчиков сервиса удвоилось до 5 млн, компания отгрузила 3,1 млн колец за девять месяцев; на аппаратную часть приходится 80% выручки, а на подписку — оставшиеся 20%, которые растут быстрее всего (+121% год к году).",
+              "Организаторами размещения выступают Goldman Sachs, Morgan Stanley, J.P. Morgan, Allen & Company и Jefferies — всего в сделке участвует более десятка банков. По имеющимся оценкам, компания рассчитывает на оценку выше $16 млрд и намерена привлечь до $3 млрд."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "SoftBank выводит на IPO дата-центровую SB Energy, «критически зависимую» от OpenAI",
+            "subhead": "Компания рассчитывает на оценку выше $50 млрд, хотя ни один из её дата-центров пока не приносит выручки.",
+            "body": [
+              "SB Energy, инфраструктурная компания группы SoftBank, подала заявку на первичное размещение на Nasdaq и Nasdaq Texas под тикером SBE, рассчитывая привлечь от $5 млрд до $7 млрд при целевой оценке выше $50 млрд.",
+              "В документах компания прямо признаёт, что «существенно зависит» от OpenAI: и OpenAI, и сам SoftBank выступают арендаторами по долгосрочным контрактам на трёх площадках дата-центров SB Energy. Всего законтрактованная мощность компании составляет 8,8 гигаватт, из которых пока строится лишь 803 мегаватта, плюс отдельный портфель солнечной генерации и накопителей на 5,5 гигаватт.",
+              "Ни один из дата-центров компании пока не работает и не приносит выручки — первые поступления от этого направления ожидаются лишь в четвёртом квартале. Nvidia, по данным СМИ, вложила в компанию $3 млрд, а OpenAI получила варранты на её акции."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "IPO Anthropic сдвигается на середину октября — компания рассчитывает на оценку в $2 трлн",
+            "subhead": "По данным Reuters, публичная подача проспекта откладывается на конец сентября, размещение может пройти перед промежуточными выборами в США.",
+            "body": [
+              "Anthropic сдвигает график своего IPO: по данным Reuters, публичная подача проспекта теперь ожидается не на этой неделе, как предполагалось ранее, а в конце сентября, а само размещение начнётся не раньше середины октября — вероятно, до промежуточных выборов в Конгресс США в ноябре.",
+              "Организаторами размещения выступают Morgan Stanley, Goldman Sachs, JPMorgan и Citi; инвесторы обсуждают оценку компании вплоть до $2 трлн — это более чем вдвое больше $965 млрд, в которые Anthropic оценили по итогам последнего раунда финансирования по состоянию на конец мая.",
+              "В рамках подготовки к размещению компания также рассчитывает закрыть возобновляемую кредитную линию на $15 млрд, после чего начнутся встречи с аналитиками. Сроки, впрочем, могут снова измениться в зависимости от рыночной конъюнктуры и регуляторных согласований."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "ОСНОВАТЕЛИ",
+            "headline": "Как Артюр Менш за три года построил в Mistral главного европейского конкурента OpenAI",
+            "subhead": "Рекордный раунд на €3 млрд оценил компанию физика-исследователя из DeepMind почти в €22 млрд.",
+            "byline": "The Trend Times",
+            "body": [
+              "Артюр Менш пришёл в ИИ через исследовательскую карьеру: почти три года он проработал в парижском офисе DeepMind над большими языковыми моделями, мультимодальными системами и retrieval-архитектурами, прежде чем в мае 2023 года уйти и вместе с однокурсниками по Политехнической школе Гийомом Лямплем и Тимоте Лакруа основать Mistral AI. Название компании отсылает к средиземноморскому ветру мистраль — символу скорости и масштаба.",
+              "За три года Менш вывел Mistral в число немногих серьёзных претендентов на статус «европейского ответа» OpenAI и Anthropic, последовательно позиционируя компанию как поставщика суверенного, открытого ИИ — тему, которую он в мае лично отстаивал перед Национальным собранием Франции, предостерегая от превращения страны в технологического «вассала» США, в том числе в вопросах использования иностранного ИИ в вооружённых силах.",
+              "8 сентября компания объявила о закрытии раунда серии D на €3 млрд при оценке свыше €21 млрд — почти вдвое больше, чем годом ранее. Раунд возглавил Samsung, а среди инвесторов — Nvidia, BlackRock и правительство Люксембурга."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html"
+          },
+          {
+            "kicker": "ЛИДЕРСТВО",
+            "headline": "Гендиректор Oura Том Хейл убедил компанию взять его вопреки резюме — теперь готовит её к IPO",
+            "subhead": "Перед первичным размещением совет директоров Oura пополнили ветераны Netflix и Robinhood.",
+            "body": [
+              "Том Хейл возглавил Oura в марте 2022 года, придя из руководства Cars.com, HomeAway и SurveyMonkey — опыт в основном софтверный, а не в потребительском железе, из-за чего компания поначалу ему отказала: Oura искала руководителя с опытом в потребительских товарах и хардвере. Хейл не отступил и написал письмо, убедив совет в своей правоте.",
+              "К самому продукту он пришёл как обычный пользователь: осенью 2021 года, в стрессовый период с проблемами со сном, купил кольцо Oura и, скорректировав несколько привычек по его рекомендациям — включая отказ от алкоголя вечером, — заметил ощутимый эффект уже через шесть недель.",
+              "2 сентября, готовясь к IPO, Oura объявила о пополнении совета директоров четырьмя независимыми директорами с опытом публичных компаний — выходцами из Netflix, Robinhood и Deliveroo. Подача документов на размещение состоялась на следующий день; сейчас у Oura 5 млн платных подписчиков против 2,5 млн годом ранее."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-02/oura-taps-netflix-robinhood-veterans-for-board-ahead-of-ipo"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "НЕДЕЛЯ МОДЫ",
+            "headline": "Нью-Йоркская неделя моды открывается дебютом Генри Занкова в Diane von Furstenberg",
+            "subhead": "Занков — первый арт-директор бренда за 54 года его истории; показ пройдёт в четверг, 10 сентября.",
+            "byline": "The Trend Times",
+            "body": [
+              "Официальное расписание Нью-Йоркской недели моды, которая проходит с 10 по 15 сентября и представляет коллекции весна-лето 2027, открывает Diane von Furstenberg — впервые в 54-летней истории бренда показ представит не сама Дайан фон Фюрстенберг, а назначенный этим летом арт-директор Генри Занков.",
+              "Занков — выпускник Fashion Institute of Technology в Нью-Йорке, работавший ассистентом по мужской линии в Donna Karan, а с 2020 года развивающий собственный бренд Zankov, известный работой с цветом, фактурой и «непочтительной» лёгкостью. Ранее он уже выпускал капсулу для DVF и делал коллекцию домашних вещей с певцом Тройе Сиваном.",
+              "Неделю моды закрывает показ Тома Брауна 15 сентября; в предварительном расписании CFDA — 70 показов и презентаций, включая возвращение в календарь Monse, threeASFOUR и Tommy Hilfiger, а также дебюты Бенджамина Зайдлера, Коннера Айвза, Магды Бутрым, Сабьясачи и Зэлдо."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/henry-zankov-artistic-director-diane-von-furstenberg-new-era-1238976933/"
+          },
+          {
+            "kicker": "КОЛЛАБОРАЦИЯ",
+            "headline": "Джон Гальяно выпускает первую коллекцию для Zara — свой первый проект в масс-маркете",
+            "subhead": "По условиям двухлетнего партнёрства дизайнер дважды в год «переосмысляет» архивные модели бренда.",
+            "body": [
+              "Джон Гальяно, спустя почти два года после ухода из Maison Margiela, выпускает в сентябре свою первую коллекцию, созданную в рамках двухлетнего партнёрства с Zara, — это первый проект дизайнера, ориентированный на массового покупателя, а не на дом высокой моды.",
+              "По условиям соглашения Гальяно не создаёт вещи с нуля, а работает с архивными моделями прошлых сезонов Zara, деконструируя и пересобирая их в новые силуэты — подход, узнаваемый по его прежней работе в Margiela и собственном бренде. Коллекции будут выходить дважды в год.",
+              "Для Zara сотрудничество с дизайнером такого масштаба — заметный шаг в попытке поднять восприятие бренда и средний чек, чтобы удержать покупателей, которые ищут более доступную альтернативу дизайнерским маркам на фоне подорожавшей роскоши."
+            ],
+            "source": "W Magazine",
+            "url": "https://www.wmagazine.com/fashion/zara-john-galliano-collaboration"
+          },
+          {
+            "kicker": "КОЛЛАБОРАЦИЯ",
+            "headline": "Celine выпускает свои первые кроссовки — переосмысленную Reebok Freestyle Lo",
+            "subhead": "Восемь расцветок поступают в продажу с 10 сентября, специальная версия — эксклюзивно в двух магазинах.",
+            "body": [
+              "Модный дом Celine и Reebok выпускают совместную линию кроссовок на основе модели Freestyle Lo — первую в истории Celine коллаборацию в категории кроссовок. Обувь, впервые показанная на мужском показе бренда в Париже в июне, представлена в восьми расцветках, включая Optic White, Black, Butter и Oxblood, и выполнена из кожи ягнёнка под руководством креативного директора Celine Майкла Райдера.",
+              "Reebok Freestyle Lo был создан дизайнером Энджелом Мартинесом ещё в 1982 году как обувь для женщин, увлечённых модой на аэробику; Celine описывает коллаборацию формулой «наследие с двух сторон: парижская улица и американское движение».",
+              "Ограниченная версия появится эксклюзивно в двух флагманских магазинах, а вся коллекция станет доступна с 10 сентября онлайн и с 12 сентября — в точках бренда по всему миру, от Нью-Йорка и Парижа до Токио, Шанхая и Дубая."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/footwear-news/sneaker-news/celine-reebok-freestyle-lo-sneaker-release-date-1239200585/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Rakim, Kurupt и Masta Killa объединяют West Coast и Wu-Tang в альбоме The Godbody LP",
+            "subhead": "Пластинка с участием Snoop Dogg, Ghostface Killah и KRS-One выходит 18 сентября.",
+            "byline": "The Trend Times",
+            "body": [
+              "Легенда золотой эры хип-хопа Rakim вместе с Kurupt из Tha Dogg Pound и Masta Killa из Wu-Tang Clan выпускают совместный альбом The Godbody LP — редкое объединение западного побережья и нью-йоркской школы на одной пластинке, спродюсированной самим Rakim и Nick Wiz.",
+              "31 августа трио выпустило сингл и клип «DPG Wu-Tang, Wu-Tang DPG» — прямую отсылку к двум легендарным командам, которые он сводит вместе. В 15 треках альбома заявлены Snoop Dogg, Raekwon, Ghostface Killah, KRS-One, Kool G Rap, Daz Dillinger, Kokane, Buckshot и другие.",
+              "Релиз The Godbody LP намечен на 18 сентября — для всех троих артистов это редкий за последние годы совместный проект такого масштаба, объединяющий два поколения и две прописки классического рэпа."
+            ],
+            "source": "DubCNN",
+            "url": "https://www.dubcnn.com/2026/08/31/rakim-kurupt-masta-killa-release-single-and-video-dpg-wu-tang-wu-tang-dpg/"
+          },
+          {
+            "kicker": "РОССИЙСКИЙ РЭП",
+            "headline": "L'One напишет новый альбом за неделю в поезде Москва — Владивосток",
+            "subhead": "Рэпер оборудовал в вагоне студию и пишет минимум по одному треку в день на протяжении всего девятитысячекилометрового пути.",
+            "body": [
+              "Рэпер L'One (Леван Горозия) отправился в семидневное путешествие на поезде по маршруту Москва — Владивосток, чтобы написать целый альбом прямо в пути — по собственному признанию артиста в Telegram, это не рекламный трюк, а концепт, в котором сам процесс создания музыки «под стук колёс» становится частью содержания будущего релиза.",
+              "Прямо в вагоне оборудована временная студия, а план артиста — минимум одна новая песня за каждый день почти девятитысячекилометрового маршрута.",
+              "О затее стало известно 8 сентября; финальный трек-лист и дата выхода самого альбома пока не объявлены."
+            ],
+            "source": "InterMedia",
+            "url": "https://www.intermedia.ru/news/406533"
+          },
+          {
+            "kicker": "АЛЬБОМ",
+            "headline": "EST Gee выпускает 20-трековый альбом Bigger Than the Devil",
+            "subhead": "Релиз на CMG/Interscope выходит 11 сентября вслед за синглами «Ya Digg» и «You Know It».",
+            "body": [
+              "Рэпер из Луисвилла EST Gee готовит к выходу 11 сентября новый альбом Bigger Than the Devil — 20 треков на лейблах CMG и Interscope Records.",
+              "Перед релизом артист выпустил два сингла — «Ya Digg» при участии SkiMike и «You Know It» с участием 86Snot, EST Spit и EST4Nikk, — задав тон предстоящему альбому."
+            ],
+            "source": "uDiscoverMusic",
+            "url": "https://www.udiscovermusic.com/news/est-gee-bigger-than-the-devil/"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-09",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 11
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "Mistral Raises a Record €3 Billion, Becoming Europe's Most Valuable AI Company",
+            "subhead": "Samsung led the round, which nearly doubled Mistral's valuation to €21 billion in a year.",
+            "byline": "The Trend Times",
+            "body": [
+              "French AI lab Mistral AI said it closed a €3 billion (about $3.5 billion) Series D at a post-money valuation above €21 billion — the largest funding round ever raised by a European tech company.",
+              "Samsung Electronics led the round, joined by co-leads Scaleup Europe Fund, managed by EQT, and existing backer PSG Equity; new investors Advent, funds managed by BlackRock, and the Grand Duchy of Luxembourg also joined, alongside returning shareholders a16z, ASML, General Catalyst, Lightspeed, Nvidia and Salesforce Ventures.",
+              "A year ago, Mistral's Series C valued the company at €11.7 billion — the new valuation is nearly double that. Mistral says the money will go toward expanding frontier research and scaling the compute it needs to train and run its models."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "OpenAI Declares the Start of the 'AGI Era' With GPT-6 Astra",
+            "subhead": "The model, with a 1.05-million-token context window, is already rolling out to Plus, Business and Enterprise users.",
+            "body": [
+              "OpenAI has begun a broad rollout of GPT-6 Astra, its new flagship model, which co-founder Greg Brockman called the start of the \"AGI era.\" Limited access opened September 3 to participants in the company's cybersecurity program, before expanding on September 4 to all paying ChatGPT Plus, Pro, Business and Enterprise users, as well as through the OpenAI API, Microsoft Azure and AWS Bedrock.",
+              "Astra supports a 1.05-million-token context window and up to 128,000 tokens of output; API pricing runs $10 per million input tokens and $50 per million output tokens. Subscribers to the cheaper $8-a-month ChatGPT Go plan don't get access to Astra or to GPT-5.6.",
+              "The rollout wasn't entirely smooth — some users ran into access delays, and OpenAI acknowledged the launch was \"messy\" without detailing exactly what went wrong."
+            ],
+            "source": "VentureBeat",
+            "url": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra"
+          },
+          {
+            "kicker": "AGENTS",
+            "headline": "Meta Launches Muse, a Personal AI Agent That Can Act on Your Behalf",
+            "subhead": "It can open a browser, fill out forms and negotiate for you — for now, only for US users 18 and older.",
+            "body": [
+              "Meta unveiled Muse, a personal AI agent for everyday tasks like managing a schedule, shopping, and turning long-term goals into concrete plans. Built on the Muse Spark model, it's available to users 18 and up through muse.ai, iOS and Android apps, and WhatsApp chats — US only for now.",
+              "Once someone shares a goal, Muse helps build a personalized plan, coordinates time and resources, and then carries the work forward on its own — including opening a browser, filling out forms or negotiating on the user's behalf.",
+              "The service is free, with two paid tiers: Power at $20 a month and Maximum at $100. Meta says Muse runs inside an isolated virtual machine, and a Muse Confidential VM arriving later this year will make it so even Meta itself can't see a user's data."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "AD PLATFORMS",
+            "headline": "Google Is Force-Migrating Search Campaigns to AI Max",
+            "subhead": "From September 1 through 30, legacy broad-match and auto-generated-asset campaigns are being upgraded automatically, with no advertiser input required.",
+            "byline": "The Trend Times",
+            "body": [
+              "Google has begun automatically migrating Search campaigns that use campaign-level broad match or legacy Automatically Created Assets to its AI Max format — a rollout running gradually throughout September, from the 1st through the 30th.",
+              "Back on August 3, Google already blocked advertisers from creating new campaigns with those settings across the Google Ads UI, Ads Editor and API; this month, accounts started seeing in-product prompts urging advertisers to voluntarily upgrade Dynamic Search Ads to AI Max before that, too, becomes mandatory.",
+              "Campaigns are migrated in place with equivalent AI Max settings to minimize disruption, and existing brand inclusions and exclusions carry over automatically. Microsoft followed with a similar move, switching on its own AI Max by default for all advertisers."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-sets-ai-max-migration-timeline-for-search-campaigns-485006"
+          },
+          {
+            "kicker": "MEASUREMENT",
+            "headline": "Study Finds AI Chatbots Can Disagree by 2x on Which Brands to Recommend",
+            "subhead": "Treyci found one AI engine mentioned tracked brands in 81% of its answers in a given category, while another mentioned them in just 43%.",
+            "body": [
+              "Treyci, a firm that tracks brand visibility in generative-AI answers, published an analysis showing how differently AI engines can answer the same buying question — sometimes recommending a near-opposite set of brands.",
+              "In one measured B2B software category, one engine referenced the tracked brands in 81% of its answers, while another did so in just 43% — a nearly two-fold gap between tools that buyers tend to treat as interchangeable.",
+              "The methodology ran roughly 100 buying-intent questions per category across ChatGPT, Perplexity, Gemini and Grok, repeating each prompt three times a month per engine and scoring more than 1,200 resulting answers for brand mentions, recommendations and citations. Treyci didn't name the two engines or the category, or publish its prompt set."
+            ],
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/09/03/3356050/0/en/new-measurement-data-ai-engines-disagree-by-2-on-which-brands-to-recommend-treyci-analysis-finds.html"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "IPO",
+            "headline": "Smart Ring Maker Oura Files for IPO With $1.4 Billion in Revenue",
+            "subhead": "The company is targeting a Nasdaq listing under the ticker OURA and hopes to raise up to $3 billion.",
+            "byline": "The Trend Times",
+            "body": [
+              "Oura, maker of the Oura smart ring, filed paperwork with the SEC on September 3 for a Nasdaq IPO under the ticker OURA. Revenue for the twelve months through June 2026 reached $1.4 billion, while nine-month revenue hit $1.21 billion, up 74% year over year.",
+              "Paid membership doubled to 5 million, and the company shipped 3.1 million rings over the nine-month period; hardware accounts for 80% of revenue, with the remaining 20% coming from membership subscriptions, which are growing faster, up 121% year over year.",
+              "Goldman Sachs, Morgan Stanley, J.P. Morgan, Allen & Company and Jefferies are leading the offering, with more than a dozen banks involved altogether. Reports put Oura's target valuation above $16 billion, with the company looking to raise as much as $3 billion."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "SoftBank Takes AI Data Center Arm SB Energy Public, Warns It's 'Substantially Dependent' on OpenAI",
+            "subhead": "The company is targeting a valuation above $50 billion, even though none of its data centers has generated revenue yet.",
+            "body": [
+              "SB Energy, the infrastructure arm of SoftBank Group, has filed for an IPO on Nasdaq and Nasdaq Texas under the ticker SBE, aiming to raise between $5 billion and $7 billion at a target valuation above $50 billion.",
+              "In its filing, the company acknowledges it is \"substantially dependent\" on OpenAI: both OpenAI and SoftBank itself are tenants under long-term leases at three of SB Energy's data center campuses. Its contracted capacity totals 8.8 gigawatts, of which just 803 megawatts is currently under construction, plus a separate 5.5-gigawatt solar and battery storage portfolio.",
+              "None of the company's data centers is operational yet, meaning it has no data center revenue to date — its first is expected in the fourth quarter. Nvidia has reportedly invested $3 billion in the company, while OpenAI holds warrants for its stock."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Anthropic's IPO Slips to Mid-October as It Eyes a $2 Trillion Valuation",
+            "subhead": "Reuters reports the public prospectus filing is now pushed to late September, with the listing potentially timed just before the US midterm elections.",
+            "body": [
+              "Anthropic is pushing back its IPO timetable: Reuters reports the public filing of its prospectus, once expected as soon as this week, is now slipping to late September, with the offering itself not launching until mid-October at the earliest — likely timed to land before November's US congressional midterms.",
+              "Morgan Stanley, Goldman Sachs, JPMorgan and Citi are leading the offering; investors are weighing a valuation as high as $2 trillion, more than double the $965 billion Anthropic was worth after its last funding round as of the end of May.",
+              "Ahead of the listing, the company is also looking to close a $15 billion revolving credit facility, after which analyst meetings are expected to begin. The timeline could still shift again depending on market conditions and regulatory review."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FOUNDERS",
+            "headline": "How Arthur Mensch Built Mistral Into Europe's Answer to OpenAI in Three Years",
+            "subhead": "A record €3 billion round just valued the former DeepMind researcher's company at nearly €22 billion.",
+            "byline": "The Trend Times",
+            "body": [
+              "Arthur Mensch came to AI through research, spending nearly three years at DeepMind's Paris office working on large language models, multimodal systems and retrieval-augmented architectures before leaving in May 2023 to co-found Mistral AI with fellow École Polytechnique alumni Guillaume Lample and Timothée Lacroix. The company's name nods to the Mediterranean mistral wind — a symbol of speed and scale.",
+              "In three years, Mensch has turned Mistral into one of the few credible European challengers to OpenAI and Anthropic, consistently positioning it as a champion of sovereign, open AI — an argument he made in person to France's National Assembly in May, warning against the country becoming a technological \"vassal state\" to the US, including in how its armed forces use foreign AI.",
+              "On September 8, the company announced a €3 billion Series D at a valuation above €21 billion — nearly double what it was worth a year earlier. Samsung led the round, with Nvidia, BlackRock and the government of Luxembourg among the investors."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html"
+          },
+          {
+            "kicker": "LEADERSHIP",
+            "headline": "Oura's CEO Talked His Way Into the Job — Now He's Taking the Company Public",
+            "subhead": "Ahead of its IPO, Oura just added board veterans from Netflix and Robinhood.",
+            "body": [
+              "Tom Hale became Oura's CEO in March 2022, arriving from leadership roles at Cars.com, HomeAway and SurveyMonkey — a software-heavy résumé that initially got him rejected, since Oura was looking for someone with consumer hardware experience. Hale pushed back, writing a letter that convinced the board he was the right fit anyway.",
+              "His connection to the product started as a user: in the fall of 2021, struggling with sleep during a stressful stretch, he bought an Oura Ring, made a few changes based on its feedback — including cutting out evening drinking — and saw a marked improvement within six weeks.",
+              "On September 2, ahead of its IPO, Oura added four independent directors with public-company experience, drawn from Netflix, Robinhood and Deliveroo; the company filed its IPO paperwork the very next day. Oura now counts 5 million paid subscribers, up from 2.5 million a year earlier."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-02/oura-taps-netflix-robinhood-veterans-for-board-ahead-of-ipo"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "FASHION WEEK",
+            "headline": "New York Fashion Week Opens With Henry Zankov's Debut at Diane von Furstenberg",
+            "subhead": "Zankov is the brand's first artistic director in its 54-year history; the show is Thursday, September 10.",
+            "byline": "The Trend Times",
+            "body": [
+              "The official New York Fashion Week schedule, running September 10 to 15 and showcasing Spring/Summer 2027 collections, opens with Diane von Furstenberg — and for the first time in the brand's 54-year history, the show won't be presented by Diane von Furstenberg herself, but by Henry Zankov, named artistic director this summer.",
+              "Zankov, a Fashion Institute of Technology graduate who worked as a menswear assistant designer at Donna Karan before launching his own label, Zankov, in 2020, is known for his work with color, texture and an \"irreverent\" ease. He has already designed a DVF capsule and a homeware collection with singer Troye Sivan.",
+              "The week closes with Thom Browne on September 15; the CFDA's preliminary schedule lists 70 shows and presentations, including returns from Monse, threeASFOUR and Tommy Hilfiger, plus debuts from Benjamin Seidler, Conner Ives, Magda Butrym, Sabyasachi and Zaldy."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/henry-zankov-artistic-director-diane-von-furstenberg-new-era-1238976933/"
+          },
+          {
+            "kicker": "COLLABORATION",
+            "headline": "John Galliano Launches His First Zara Collection — His First Mass-Market Project",
+            "subhead": "Under a two-year deal, the designer will 're-author' the retailer's archive twice a year.",
+            "body": [
+              "Nearly two years after leaving Maison Margiela, John Galliano is releasing his first collection this September under a two-year partnership with Zara — his first project aimed at a mass-market audience rather than a couture house.",
+              "Rather than designing from scratch, Galliano is working with archival Zara pieces from past seasons, deconstructing and reassembling them into new silhouettes — a signature approach from his Margiela years and his own label. New collections will arrive twice a year.",
+              "For Zara, landing a designer of Galliano's stature is a notable move to lift the brand's perception and price points, aimed at shoppers seeking a more affordable alternative to designer labels as luxury prices climb."
+            ],
+            "source": "W Magazine",
+            "url": "https://www.wmagazine.com/fashion/zara-john-galliano-collaboration"
+          },
+          {
+            "kicker": "COLLABORATION",
+            "headline": "Celine Releases Its First-Ever Sneaker, Reworking the Reebok Freestyle Lo",
+            "subhead": "Eight colorways go on sale from September 10, with a special edition exclusive to two stores.",
+            "body": [
+              "Celine and Reebok are releasing a joint sneaker line built on the Freestyle Lo — Celine's first-ever sneaker collaboration. First shown on Celine's Paris menswear runway in June, the shoe comes in eight colorways, including Optic White, Black, Butter and Oxblood, rendered in lambskin under creative director Michael Rider.",
+              "The Reebok Freestyle Lo was designed by Angel Martinez in 1982 for women drawn to the era's aerobics boom; Celine describes the collaboration as \"heritage two ways: Paris street, American movement.\"",
+              "A limited edition lands exclusively in two flagship stores, while the full collection goes on sale online from September 10 and arrives in Celine stores worldwide from September 12, from New York and Paris to Tokyo, Shanghai and Dubai."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/footwear-news/sneaker-news/celine-reebok-freestyle-lo-sneaker-release-date-1239200585/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "RELEASE",
+            "headline": "Rakim, Kurupt and Masta Killa Unite the West Coast and Wu-Tang on The Godbody LP",
+            "subhead": "The album, featuring Snoop Dogg, Ghostface Killah and KRS-One, arrives September 18.",
+            "byline": "The Trend Times",
+            "body": [
+              "Golden-era icon Rakim has teamed up with Tha Dogg Pound's Kurupt and Wu-Tang Clan's Masta Killa for The Godbody LP, a rare crossover between West Coast rap and the New York school, produced by Rakim himself alongside Nick Wiz.",
+              "On August 31, the trio released the single and video \"DPG Wu-Tang, Wu-Tang DPG,\" a direct nod to the two legendary crews it brings together. The album's 15 tracks feature Snoop Dogg, Raekwon, Ghostface Killah, KRS-One, Kool G Rap, Daz Dillinger, Kokane, Buckshot and others.",
+              "The Godbody LP is set for release on September 18 — a rare joint project of this scale for all three artists, bridging two generations and two coasts of classic hip-hop."
+            ],
+            "source": "DubCNN",
+            "url": "https://www.dubcnn.com/2026/08/31/rakim-kurupt-masta-killa-release-single-and-video-dpg-wu-tang-wu-tang-dpg/"
+          },
+          {
+            "kicker": "RUSSIAN RAP",
+            "headline": "L'One Is Writing a New Album in a Week Aboard the Moscow-Vladivostok Train",
+            "subhead": "The rapper set up a studio in his train car and is writing at least one track a day across the roughly 9,000-kilometer route.",
+            "body": [
+              "Russian rapper L'One (Levan Gorozia) has set off on a seven-day train journey from Moscow to Vladivostok to write an entire album along the way — by his own account on Telegram, this isn't a publicity stunt but a concept in which the process of making music \"to the sound of the wheels\" becomes part of the release itself.",
+              "A temporary studio has been set up in his train car, with a plan to finish at least one new song for each day of the roughly 9,000-kilometer trip.",
+              "News of the project broke on September 8; the album's final tracklist and release date haven't been announced yet."
+            ],
+            "source": "InterMedia",
+            "url": "https://www.intermedia.ru/news/406533"
+          },
+          {
+            "kicker": "ALBUM",
+            "headline": "EST Gee Is Dropping a 20-Track Album, Bigger Than the Devil",
+            "subhead": "The CMG/Interscope release lands September 11, following the singles \"Ya Digg\" and \"You Know It.\"",
+            "body": [
+              "Louisville rapper EST Gee is set to release his new album, Bigger Than the Devil, on September 11 — 20 tracks out via CMG and Interscope Records.",
+              "Ahead of the release, he dropped two singles: \"Ya Digg,\" featuring SkiMike, and \"You Know It,\" featuring 86Snot, EST Spit and EST4Nikk, setting the tone for the album to come."
+            ],
+            "source": "uDiscoverMusic",
+            "url": "https://www.udiscovermusic.com/news/est-gee-bigger-than-the-devil/"
+          }
+        ]
+      }
+    ]
+  }
+}
