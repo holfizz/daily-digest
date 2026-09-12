@@ -142,5 +142,17 @@
       "ru": "20 материалов",
       "en": "20 articles"
     }
+  },
+  {
+    "date": "2026-09-11",
+    "number": 13,
+    "headline": {
+      "ru": "OpenAI выпустила GPT-6 Astra — самую мощную модель компании",
+      "en": "OpenAI Ships GPT-6 Astra, Its Most Capable Model Yet"
+    },
+    "count": {
+      "ru": "21 материал",
+      "en": "21 articles"
+    }
   }
 ]
