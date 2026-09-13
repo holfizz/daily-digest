@@ -154,5 +154,17 @@
       "ru": "21 материал",
       "en": "21 articles"
     }
+  },
+  {
+    "date": "2026-09-12",
+    "number": 14,
+    "headline": {
+      "ru": "Anthropic обвинила китайские лаборатории в масштабном заимствовании возможностей Claude",
+      "en": "Anthropic Accuses Chinese Labs of Large-Scale Harvesting of Claude's Capabilities"
+    },
+    "count": {
+      "ru": "22 материала",
+      "en": "22 articles"
+    }
   }
 ]
