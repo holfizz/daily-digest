@@ -166,5 +166,17 @@
       "ru": "22 материала",
       "en": "22 articles"
     }
+  },
+  {
+    "date": "2026-09-13",
+    "number": 15,
+    "headline": {
+      "ru": "DeepSeek выпустила V4.1 Flash — компактную модель с ценами вдвое ниже прежних",
+      "en": "DeepSeek Releases V4.1 Flash, a Leaner Model at Half the Old Price"
+    },
+    "count": {
+      "ru": "22 материала",
+      "en": "22 articles"
+    }
   }
 ]
