@@ -190,5 +190,17 @@
       "ru": "22 материала",
       "en": "22 articles"
     }
+  },
+  {
+    "date": "2026-09-15",
+    "number": 17,
+    "headline": {
+      "ru": "Google DeepMind столкнула сто ИИ-агентов на «конференции» — и получила читеров и стукачей",
+      "en": "Google DeepMind Set 100 AI Agents Loose at a 'Conference' — and Got Cheaters and Whistleblowers"
+    },
+    "count": {
+      "ru": "18 материалов",
+      "en": "18 articles"
+    }
   }
 ]
