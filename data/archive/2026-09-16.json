@@ -1,0 +1,508 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-16",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 18
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "ИНФРАСТРУКТУРА",
+            "headline": "Cornelis Networks привлекла $205 млн и бросает вызов Nvidia новой архитектурой сетей для ИИ",
+            "subhead": "Active Compute Fabric — открытая платформа, которая встраивает вычисления прямо в сетевые чипы; раунд возглавила IAG Capital Partners, а стратегическим партнером стала Qualcomm.",
+            "byline": "The Trend Times",
+            "body": [
+              "Стартап Cornelis Networks, разрабатывающий сетевую инфраструктуру для дата-центров ИИ, привлек $205 млн и представил новую архитектуру Active Compute Fabric — открытую платформу для scale-up и scale-out сетей, объявленную одновременно со стратегическим партнерством с Qualcomm Technologies. Раунд возглавила IAG Capital Partners.",
+              "В отличие от типичных smart NIC или DPU, Active Compute Fabric встраивает программируемые вычисления непосредственно в сетевой кремний, что позволяет разгружать коллективные операции, адаптировать поведение сети под конкретную нагрузку и добавлять новые функции по мере развития ИИ-софта.",
+              "Компания направит привлеченные средства на масштабирование производства коммутаторов CN5000 и CN6000 и ускорение внедрения Active Compute Fabric — шаг, прямо нацеленный на то, чтобы отвоевать долю рынка сетевого оборудования для ИИ-кластеров у Nvidia."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Сэм Альтман: IPO OpenAI откладывается до 2027 года",
+            "subhead": "Гендиректор назвал выход на биржу в 2026 году «непродуманным решением» на фоне растущей тревоги по поводу безопасности ИИ — в то время как Anthropic готовится к размещению до конца года.",
+            "body": [
+              "В интервью Fortune 12 сентября гендиректор OpenAI Сэм Альтман заявил, что компания не станет выходить на биржу в 2026 году: по его словам, «именно сейчас, с учетом всего происходящего вокруг безопасности, было бы непродуманным решением стать публичной компанией — и мы не чувствуем давления в этом вопросе».",
+              "Альтман допустил, что ведущие ИИ-лаборатории могут быть близки к соглашению о совместном замедлении темпов разработки передовых моделей ради управления быстрорастущими рисками безопасности, отметив, что внутри OpenAI обсуждается идея «притормозить» на самых передовых направлениях.",
+              "Решение переносит окно IPO OpenAI на 2027 год — в то время как ее главный конкурент Anthropic, по имеющимся данным, планирует собственное размещение уже до конца 2026 года при оценке, которая может достичь $2,3 трлн."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"
+          },
+          {
+            "kicker": "КИБЕРБЕЗОПАСНОСТЬ",
+            "headline": "Хакер организовал рой из сотен ИИ-агентов и взломал 395 организаций в 48 странах",
+            "subhead": "Исследователи GreyNoise и Blackpoint Cyber описали первую задокументированную атаку, в которой все — от разведки до захвата домена — выполняли автономные ИИ-агенты.",
+            "body": [
+              "9 сентября компании GreyNoise и Blackpoint Cyber независимо друг от друга опубликовали расследования одной и той же кампании: злоумышленник, предположительно русскоязычный, использовал скоординированный рой ИИ-агентов для взлома как минимум 440 серверов PaperCut NG/MF в 395 организациях из 48 стран. Больше всего пострадали учреждения образования, за ними — ритейл, компании сферы профессиональных услуг и гостиничный бизнес.",
+              "По данным GreyNoise, атакующий сначала развернул приватную лабораторию с уязвимой копией PaperCut NG/MF и сервером Active Directory, чтобы разработать и протестировать эксплойты для двух уязвимостей — CVE-2026-81578 и CVE-2026-82078, а затем поручил рутинную работу по поиску незащищенных серверов и запуску эксплойтов не человеку, а группе ИИ-агентов на основе коммерческих моделей, включая OpenAI Codex и одну из моделей DeepSeek.",
+              "Скорость атаки поражает: от пустого рабочего пространства до удаленного выполнения кода на реальной жертве прошло менее четырех часов, а еще через два часа атакующий получил права администратора домена. Отчет получил название «Agents Gone Wild» — «Агенты слетели с катушек»."
+            ],
+            "source": "GreyNoise",
+            "url": "https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "КАМПАНИИ",
+            "headline": "Macy's запустила осеннюю кампанию с капсулой шести культовых американских дизайнеров",
+            "subhead": "«Celebrate American Designers» объединила Томми Хилфигера, Донну Каран и Майкла Корса с новым поколением — Джонатаном Коэном, LAPOINTE и Theophilio.",
+            "byline": "The Trend Times",
+            "body": [
+              "Macy's представила осеннюю версию своей сезонной кампании «Find Us At Macy's», построенной вокруг идеи, что настоящий стиль рождается из неожиданных сочетаний брендов, влияний и точек зрения. В центре кампании — эксклюзивная капсульная коллекция «Celebrate American Designers».",
+              "В капсулу вошли лимитированные коллекции шести знаковых имен американской моды: «иконы» Томми Хилфигер, Донна Каран и Майкл Корс, а также «новая гвардия» — Джонатан Коэн, LAPOINTE и Theophilio; каждый представил собственную линию, доступную только у Macy's.",
+              "26 сентября сеть проведет по всей стране серию мероприятий «Celebration Saturday» с иммерсивными стайлинг-зонами, подарками при покупке и развлекательной программой — покупатели смогут вживую увидеть капсулу и полный осенний ассортимент."
+            ],
+            "source": "Macy's, Inc.",
+            "url": "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Unveils-Its-2026-Fall-Fashion-Campaign-Featuring-a-Celebration-of-American-Fashion/default.aspx"
+          },
+          {
+            "kicker": "БРЕНДЫ",
+            "headline": "DKNY выпустила осеннюю кампанию с Айрис Лоу и Амелией Грей",
+            "subhead": "Две модели нового поколения представляют возвращение бренда к его нью-йоркским корням.",
+            "body": [
+              "DKNY представила кампанию Fall 2026 с участием моделей Айрис Лоу и Амелии Грей — двух узнаваемых лиц нового поколения, которые, по замыслу бренда, олицетворяют актуальное прочтение нью-йоркского стиля.",
+              "Кампания сделана в узнаваемой городской эстетике DKNY, которая исторически строит образ бренда на энергии Нью-Йорка, и делает ставку на лица поколения Z и молодых миллениалов, чтобы вернуть бренду культурную актуальность на конкурентном рынке американского casual-люкса."
+            ],
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/09/01/3354264/0/en/dkny-reveals-its-fall-2026-campaign-featuring-iris-law-and-amelia-gray.html"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "ЗДРАВООХРАНЕНИЕ",
+            "headline": "Thatch привлек $108 млн и достиг оценки в $1 млрд на фоне роста расходов на здравоохранение",
+            "subhead": "Выручка платформы выросла почти в семь раз за год — более 5000 работодателей уже используют ICHRA-модель вместо традиционных групповых страховых планов.",
+            "byline": "The Trend Times",
+            "body": [
+              "Стартап Thatch, разрабатывающий платформу для управления медицинскими льготами сотрудников, привлек $108 млн в раунде Series C при оценке в $1 млрд. Раунд поддержали существующие инвесторы — The General Partnership, Index Ventures, General Catalyst и Andreessen Horowitz, а также новые участники, включая ADP Ventures, Paychex и Eli Lilly.",
+              "Платформа Thatch построена вокруг модели ICHRA (Individual Coverage Health Reimbursement Arrangement) — она позволяет работодателям не оформлять единый корпоративный страховой план на всех сотрудников, а выделять каждому индивидуальный бюджет для покупки собственной страховки на открытом рынке.",
+              "За последний год выручка компании выросла почти в семь раз, а число работодателей-клиентов превысило 5000 — рост, отражающий более широкий сдвиг американского бизнеса от традиционных групповых планов к персонализированным моделям медицинских льгот на фоне продолжающегося удорожания здравоохранения."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/"
+          },
+          {
+            "kicker": "ИИ И ПРОДАЖИ",
+            "headline": "Оценка Clay удвоилась за 13 месяцев и достигла $7,1 млрд",
+            "subhead": "Платформа, автоматизирующая работу отделов продаж с помощью ИИ-агентов, привлекла $115 млн в раунде Series D во главе с Wellington.",
+            "body": [
+              "Clay, платформа, которая использует ИИ-агентов для автоматизации работы с потенциальными клиентами, закрыла раунд Series D на $115 млн при оценке в $7,1 млрд. Раунд возглавила Wellington, в нем также приняли участие Sequoia, Andreessen Horowitz, DST Global, CapitalG и другие.",
+              "Траектория оценки компании впечатляет: в августе прошлого года раунд Series C во главе с CapitalG оценил Clay в $3,1 млрд, в январе этого года тендерное предложение сотрудникам от DST Global переоценило компанию в $5 млрд — то есть спустя 13 месяцев после Series C оценка выросла более чем вдвое.",
+              "Платформой пользуются свыше 17 000 клиентов, включая Anthropic, Google, OpenAI, Stripe, ElevenLabs, Workday и Siemens; годовая выручка компании превысила отметку в $100 млн еще в декабре 2025 года."
+            ],
+            "source": "Tech Funding News",
+            "url": "https://techfundingnews.com/clay-hits-7-1b-valuation-with-115m-raise-as-it-sees-ai-agents-running-future-of-sales/"
+          },
+          {
+            "kicker": "КОСМОС",
+            "headline": "Индийский стартап Pixxel привлек рекордные для страны $100 млн на гиперспектральные спутники",
+            "subhead": "Раунд возглавили Temasek и Seraphim Space; компания расширяется за пределы съемки Земли — к орбитальным дата-центрам и продукции для оборонных заказчиков.",
+            "body": [
+              "Компания Pixxel, разрабатывающая спутники высокого разрешения для гиперспектральной съемки Земли, закрыла раунд Series C на $100 млн. Раунд возглавили Temasek и Seraphim Space при участии новых инвесторов 360 ONE и IMM Investment, а также действующих — Radical Ventures и growX ventures. Общий объем привлеченных компанией средств с момента основания в 2019 году достиг $195 млн.",
+              "Средства пойдут на разработку и запуск нового поколения спутников Honeybee, способных снимать в более широком диапазоне гиперспектральных каналов, включая коротковолновый инфракрасный, а также на новые сенсоры — радар с синтезированной апертурой (SAR) и оптику сверхвысокого разрешения. Часть денег направят на расширение производства в США и развитие ИИ-возможностей программной платформы Aurora для работы с гражданскими и оборонными заказчиками.",
+              "Раунд стал крупнейшим для космической технологической компании в истории Индии и сигнализирует о переходе Pixxel к новому этапу — от узкоспециализированной съемки Земли к более широкому присутствию во всей цепочке создания стоимости в космической отрасли."
+            ],
+            "source": "Pixxel",
+            "url": "https://www.pixxel.space/news/pixxel-raises-100-million-in-series-c-funding-to-build-the-infrastructure-for-a-changing-planet"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "ОСНОВАТЕЛИ",
+            "headline": "В 23 года Брендан Фуди управляет одной из самых быстрорастущих ИИ-компаний в истории",
+            "subhead": "Сооснователь Mercor вошел в список Time 100 самых влиятельных людей в сфере ИИ 2026 года — выручка его компании за первое полугодие выросла на 70%.",
+            "byline": "The Trend Times",
+            "body": [
+              "Брендан Фуди основал Mercor — маркетплейс труда, который поставляет крупнейшим ИИ-лабораториям данные и экспертов для обучения моделей, — в 19 лет, вместе с двумя друзьями по школе, Сурьей Мидхой и Адаршем Хиремахом. Ради этого он бросил Джорджтаунский университет, где изучал экономику, и в марте 2024 года стал стипендиатом фонда Питера Тиля.",
+              "В октябре 2025 года частные инвесторы оценили Mercor в $10 млрд, сделав Фуди и его сооснователей — каждому по 23 года — самыми молодыми в истории миллиардерами, разбогатевшими самостоятельно, моложе, чем был Марк Цукерберг при своем первом появлении в подобном рейтинге. В 2026 году журнал Time включил Фуди в список 100 самых влиятельных людей в сфере искусственного интеллекта.",
+              "Бизнес растет стремительно: по имеющимся данным, за первое полугодие 2026 года валовая выручка Mercor составила $614 млн — на 70% больше, чем за весь 2025 год целиком."
+            ],
+            "source": "TIME",
+            "url": "https://time.com/collection/time100-ai/2026/brendan-foody/"
+          },
+          {
+            "kicker": "ИСТОРИЯ ОСНОВАТЕЛЕЙ",
+            "headline": "От баскетбольной площадки до $300 млн: как начинался гонконгский финтех Qupital",
+            "subhead": "Пока компания готовится к возможному IPO, ее сооснователи вспоминают, как начинали с одного стола, одного телефона и обедов в McDonald's.",
+            "body": [
+              "Энди Чан, выпускник Брауновского университета, до этого работавший инженером-программистом в Дании, и Уинстон Вонг, выпускник компьютерной инженерии Гонконгского университета науки и технологий, познакомились в 2015 году на баскетбольной площадке в Гонконге. Вне игры они обнаружили общий интерес: традиционные банки плохо обслуживают малый и средний бизнес — с высокими издержками, горами бумаг и медленными сроками.",
+              "В марте 2016 года они основали Qupital — торговую площадку, где компании могли получать финансирование под залог своих счетов-фактур, а инвесторы — вкладывать деньги под обещанную доходность. Первый год существования компании прошел в буквальном смысле за одним столом с одним общим телефоном на двоих, на скромном бюджете, который Чан, по собственному признанию, тратил в основном на еду в McDonald's.",
+              "Десять лет спустя платформа обработала более $9,5 млрд трансграничных займов для интернет-продавцов и на этой неделе привлекла $300 млн в раунде, который объединил Series C во главе с M Capital и облигационное финансирование от японской Mitsubishi UFJ Financial Group — а ее основатели рассматривают выход на IPO."
+            ],
+            "source": "Hive Life Magazine",
+            "url": "https://hivelife.com/hong-kongs-ebay-for-invoices/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "МИЛАН",
+            "headline": "Мария Грация Кьюри покажет вторую коллекцию для Fendi 23 сентября",
+            "subhead": "После дебюта под девизом «Меньше „я“, больше „мы“» второй выход креативного директора станет одним из самых ожидаемых показов Недели моды в Милане.",
+            "byline": "The Trend Times",
+            "body": [
+              "Вторая коллекция prêt-à-porter Марии Грации Кьюри для Fendi выйдет в среду, 23 сентября, и станет одним из главных событий Недели моды в Милане (22–28 сентября, показы весна-лето 2027). По данным WWD, показ входит в число самых ожидаемых «золотых билетов» этого сезона.",
+              "Дебютная коллекция Кьюри для Fendi, представленная под девизом «Меньше „я“, больше „мы“», была построена как общий, во многом бесполый гардероб для мужчин и женщин на одном подиуме — возвращение дизайнера в дом, где она начинала карьеру в 24 года, в 1989-м. Второй выход покажет, закрепляет ли Кьюри этот язык или развивает его дальше.",
+              "В тот же день, 23 сентября, в календаре также заявлены Jil Sander, Antonio Marras, Missoni, MM6 Maison Margiela и Etro — насыщенный день, отражающий рекордную загруженность миланского календаря в этом сезоне."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+          },
+          {
+            "kicker": "НАЗНАЧЕНИЯ",
+            "headline": "Основатели Sunnei дебютируют в Moschino 25 сентября",
+            "subhead": "Лорис Мессина и Симоне Риццо, назначенные креативными директорами всего через два дня после ухода Адриана Аппиолазы, покажут свою первую коллекцию для дома.",
+            "body": [
+              "Лорис Мессина и Симоне Риццо — основатели миланского бренда Sunnei, известного дерзкими и нестандартными шоу-концепциями, — представят свою первую коллекцию в качестве креативных директоров Moschino 25 сентября в 17:00 в рамках Недели моды в Милане.",
+              "Назначение дуэта стало одной из самых быстрых смен креативного руководства за последнее время в индустрии: Мессина и Риццо возглавили дом всего через два дня после ухода предыдущего креативного директора Адриана Аппиолазы в июне 2026 года.",
+              "Мессину и Риццо роднит с основателем дома Франко Москино ироничное, саркастичное отношение к моде — их коллекции для Sunnei нередко превращались в комментарий к самой индустрии, и в Moschino от них ждут похожего духа."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"
+          },
+          {
+            "kicker": "ИНДУСТРИЯ",
+            "headline": "Итальянская мода прогнозирует рост продаж на 1% в 2026 году, несмотря на геополитическую турбулентность",
+            "subhead": "На фоне рекордных примерно 218 показов и презентаций Неделя моды в Милане открывается в условиях осторожного оптимизма индустрии.",
+            "body": [
+              "Согласно первым прогнозам на 2026 год, совокупные продажи итальянской модной индустрии вырастут примерно на 1% и достигнут €94,2 млрд, при этом экспорт увеличится на 2,5%, а импорт — на 8,1%. Однако, как отмечает WWD, геополитическая напряженность продолжает влиять на пересмотренный прогноз и на потребительские настроения.",
+              "На этом фоне Неделя моды в Милане (22–28 сентября, коллекции весна-лето 2027) откроется рекордным для города количеством показов и презентаций — около 218 в очном, цифровом и закрытом форматах. Все показы 28 сентября, последнего дня недели, пройдут в цифровом формате — удобное решение для профессионалов индустрии, учитывая, что в тот же день в Париже стартует Неделя моды.",
+              "Смещение открывающего показа Prada на начало недели — вместо привычного для дома четвергового слота — стало одним из самых заметных изменений календаря и символическим сигналом того, что миланская иерархия показов меняется именно в момент, когда сезон переходит из Нью-Йорка в Европу."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "МИРОВОЙ ХИП-ХОП",
+            "headline": "Rakim, Kurupt и Masta Killa объединились на альбоме «The Godbody LP» — с камео Eminem и Jay-Z",
+            "subhead": "Пластинка выходит 18 сентября и впервые за 25 лет сводит два рэп-тяжеловеса в одном интерлюдии.",
+            "byline": "The Trend Times",
+            "body": [
+              "Rakim, Kurupt и Masta Killa выпускают 18 сентября совместный альбом «The Godbody LP» — 15 треков, спродюсированных Rakim и Nick Wiz, объединяющих восточное и западное побережья хип-хопа в духе идеи покойного Тупака Шакура об «одной нации».",
+              "Список приглашенных гостей впечатляет: Snoop Dogg, Raekwon, Ghostface Killah, Daz Dillinger, Buckshot, KRS-One, Kool G Rap и другие. По имеющимся данным, в одном из интерлюдий также появятся Eminem и Jay-Z — их первая совместная работа за 25 лет.",
+              "Первый сингл «A Different Kind» уже вышел; альбом продолжает серию совместных релизов, в которых Rakim выступает и как исполнитель, и как продюсер, курирующий встречу поколений и коастов хип-хопа."
+            ],
+            "source": "Stereogum",
+            "url": "https://stereogum.com/2508366/rakim-kurupt-masta-killa-announce-new-album-the-godbody-hear-goin-down/music"
+          },
+          {
+            "kicker": "РОССИЙСКИЙ РЭП",
+            "headline": "Kizaru выпустил альбом «Ca$hey» — 16 треков о злости и одиночестве",
+            "subhead": "Пластинка вышла 11 сентября и, по словам самого артиста, звучит как продолжение его знаковых альбомов «Karmageddon» и «Born To Trap».",
+            "body": [
+              "Kizaru выпустил 11 сентября новый альбом «Ca$hey» — название обыгрывает созвучие слов «cash» и «Кощей». Пластинка содержит как минимум 16 треков.",
+              "Сам артист сравнивает звучание альбома со своими знаковыми релизами «Karmageddon» и «Born To Trap», обещая смешение разных направлений. По структуре «Ca$hey» построен как единая драма с выраженной двойственностью: первая часть — жесткий ритм и почти уличная агрессия панчлайнов, вторая — уход в более личное пространство с более глубокими текстами, спокойным флоу и темными, интимными эмоциями."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/kizaru-cashey"
+          },
+          {
+            "kicker": "АНОНС",
+            "headline": "Брутто анонсировал «Гаддем 3» — спустя пять лет после предыдущей части",
+            "subhead": "Экс-участник «Каспийского груза» готовит третью главу сольной серии и уже объявил тур в ее поддержку.",
+            "body": [
+              "Рэпер Брутто, бывший участник группы «Каспийский груз», готовит выход альбома «Гаддем 3» в сентябре 2026 года — спустя пять лет после выхода второй части серии.",
+              "Точная дата релиза, треклист и список приглашенных артистов пока держатся в секрете. Брутто уже анонсировал сольный тур, и новые треки, как ожидается, станут центральной частью живых шоу."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/brutto-vozvrashhaetsya-gaddem-3-mozhet-vzorvat-sentyabr/"
+          },
+          {
+            "kicker": "БРИТАНСКИЙ РЭП",
+            "headline": "Nemzzz выпустил микстейп «LOCKED IN» с участием Трэвиса Скотта и Latto",
+            "subhead": "17 треков британского драйва и трэпа вышли 4 сентября на лейбле Atlantic UK.",
+            "body": [
+              "Британский рэпер Nemzzz выпустил 4 сентября микстейп «LOCKED IN» на лейбле Atlantic UK — 17 треков общей длительностью 35 минут в жанре UK hip-hop с элементами трэпа и UK drill.",
+              "В проект вошли уже знакомые синглы — «OK» с участием Latto и «GASS» при участии Трэвиса Скотта, а также «CLIENTELE» с Tunde и покойным продюсером Tay Keith. Среди других гостей — Lil Yachty на «GEEKIN» и Cash Cobain на «TRICK».",
+              "Звучание альбома охватывает диапазон от симфонических drill-инструменталов на «4AM» до наполненного басом эмоционального аутро «101» — по замыслу артиста, микстейп должен закрыть подборку настроений «на любой случай»."
+            ],
+            "source": "HotNewHipHop",
+            "url": "https://www.hotnewhiphop.com/1008495-locked-in-nemzzz"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-16",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 18
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "INFRASTRUCTURE",
+            "headline": "Cornelis Networks Raises $205 Million, Takes Aim at Nvidia With a New AI Networking Architecture",
+            "subhead": "Active Compute Fabric is an open platform that embeds compute directly into networking chips; the round was led by IAG Capital Partners, alongside a partnership with Qualcomm.",
+            "byline": "The Trend Times",
+            "body": [
+              "Cornelis Networks, a startup building networking infrastructure for AI data centers, raised $205 million and unveiled a new architecture called Active Compute Fabric — an open platform for scale-up and scale-out AI networks — announced alongside a strategic partnership with Qualcomm Technologies. The round was led by IAG Capital Partners.",
+              "Unlike a typical smart NIC or DPU, Active Compute Fabric embeds programmable compute directly into the networking silicon, letting it offload collective operations, adapt network behavior to specific workloads, and add new functions as AI software evolves.",
+              "Cornelis will use the new capital to scale production of its CN5000 and CN6000 switches and speed up Active Compute Fabric's rollout — a move aimed squarely at chipping away at Nvidia's dominance of AI cluster networking gear."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Sam Altman Says OpenAI's IPO Is Pushed to 2027",
+            "subhead": "The CEO called going public in 2026 an 'ill-advised moment' given rising AI-safety concerns — just as rival Anthropic prepares to list before year's end.",
+            "body": [
+              "In a September 12 interview with Fortune, OpenAI CEO Sam Altman said the company will not go public in 2026: \"given everything happening with safety, right now would be an ill-advised moment to go public, and we don't feel pressure on that,\" he told Fortune editor-in-chief Alyson Shontell.",
+              "Altman suggested leading AI labs may be close to a pact to collectively slow the pace of frontier-model development to manage fast-rising safety risks, saying there's internal talk at OpenAI of \"tapping the brakes\" on its most cutting-edge work.",
+              "The decision pushes OpenAI's IPO window out to 2027, even as rival Anthropic is reportedly planning to go public before the end of 2026, at a valuation that could reach $2.3 trillion."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"
+          },
+          {
+            "kicker": "CYBERSECURITY",
+            "headline": "A Hacker Built a Swarm of AI Agents and Breached 395 Organizations in 48 Countries",
+            "subhead": "GreyNoise and Blackpoint Cyber describe the first documented attack in which autonomous AI agents handled everything from reconnaissance to domain takeover.",
+            "body": [
+              "On September 9, GreyNoise and Blackpoint Cyber independently published investigations into the same campaign: an attacker, believed to be Russian-speaking, used a coordinated swarm of AI agents to compromise at least 440 PaperCut NG/MF servers across 395 organizations in 48 countries. Education was hit hardest, followed by retail, professional services and hospitality.",
+              "According to GreyNoise, the attacker first built a private lab with a vulnerable copy of PaperCut NG/MF and an Active Directory server to develop and test exploits for two flaws, tracked as CVE-2026-81578 and CVE-2026-82078 — then handed the grunt work of scanning for exposed servers and firing off exploits not to a person, but to a group of AI agents built on commercial models, including OpenAI's Codex and a DeepSeek model.",
+              "The speed was striking: the attacker went from an empty workspace to remote code execution against a real victim in under four hours, and reached domain administrator rights two hours after that. GreyNoise titled its report \"Agents Gone Wild.\""
+            ],
+            "source": "GreyNoise",
+            "url": "https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "CAMPAIGNS",
+            "headline": "Macy's Launches a Fall Campaign Built Around Six Iconic American Designers",
+            "subhead": "'Celebrate American Designers' pairs Tommy Hilfiger, Donna Karan and Michael Kors with a new guard: Jonathan Cohen, LAPOINTE and Theophilio.",
+            "byline": "The Trend Times",
+            "body": [
+              "Macy's has rolled out the fall edition of its seasonal 'Find Us At Macy's' campaign, built around the idea that great style comes from unexpected combinations of brands, influences and perspectives. At its center is an exclusive capsule collection, 'Celebrate American Designers.'",
+              "The capsule brings together limited-edition collections from six defining names in American fashion: 'the icons' Tommy Hilfiger, Donna Karan and Michael Kors, alongside 'the new guard' — Jonathan Cohen, LAPOINTE and Theophilio — each fronting their own line sold exclusively at Macy's.",
+              "On September 26, Macy's will host 'Celebration Saturday' events nationwide, with immersive in-store styling moments, gifts with purchase and entertainment, giving shoppers a chance to see the capsule and the full fall assortment in person."
+            ],
+            "source": "Macy's, Inc.",
+            "url": "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Unveils-Its-2026-Fall-Fashion-Campaign-Featuring-a-Celebration-of-American-Fashion/default.aspx"
+          },
+          {
+            "kicker": "BRANDS",
+            "headline": "DKNY Unveils Its Fall Campaign With Iris Law and Amelia Gray",
+            "subhead": "Two defining faces of a new generation front the brand's return to its New York roots.",
+            "body": [
+              "DKNY has unveiled its Fall 2026 campaign starring models Iris Law and Amelia Gray — two recognizable faces of a new generation the brand says capture a fresh reading of its New York style.",
+              "Shot in DKNY's signature urban aesthetic, which has long built the brand's identity around the city's energy, the campaign leans on Gen Z and young millennial faces to reassert cultural relevance in the crowded American accessible-luxury market."
+            ],
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/09/01/3354264/0/en/dkny-reveals-its-fall-2026-campaign-featuring-iris-law-and-amelia-gray.html"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "HEALTH TECH",
+            "headline": "Thatch Raises $108 Million, Hits $1 Billion Valuation as Health Costs Keep Climbing",
+            "subhead": "Revenue has grown nearly sevenfold in a year, with more than 5,000 employers now using its ICHRA model instead of traditional group health plans.",
+            "byline": "The Trend Times",
+            "body": [
+              "Thatch, which builds a platform for managing employee health benefits, has raised $108 million in a Series C round at a $1 billion valuation. The round was backed by existing investors The General Partnership, Index Ventures, General Catalyst and Andreessen Horowitz, along with new participants including ADP Ventures, Paychex and Eli Lilly.",
+              "Thatch's platform is built around the ICHRA model (Individual Coverage Health Reimbursement Arrangement), which lets employers skip a single company-wide health plan and instead give each employee an individual budget to buy their own coverage on the open market.",
+              "Revenue has grown nearly sevenfold over the past year, and the company now counts more than 5,000 employer customers — growth that reflects a broader shift among U.S. employers away from traditional group plans and toward personalized health-benefit models as healthcare costs keep rising."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/"
+          },
+          {
+            "kicker": "AI SALES",
+            "headline": "Clay's Valuation Doubles in 13 Months to $7.1 Billion",
+            "subhead": "The AI-agent platform for automating sales outreach raised $115 million in a Series D led by Wellington.",
+            "body": [
+              "Clay, a platform that uses AI agents to automate go-to-market outreach, has closed a $115 million Series D at a $7.1 billion valuation. The round was led by Wellington, with participation from Sequoia, Andreessen Horowitz, DST Global, CapitalG and others.",
+              "The company's valuation trajectory has been steep: a Series C led by CapitalG last August valued Clay at $3.1 billion, and an employee tender offer led by DST Global this January repriced it at $5 billion — meaning the valuation has more than doubled in the 13 months since the Series C.",
+              "Clay now serves more than 17,000 customers, including Anthropic, Google, OpenAI, Stripe, ElevenLabs, Workday and Siemens, with annualized revenue that crossed $100 million back in December 2025."
+            ],
+            "source": "Tech Funding News",
+            "url": "https://techfundingnews.com/clay-hits-7-1b-valuation-with-115m-raise-as-it-sees-ai-agents-running-future-of-sales/"
+          },
+          {
+            "kicker": "SPACE",
+            "headline": "India's Pixxel Raises a Record $100 Million for Hyperspectral Satellites",
+            "subhead": "Temasek and Seraphim Space led the round as the company expands beyond Earth imaging into orbital data centers and defense-facing products.",
+            "body": [
+              "Pixxel, which builds high-resolution hyperspectral Earth-observation satellites, has closed a $100 million Series C round. Temasek and Seraphim Space led the round, joined by new investors 360 ONE and IMM Investment and existing backers Radical Ventures and growX ventures. The raise brings Pixxel's total funding since its 2019 founding to $195 million.",
+              "The capital will fund a new generation of Honeybee satellites capable of capturing a wider range of hyperspectral bands, including shortwave infrared, plus new sensors such as synthetic-aperture radar (SAR) and ultra-high-resolution optical imaging. Some of the money will also go toward expanding U.S. manufacturing and building out the AI capabilities of Pixxel's Aurora software for civil and defense customers.",
+              "The round marks the largest ever raised by a space-tech company in India and signals Pixxel's shift from a narrowly focused Earth-imaging business toward a broader role across the space-tech value chain."
+            ],
+            "source": "Pixxel",
+            "url": "https://www.pixxel.space/news/pixxel-raises-100-million-in-series-c-funding-to-build-the-infrastructure-for-a-changing-planet"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FOUNDERS",
+            "headline": "At 23, Brendan Foody Runs One of the Fastest-Growing AI Companies Ever",
+            "subhead": "The Mercor co-founder made Time's 100 Most Influential People in AI for 2026 — his company's revenue is up 70% in the first half of the year alone.",
+            "byline": "The Trend Times",
+            "body": [
+              "Brendan Foody founded Mercor — a labor marketplace that supplies the biggest AI labs with data and human experts to train their models — at 19, alongside two high school friends, Surya Midha and Adarsh Hiremath. He dropped out of Georgetown, where he was studying economics, to build the company and became a Thiel Fellow in March 2024.",
+              "In October 2025, private investors valued Mercor at $10 billion, making Foody and his co-founders — all 23 — the youngest self-made billionaires in history, younger than Mark Zuckerberg was at his first appearance on a similar list. In 2026, Time named Foody to its 100 Most Influential People in AI.",
+              "The business is growing fast: Mercor reportedly generated $614 million in gross revenue in the first half of 2026 alone — 70% more than all of 2025 combined."
+            ],
+            "source": "TIME",
+            "url": "https://time.com/collection/time100-ai/2026/brendan-foody/"
+          },
+          {
+            "kicker": "FOUNDER STORY",
+            "headline": "From a Pickup Basketball Game to $300 Million: How Hong Kong Fintech Qupital Began",
+            "subhead": "As the company weighs a possible IPO, its co-founders look back on starting with one desk, one shared phone and a lot of McDonald's.",
+            "body": [
+              "Andy Chan, a Brown University graduate who had been working as a software engineer in Denmark, and Winston Wong, a computer engineering graduate of the Hong Kong University of Science and Technology, met on a basketball court in Hong Kong in 2015. Off the court, they bonded over a shared observation: traditional banks were failing small and mid-sized businesses with high costs, mountains of paperwork and slow turnaround times.",
+              "In March 2016, they founded Qupital, a marketplace where companies could borrow against their outstanding invoices and investors could fund those loans for a return. The company's first year was spent, literally, at a single desk with one shared phone between them, on a shoestring budget that Chan has said mostly went toward meals at McDonald's.",
+              "A decade later, the platform has processed more than $9.5 billion in cross-border loans for online sellers, and this week it raised $300 million in a round pairing a Series C led by M Capital with asset-backed financing from Japan's Mitsubishi UFJ Financial Group — with its founders now weighing an IPO."
+            ],
+            "source": "Hive Life Magazine",
+            "url": "https://hivelife.com/hong-kongs-ebay-for-invoices/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "MILAN",
+            "headline": "Maria Grazia Chiuri's Second Fendi Collection Shows September 23",
+            "subhead": "After a debut built around 'less I, more us,' the creative director's sophomore outing is one of the season's most anticipated Milan shows.",
+            "byline": "The Trend Times",
+            "body": [
+              "Maria Grazia Chiuri's second ready-to-wear collection for Fendi shows Wednesday, September 23, one of the marquee dates of Milan Fashion Week (September 22-28, spring/summer 2027). WWD counts it among the season's biggest 'golden tickets.'",
+              "Chiuri's debut Fendi collection, shown under the motto 'less I, more us,' presented a shared, largely genderless wardrobe with men and women walking the same runway — a return to the house where she first started her career at 24, in 1989. Her second outing will show whether she doubles down on that language or takes it somewhere new.",
+              "September 23 is a packed day on the calendar, also featuring Jil Sander, Antonio Marras, Missoni, MM6 Maison Margiela and Etro — a reflection of just how loaded Milan's schedule is this season."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+          },
+          {
+            "kicker": "APPOINTMENTS",
+            "headline": "Sunnei's Founders Make Their Moschino Debut on September 25",
+            "subhead": "Loris Messina and Simone Rizzo, named creative directors just two days after Adrian Appiolaza's exit, present their first collection for the house.",
+            "body": [
+              "Loris Messina and Simone Rizzo — founders of the Milan label Sunnei, known for its irreverent, unconventional show concepts — will present their first collection as Moschino's creative directors on September 25 at 5 p.m. during Milan Fashion Week.",
+              "The duo's appointment was one of the fastest creative-director turnarounds the industry has seen recently: Messina and Rizzo took over just two days after previous creative director Adrian Appiolaza's June 2026 departure.",
+              "Messina and Rizzo share with Moschino founder Franco Moschino a tongue-in-cheek, needling attitude toward fashion itself — their Sunnei collections have often doubled as commentary on the industry, and the house is counting on a similar spirit."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/prada-moschino-debut-milan-fashion-week-september-2026-calendar-1239080481/"
+          },
+          {
+            "kicker": "INDUSTRY",
+            "headline": "Italian Fashion Forecasts 1% Sales Growth for 2026 Despite Geopolitical Turbulence",
+            "subhead": "Milan Fashion Week opens with a record roughly 218 shows and presentations amid the industry's cautious optimism.",
+            "body": [
+              "Early projections for 2026 put total sales for Italy's fashion industry up roughly 1%, to €94.2 billion, with exports rising 2.5% and imports up 8.1%. But as WWD notes, geopolitical tensions continue to weigh on the revised forecast and on consumer sentiment.",
+              "Against that backdrop, Milan Fashion Week (September 22-28, spring/summer 2027 collections) opens with a record number of shows and presentations for the city — roughly 218 across in-person, digital and by-appointment formats. Every presentation on September 28, the week's final day, will run digitally, a convenience for industry regulars given that Paris Fashion Week opens the same day.",
+              "Moving Prada's opening show to the very start of the week — instead of its usual Thursday slot — has been one of the calendar's most notable changes, a symbolic sign that Milan's usual pecking order is shifting just as fashion month moves from New York to Europe."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "WORLD HIP-HOP",
+            "headline": "Rakim, Kurupt and Masta Killa Team Up for 'The Godbody LP' — With an Eminem and Jay-Z Cameo",
+            "subhead": "The album drops September 18 and reportedly reunites two rap heavyweights on the same track for the first time in 25 years.",
+            "byline": "The Trend Times",
+            "body": [
+              "Rakim, Kurupt and Masta Killa release their joint album 'The Godbody LP' on September 18 — 15 tracks produced entirely by Rakim and Nick Wiz, uniting East Coast and West Coast hip-hop in the spirit of the late Tupac Shakur's 'one nation' vision.",
+              "The guest list is stacked: Snoop Dogg, Raekwon, Ghostface Killah, Daz Dillinger, Buckshot, KRS-One, Kool G Rap and more. According to reports, Eminem and Jay-Z also appear together on an interlude track — their first collaboration in 25 years.",
+              "Lead single 'A Different Kind' is already out; the album continues a run of collaborative releases in which Rakim serves as both performer and producer, curating a meeting of hip-hop generations and coasts."
+            ],
+            "source": "Stereogum",
+            "url": "https://stereogum.com/2508366/rakim-kurupt-masta-killa-announce-new-album-the-godbody-hear-goin-down/music"
+          },
+          {
+            "kicker": "RUSSIAN RAP",
+            "headline": "Kizaru Releases 'Ca$hey,' a 16-Track Album About Anger and Loneliness",
+            "subhead": "The record dropped September 11, and the artist says it picks up where his landmark albums 'Karmageddon' and 'Born To Trap' left off.",
+            "body": [
+              "Kizaru released his new album 'Ca$hey' on September 11 — the title plays on the sound of the word 'cash' and Koschei, the villain of Russian folklore. The record runs at least 16 tracks.",
+              "The artist compares the album's sound to his landmark releases 'Karmageddon' and 'Born To Trap,' promising a mix of different directions. Structurally, 'Ca$hey' is built as a single drama with a clear duality: the first half leans on hard rhythms and near street-level aggression in its punchlines, while the second half shifts into more personal territory, with deeper lyrics, a calmer flow and darker, more intimate emotion."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/kizaru-cashey"
+          },
+          {
+            "kicker": "ANNOUNCEMENT",
+            "headline": "Brutto Announces 'Gaddem 3,' Five Years After the Last Installment",
+            "subhead": "The former Kaspiyskiy Gruz member is preparing the third chapter of his solo series and has already announced a tour to support it.",
+            "body": [
+              "Rapper Brutto, formerly of the group Kaspiyskiy Gruz, is preparing to release 'Gaddem 3' in September 2026 — five years after the second installment of the series came out.",
+              "The exact release date, tracklist and guest list are still under wraps. Brutto has already announced a solo tour, and the new tracks are expected to anchor the live shows."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/brutto-vozvrashhaetsya-gaddem-3-mozhet-vzorvat-sentyabr/"
+          },
+          {
+            "kicker": "UK RAP",
+            "headline": "Nemzzz Drops 'LOCKED IN,' a Mixtape Featuring Travis Scott and Latto",
+            "subhead": "The 17-track UK trap and drill project landed September 4 on Atlantic UK.",
+            "body": [
+              "British rapper Nemzzz released his mixtape 'LOCKED IN' on Atlantic UK on September 4 — 17 tracks running 35 minutes, blending UK hip-hop with trap and UK drill.",
+              "The project includes previously released singles 'OK' featuring Latto and the Travis Scott-assisted 'GASS,' along with 'CLIENTELE' featuring Tunde and the late producer Tay Keith. Other guests include Lil Yachty on 'GEEKIN' and Cash Cobain on 'TRICK.'",
+              "The sound ranges from the symphonic drill instrumentals of '4AM' to the bass-heavy, emotional outro '101' — the artist's aim, by his own account, was a mixtape with a mood for every occasion."
+            ],
+            "source": "HotNewHipHop",
+            "url": "https://www.hotnewhiphop.com/1008495-locked-in-nemzzz"
+          }
+        ]
+      }
+    ]
+  }
+}

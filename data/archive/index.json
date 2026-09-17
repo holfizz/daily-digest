@@ -202,5 +202,17 @@
       "ru": "18 материалов",
       "en": "18 articles"
     }
+  },
+  {
+    "date": "2026-09-16",
+    "number": 18,
+    "headline": {
+      "ru": "Cornelis Networks привлекла $205 млн и бросает вызов Nvidia новой архитектурой сетей для ИИ",
+      "en": "Cornelis Networks Raises $205 Million, Takes Aim at Nvidia With a New AI Networking Architecture"
+    },
+    "count": {
+      "ru": "17 материалов",
+      "en": "17 articles"
+    }
   }
 ]
