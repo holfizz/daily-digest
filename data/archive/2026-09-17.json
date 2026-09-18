@@ -1,0 +1,532 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-17",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 19
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "ФИНАНСИРОВАНИЕ",
+            "headline": "Китайская Z.ai привлекла $5 млрд — второй раз за два месяца, а акции обвалились на 10%",
+            "subhead": "Гонконгский разработчик моделей GLM привлек $2 млрд через размещение акций и $3 млрд через конвертируемые облигации; всего за девять месяцев компания собрала почти $9,5 млрд.",
+            "byline": "The Trend Times",
+            "body": [
+              "Китайская компания Z.ai (бывшая Zhipu AI), разработчик семейства моделей GLM, привлекла $5 млрд в рамках размещения акций и выпуска конвертируемых облигаций — сделка была объявлена 13 сентября. Это уже второй крупный раунд компании за два месяца: в июле она закрыла размещение на $4 млрд.",
+              "Структура сделки: около $2 млрд компания получила от размещения 21,97 млн новых акций по цене HK$714 за штуку — примерно на 10% ниже цены закрытия перед объявлением, а еще $3 млрд — от бескупонных конвертируемых облигаций в юанях с погашением в 2027 году и ценой конвертации HK$892,50.",
+              "После новостей о размещении акции Z.ai на Гонконгской бирже обвалились более чем на 10%. Компания заявила, что около 60% привлеченных средств пойдет на разработку моделей нового поколения GLM и создание системы «полностью самообучающегося» ИИ, а также вычислительную инфраструктуру, еще 15% — на расширение бизнеса. С учетом январского IPO компания привлекла почти $9,5 млрд менее чем за девять месяцев."
+            ],
+            "source": "Caixin Global",
+            "url": "https://www.caixinglobal.com/2026-09-14/zai-raises-5-billion-in-share-placement-convertible-bond-sale-102484813.html"
+          },
+          {
+            "kicker": "ИИ И БЕЗОПАСНОСТЬ",
+            "headline": "Канада и Германия выделят до $300 млн некоммерческой LawZero Йошуа Бенджио на «Scientist AI»",
+            "subhead": "Средства пойдут на разработку модели, работающей как «объективный ученый» без собственных целей, и на суверенную вычислительную инфраструктуру в Канаде.",
+            "body": [
+              "Правительства Канады и Германии объявили 16 сентября о совместном финансировании до $300 млн для LawZero — некоммерческой организации Йошуа Бенджио, лауреата премии Тьюринга, разрабатывающей принципиально иной, «безопасный по конструкции» подход к продвинутому ИИ. Объявление сделали на конференции All In в Монреале.",
+              "Канада направит CAD 150 млн, Германия — EUR 100 млн. Деньги пойдут на наем сотрудников и оплату вычислительных мощностей для разработки системы Scientist AI, которая, по замыслу LawZero, будет работать как «объективный ученый» — опираться только на факты и не преследовать собственные цели, в отличие от моделей нынешнего поколения.",
+              "Финансирование также создаст около 360 рабочих мест в Канаде и профинансирует суверенную вычислительную инфраструктуру, построенную совместно с канадскими компаниями Hypertec и 5C. Бенджио, основавший LawZero в 2025 году, незадолго до этого публично предупреждал, что человечество «теряет контроль» над развитием продвинутых ИИ-агентов."
+            ],
+            "source": "Правительство Канады",
+            "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html"
+          },
+          {
+            "kicker": "ГОЛОСОВОЙ ИИ",
+            "headline": "OpenAI открыла разработчикам доступ к GPT-Live-1 — голосовой модели, которая слушает и говорит одновременно",
+            "subhead": "API-версия голосового движка ChatGPT стоит $0,05 в минуту и, по данным компании, на 30 пунктов обходит предыдущую модель на бенчмарке диалогов в реальном времени.",
+            "body": [
+              "10 сентября OpenAI открыла разработчикам доступ через API к GPT-Live-1 — полнодуплексной голосовой модели, которая лежит в основе голосового режима ChatGPT. В отличие от привычной цепочки «распознавание речи → языковая модель → синтез речи», GPT-Live-1 обрабатывает входящую и исходящую речь одновременно одной моделью.",
+              "Это позволяет модели естественно реагировать на то, что обычно ломает голосовых ассистентов: перебивания, паузы, смену темы на лету и фоновую речь, — не дожидаясь, пока собеседник закончит реплику. Голосовой слой стоит $0,05 в минуту и тарифицируется отдельно от модели, которая занимается «мышлением» и на которую можно поставить любой бэкенд по выбору разработчика.",
+              "По данным OpenAI, GPT-Live-1 прибавляет 30 пунктов к показателю Full Duplex Bench по сравнению с GPT-Realtime-2.1, а лучший результат показывает в связке с флагманской моделью GPT-6 Astra. Релиз включает 12 новых голосов и поддержку телефонии и уже был опробован партнером EliseAI, специализирующимся на автоматизации коммуникаций для сферы недвижимости и здравоохранения."
+            ],
+            "source": "Unite.AI",
+            "url": "https://www.unite.ai/openais-gpt-live-1-arrives-in-the-api-at-0-05-per-minute/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "КАМПАНИИ",
+            "headline": "Duolingo запустила капсулу к Неделе моды в Нью-Йорке, обыгрывая неправильное произношение люксовых брендов",
+            "subhead": "Семь вещей дизайнера Меган О'Кейн превращают Hermès и Givenchy в фонетические подсказки «air-mess» и «zhee-vahn-shee», а на pop-up-распродаже платили стриками, а не деньгами.",
+            "byline": "The Trend Times",
+            "body": [
+              "Во время Недели моды в Нью-Йорке Duolingo представила капсульную коллекцию «The Phonetic Collection» — семь вещей, созданных совместно с нью-йоркским дизайнером Меган О'Кейн, экс-участницей шоу «Next in Fashion». Идея кампании — научить произносить названия люксовых брендов, которые чаще всего произносят неправильно.",
+              "На капсуле — фонетическая транскрипция вроде «air-mess» для Hermès и «zhee-vahn-shee» для Givenchy, а также обыгрываются Jacquemus, Moschino, Loewe, Comme des Garçons и Issey Miyake. Кампанию поддержала наружная и социальная реклама, а в течение двух дней в шоуруме Null Object работал иммерсивный поп-ап.",
+              "Главная особенность поп-апа: посетители могли «купить» вещи не за деньги, а за накопленные дни серии (streak) в приложении Duolingo — прямое продолжение фирменного языка бренда, построенного вокруг привычки и геймификации обучения."
+            ],
+            "source": "Famous Campaigns",
+            "url": "https://www.famouscampaigns.com/2026/09/duolingo-turns-mispronounced-fashion-names-into-a-nyfw-collection/"
+          },
+          {
+            "kicker": "РЕКЛАМА",
+            "headline": "Dunkin' представила «шестую Spice Girl» по имени Pumpkin Spice",
+            "subhead": "Настоящие Эмма Бэнтон и Джери Холливелл-Хорнер снялись в псевдодокументальной рекламе о вымышленной участнице группы, променявшей музыку на латте.",
+            "body": [
+              "Dunkin' запустила 8 сентября кампанию с «шестой Spice Girl» — персонажем по имени Pumpkin Spice, которую сыграла комедиантка Рэйчел Дрэтч. По сюжету псевдодокументальных роликов, она была давно потерянной участницей группы с песнями и танцами на тыквенную тематику, но в итоге променяла карьеру в музыке на кофе.",
+              "В рекламе также снялись настоящие участницы Spice Girls — Эмма Бэнтон (Baby Spice) и Джери Холливелл-Хорнер (Ginger Spice), которые со всей серьезностью «вспоминают» несуществующую коллегу по группе.",
+              "Кампания приурочена к сезону тыквенных напитков и предлагает бесплатный латте со вкусом тыквенных специй среднего размера при квалифицирующей покупке в кофейнях сети."
+            ],
+            "source": "Adweek",
+            "url": "https://www.adweek.com/creativity/dunkin-answers-the-sixth-spice-girl-mystery-with-pumpkin-spice/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "КОСМОС",
+            "headline": "Impulse Space довела раунд Series D до $808 млн, оценка компании выросла до $5,6 млрд",
+            "subhead": "Дополнительные $308 млн компания привлекла на фоне раскупленных на годы вперед миссий и контракта с космическими силами США на запуск разгонных блоков Helios.",
+            "byline": "The Trend Times",
+            "body": [
+              "Компания Impulse Space, разрабатывающая аппараты для «последней мили» в космосе — маневровые разгонные блоки, доставляющие спутники с орбиты выведения на целевую орбиту, — объявила 16 сентября о расширении раунда Series D еще на $308 млн. Общий объем раунда достиг $808 млн, а оценка компании выросла до $5,6 млрд — с $4,26 млрд, зафиксированных при первом закрытии раунда на $500 млн в июне.",
+              "В расширении приняли участие действующие инвесторы: 137 Ventures, BANNER VC, DFJ Growth, Linse Capital, Lux Capital и Valor Equity Partners. Средства пойдут на разработку продукта и расширение команды по мере роста спроса на услуги орбитальной мобильности со стороны коммерческих, гражданских и государственных заказчиков.",
+              "Компания сообщила, что ее рейсовые миссии Caravan 2 и Caravan 3 на разгонных блоках Helios, запланированные на 2028 год, уже полностью раскуплены. Кроме того, Helios был выбран для программы Space Force National Security Space Launch (NSSL) Phase 3 Lane 1 — Impulse Space стала первым разработчиком разгонных блоков, получившим место в этой программе."
+            ],
+            "source": "GlobeNewswire (Impulse Space)",
+            "url": "https://www.globenewswire.com/news-release/2026/09/16/3363347/0/en/impulse-space-announces-308-million-series-d-extension-to-meet-increasing-demand-for-in-space-mobility.html"
+          },
+          {
+            "kicker": "ИИ И БРЕНДЫ",
+            "headline": "Стартап Profound достиг оценки $1,8 млрд, помогая брендам быть заметными в ответах чат-ботов",
+            "subhead": "Раунд Series D на $180 млн собрали Sequoia и Kleiner Perkins — спустя всего семь месяцев после предыдущего раунда компании.",
+            "body": [
+              "Нью-йоркский стартап Profound, помогающий брендам оптимизировать присутствие в ответах ИИ-чат-ботов вроде ChatGPT и Gemini (направление, которое в индустрии называют AEO — answer engine optimization, по аналогии с SEO), закрыл раунд Series D на $180 млн при оценке в $1,8 млрд. Раунд, о котором объявили 15 сентября, возглавили Sequoia Capital и Kleiner Perkins.",
+              "В сделке также участвовали действующие инвесторы — Lightspeed Venture Partners, Khosla Ventures, Saga Ventures, Evantic и South Park Commons. Новый раунд закрылся менее чем через семь месяцев после Series C компании на $96 млн, а с момента основания в 2024 году Profound привлекла более $335 млн.",
+              "Среди клиентов компании — более 1000 корпоративных брендов, включая Comcast, Estée Lauder, Walmart, Campari Group и RBC, а также технологические компании Zoom, ServiceNow, Ramp, Cursor, MongoDB и Figma."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Страховщик Orion180 выходит на Nasdaq, рассчитывая привлечь до $320 млн",
+            "subhead": "Специализированный страховщик недвижимости от ураганов и наводнений разместит 20 млн акций по цене $15–17 за штуку под тикером OIG.",
+            "body": [
+              "Orion180 Insurance Group, страховая компания из Мелборна (Флорида), специализирующаяся на страховании жилья от ураганов и наводнений на юге США, объявила ценовой диапазон предстоящего IPO на Nasdaq — $15–17 за акцию. При размещении 20 млн акций класса A компания рассчитывает привлечь до $320 млн, а ее рыночная капитализация по средней цене диапазона составит около $1,58 млрд.",
+              "Андеррайтеры размещения — RBC Capital Markets, UBS, Raymond James и Goldman Sachs — планируют завершить сделку на неделе, начавшейся 14 сентября; торги акциями под тикером OIG должны начаться на Nasdaq Global Select Market.",
+              "Компания — второй по величине страховщик жилья в сегменте excess & surplus lines в США по объему прямых письменных премий, работающий в 14 штатах; за двенадцать месяцев, закончившихся 30 июня 2026 года, объем премий под управлением составил около $601 млн."
+            ],
+            "source": "IPOScoop",
+            "url": "https://www.iposcoop.com/the-ipo-buzz-orion180-insurance-oig-proposed-launches-320-million-ipo/"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "ОСНОВАТЕЛИ",
+            "headline": "Физик-квантовик сказал команде «кажется, AGI уже здесь» — после того как ИИ-агент за выходные повторил его полугодовую диссертацию",
+            "subhead": "Николай Максименко, сооснователь квантового стартапа Haiqu, рассказал, как современные ИИ-агенты в связке с квантовыми компьютерами меняют экономику вычислений на порядки.",
+            "byline": "The Trend Times",
+            "body": [
+              "Николай Максименко — физик-теоретик, сооснователь и технический директор Haiqu, стартапа, объединяющего ИИ-агентов с квантовыми вычислениями, — рассказал Forbes, как наблюдал за тем, как современный ИИ-агент на базе больших языковых моделей и квантового компьютера воспроизвел за один уикенд результат его собственной диссертации, на которую у него самого в свое время ушло около полугода. Более того, агент по ходу дела нашел ошибку в одной из исходных формул Максименко.",
+              "Именно тогда он сказал команде: «Кажется, у нас тут AGI» — впрочем, сразу оговорившись, что имеет в виду «слабый AGI в некотором смысле». До основания Haiqu вместе с Ричардом Гивеном в 2022 году Максименко успел поработать в Институте Макса Планка и Институте Вейцмана, а также занимал должность вице-президента по R&D в SoftServe.",
+              "Ключевая идея Haiqu — связка ИИ-агентов с квантовыми процессорами нынешнего поколения резко снижает стоимость и время вычислений: по словам Максименко, симуляция молекулярной динамики, которая раньше стоила $30 000 и занимала девять часов, теперь обходится примерно в $25 и выполняется за 30 секунд. В январе 2026 года компания привлекла $11 млн в раунде seed, который возглавила Primary Venture Partners, — вдобавок к $4 млн, собранным на pre-seed в 2023 году."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/johnkoetsier/2026/09/10/a-quantum-physicist-told-his-team-i-think-agi-is-here-heres-what-convinced-him/"
+          },
+          {
+            "kicker": "ЛИДЕРСТВО",
+            "headline": "Основатель Swarm Aero: будущее — за продуктами, которые «думают сообща»",
+            "subhead": "Питер Калойяннис утверждает, что настоящий продукт его компании — не отдельный дрон, а рой из десятков беспилотников под управлением одного оператора.",
+            "body": [
+              "Питер Калойяннис, гендиректор и сооснователь Swarm Aero — стартапа из Окснарда (Калифорния), разрабатывающего автономные рои дронов для оборонных задач, — изложил в колонке для Forbes свою философию: «железо — это тело, а ИИ — мозг», и чем умнее «мозг», тем полезнее даже самое простое оборудование.",
+              "По словам Калойянниса, Swarm Aero продает не отдельный летательный аппарат, а именно рой — «множество автономных аппаратов, которые совместно ощущают обстановку, координируются и действуют как единая система под управлением небольшого числа операторов-людей». Управляющее ПО компании, Legion, спроектировано так, чтобы один оператор или небольшая команда могли одновременно следить за множеством автономных бортов — вопреки расхожему мнению, что больше автономности требует больше людей за пультом.",
+              "Калойяннис и его сооснователи Оливер Палмер и Дэнни Гудман основали Swarm Aero в 2022 году и привлекли $35 млн от Two Sigma Ventures, Silent Ventures, a16z и Founders Fund. В последнее время компания получила более $10 млн контрактов от исследовательской лаборатории ВВС США (AFRL) и представила Gamera Group 5 — беспилотник дальнего действия с заявленной дальностью 9000 морских миль."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/michaelashley/2026/09/14/why-the-future-belongs-to-products-that-can-think-together/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "ЛОНДОН",
+            "headline": "Alexander McQueen возвращается на Неделю моды в Лондоне впервые с 2022 года",
+            "subhead": "20 сентября Шон Макгирр представит первый лондонский показ дома после трех сезонов в Париже — символическое «возвращение домой» для британского бренда.",
+            "byline": "The Trend Times",
+            "body": [
+              "Alexander McQueen проведет 20 сентября первый с 2022 года показ на Неделе моды в Лондоне — креативный директор дома Шон Макгирр представит совместную коллекцию мужской и женской одежды сезона весна-лето 2027.",
+              "Это будет первый лондонский подиумный показ Макгирра в качестве креативного директора McQueen: с момента назначения он представлял коллекции дома в Париже. Возвращение в Лондон подается индустрией как символичный жест — «домой» для марки, которую Ли Александр Маккуин основал в британской столице в 1992 году.",
+              "Показ станет одним из главных событий лондонской недели — по данным WWD, эксклюзив о возвращении McQueen в Лондон стал одной из самых обсуждаемых новостей сезона в преддверии стартующей 17 сентября Недели моды."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/"
+          },
+          {
+            "kicker": "ВОЗВРАЩЕНИЕ",
+            "headline": "Mulberry возвращается на подиум после шести лет паузы — с Кристофером Кейном у руля",
+            "subhead": "20 сентября бренд покажет первую коллекцию prêt-à-porter с 2020 года; вещи поступят в продажу в январе 2027-го.",
+            "body": [
+              "Британский бренд кожаных изделий Mulberry вернется на подиум Недели моды в Лондоне 20 сентября — впервые с 2020 года, когда последнюю на тот момент коллекцию для дома выпустил тогдашний креативный директор Джонни Кока. Новую линию, получившую название «Mulberry by Christopher Kane», представит Кристофер Кейн, назначенный креативным директором женского prêt-à-porter в марте 2026 года.",
+              "Кейн — выпускник Central Saint Martins и четырехкратный лауреат British Fashion Awards, в том числе в номинации «Дизайнер женской одежды года»; он закрыл собственный одноименный бренд в 2023 году. Коллекция поступит в магазины и онлайн-продажу в январе 2027 года и станет частью стратегии Mulberry «Back to the Mulberry Spirit» — возвращения к британской идентичности бренда.",
+              "Показ проходит на фоне заметного коммерческого восстановления компании: по итогам 52 недель до 28 марта 2026 года общие продажи Mulberry выросли на 5,7%, а сопоставимые продажи в Великобритании во втором полугодии — на 13,7%."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/mulberry-london-fashion-week-christopher-kane-debut-show-1239047628/"
+          },
+          {
+            "kicker": "ЮБИЛЕЙ",
+            "headline": "Marks & Spencer впервые в истории выйдет на подиум Недели моды в Лондоне",
+            "subhead": "К своему столетию в моде ритейлер покажет коллекцию в формате «see now, buy now» — вещи будут доступны сразу после показа.",
+            "body": [
+              "Marks & Spencer 18 сентября проведет свой первый в истории показ на Неделе моды в Лондоне — коллекцию женской и мужской одежды, доступную для покупки сразу же онлайн и в флагманских магазинах Великобритании по формату «see now, buy now».",
+              "Показ приурочен к столетию модного направления M&S и объединит вещи линий Collection, Per Una и Autograph, переосмысляющие архивные образы бренда для современного покупателя. Накануне, 16 сентября, в архиве M&S в рамках Дней культурного наследия Великобритании прошло тематическое мероприятие «Fashion on Film».",
+              "Дебют ритейлера на главной лондонской подиумной площадке отражает более широкий тренд «see now, buy now» в индустрии — попытку сократить разрыв между показом и моментом, когда покупатель может купить вещь."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/marks-spencer-see-now-buy-collection-london-fashion-week-1239058059/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "НОВЫЙ АЛЬБОМ",
+            "headline": "Jhené Aiko выпустила первый за шесть лет альбом «Westside Whimsy» с участием Kendrick Lamar",
+            "subhead": "Пластинка из 20 треков также объединила артистку с Ab-Soul, Ларри Джун и Тайгой.",
+            "byline": "The Trend Times",
+            "body": [
+              "Jhené Aiko выпустила 11 сентября альбом «Westside Whimsy» — свою первую полноформатную пластинку за шесть лет, состоящую из 20 треков.",
+              "На треке «So Good» она воссоединилась с Kendrick Lamar, с которым сотрудничала еще во времена его альбома «Good Kid, M.A.A.D City». Среди других приглашенных артистов — Ab-Soul (на «Love Bomb»), Ларри Джун (на «Neighbors»), Тайга (на «Like, Whatever») и Ohma (на «Golden Coast»).",
+              "Возвращение Aiko после долгой паузы и участие Kendrick Lamar сделали релиз одним из самых обсуждаемых альбомных событий недели в хип-хоп-сообществе."
+            ],
+            "source": "Billboard",
+            "url": "https://www.billboard.com/music/rb-hip-hop/jhene-aiko-westside-whimsy-album-kendrick-lamar-stream-it-now-1236338217/"
+          },
+          {
+            "kicker": "БЕЛОРУССКИЙ РЭП",
+            "headline": "УННВ вернулись к мрачному звучанию с новым синглом «Сам придумай этому название»",
+            "subhead": "Минский андеграундный проект выпустил трек 10 сентября — второй релиз группы в этом году.",
+            "body": [
+              "Минская андеграундная хип-хоп-группа УННВ выпустила 10 сентября новый сингл «Сам придумай этому название» — сначала на SoundCloud, а на следующий день трек появился в каталоге KION Музыка. Это уже второй релиз коллектива в 2026 году, после более экспериментального сингла «Я подумаю об этом завтра», вышедшего ранее.",
+              "По оценке профильных изданий, новый трек — сознательное возвращение УННВ к фирменному «темному» звучанию: исповедальный, местами шепчущий вокал, который воспринимается скорее как приватный разговор, записанный в темноте, чем как выступление, — с текстами о тревоге, иронии и вполне конкретной меланхолии."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/unnv-vernulis-k-mraku-snova-opasno/"
+          },
+          {
+            "kicker": "АМЕРИКАНСКИЙ РЭП",
+            "headline": "EST Gee выпустил альбом «Bigger Than the Devil» силами собственной команды EST",
+            "subhead": "16 треков луисвиллского рэпера почти полностью обошлись без сторонних приглашенных артистов.",
+            "body": [
+              "Рэпер из Луисвилла EST Gee выпустил 11 сентября альбом «Bigger Than the Devil» — 16 треков, включая «I Got It Lit», «Rich Problems», «Way More», «Thug Club», «Hall of Fame» и «Slide».",
+              "В отличие от многих современных релизов, список гостей на альбоме минимален: единственная сторонняя фигура — YFN Lucci, тогда как остальные приглашенные — участники собственной команды артиста EST (86Snot, EST SkiMike, EST Spit, EST4Nikk), что подчеркивает установку EST Gee на «семейный» подход к записи пластинки."
+            ],
+            "source": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwmusic/article/EST-Gee-to-Release-BIGGER-THAN-THE-DEVIL-Album-in-September-20260828"
+          },
+          {
+            "kicker": "НОВЫЙ АЛЬБОМ",
+            "headline": "Rio Da Yung OG выпустил 22-трековый альбом «The World Is Yours» со звездным списком гостей",
+            "subhead": "На пластинке флинтского рэпера — Veeze, Trippie Redd, Lil Yachty, Tierra Whack и другие.",
+            "body": [
+              "Рэпер из Флинта Rio Da Yung OG выпустил 11 сентября альбом «The World Is Yours» на лейблах M.I.N.E. Ent. и EMPIRE — 22 трека, открывающиеся композицией «Be Like Me» и завершающиеся треком «Okay Wit Dat».",
+              "Список приглашенных гостей впечатляет: Veeze (на «Superstar»), Trippie Redd, Lil Yachty, Tierra Whack, Monaleo, Rylo Rodriguez, YN Jay (на «New York Minute») и Lil Yee; певец Judah Weston был добавлен в трек-лист в последний момент — его голос звучит на «Rocks Off»."
+            ],
+            "source": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwmusic/article/Rio-Da-Yung-OG-to-Release-THE-WORLD-IS-YOURS-Album-20260910"
+          },
+          {
+            "kicker": "ТРАГЕДИЯ",
+            "headline": "Чикагский рэпер BloodHound Q50 застрелен в результате нападения нескольких стрелков",
+            "subhead": "22-летний исполнитель драйлла погиб рано утром 13 сентября у автозаправки в районе Fuller Park; аресты пока не производились.",
+            "body": [
+              "Чикагский рэпер BloodHound Q50 (настоящее имя — Микуэйл Купер), 22 года, был убит рано утром в воскресенье, 13 сентября, в перестрелке у автозаправочной станции в районе Fuller Park, в квартале 4200 по South Wentworth Avenue.",
+              "По данным полиции и очевидцев, около 5:58 утра, когда артист сидел в автомобиле Tesla, к месту подъехали несколько машин, и, по разным данным, до шести стрелков открыли огонь; свидетели сообщили, что услышали более сотни выстрелов за короткое время. Купер получил ранения в грудь и плечо и скончался на месте.",
+              "На момент публикации сообщений об арестах не поступало. BloodHound Q50 был известен по трекам чикагской драйлл-сцены, включая «Don't Blink or Stare» (более 10 млн прослушиваний на Spotify), а также «Triple 3», «Splash Bros» и «BH4L» (более 2 млн прослушиваний каждый)."
+            ],
+            "source": "Chicago Sun-Times",
+            "url": "https://chicago.suntimes.com/crime/2026/09/13/homicide-fuller-park"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-17",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 19
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "China's Z.ai Raises $5 Billion — Its Second Big Raise in Two Months — as Shares Tumble 10%",
+            "subhead": "The Hong Kong-listed GLM developer raised $2 billion through a share placement and $3 billion through convertible bonds, bringing its total haul to nearly $9.5 billion in nine months.",
+            "byline": "The Trend Times",
+            "body": [
+              "Z.ai (formerly Zhipu AI), the Chinese developer behind the GLM family of models, raised $5 billion through a combined share placement and convertible bond sale announced September 13 — its second major fundraise in two months, following a $4 billion placement in July.",
+              "The deal breaks down to roughly $2 billion from placing 21.97 million new shares at HK$714 apiece — about a 10% discount to the prior close — plus $3 billion from zero-coupon, yuan-denominated convertible bonds due in 2027 with a conversion price of HK$892.50.",
+              "Shares fell more than 10% on the Hong Kong exchange after the announcement. Z.ai said roughly 60% of the proceeds will fund next-generation GLM models and a \"fully self-training\" system along with compute infrastructure, with another 15% earmarked for expansion. Including its January IPO, the company has now raised nearly $9.5 billion in under nine months."
+            ],
+            "source": "Caixin Global",
+            "url": "https://www.caixinglobal.com/2026-09-14/zai-raises-5-billion-in-share-placement-convertible-bond-sale-102484813.html"
+          },
+          {
+            "kicker": "AI SAFETY",
+            "headline": "Canada and Germany Commit Up to $300 Million to Yoshua Bengio's LawZero for 'Scientist AI'",
+            "subhead": "The money will fund a model designed to act like an \"objective scientist\" with no goals of its own — and build sovereign compute infrastructure in Canada.",
+            "body": [
+              "Canada and Germany announced joint funding of up to $300 million on September 16 for LawZero, the nonprofit founded by Turing Award winner Yoshua Bengio to pursue a fundamentally different, \"safe by design\" approach to advanced AI. The announcement came at the All In conference in Montreal.",
+              "Canada is contributing CAD 150 million and Germany EUR 100 million. The money will pay for hiring and compute to build Scientist AI, a system LawZero says will work like an \"objective scientist\" — reasoning from facts alone rather than pursuing goals of its own, unlike today's frontier models.",
+              "The funding will also create roughly 360 jobs in Canada and help build sovereign compute infrastructure with Canadian firms Hypertec and 5C. Bengio, who founded LawZero in 2025, had warned publicly just days earlier that humanity is \"losing control\" of frontier AI agents."
+            ],
+            "source": "Government of Canada",
+            "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/canada-and-germany-invest-in-lawzero-to-build-a-new-approach-to-safe-sovereign-ai.html"
+          },
+          {
+            "kicker": "VOICE AI",
+            "headline": "OpenAI Opens Up GPT-Live-1, a Voice Model That Listens and Talks at the Same Time",
+            "subhead": "The API version of ChatGPT's voice engine costs 5 cents a minute and, OpenAI says, beats its predecessor by 30 points on a real-time conversation benchmark.",
+            "body": [
+              "OpenAI opened API access to GPT-Live-1 on September 10 — the full-duplex voice model that already powers ChatGPT's voice mode. Unlike the conventional pipeline of speech recognition, then a language model, then speech synthesis, GPT-Live-1 processes incoming and outgoing speech with a single model at the same time.",
+              "That lets it handle the things that usually trip up voice assistants — interruptions, pauses, sudden changes of topic, background speech — without waiting for a speaker to finish. The voice layer costs $0.05 a minute and is billed separately from whichever model handles the actual reasoning, which developers can swap in freely.",
+              "OpenAI says GPT-Live-1 gains 30 points over GPT-Realtime-2.1 on its Full Duplex Bench, and performs best when paired with its flagship GPT-6 Astra model. The release ships with 12 new voices and telephony support, and has already been tested by EliseAI, a partner that automates communications for real estate and healthcare."
+            ],
+            "source": "Unite.AI",
+            "url": "https://www.unite.ai/openais-gpt-live-1-arrives-in-the-api-at-0-05-per-minute/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "CAMPAIGNS",
+            "headline": "Duolingo Turns Mispronounced Luxury Brand Names Into a New York Fashion Week Capsule",
+            "subhead": "Designer Megan O'Cain's seven-piece line spells out Hermès and Givenchy phonetically as 'air-mess' and 'zhee-vahn-shee' — and a pop-up sale ran on streaks, not dollars.",
+            "byline": "The Trend Times",
+            "body": [
+              "During New York Fashion Week, Duolingo unveiled 'The Phonetic Collection,' a seven-piece capsule made with New York designer Megan O'Cain, a former contestant on 'Next in Fashion.' The idea: teach people to pronounce the luxury brand names they most often get wrong.",
+              "The capsule spells brand names out phonetically — 'air-mess' for Hermès, 'zhee-vahn-shee' for Givenchy — along with playful takes on Jacquemus, Moschino, Loewe, Comme des Garçons and Issey Miyake. The campaign ran across outdoor and social ads, backed by a two-day immersive pop-up at showroom Null Object.",
+              "The pop-up's twist: shoppers didn't pay with money, they bid using their Duolingo streak — a fitting extension of a brand built entirely around habit and gamified learning."
+            ],
+            "source": "Famous Campaigns",
+            "url": "https://www.famouscampaigns.com/2026/09/duolingo-turns-mispronounced-fashion-names-into-a-nyfw-collection/"
+          },
+          {
+            "kicker": "ADVERTISING",
+            "headline": "Dunkin' Introduces a Fictional 'Sixth Spice Girl' Named Pumpkin Spice",
+            "subhead": "Real-life Spice Girls Emma Bunton and Geri Halliwell-Horner star in mockumentary ads about a bandmate who traded music for lattes.",
+            "body": [
+              "Dunkin' launched a campaign on September 8 built around a fictional 'sixth Spice Girl' named Pumpkin Spice, played by comedian Rachel Dratch. In the mockumentary-style ads, she's framed as a long-lost bandmate with pumpkin-themed songs and dance moves who ultimately left music behind for coffee.",
+              "Real Spice Girls Emma Bunton (Baby Spice) and Geri Halliwell-Horner (Ginger Spice) appear straight-faced, 'reminiscing' about their invented former bandmate.",
+              "The campaign is timed to pumpkin spice season and offers a free medium pumpkin spice latte with a qualifying purchase at Dunkin' locations."
+            ],
+            "source": "Adweek",
+            "url": "https://www.adweek.com/creativity/dunkin-answers-the-sixth-spice-girl-mystery-with-pumpkin-spice/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "SPACE",
+            "headline": "Impulse Space's Series D Grows to $808 Million, Valuation Jumps to $5.6 Billion",
+            "subhead": "The extra $308 million comes as the company's missions sell out years in advance and it lands a U.S. Space Force contract to launch its Helios upper stage.",
+            "byline": "The Trend Times",
+            "body": [
+              "Impulse Space, which builds orbital transfer vehicles that ferry satellites from drop-off orbit to their final destination, announced a $308 million extension to its Series D round on September 16. That brings the round's total to $808 million and lifts the company's valuation to $5.6 billion, up from the $4.26 billion set when the original $500 million round closed in June.",
+              "Existing backers 137 Ventures, BANNER VC, DFJ Growth, Linse Capital, Lux Capital and Valor Equity Partners all participated in the extension. The capital will fund product development and headcount growth as demand for in-space mobility rises among commercial, civil and government customers.",
+              "The company said its Caravan 2 and Caravan 3 rideshare missions on its Helios upper stage, planned for 2028, are already sold out. Helios was also selected for the U.S. Space Force's National Security Space Launch (NSSL) Phase 3 Lane 1 program — making Impulse the first upper-stage provider awarded a slot."
+            ],
+            "source": "GlobeNewswire (Impulse Space)",
+            "url": "https://www.globenewswire.com/news-release/2026/09/16/3363347/0/en/impulse-space-announces-308-million-series-d-extension-to-meet-increasing-demand-for-in-space-mobility.html"
+          },
+          {
+            "kicker": "AI AND BRANDS",
+            "headline": "Profound Hits $1.8 Billion Valuation Helping Brands Get Noticed by Chatbots",
+            "subhead": "Sequoia and Kleiner Perkins led the $180 million Series D — just seven months after the startup's last round.",
+            "body": [
+              "Profound, a New York startup that helps brands optimize how they show up in AI chatbot answers from tools like ChatGPT and Gemini — a discipline the industry calls AEO, or answer engine optimization, echoing traditional SEO — closed a $180 million Series D at a $1.8 billion valuation. The round, announced September 15, was led by Sequoia Capital and Kleiner Perkins.",
+              "Existing investors Lightspeed Venture Partners, Khosla Ventures, Saga Ventures, Evantic and South Park Commons also joined. The round comes less than seven months after Profound's $96 million Series C, and the company has now raised more than $335 million since its 2024 founding.",
+              "Profound counts more than 1,000 enterprise brands as customers, including Comcast, Estée Lauder, Walmart, Campari Group and RBC, alongside tech customers Zoom, ServiceNow, Ramp, Cursor, MongoDB and Figma."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Insurer Orion180 Heads to Nasdaq, Aiming to Raise Up to $320 Million",
+            "subhead": "The hurricane- and flood-focused specialty insurer is offering 20 million shares priced at $15 to $17 under the ticker OIG.",
+            "body": [
+              "Orion180 Insurance Group, a Melbourne, Florida-based insurer specializing in hurricane and flood coverage for homes across the southern U.S., has set a price range of $15 to $17 a share for its upcoming Nasdaq IPO. Selling 20 million Class A shares, the company aims to raise up to $320 million, valuing it at roughly $1.58 billion at the midpoint.",
+              "Underwriters RBC Capital Markets, UBS, Raymond James and Goldman Sachs are expected to complete the offering during the week that began September 14, with shares set to begin trading on the Nasdaq Global Select Market under the ticker OIG.",
+              "Orion180 is the second-largest excess-and-surplus-lines homeowners insurer in the U.S. by direct written premiums, operating across 14 states, with roughly $601 million in managed premiums for the twelve months ended June 30, 2026."
+            ],
+            "source": "IPOScoop",
+            "url": "https://www.iposcoop.com/the-ipo-buzz-orion180-insurance-oig-proposed-launches-320-million-ipo/"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FOUNDERS",
+            "headline": "A Quantum Physicist Told His Team 'I Think AGI Is Here' After an AI Agent Redid His PhD Work in a Weekend",
+            "subhead": "Haiqu co-founder Mykola Maksymenko says pairing today's AI agents with quantum computers is collapsing the cost of computation by orders of magnitude.",
+            "byline": "The Trend Times",
+            "body": [
+              "Mykola Maksymenko, a theoretical physicist and co-founder and CTO of Haiqu — a startup pairing AI agents with quantum computing — told Forbes he watched a modern AI agent, running on large language models plus a quantum computer, rebuild in a single weekend a piece of his own PhD research that had taken him roughly six months. Along the way, the agent found a bug in one of his original formulas.",
+              "That's when he told his team: 'I think AGI is here' — though he was quick to qualify it as 'weak AGI in some sense.' Before co-founding Haiqu with Richard Givhan in 2022, Maksymenko had worked at the Max Planck Institute and the Weizmann Institute, and served as VP of R&D at SoftServe.",
+              "Haiqu's core bet is that combining AI agents with current-generation quantum hardware drastically cuts the cost and time of computation: Maksymenko says a molecular dynamics simulation that used to cost $30,000 and take nine hours now runs for about $25 in 30 seconds. The company raised an $11 million seed round led by Primary Venture Partners in January 2026, on top of a $4 million pre-seed in 2023."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/johnkoetsier/2026/09/10/a-quantum-physicist-told-his-team-i-think-agi-is-here-heres-what-convinced-him/"
+          },
+          {
+            "kicker": "LEADERSHIP",
+            "headline": "Swarm Aero's Founder Says the Future Belongs to Products That 'Think Together'",
+            "subhead": "Peter Kalogiannis argues his company's real product isn't a single drone — it's a swarm of dozens run by one operator.",
+            "body": [
+              "Peter Kalogiannis, CEO and co-founder of Swarm Aero, an Oxnard, California startup building autonomous drone swarms for defense customers, laid out his philosophy in a Forbes column: 'hardware is the body, and AI is the brain' — and the smarter the brain, the more useful even simple hardware becomes.",
+              "Kalogiannis says Swarm Aero doesn't sell a single aircraft — it sells the swarm itself, 'many autonomous aircraft sensing, coordinating and acting together as a unified system, under the control of a small number of human operators.' The company's command software, Legion, is built so one operator or a small team can supervise many autonomous aircraft at once, pushing back on the assumption that more autonomy requires more people at the controls.",
+              "Kalogiannis co-founded Swarm Aero with Oliver Palmer and Danny Goodman in 2022, raising $35 million from Two Sigma Ventures, Silent Ventures, a16z and Founders Fund. The company has recently won more than $10 million in contracts from the Air Force Research Laboratory and unveiled its Gamera Group 5, a long-range unmanned aircraft rated for 9,000 nautical miles."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/michaelashley/2026/09/14/why-the-future-belongs-to-products-that-can-think-together/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "LONDON",
+            "headline": "Alexander McQueen Returns to London Fashion Week for the First Time Since 2022",
+            "subhead": "Seán McGirr presents his first London runway show for the house on September 20, after three seasons in Paris — a symbolic homecoming for the British label.",
+            "byline": "The Trend Times",
+            "body": [
+              "Alexander McQueen will stage its first London Fashion Week show since 2022 on September 20, with creative director Seán McGirr presenting a combined men's and women's spring/summer 2027 collection.",
+              "It will be McGirr's first London runway show as McQueen's creative director — since his appointment, he has shown the house's collections in Paris. The industry is framing the return to London as a symbolic gesture: a homecoming for a label Lee Alexander McQueen founded in the British capital in 1992.",
+              "The show is shaping up to be one of the week's marquee events — WWD's exclusive on McQueen's return to London has been one of the most talked-about stories of the season heading into fashion week's September 17 opening."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/"
+          },
+          {
+            "kicker": "COMEBACK",
+            "headline": "Mulberry Returns to the Runway After Six Years, With Christopher Kane at the Helm",
+            "subhead": "The brand shows its first ready-to-wear collection since 2020 on September 20; pieces arrive in stores in January 2027.",
+            "body": [
+              "British leather goods house Mulberry returns to the London Fashion Week runway on September 20 for the first time since 2020, when then-creative director Johnny Coca showed its last collection. The new line, 'Mulberry by Christopher Kane,' marks the debut of Christopher Kane, named creative director of women's ready-to-wear in March 2026.",
+              "Kane, a Central Saint Martins graduate and four-time British Fashion Awards winner, including Womenswear Designer of the Year, closed his own eponymous label in 2023. The collection arrives in stores and online in January 2027 and is part of Mulberry's 'Back to the Mulberry Spirit' strategy — a return to the brand's British identity.",
+              "The show comes amid a notable commercial rebound: Mulberry's total sales rose 5.7% for the 52 weeks to March 28, 2026, with UK like-for-like sales up 13.7% in the second half."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/mulberry-london-fashion-week-christopher-kane-debut-show-1239047628/"
+          },
+          {
+            "kicker": "CENTENARY",
+            "headline": "Marks & Spencer Makes Its First-Ever London Fashion Week Runway Appearance",
+            "subhead": "For its 100th year in fashion, the retailer is showing a 'see now, buy now' collection available immediately after the show.",
+            "body": [
+              "Marks & Spencer will stage its first-ever London Fashion Week show on September 18 — a men's and women's collection immediately shoppable online and in UK flagship stores under a 'see now, buy now' format.",
+              "The show marks M&S's 100th year in fashion and draws on its Collection, Per Una and Autograph lines, reworking archive pieces for today's shopper. A day earlier, on September 16, the M&S Archive hosted a related 'Fashion on Film' event as part of UK Heritage Open Days.",
+              "The retailer's debut on fashion's biggest London stage reflects a broader industry shift toward 'see now, buy now' formats — an attempt to close the gap between the runway and the moment a shopper can actually buy the piece."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/marks-spencer-see-now-buy-collection-london-fashion-week-1239058059/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "NEW ALBUM",
+            "headline": "Jhené Aiko Releases Her First Album in Six Years, 'Westside Whimsy,' Featuring Kendrick Lamar",
+            "subhead": "The 20-track record also reunites the singer with Ab-Soul, Larry June and Tyga.",
+            "byline": "The Trend Times",
+            "body": [
+              "Jhené Aiko released 'Westside Whimsy' on September 11 — her first full-length album in six years, running 20 tracks.",
+              "On 'So Good,' she reunites with Kendrick Lamar, a collaborator dating back to his 'Good Kid, M.A.A.D City' era. Other guests include Ab-Soul on 'Love Bomb,' Larry June on 'Neighbors,' Tyga on 'Like, Whatever' and Ohma on 'Golden Coast.'",
+              "Aiko's return after a long gap, paired with the Kendrick Lamar reunion, made the release one of the week's most talked-about moments in hip-hop."
+            ],
+            "source": "Billboard",
+            "url": "https://www.billboard.com/music/rb-hip-hop/jhene-aiko-westside-whimsy-album-kendrick-lamar-stream-it-now-1236338217/"
+          },
+          {
+            "kicker": "BELARUSIAN RAP",
+            "headline": "UNNV Return to Their Darker Sound With New Single 'Come Up With a Name Yourself'",
+            "subhead": "The Minsk underground project released the track on September 10 — its second release of the year.",
+            "body": [
+              "Minsk underground hip-hop group UNNV released a new single, 'Sam Pridumay Etomu Nazvanie' ('Come Up With a Name Yourself'), on September 10 — first on SoundCloud, then added to the KION Music streaming catalog the next day. It's the group's second release of 2026, following the more experimental single 'I'll Think About It Tomorrow' earlier this year.",
+              "Critics describe the new track as a deliberate return to UNNV's signature dark aesthetic — confessional, often whispered vocals that feel more like a private conversation recorded in the dark than a performance, built around anxiety, irony and a very specific melancholy."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/unnv-vernulis-k-mraku-snova-opasno/"
+          },
+          {
+            "kicker": "US RAP",
+            "headline": "EST Gee Releases 'Bigger Than the Devil,' Keeping the Features In-House",
+            "subhead": "The Louisville rapper's 16-track album mostly skips outside guest verses.",
+            "body": [
+              "Louisville rapper EST Gee released 'Bigger Than the Devil' on September 11 — 16 tracks including 'I Got It Lit,' 'Rich Problems,' 'Way More,' 'Thug Club,' 'Hall of Fame' and 'Slide.'",
+              "Unlike many modern rap releases, the guest list is minimal: the only outside feature is YFN Lucci, while every other guest — 86Snot, EST SkiMike, EST Spit, EST4Nikk — comes from EST Gee's own crew, underscoring his deliberately in-house approach to the project."
+            ],
+            "source": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwmusic/article/EST-Gee-to-Release-BIGGER-THAN-THE-DEVIL-Album-in-September-20260828"
+          },
+          {
+            "kicker": "NEW ALBUM",
+            "headline": "Rio Da Yung OG Drops 22-Track Album 'The World Is Yours' With a Stacked Guest List",
+            "subhead": "Veeze, Trippie Redd, Lil Yachty, Tierra Whack and more appear on the Flint rapper's new record.",
+            "body": [
+              "Flint rapper Rio Da Yung OG released 'The World Is Yours' on September 11 via M.I.N.E. Ent. and EMPIRE — 22 tracks opening with 'Be Like Me' and closing with 'Okay Wit Dat.'",
+              "The guest list is stacked: Veeze on 'Superstar,' plus Trippie Redd, Lil Yachty, Tierra Whack, Monaleo, Rylo Rodriguez, YN Jay on 'New York Minute,' and Lil Yee; singer Judah Weston was added to the tracklist at the last minute, appearing on 'Rocks Off.'"
+            ],
+            "source": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwmusic/article/Rio-Da-Yung-OG-to-Release-THE-WORLD-IS-YOURS-Album-20260910"
+          },
+          {
+            "kicker": "TRAGEDY",
+            "headline": "Chicago Rapper BloodHound Q50 Shot Dead in Multi-Gunman Ambush",
+            "subhead": "The 22-year-old drill artist was killed early on September 13 outside a gas station in Fuller Park; no arrests have been made.",
+            "body": [
+              "Chicago rapper BloodHound Q50, whose real name was Mikquale Cooper, was killed early Sunday, September 13, in a shooting outside a gas station in the Fuller Park neighborhood, in the 4200 block of South Wentworth Avenue. He was 22.",
+              "Police and witnesses say that around 5:58 a.m., while Cooper sat in a Tesla, multiple vehicles pulled up and as many as six gunmen opened fire; witnesses reported hearing more than 100 shots in rapid succession. He was struck in the chest and shoulder and died at the scene.",
+              "No arrests had been announced as of this report. BloodHound Q50 was known for tracks from Chicago's drill scene, including 'Don't Blink or Stare' (more than 10 million Spotify streams), along with 'Triple 3,' 'Splash Bros' and 'BH4L' (each over 2 million streams)."
+            ],
+            "source": "Chicago Sun-Times",
+            "url": "https://chicago.suntimes.com/crime/2026/09/13/homicide-fuller-park"
+          }
+        ]
+      }
+    ]
+  }
+}
