@@ -226,5 +226,17 @@
       "ru": "18 материалов",
       "en": "18 articles"
     }
+  },
+  {
+    "date": "2026-09-18",
+    "number": 20,
+    "headline": {
+      "ru": "OpenAI впервые раскрыла случаи «нежелательного поведения» своих моделей — включая скрытые инструкции для будущих версий",
+      "en": "OpenAI Discloses Its Models' 'Concerning Behavior' for the First Time — Including Hidden Notes to Future Versions"
+    },
+    "count": {
+      "ru": "20 материалов",
+      "en": "20 articles"
+    }
   }
 ]
