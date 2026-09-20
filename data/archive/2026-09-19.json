@@ -1,0 +1,550 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-19",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 21
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "ИССЛЕДОВАНИЯ",
+            "headline": "Claude теперь выполняет четверть работы над созданием собственного преемника",
+            "subhead": "Anthropic заявила, что модель участвует в 90% исследований и разработок компании, но пока не работает полностью автономно.",
+            "byline": "The Trend Times",
+            "body": [
+              "Anthropic раскрыла, что её модель Claude теперь «ведёт» 26% внутренней работы по созданию следующей версии самой себя — против менее 1% в феврале 2026 года. По данным компании, около 90% исследований и разработок ведётся «в сотрудничестве» с Claude: модель самостоятельно выполняет крупные блоки задач по короткому запросу человека, от постановки эксперимента до анализа результатов.",
+              "При этом Anthropic подчёркивает, что Claude ещё не работает полностью автономно — решения принимаются под контролем инженеров-людей. Внутри компании одновременно запущено около 30 000 агентов Claude, а автоматические системы безопасности вмешиваются примерно в одном случае из 47 000 действий.",
+              "Раскрытие цифр подано как доказательство того, что искусственный интеллект начинает ускорять цикл собственной разработки — тема, которая всё активнее обсуждается в индустрии на фоне растущих ожиданий по срокам появления более мощных моделей."
+            ],
+            "source": "The Washington Post",
+            "url": "https://www.washingtonpost.com/technology/2026/09/17/anthropic-says-its-chatbot-claude-is-taking-over-work-building-its-own-successor/"
+          },
+          {
+            "kicker": "РЕГУЛИРОВАНИЕ",
+            "headline": "OpenAI, Anthropic и Google DeepMind обсуждают создание независимого органа по проверке ИИ-моделей",
+            "subhead": "Переговоры о структуре по типу FINRA идут уже несколько недель на фоне призывов к отраслевой саморегуляции.",
+            "body": [
+              "По словам главы отдела глобальной политики OpenAI, три ведущие лаборатории — OpenAI, Anthropic и Google DeepMind — на протяжении нескольких недель обсуждают создание независимого органа по образцу американского регулятора FINRA, который тестировал бы передовые модели перед их выпуском.",
+              "Переговоры начались после публикации эссе главы Anthropic Дарио Амодеи, призвавшего индустрию координировать усилия, чтобы замедлить риски, связанные с развитием топовых моделей ИИ. Идею публично поддержали Сэм Альтман (OpenAI) и Демис Хассабис (Google DeepMind).",
+              "Формального органа пока не создано, однако сам факт переговоров рассматривается как признак сдвига индустрии в сторону саморегулирования на фоне растущего внимания со стороны властей разных стран."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+          },
+          {
+            "kicker": "РАУНД",
+            "headline": "Mistral AI привлекла €3 млрд при оценке свыше €21 млрд — рекордный раунд для европейского техстартапа",
+            "subhead": "Раунд возглавил Samsung Electronics на фоне растущего спроса на «суверенный ИИ».",
+            "body": [
+              "Французская лаборатория Mistral AI закрыла раунд серии D на €3 млрд (около $3,6 млрд) при оценке компании более €21 млрд (примерно $24,4 млрд). Раунд возглавил Samsung Electronics, соинвесторами выступили фонд Scaleup Europe от EQT и действующий инвестор PSG Equity.",
+              "В Mistral назвали это крупнейшим по объёму раундом акционерного финансирования за всю историю европейских технологических компаний. Компания связывает интерес инвесторов с ростом спроса на «суверенный ИИ» — модели, которые разрабатываются и размещаются вне инфраструктуры доминирующих американских лабораторий."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "РЕКЛАМА",
+            "headline": "Реклама в ChatGPT достигла $1 млрд годовой выручки менее чем за 200 дней",
+            "subhead": "OpenAI открыла самостоятельный кабинет для рекламодателей в Индии, Европе и на Ближнем Востоке.",
+            "byline": "The Trend Times",
+            "body": [
+              "OpenAI сообщила, что её рекламный продукт ChatGPT Ads достиг годовой (annualized) выручки в $1 млрд менее чем за 200 дней после запуска. Компания открыла самостоятельный кабинет Ads Manager для рекламодателей в Индии, Европе, на Ближнем Востоке и в Северной Африке — сервис теперь доступен более чем в 40 странах и используется десятками тысяч рекламодателей.",
+              "По имеющимся данным, OpenAI рассчитывает получить от рекламы $2,5 млрд по итогам года и выйти на годовую выручку около $40 млрд — почти вдвое больше темпов конца 2025 года. Развитие рекламного направления рассматривается как способ диверсификации бизнеса в преддверии ожидаемого IPO компании."
+            ],
+            "source": "AdWeek",
+            "url": "https://www.adweek.com/programmatic/chatgpt-openai-billion-advertising-revenue/"
+          },
+          {
+            "kicker": "ПЛАТФОРМЫ",
+            "headline": "Google начал принудительный перевод поисковых кампаний на формат «AI Max»",
+            "subhead": "С августа сервис уже блокирует создание новых кампаний с широким соответствием старого типа.",
+            "body": [
+              "В сентябре 2026 года Google в автоматическом режиме переводит поисковые кампании, всё ещё использующие широкое соответствие на уровне кампании или отдельные «автоматически создаваемые ресурсы» (ACA), на новый формат AI Max. Настройки, включая уже заданные включения и исключения бренда, переносятся автоматически.",
+              "Ещё с 3 августа Google заблокировал создание новых кампаний старого типа. Для динамических поисковых объявлений (DSA) обязательный переход отложен до февраля 2027 года — с этого месяца рекламодатели будут получать предупреждения внутри аккаунта. Шаг вписывается в общий курс Google на перевод закупки поисковой рекламы на форматы, управляемые ИИ."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-sets-ai-max-migration-timeline-for-search-campaigns-485006"
+          },
+          {
+            "kicker": "ИНТЕГРАЦИИ",
+            "headline": "Innovid встроила в NIVO новый протокол Meta для ИИ-агентов в рекламе",
+            "subhead": "Компания стала одним из первых партнёров программы Meta Ads MCP.",
+            "body": [
+              "Компания Innovid (NYSE: CTV) интегрировала в свой ИИ-продукт NIVO новый сервер Meta «Ads MCP» (Model Context Protocol), войдя в число официальных партнёров программы после участия в её бета-тестировании.",
+              "Интеграция позволяет маркетологам получать данные об эффективности кампаний в Meta в формате диалога — например, запрашивать сводку по состоянию кампании, узнавать об «усталости» креативов или получать рекомендации по оптимизации — вместо того чтобы переключаться между разными панелями. Шаг отражает более широкий тренд: рекламные платформы открывают доступ ИИ-агентам к данным о кампаниях."
+            ],
+            "source": "ExchangeWire",
+            "url": "https://www.exchangewire.com/blog/2026/09/09/innovid-expands-nivo-with-meta-ads-mcp-integration/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "РАУНД",
+            "headline": "Temporal привлекла $550 млн при оценке $12,55 млрд — вдвое больше, чем полгода назад",
+            "subhead": "Выручка платформы для надёжных ИИ-приложений превысила $250 млн в годовом выражении.",
+            "byline": "The Trend Times",
+            "body": [
+              "Платформа для построения надёжных рабочих процессов Temporal закрыла раунд серии E на $550 млн, оценка компании выросла до $12,55 млрд — более чем вдвое по сравнению с $5 млрд, которые Temporal получила семью месяцами ранее на раунде серии D в $300 млн при участии a16z.",
+              "Новый раунд возглавил Lightspeed, соинвесторами выступили Wellington Management, Goldman Sachs Alternatives Growth Equity, Tiger Global, T. Rowe Price и SV Angel. Годовая выручка Temporal превысила $250 млн, показав рост более чем на 200% год к году; у облачного сервиса Temporal Cloud свыше 4300 платящих клиентов, включая Nvidia и OpenAI. Всего компания привлекла $1,2 млрд."
+            ],
+            "source": "GeekWire",
+            "url": "https://www.geekwire.com/2026/temporal-raises-550m-hits-12-55b-valuation-as-agentic-ai-wave-fuels-massive-growth/"
+          },
+          {
+            "kicker": "КОСМОС",
+            "headline": "Индийский спутниковый стартап Pixxel привлёк $100 млн — крупнейший раунд в истории индийского спейс-теха",
+            "subhead": "Компания уже работает с NASA и получила контракт с американской разведкой.",
+            "body": [
+              "Индийский стартап Pixxel, разрабатывающий гиперспектральные спутники для наблюдения Земли, закрыл раунд серии C на $100 млн, который совместно возглавили Temasek и Seraphim Space, при участии новых инвесторов 360 ONE Asset и IMM Investment, а также действующего инвестора Radical Ventures.",
+              "Это крупнейший раунд финансирования за всю историю индийских космических стартапов: общий объём привлечённых Pixxel средств достиг $195 млн, а оценка компании — до $500 млн. Pixxel участвует в программе NASA Commercial SmallSat Data Acquisition стоимостью $476 млн (контракт действует до ноября 2028 года), в мае подписала пятилетнее соглашение с американским Национальным разведывательным управлением (NRO) и выбрана для создания группировки из 12 спутников наблюдения Земли в рамках индийской программы IN-SPACe."
+            ],
+            "source": "Business Standard",
+            "url": "https://www.business-standard.com/companies/news/pixxel-series-c-funding-temasek-seraphim-space-tech-126090700126_1.html"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Anthropic готовится к IPO с целевой оценкой $2 трлн — крупнейшему в истории",
+            "subhead": "Компания, по данным СМИ, выбрала биржу Nasdaq; размещение ожидается в октябре.",
+            "body": [
+              "По данным Bloomberg и Reuters, Anthropic переносит IPO на середину октября 2026 года и рассчитывает на оценку около $2 трлн, что сделало бы размещение крупнейшим в истории — крупнее дебюта SpaceX в июне 2026 года, когда компания достигла капитализации $2,1 трлн (акции выросли на 19% в первый день торгов, до $161).",
+              "Источники ожидают, что годовая выручка Anthropic к концу года достигнет $100–120 млрд — более чем в десять раз больше показателя в $47 млрд, о котором сообщалось в мае. Организаторами размещения выступят Morgan Stanley, Goldman Sachs и JPMorgan. Сама Anthropic пока официально не подтвердила ни итоговую оценку, ни точные сроки."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "СОСТОЯНИЯ",
+            "headline": "Основатель ByteDance Чжан Имин стал самым богатым человеком Азии",
+            "subhead": "Состояние создателя TikTok превысило $105 млрд на фоне ИИ-роста компании.",
+            "byline": "The Trend Times",
+            "body": [
+              "Основатель ByteDance (материнской компании TikTok) Чжан Имин, которому 43 года, обошёл Гаутама Адани и стал самым богатым человеком Азии по индексу Bloomberg Billionaires Index. Его состояние превысило $105 млрд — рост на $12 млрд только за сентябрь после переоценки активов компании со стороны BlackRock и Fidelity.",
+              "С 2019 года состояние Чжана выросло примерно в восемь раз — тогда оно оценивалось около $13 млрд. Рост связывают с развитием ByteDance на фоне внедрения ИИ. Предприниматель занимает 18-е место в мировом рейтинге богатейших людей и владеет около 21% компании."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person"
+          },
+          {
+            "kicker": "УРОК",
+            "headline": "Состояние Майкла Делла почти удвоилось до $262 млрд на буме ИИ-инфраструктуры",
+            "subhead": "Легендарный производитель ПК неожиданно оказался в выигрыше от ИИ-цикла.",
+            "body": [
+              "Состояние основателя Dell Technologies Майкла Делла выросло примерно на $122 млрд с сентября 2025 года и почти удвоилось — до $262 млрд, по данным Bloomberg Billionaires Index. Это сделало его пятым самым богатым человеком в мире.",
+              "Причина взлёта — неожиданный успех классического «железного» бизнеса Dell в эпоху ИИ: спрос на серверные стойки и системы хранения, оптимизированные под ИИ-нагрузки, разогнал акции компании на 327% с начала года, а квартальная выручка достигла рекордных $47 млрд. История показательна как пример того, как основатель «старой экономики» смог перестроить десятилетиями существующую компанию под новый технологический цикл."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/09/14/michael-dell-net-worth-nearly-doubled-262-billion-last-year-alone-dell-becomes-unexpected-ai-infrastructure-winner/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "НАЗНАЧЕНИЯ",
+            "headline": "Оливье Рустен возглавил дом Rabanne",
+            "subhead": "Экс-креативный директор Balmain сменил на посту Жюльена Доссена.",
+            "byline": "The Trend Times",
+            "body": [
+              "Принадлежащий Puig дом Rabanne официально назначил Оливье Рустена креативным директором — он сменил Жюльена Доссена, покинувшего дом 24 июня 2026 года после 13 лет работы.",
+              "Рустен почти 14 лет руководил домом Balmain, покинув пост в декабре 2025 года. В Rabanne он представит предпраздничную коллекцию в ноябре 2026 года, а первый подиумный показ пройдёт в марте 2027 года на Неделе моды в Париже в рамках показа коллекции осень–зима 2027."
+            ],
+            "source": "WWD / Business of Fashion",
+            "url": "https://us.fashionnetwork.com/news/Rabanne-names-olivier-rousteing-new-creative-director,1852224.html"
+          },
+          {
+            "kicker": "НАЗНАЧЕНИЯ",
+            "headline": "Дом Carven назначил Кая Нессельрата директором по дизайну",
+            "subhead": "Дизайнер почти десять лет проработал в Saint Laurent.",
+            "body": [
+              "Дом Carven объявил о назначении Кая Нессельрата — уроженца Италии с немецкими корнями — на должность директора по дизайну. Он сменил Марка Томаса, покинувшего компанию в апреле 2026 года.",
+              "Нессельрат почти десять лет проработал в Saint Laurent, в последнее время возглавляя направление женской одежды, а также учился в Polimoda, римской Accademia di Belle Arti и Central Saint Martins. Гендиректор Carven Шона Тао заявила, что «суть Carven — это свежий и смелый дух творца». Дебютную коллекцию дизайнера ждут на Неделе моды в Париже весной-летом 2027 года в октябре."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/carven-kai-nesselrath-design-director-appointment-1238994244/"
+          },
+          {
+            "kicker": "ПАРТНЁРСТВА",
+            "headline": "Target назначил Айзека Мизрахи первым в истории «творческим директором на аутсорсе»",
+            "subhead": "Новая роль — часть перестройки бизнеса под руководством нового гендиректора.",
+            "body": [
+              "Ритейлер Target назначил дизайнера Айзека Мизрахи на новую должность creative director at large — консультативную роль, включающую наставничество в дизайне, работу над продуктовыми инновациями и партнёрствами.",
+              "Это символичное возвращение: именно коллаборация Мизрахи с Target в 2002 году стала первым крупным партнёрством ритейлера с дизайнером и во многом заложила моду на доступный дизайнерский стиль. Назначение — часть более широкой перестройки компании под руководством нового CEO Майкла Фиделке, сменившего в феврале 2026 года многолетнего главу Target Брайана Корнелла."
+            ],
+            "source": "WWD / Fortune",
+            "url": "https://corporate.target.com/press/release/2026/06/target-teams-up-with-isaac-mizrahi-to-shape-the-future-of-accessible-design"
+          },
+          {
+            "kicker": "НЕДЕЛЯ МОДЫ",
+            "headline": "В Нью-Йорке завершилась Неделя моды: около 70 показов за шесть дней",
+            "subhead": "Программу открыл дебют Генри Занкова в Diane von Furstenberg, закрыл — Thom Browne.",
+            "body": [
+              "Нью-Йоркская неделя моды прошла с 10 по 15 сентября 2026 года: около 70 показов и презентаций коллекций весна–лето 2027 по расписанию CFDA. Программу открыл дебютный показ Генри Занкова для Diane von Furstenberg, а закрыл её Thom Browne.",
+              "В первый день, 10 сентября, показы представили сразу несколько крупных марок — Proenza Schouler, Tommy Hilfiger, Christian Siriano, Tory Burch и Public School New York."
+            ],
+            "source": "CFDA",
+            "url": "https://cfda.com/news/view-the-preliminary-september-2026-official-nyfw-schedule/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Kizaru выпустил альбом «Ca$hey» — единственный полноформатник года",
+            "subhead": "Пластинка делится на агрессивную и лирическую половины и, по данным СМИ, содержит диссы.",
+            "byline": "The Trend Times",
+            "body": [
+              "Российский рэпер Kizaru выпустил 11 сентября 2026 года альбом «Ca$hey» — свою единственную запланированную на этот год полноформатную пластинку. Ещё в феврале он говорил, что альбом будет предельно личным, а к августу подтвердил не менее 16 треков.",
+              "Пластинка делится на две части: агрессивную первую половину, отсылающую к эпохе «Bandana» (несколько треков спродюсировал Big Baby Tape), и более лиричную, меланхоличную вторую. По данным СМИ, в альбоме есть дисс в адрес Shaman и строчка с отсылкой к Пригожину."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/kizaru-cashey"
+          },
+          {
+            "kicker": "ТУР",
+            "headline": "Morgenshtern анонсировал вторую часть тура Mercury Tour",
+            "subhead": "Артист допустил возвращение в Россию только при определённых гарантиях.",
+            "body": [
+              "Рэпер Morgenshtern (Алишер Моргенштерн) объявил о второй части тура Mercury Tour — около 30 концертов в более чем 20 странах Европы, а также Канады, Японии и Южной Кореи в 2026 году, включая выступление в Лейпциге 28 сентября. Тур следует за публичным осмыслением артистом пережитой зависимости, реабилитации и эмиграции — новое шоу, по описанию, смещает акцент с провокации на личные истории и живое выступление.",
+              "1 сентября 2026 года в интервью Юрию Дудю Моргенштерн заявил, что рассмотрит возвращение в Россию только при определённых гарантиях — в частности, снятии статуса «иностранного агента» и прекращении уголовного дела против него."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/news/morgenshtern-world-tour-2"
+          },
+          {
+            "kicker": "СОБЫТИЯ",
+            "headline": "Playboi Carti и Ken Carson возглавят афишу ComplexCon 2026",
+            "subhead": "Carti также стал одним из креативных директоров юбилейного фестиваля.",
+            "body": [
+              "Complex подтвердил, что Playboi Carti и Хироши Фудзивара (Fragment Design) станут креативными директорами ComplexCon 2026 — юбилейного, десятого по счёту фестиваля, который пройдёт 3–4 октября в Лос-Анджелесе, в Convention Center и Crypto.com Arena.",
+              "Ken Carson выступит хедлайнером первого дня, 3 октября, а Playboi Carti закроет фестиваль 4 октября вместе с F1lthy и Destroy Lonely. Помимо выступлений, дуэт займётся формированием продуктовой линейки, программы и общей творческой концепции ивента."
+            ],
+            "source": "Complex",
+            "url": "https://www.complex.com/music/a/tracewilliamcowen/playboi-carti-complexcon-2026"
+          },
+          {
+            "kicker": "РЕЛИЗЫ",
+            "headline": "Плотная волна новых хип-хоп релизов накрыла чарты 18 сентября",
+            "subhead": "В один день вышли проекты AZ Chike, Yeat, Hunxho, ветеранского трио и новый сингл Offset.",
+            "body": [
+              "18 сентября 2026 года вышла целая серия заметных хип-хоп релизов: альбом AZ Chike «No Rest for the Wicked», EP Yeat «Cocoon», альбом Hunxho «I Quit Rap», совместная пластинка ветеранов Kurupt, Rakim и Masta Killa «The Godbody», а также новый сингл Offset «Something I Need».",
+              "Релиз-день продолжил насыщенный осенний календарь, который ранее пополнил новый альбом Jhené Aiko с гостевым куплетом Kendrick Lamar."
+            ],
+            "source": "HotNewHipHop",
+            "url": "https://www.hotnewhiphop.com/1010039-hip-hop-albums-songs-september-18-2026"
+          },
+          {
+            "kicker": "ИНДУСТРИЯ",
+            "headline": "Эпоха «Iceman» Дрейка продолжает держать хип-хоп в напряжении",
+            "subhead": "После тройного релиза в мае рэпер возобновил конфликт с Kendrick Lamar.",
+            "body": [
+              "15 мая 2026 года Дрейк неожиданно выпустил сразу три проекта — «Iceman», «Habibti» и «Maid of Honour», в сумме 43 трека. «Iceman» возобновил давний конфликт артиста с Kendrick Lamar — на пластинке нашлись диссы в адрес нескольких артистов.",
+              "С тех пор Kendrick Lamar держится сравнительно в тени: самым заметным его появлением стал гостевой куплет на «Ca$ino» из альбома Baby Keem. К сентябрю сюжет противостояния Дрейка и Kendrick Lamar остаётся одной из главных тем индустрии."
+            ],
+            "source": "Rolling Stone",
+            "url": "https://www.rollingstone.com/music/music-news/drake-iceman-three-albums-habibti-maid-of-honour-1235563246/"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-19",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 21
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "RESEARCH",
+            "headline": "Claude now leads a quarter of the work on building its own successor",
+            "subhead": "Anthropic says the model is involved in 90% of its R&D, but it still isn't operating fully autonomously.",
+            "byline": "The Trend Times",
+            "body": [
+              "Anthropic has disclosed that its Claude model now \"leads\" 26% of the internal work of building the next version of itself — up from under 1% in February 2026. The company says roughly 90% of its research and development is now done \"in collaboration with\" Claude, with the model independently completing large chunks of work from a short human prompt, from designing an experiment to analyzing the results.",
+              "Anthropic stresses that Claude still isn't working fully autonomously — human engineers remain in the loop on final decisions. The company currently runs roughly 30,000 Claude agents concurrently, with automated safety systems intervening in about one of every 47,000 actions.",
+              "The disclosure is being read as evidence that artificial intelligence is starting to accelerate its own development cycle — a theme increasingly debated across the industry as expectations rise for how quickly more capable models will arrive."
+            ],
+            "source": "The Washington Post",
+            "url": "https://www.washingtonpost.com/technology/2026/09/17/anthropic-says-its-chatbot-claude-is-taking-over-work-building-its-own-successor/"
+          },
+          {
+            "kicker": "REGULATION",
+            "headline": "OpenAI, Anthropic and Google DeepMind are discussing an independent body to vet AI models",
+            "subhead": "The FINRA-style talks have been going on for weeks amid growing calls for industry self-regulation.",
+            "body": [
+              "OpenAI's global policy chief has confirmed that the three leading labs — OpenAI, Anthropic and Google DeepMind — have spent weeks discussing an independent body modeled on the U.S. regulator FINRA that would test frontier models before release.",
+              "The talks follow an essay from Anthropic CEO Dario Amodei urging the industry to coordinate in order to slow the risks tied to advancing frontier AI. OpenAI's Sam Altman and Google DeepMind's Demis Hassabis have both publicly backed the idea.",
+              "No formal body has launched yet, but the talks themselves are being read as a sign the industry is shifting toward self-regulation as government scrutiny intensifies worldwide."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+          },
+          {
+            "kicker": "FUNDING",
+            "headline": "Mistral AI raises €3 billion at a €21 billion-plus valuation — a record round for a European tech company",
+            "subhead": "Samsung Electronics led the round amid rising demand for \"sovereign AI.\"",
+            "body": [
+              "French AI lab Mistral AI has closed a €3 billion (about $3.6 billion) Series D round at a valuation of more than €21 billion (roughly $24.4 billion). The round was led by Samsung Electronics, with EQT's Scaleup Europe Fund and existing investor PSG Equity co-leading.",
+              "Mistral called it the largest equity funding round ever raised by a European tech company, tying investor interest to growing demand for \"sovereign AI\" — models built and hosted outside the infrastructure of the dominant U.S. labs."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "ADVERTISING",
+            "headline": "ChatGPT Ads hits $1 billion in annualized revenue in under 200 days",
+            "subhead": "OpenAI opens its self-serve ad manager to advertisers in India, Europe and the Middle East.",
+            "byline": "The Trend Times",
+            "body": [
+              "OpenAI says its ChatGPT Ads product reached a $1 billion annualized revenue run rate in under 200 days after launch. The company has opened its self-serve Ads Manager to advertisers in India, Europe, the Middle East and North Africa, with the service now live in more than 40 countries and used by tens of thousands of advertisers.",
+              "OpenAI is reportedly targeting $2.5 billion in ad revenue for the year and an annualized run rate of around $40 billion — nearly double its pace at the end of 2025. The push into advertising is seen as a way to diversify the business ahead of the company's anticipated IPO."
+            ],
+            "source": "AdWeek",
+            "url": "https://www.adweek.com/programmatic/chatgpt-openai-billion-advertising-revenue/"
+          },
+          {
+            "kicker": "PLATFORMS",
+            "headline": "Google starts forcing Search campaigns onto its \"AI Max\" format",
+            "subhead": "The platform has blocked new legacy broad-match campaigns since August.",
+            "body": [
+              "Throughout September 2026, Google has been automatically migrating Search campaigns that still use campaign-level broad match or standalone Automatically Created Assets (ACA) to its newer AI Max format, carrying over existing settings, including brand inclusions and exclusions, in the process.",
+              "Google already blocked the creation of new legacy broad-match/ACA campaigns as of August 3. Dynamic Search Ads get a longer runway, with mandatory migration delayed until February 2027, though in-account warnings begin this month. The move fits Google's broader push to fold Search buying into AI-driven campaign formats."
+            ],
+            "source": "Search Engine Land",
+            "url": "https://searchengineland.com/google-sets-ai-max-migration-timeline-for-search-campaigns-485006"
+          },
+          {
+            "kicker": "INTEGRATIONS",
+            "headline": "Innovid adds Meta's new AI-agent protocol to its NIVO platform",
+            "subhead": "The company becomes one of the first partners in Meta's Ads MCP program.",
+            "body": [
+              "Innovid (NYSE: CTV) has integrated Meta's new \"Ads MCP\" (Model Context Protocol) server into its NIVO AI product, becoming a named partner in the program after contributing feedback during Meta's beta test.",
+              "The integration lets marketers query Meta campaign performance conversationally — summarizing campaign health, flagging creative fatigue, or surfacing optimization ideas — instead of switching between separate dashboards. The move reflects a broader trend of ad platforms opening campaign data to AI agents."
+            ],
+            "source": "ExchangeWire",
+            "url": "https://www.exchangewire.com/blog/2026/09/09/innovid-expands-nivo-with-meta-ads-mcp-integration/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "Temporal raises $550 million at a $12.55 billion valuation — double its worth from seven months ago",
+            "subhead": "Annualized revenue at the reliable-workflow platform for AI apps has topped $250 million.",
+            "byline": "The Trend Times",
+            "body": [
+              "Temporal, a platform for building reliable workflows behind AI applications, has closed a $550 million Series E round that values the company at $12.55 billion — more than double the $5 billion valuation it reached seven months earlier in a $300 million Series D led by a16z.",
+              "The new round was led by Lightspeed, with Wellington Management, Goldman Sachs Alternatives Growth Equity, Tiger Global, T. Rowe Price and SV Angel also participating. Temporal's annualized revenue has topped $250 million, growing more than 200% year over year, and Temporal Cloud now counts more than 4,300 paying customers, including Nvidia and OpenAI. The company has raised $1.2 billion in total."
+            ],
+            "source": "GeekWire",
+            "url": "https://www.geekwire.com/2026/temporal-raises-550m-hits-12-55b-valuation-as-agentic-ai-wave-fuels-massive-growth/"
+          },
+          {
+            "kicker": "SPACE",
+            "headline": "Indian satellite startup Pixxel raises $100 million — the largest round in Indian space-tech history",
+            "subhead": "The company already works with NASA and has landed a U.S. intelligence contract.",
+            "body": [
+              "Pixxel, an Indian startup building hyperspectral Earth-observation satellites, has closed a $100 million Series C round co-led by Temasek and Seraphim Space, with new investors 360 ONE Asset and IMM Investment joining existing backer Radical Ventures.",
+              "It's the largest funding round ever raised by an Indian space-tech company, bringing Pixxel's total funding to $195 million at a valuation of up to $500 million. Pixxel holds a slot in NASA's $476 million Commercial SmallSat Data Acquisition program (through November 2028), signed a five-year deal with the U.S. National Reconnaissance Office in May, and was picked to lead a 12-satellite Earth-observation constellation under India's IN-SPACe program."
+            ],
+            "source": "Business Standard",
+            "url": "https://www.business-standard.com/companies/news/pixxel-series-c-funding-temasek-seraphim-space-tech-126090700126_1.html"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Anthropic prepares for an IPO targeting a $2 trillion valuation — the largest ever",
+            "subhead": "The company has reportedly chosen Nasdaq for a listing expected in October.",
+            "body": [
+              "Anthropic is pushing its IPO to mid-October 2026 and is targeting a valuation of around $2 trillion, which would make it the largest listing in history — bigger than SpaceX's June 2026 debut, when the company reached a $2.1 trillion market cap after its shares rose 19% on the first day of trading to $161, according to Bloomberg and Reuters.",
+              "Sources expect Anthropic's annualized revenue to reach $100-120 billion by year-end — more than ten times the $47 billion figure reported in May. Morgan Stanley, Goldman Sachs and JPMorgan are underwriting the offering. Anthropic itself has not officially confirmed the final valuation or exact timing."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "FORTUNES",
+            "headline": "ByteDance founder Zhang Yiming becomes Asia's richest person",
+            "subhead": "The TikTok creator's fortune has topped $105 billion amid the company's AI-driven growth.",
+            "byline": "The Trend Times",
+            "body": [
+              "ByteDance (TikTok's parent company) founder Zhang Yiming, 43, has overtaken Gautam Adani to become Asia's richest person on the Bloomberg Billionaires Index. His net worth has topped $105 billion, up $12 billion in September alone after new valuations from BlackRock and Fidelity.",
+              "Zhang's fortune has grown roughly eightfold since 2019, when it stood at about $13 billion, fueled by ByteDance's AI-driven growth. He now ranks 18th on the global rich list and owns about 21% of the company."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person"
+          },
+          {
+            "kicker": "LESSON",
+            "headline": "Michael Dell's net worth nearly doubles to $262 billion on the AI infrastructure boom",
+            "subhead": "The veteran PC maker has become an unexpected winner of the AI cycle.",
+            "body": [
+              "Dell Technologies founder Michael Dell's net worth has climbed by about $122 billion since September 2025, nearly doubling to $262 billion, according to the Bloomberg Billionaires Index — making him the world's fifth-richest person.",
+              "The surge stems from Dell's legacy hardware business unexpectedly becoming an AI-infrastructure winner: demand for AI-optimized server racks and storage has driven Dell Technologies shares up 327% year-to-date, with quarterly revenue hitting a record $47 billion. It's a telling example of an old-economy founder repositioning a decades-old company for a new technology cycle."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/09/14/michael-dell-net-worth-nearly-doubled-262-billion-last-year-alone-dell-becomes-unexpected-ai-infrastructure-winner/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "APPOINTMENTS",
+            "headline": "Olivier Rousteing takes over at Rabanne",
+            "subhead": "The former Balmain creative director succeeds Julien Dossena.",
+            "byline": "The Trend Times",
+            "body": [
+              "Puig-owned house Rabanne has officially named Olivier Rousteing its new creative director, succeeding Julien Dossena, who left the house on June 24, 2026 after 13 years.",
+              "Rousteing spent nearly 14 years running Balmain before stepping down in December 2025. At Rabanne, he'll present a pre-fall collection in November 2026, with his first runway show set for Paris Fashion Week in March 2027, showing the Fall/Winter 2027 collection."
+            ],
+            "source": "WWD / Business of Fashion",
+            "url": "https://us.fashionnetwork.com/news/Rabanne-names-olivier-rousteing-new-creative-director,1852224.html"
+          },
+          {
+            "kicker": "APPOINTMENTS",
+            "headline": "Carven names Kai Nesselrath design director",
+            "subhead": "The designer spent nearly a decade at Saint Laurent.",
+            "body": [
+              "Carven has named Kai Nesselrath — Italian-born, of German heritage — as its new design director, succeeding Mark Thomas, who left the company in April 2026.",
+              "Nesselrath spent nearly a decade at Saint Laurent, most recently leading womenswear, and trained at Polimoda, Rome's Accademia di Belle Arti and Central Saint Martins. Carven CEO Shawna Tao said \"the essence of Carven is a fresh and courageous creator's spirit.\" His debut collection is expected at Paris Fashion Week Spring/Summer 2027 in October."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/designer-luxury/carven-kai-nesselrath-design-director-appointment-1238994244/"
+          },
+          {
+            "kicker": "PARTNERSHIPS",
+            "headline": "Target names Isaac Mizrahi its first-ever \"creative director at large\"",
+            "subhead": "The new role is part of a broader turnaround under a new CEO.",
+            "body": [
+              "Retailer Target has named designer Isaac Mizrahi to a newly created advisory role, creative director at large, covering design mentorship, product innovation and partnerships.",
+              "It's a full-circle moment: Mizrahi's 2002 collaboration with Target was the retailer's first major designer partnership and helped popularize accessible designer fashion. The hire is part of a broader turnaround under new CEO Michael Fiddelke, who succeeded longtime chief Brian Cornell in February 2026."
+            ],
+            "source": "WWD / Fortune",
+            "url": "https://corporate.target.com/press/release/2026/06/target-teams-up-with-isaac-mizrahi-to-shape-the-future-of-accessible-design"
+          },
+          {
+            "kicker": "FASHION WEEK",
+            "headline": "New York Fashion Week wraps: around 70 shows in six days",
+            "subhead": "The lineup opened with Henry Zankov's debut for Diane von Furstenberg and closed with Thom Browne.",
+            "body": [
+              "New York Fashion Week ran September 10-15, 2026, with roughly 70 runway shows and presentations of Spring/Summer 2027 collections on the CFDA's schedule. The lineup opened with Henry Zankov's debut for Diane von Furstenberg and closed with Thom Browne.",
+              "Day one, September 10, alone featured shows from Proenza Schouler, Tommy Hilfiger, Christian Siriano, Tory Burch and Public School New York."
+            ],
+            "source": "CFDA",
+            "url": "https://cfda.com/news/view-the-preliminary-september-2026-official-nyfw-schedule/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "RELEASE",
+            "headline": "Kizaru releases \"Ca$hey\" — his only full album of the year",
+            "subhead": "The record splits into an aggressive half and a lyrical one, and reportedly includes a diss track.",
+            "byline": "The Trend Times",
+            "body": [
+              "Russian rapper Kizaru released his album \"Ca$hey\" on September 11, 2026 — his only planned full-length project for the year. Back in February he said the album would be deeply personal, and by August he had confirmed at least 16 tracks.",
+              "The record splits into an aggressive first half echoing his \"Bandana\" era (with several tracks produced by Big Baby Tape) and a more lyrical, melancholic second half. Reports say the album includes a diss track aimed at Shaman and a line referencing Yevgeny Prigozhin."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/kizaru-cashey"
+          },
+          {
+            "kicker": "TOUR",
+            "headline": "Morgenshtern announces second leg of his Mercury Tour",
+            "subhead": "The rapper says he'd consider returning to Russia only under certain guarantees.",
+            "body": [
+              "Rapper Morgenshtern (Alisher Morgenshtern) has announced the second leg of his Mercury Tour — roughly 30 shows across more than 20 countries in Europe plus Canada, Japan and South Korea in 2026, including a September 28 stop in Leipzig. The tour follows his public reckoning with addiction, rehab and emigration, with the new show reportedly shifting from shock value toward personal storytelling and live performance.",
+              "In a September 1, 2026 interview with Yuri Dud, Morgenshtern said he'd consider returning to Russia only under certain guarantees — namely, having his \"foreign agent\" designation lifted and his criminal case dropped."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/news/morgenshtern-world-tour-2"
+          },
+          {
+            "kicker": "EVENTS",
+            "headline": "Playboi Carti and Ken Carson to headline ComplexCon 2026",
+            "subhead": "Carti also joins as one of the festival's creative directors for its anniversary edition.",
+            "body": [
+              "Complex has confirmed that Playboi Carti and Hiroshi Fujiwara (Fragment Design) will serve as creative directors of ComplexCon 2026, the festival's 10th-anniversary edition, running October 3-4 at the LA Convention Center and Crypto.com Arena.",
+              "Ken Carson headlines the first day, October 3, while Playboi Carti closes the festival on October 4 alongside F1lthy and Destroy Lonely. Beyond performing, the pair are shaping the event's product lineup, programming and overall creative vision."
+            ],
+            "source": "Complex",
+            "url": "https://www.complex.com/music/a/tracewilliamcowen/playboi-carti-complexcon-2026"
+          },
+          {
+            "kicker": "RELEASES",
+            "headline": "A dense wave of hip-hop releases hits the charts on September 18",
+            "subhead": "New projects from AZ Chike, Yeat, Hunxho, a veteran trio and a new Offset single all landed the same day.",
+            "body": [
+              "September 18, 2026 brought a run of notable hip-hop releases: AZ Chike's album \"No Rest for the Wicked,\" Yeat's EP \"Cocoon,\" Hunxho's album \"I Quit Rap,\" \"The Godbody\" from veteran trio Kurupt, Rakim and Masta Killa, and Offset's new single \"Something I Need.\"",
+              "The release day continues a busy fall calendar that recently included a new Jhené Aiko album featuring a Kendrick Lamar guest verse."
+            ],
+            "source": "HotNewHipHop",
+            "url": "https://www.hotnewhiphop.com/1010039-hip-hop-albums-songs-september-18-2026"
+          },
+          {
+            "kicker": "INDUSTRY",
+            "headline": "Drake's \"Iceman\" era keeps hip-hop on edge",
+            "subhead": "The rapper reignited his feud with Kendrick Lamar after a surprise triple release in May.",
+            "body": [
+              "On May 15, 2026, Drake surprise-released three projects at once — \"Iceman,\" \"Habibti\" and \"Maid of Honour\" — totaling 43 songs. \"Iceman\" reignited his long-running feud with Kendrick Lamar, including diss tracks aimed at several artists.",
+              "Kendrick Lamar has kept a comparatively low profile since, with his most notable appearance being a guest verse on Baby Keem's \"Ca$ino.\" By September, the Drake-Kendrick storyline remains one of the industry's biggest ongoing stories."
+            ],
+            "source": "Rolling Stone",
+            "url": "https://www.rollingstone.com/music/music-news/drake-iceman-three-albums-habibti-maid-of-honour-1235563246/"
+          }
+        ]
+      }
+    ]
+  }
+}

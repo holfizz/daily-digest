@@ -238,5 +238,17 @@
       "ru": "20 материалов",
       "en": "20 articles"
     }
+  },
+  {
+    "date": "2026-09-19",
+    "number": 21,
+    "headline": {
+      "ru": "Claude теперь выполняет четверть работы над созданием собственного преемника",
+      "en": "Claude now leads a quarter of the work on building its own successor"
+    },
+    "count": {
+      "ru": "20 материалов",
+      "en": "20 articles"
+    }
   }
 ]
