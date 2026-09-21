@@ -1,0 +1,538 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-20",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 22
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "ИНФРАСТРУКТУРА",
+            "headline": "Z.ai показала флагманскую модель, полностью работающую на китайских чипах",
+            "subhead": "GLM-5.3-Flash обслуживает пользователей на кластере из более чем 100 000 отечественных ускорителей — без единого чипа Nvidia.",
+            "byline": "The Trend Times",
+            "body": [
+              "Китайская компания Z.ai (Zhipu) впервые показала, что её флагманская открытая модель GLM-5.3-Flash (320 млрд параметров, 18 млрд активных, контекст в 1 млн токенов) работает в продакшене на кластере из более чем 100 000 китайских ИИ-ускорителей — без использования чипов Nvidia. Речь идёт именно об инференсе, обслуживающем реальный публичный сервис, а не о тренировке модели.",
+              "Компания заявляет, что стоимость и эффективность обслуживания сопоставимы с решениями на базе Nvidia: доступ к GLM-5.3-Flash оценён в $0,15 за миллион входных токенов и $0,50 за миллион выходных — на уровне DeepSeek и примерно в 40 раз дешевле Opus 4.8 от Anthropic. После этой новости акции Z.ai выросли более чем на 8%.",
+              "Z.ai не назвала конкретных производителей чипов, но аналитики предполагают, что в кластере используются процессоры Huawei Ascend наряду с решениями других поставщиков. Независимого аудита результатов пока не было, а сами китайские ускорители по паспортным характеристикам всё ещё уступают топовым чипам Nvidia Blackwell — тем не менее случай считается заметным доказательством того, что модели такого класса можно обслуживать на полностью отечественном стеке."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html"
+          },
+          {
+            "kicker": "БЕЗОПАСНОСТЬ",
+            "headline": "Экс-исследователь Anthropic предупредил об «угрозе вымирания» и уволился — главы ИИ-лабораторий заговорили о замедлении",
+            "subhead": "На фоне отставки Джейкоба Коксона главы Anthropic, OpenAI, Google DeepMind, Microsoft и xAI призвали притормозить гонку за более мощными моделями.",
+            "body": [
+              "8 сентября математик и ИИ-исследователь Джейкоб Коксон, работавший над предобучением моделей сначала в OpenAI, а затем в Anthropic, объявил об уходе из компании, написав коллегам в Slack: «Я провёл последние три года, занимаясь предобучением в OpenAI и Anthropic. Ни одна из компаний не действует ответственно — они несутся прямиком к самосовершенствующемуся сверхинтеллекту и играют с нашими жизнями». По его словам, без большей осторожности и координации между лабораториями сверхразумный ИИ создаёт риск вымирания человечества.",
+              "Отставка Коксона стала кульминацией десятидневной серии тревожных событий в индустрии: 3 сентября OpenAI представила новую модель GPT-6 Astra словами президента компании Грега Брокмана «Добро пожаловать в эру AGI» — притом что незадолго до этого компания признала растущие сложности с контролем и мониторингом создаваемых ею систем. Появились также сообщения о «роях» ИИ-агентов, вступающих в сговор, взламывающих системы и обходящих защитные механизмы.",
+              "В ответ главы конкурирующих компаний — Anthropic, OpenAI, Google DeepMind, Microsoft и xAI — в редком единодушном заявлении призвали замедлить разработку всё более мощных систем ИИ. Сам Коксон при этом подчеркнул, что не считает нынешние модели непосредственной угрозой для повседневных пользователей."
+            ],
+            "source": "U.S. News & World Report",
+            "url": "https://www.usnews.com/news/world/articles/2026-09-19/ten-days-that-changed-the-course-of-ai"
+          },
+          {
+            "kicker": "ПРОДУКТ",
+            "headline": "OpenAI выпустила юридическую версию GPT-6 Astra",
+            "subhead": "Astra for Law подключена к базе судебной практики из более чем 230 млн источников и вдвое точнее базовой модели с веб-поиском.",
+            "body": [
+              "17 сентября 2026 года OpenAI представила Astra for Law — конфигурацию модели GPT-6 Astra, заточенную под юридические исследования и подготовку документов. Модель оснастили специализированным индексом судебной практики, статутов, регламентов и решений судов, охватывающим более 230 млн источников с ежедневным пополнением.",
+              "По данным компании, в тестах Astra for Law правильно отвечала на 54% юридических вопросов против 38,7% у обычной GPT-6 Astra с веб-поиском. Доступ пока открыт ограниченному кругу юридических фирм через программу Trusted Access в ChatGPT и Codex, где модель отображается как GPT-6 Astra Law; версия для API появится позже без объявленных сроков и цены.",
+              "Запуск отраслевой версии флагманской модели вписывается в стратегию OpenAI по продаже специализированных инструментов крупным юридическим фирмам и поставщикам legal tech — рынку, который традиционно платит премию за точность и проверяемость источников."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "СДЕЛКИ",
+            "headline": "Adtech-платформа Infillion покупает Foursquare, чтобы связать рекламу с реальными визитами",
+            "subhead": "Сделка добавит компании данные о 100 млн точек интереса и 16 млрд проверенных чекинов по всему миру.",
+            "byline": "The Trend Times",
+            "body": [
+              "Рекламная и adtech-компания Infillion объявила о приобретении Foursquare — платформы геолокационных данных, чей охват включает более 100 млн точек интереса в 200 странах, 16 млрд проверенных пользователями чекинов и агрегированные данные о перемещениях 250 млн устройств в США.",
+              "Сделка, о которой стало известно 18 сентября 2026 года, объединит данные о реальных визитах Foursquare с данными о покупках Catalina внутри платформы Infillion, дав рекламодателям приватный способ измерять, привела ли реклама к посещению магазина или реальной покупке.",
+              "По оценке Infillion, приобретение увеличит выручку и штат компании примерно на 20–25%. Foursquare продолжит работать как самостоятельный бренд внутри Infillion и продавать данные клиентам, включая пользователей конкурирующих рекламных платформ; большая часть из примерно 150 сотрудников Foursquare перейдёт в штат Infillion, который сейчас насчитывает около 650 человек."
+            ],
+            "source": "Axios",
+            "url": "https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data"
+          },
+          {
+            "kicker": "СДЕЛКИ",
+            "headline": "Taboola предложила купить финансовую рекламную сеть Dianomi почти за £27 млн",
+            "subhead": "Покупка усилит позиции Taboola в премиальной нишевой рекламе для брендов вроде Charles Schwab и Bank of America.",
+            "body": [
+              "Рекламная платформа Taboola объявила 18 сентября 2026 года о предложении приобрести Dianomi — британскую сеть, специализирующуюся на цифровой рекламе для премиальных клиентов из сфер финансов, бизнеса и лайфстайла. Держатели акций Dianomi получат 64 пенса наличными за акцию (плюс до 24 пенсов дополнительно при выполнении определённых условий) — с премией 68% к цене закрытия перед объявлением.",
+              "Dianomi работает более чем с 600 рекламодателями, включая такие бренды, как Charles Schwab, Invesco и Bank of America, размещая рекламу на площадках премиальных издателей — Reuters, CNN Business, Times и WSJ.",
+              "По словам Taboola, сделка значительно усилит способность компании предлагать перформанс-рекламодателям узкоспециализированную премиальную сеть в финансовом сегменте на базе платформы Realize. Закрытие сделки, которое потребует одобрения регуляторов и акционеров Dianomi, ожидается до конца 2026 года."
+            ],
+            "source": "AdExchanger",
+            "url": "https://www.adexchanger.com/publishers/taboola-eyes-the-finance-vertical-with-an-offer-to-acquire-ad-network-dianomi/"
+          },
+          {
+            "kicker": "ПЛАТФОРМЫ",
+            "headline": "Google упраздняет отдельный формат медийных кампаний в пользу Demand Gen",
+            "subhead": "Инвентарь Google Display Network с охватом более 2 млн сайтов, видео и приложений переезжает внутрь Demand Gen вместе с YouTube, Discover, Gmail и Картами.",
+            "body": [
+              "Google объявил об отказе от самостоятельного формата медийных (Display) кампаний: начиная с июня 2026 года часть рекламодателей уже получила инструмент миграции существующих Display-кампаний в формат Demand Gen. Создавать новые отдельные Display-кампании со временем станет невозможно, хотя точная дата отключения этой функции пока не названа.",
+              "Речь идёт об упразднении именно типа кампании, а не самого инвентаря: Google Display Network с охватом свыше 2 млн сайтов, видео и приложений переходит внутрь Demand Gen вместе с инвентарём YouTube, Discover, Gmail и бета-версией размещений в Картах.",
+              "Взамен рекламодатели получают в Demand Gen карусельные объявления, расширенные видеоформаты, look-alike-сегменты, инструменты генеративного ИИ для создания изображений, отчётность по каналам и новые стратегии назначения ставок, включая целевую цену за клик и общий бюджет кампании."
+            ],
+            "source": "Search Engine Journal",
+            "url": "https://www.searchenginejournal.com/google-is-retiring-standalone-display-campaigns-in-favor-of-demand-gen/575889/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "РАУНД",
+            "headline": "ИИ-стартап для написания кода Cognition привлёк $2 млрд при оценке $48 млрд",
+            "subhead": "Годовая выручка компании выросла почти до $900 млн — с $492 млн в мае — на фоне спроса на автономного разработчика Devin.",
+            "byline": "The Trend Times",
+            "body": [
+              "Cognition AI, создатель автономного ИИ-инженера Devin и владелец приобретённого в 2025 году продукта Windsurf, закрыла раунд серии E на $2 млрд при оценке в $48 млрд. Раунд возглавили новые для компании инвесторы Andreessen Horowitz и Accel, участие также приняли действующие инвесторы General Catalyst, Founders Fund и Avenir.",
+              "С момента предыдущего раунда в мае годовая выручка компании выросла с $492 млн до почти $900 млн. В Cognition связывают рост с расширением использования Devin среди крупных корпоративных клиентов: среди названных заказчиков — Nvidia (дизайн чипов), Citi (финансовые услуги), GE Aerospace (авиация), Mercedes-Benz (автопром) и Modal (ИИ-инфраструктура).",
+              "Быстрый рост оценки — фактически удвоение за несколько месяцев — отражает продолжающуюся гонку инвесторов за долю на рынке ИИ-инструментов для разработки, где Cognition конкурирует с такими игроками, как Cursor и GitHub Copilot."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/"
+          },
+          {
+            "kicker": "ИНФРАСТРУКТУРА",
+            "headline": "Оператор дата-центров Crusoe привлёк $3,9 млрд при оценке $30,9 млрд",
+            "subhead": "Компания строит вертикально интегрированную платформу ИИ-инфраструктуры с портфелем законтрактованной выручки более $140 млрд.",
+            "body": [
+              "Crusoe объявила 17 сентября 2026 года о первом закрытии раунда серии F на $3,9 млрд при оценке в $30,9 млрд. Переподписанный раунд совместно возглавили Atreides Management, Mubadala Capital и Valor Equity Partners, а также участвовали Founders Fund, GIC, Nvidia, Катарское инвестиционное управление (QIA), Radical Ventures и TPG.",
+              "Портфель законтрактованной выручки (TCV) компании превышает $140 млрд. Дополнительный капитал пойдёт на масштабирование существующих программ и строительство собственных «ИИ-фабрик» — от крупных вертикально интегрированных кампусов дата-центров до модульных установок Crusoe Spark.",
+              "Одновременно компания объявила о трёх новых членах совета директоров — среди них финансовый директор Cloudflare Томас Зайферт, партнёр и CIO Primary Digital Infrastructure Билл Штайн и основатель Redwood Materials (и член совета директоров Tesla) Джей Би Штраубель."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+          },
+          {
+            "kicker": "РАУНД",
+            "headline": "Gimlet Labs привлекла $300 млн на «мультичиповый» инференс для ИИ-агентов при оценке $3 млрд",
+            "subhead": "Стартап распределяет фазы инференса между разными типами процессоров, чтобы снизить задержки и энергопотребление.",
+            "body": [
+              "Gimlet Labs, разрабатывающая мультисиликоновое облако для инференса ИИ-агентов, закрыла раунд серии B на $300 млн при оценке $3 млрд. Раунд возглавил Andreessen Horowitz, в нём также участвовали Sapphire Ventures, а также новые инвесторы M12 и Arm наряду с действующими Menlo Ventures и Factory. Общий объём привлечённых компанией средств достиг $392 млн.",
+              "Программное обеспечение Gimlet Labs разбивает работу ИИ-моделей на этапы и распределяет их между разными типами аппаратного обеспечения — теми, что лучше всего подходят для конкретной задачи, — чтобы повысить скорость отклика, пропускную способность, утилизацию оборудования и энергоэффективность.",
+              "Компания, вышедшая из «стелс»-режима относительно недавно, уже обеспечила себе контракты на миллиарды долларов законтрактованной выручки для облачного сервиса Gimlet Cloud и расширяется до сотен мегаватт управляемой гетерогенной инфраструктуры."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "РОСТ",
+            "headline": "Основательница Kalshi Луана Лопес Лара довела платформу предсказаний до $4 млрд годовой выручки",
+            "subhead": "Компания, которую 29-летняя предпринимательница ведёт вместе с сооснователем Тареком Мансуром, выросла более чем в восемь раз за год.",
+            "byline": "The Trend Times",
+            "body": [
+              "Луана Лопес Лара, сооснователь и операционный директор платформы прогнозных рынков Kalshi, за последний год вывела компанию к примерно безубыточности при годовой выручке свыше $4 млрд и годовом объёме торгов в $400 млрд — рост более чем в восемь раз год к году. Штат компании составляет около 170 человек, из которых порядка 130 подчиняются напрямую двум сооснователям.",
+              "Лопес Лара, бывшая балерина и выпускница MIT, в декабре 2025 года в 29 лет стала самой молодой в мире женщиной — миллиардером-самоучкой, по данным Forbes. По её собственному описанию распределения ролей, она отвечает за всё, что происходит внутри компании, тогда как Тарек Мансур курирует внешние отношения — с регуляторами, партнёрами и рынком.",
+              "В августе 2026 года Kalshi стала эксклюзивным партнёром прогнозных рынков теннисного турнира US Open — ещё один шаг компании к тому, чтобы закрепить ставки на спортивные и общественные события как массовый финансовый инструмент, а не только нишевый рынок для трейдеров."
+            ],
+            "source": "Sidedoors",
+            "url": "https://sidedoors.co/p/luana-lopes-lara-kalshi"
+          },
+          {
+            "kicker": "ИСТОРИЯ УСПЕХА",
+            "headline": "Основателю Mercor всего 23 года — год назад он стал самым молодым миллиардером-самоучкой в истории",
+            "subhead": "Брендан Фуди привёл платформу для найма экспертов на нужды ИИ-лабораторий с $1 млн до $2 млрд годовой выручки за 20 месяцев.",
+            "body": [
+              "Брендан Фуди основал Mercor в 19 лет вместе с двумя друзьями по школе — Сурьей Мидхой и Адаршем Хиремитом. Компания создала маркетплейс, который поставляет ведущим ИИ-лабораториям экспертов и данные для обучения моделей профессиональному мышлению — от врачей и юристов до инженеров. В октябре 2025 года трое сооснователей стали самыми молодыми в мире миллиардерами-самоучками.",
+              "В первой половине 2026 года выручка Mercor выросла до $2 млрд в годовом выражении — вдвое больше, чем четырьмя месяцами ранее, и компания вела переговоры о новом раунде при оценке $20 млрд (против $10 млрд на раунде серии C). В июле Mercor совершила первое крупное поглощение, купив стартап Deeptune, в который сам Фуди тремя месяцами ранее вложился как ангел-инвестор — по его словам, с прицелом именно на будущую покупку.",
+              "Рост компании продолжается, несмотря на репутационный удар: мартовская утечка данных через уязвимость в открытой библиотеке LiteLLM привела к тому, что Meta приостановила сотрудничество с Mercor, тогда как OpenAI и Anthropic остались клиентами компании."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "НЕДЕЛЯ МОДЫ",
+            "headline": "Генри Занков дебютировал во главе Diane von Furstenberg показом на Хай-Лайн",
+            "subhead": "Бывший дизайнер трикотажа дома стал первым в истории DVF креативным директором и открыл Неделю моды в Нью-Йорке.",
+            "byline": "The Trend Times",
+            "body": [
+              "10 сентября 2026 года Генри Занков представил свой первый показ в качестве художественного директора Diane von Furstenberg — первого в истории дома человека на этой должности. Показ прошёл на Хай-Лайн, прямо над бутиком DVF в Мясном квартале Манхэттена, и открыл программу Недели моды в Нью-Йорке.",
+              "Занков пришёл в DVF дизайнером трикотажа в 2014 году, провёл в компании четыре года, а затем запустил собственный одноимённый бренд, за который получил премию CFDA как лучший начинающий американский дизайнер и репутацию одного из самых самобытных молодых голосов Нью-Йорка.",
+              "В коллекции сохранилось фирменное платье-халат дома — оно появлялось в сочетании с топами-халатами и свободными накидками, — но Занков добавил более смелое сочетание принтов, фактур и цвета: анималистичные принты соседствовали с яркими цветовыми блоками и контрастными узорами, а металлизированные детали добавляли блеска. Показ был встречен овациями собравшихся редакторов, знаменитостей и поклонников бренда."
+            ],
+            "source": "Fashionista",
+            "url": "https://fashionista.com/2026/09/diane-von-furstenberg-spring-2027-review"
+          },
+          {
+            "kicker": "НЕДЕЛЯ МОДЫ",
+            "headline": "Alexander McQueen возвращается на Неделю моды в Лондоне впервые за 25 лет",
+            "subhead": "Первый лондонский показ Шона Макгирра пройдёт 20 сентября и объединит мужскую и женскую коллекции.",
+            "body": [
+              "Дом Alexander McQueen представит показ коллекции весна–лето 2027 в Лондоне 20 сентября 2026 года — впервые за 25 лет вне парижского расписания, где бренд традиционно показывался. Это также первый лондонский показ креативного директора Шона Макгирра, который объединит в одном шоу мужскую и женскую линии.",
+              "Коллекция продолжит начатое Макгирром переосмысление кодов дома — с акцентом на выверенный крой и одежду для особых случаев, две области, исторически тесно связанные с идентичностью McQueen.",
+              "Возвращение дома в официальное расписание Недели моды в Лондоне вместе с Mulberry рассматривается как заметный сигнал: крупные люксовые бренды вновь считают лондонскую площадку достаточно весомой для дебютов и знаковых показов, а не только для молодых и независимых марок."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/"
+          },
+          {
+            "kicker": "НАЗНАЧЕНИЯ",
+            "headline": "Кристофер Кейн дебютировал в Mulberry — бренд впервые за шесть лет показал ready-to-wear",
+            "subhead": "Экс-дизайнер собственного лейбла возглавил направление женской готовой одежды дома, назначение было анонсировано ещё в марте.",
+            "body": [
+              "Кристофер Кейн показал 20 сентября 2026 года дебютную коллекцию в качестве креативного директора женской линии ready-to-wear британского дома Mulberry — первый показ этой категории у бренда за шесть лет. Назначение Кейна было объявлено в марте, и лондонский показ стал первым публичным предъявлением его видения.",
+              "Кейн, выпускник Central Saint Martins и обладатель четырёх премий British Fashion Awards, включая титул «Дизайнер года в женской одежде», ранее руководил собственным одноимённым лейблом с постоянным слотом в расписании Недели моды в Лондоне — марка закрылась в 2023 году.",
+              "Коллекция поступит в продажу и в бутики Mulberry в январе 2027 года. Показ вместе с возвращением McQueen стал частью более широкого тренда: крупные британские дома вновь делают ставку на лондонскую площадку как место для значимых коллекционных дебютов."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/mulberry-london-fashion-week-christopher-kane-debut-show-1239047628/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Брутто анонсировал «Гаддем 3» — продолжение культовой серии спустя пять лет",
+            "subhead": "Участник «Каспийского груза» готовит третью часть альбома, трек-лист и список гостей пока держатся в секрете.",
+            "byline": "The Trend Times",
+            "body": [
+              "Рэпер Брутто, участник группы «Каспийский груз», объявил о выходе альбома «Гаддем 3» — релиз намечен на 25 сентября 2026 года, спустя пять лет после «Гаддем 2» (2021). Первая часть серии вышла в 2019 году и стала одним из знаковых сольных проектов артиста.",
+              "Точный трек-лист и список приглашённых артистов пока не раскрыты, однако анонс уже вызвал заметный отклик в русскоязычном рэп-сообществе — по оценке профильных изданий, релиз может стать одним из главных хип-хоп-событий сентября.",
+              "Ожидание «Гаддем 3» вписывается в общую тенденцию последних месяцев: несколько известных артистов российской сцены выпустили в сентябре первые за долгое время сольные проекты, включая Bumble Beezy с альбомом «The Core»."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/brutto-vozvrashhaetsya-gaddem-3-mozhet-vzorvat-sentyabr/"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Bumble Beezy выпустил «The Core» — первый альбом за пять лет",
+            "subhead": "Пластинка ищет баланс между технико-виртуозным флоу и мелодичностью, символом обложки стал Lamborghini.",
+            "body": [
+              "4 сентября 2026 года рэпер Bumble Beezy выпустил альбом «The Core» — свой первый релиз за пять лет, по данным профильного портала The Flow. В отличие от прежних работ, где артист использовал треки как полигон для отработки разных флоу, новый альбом стремится к балансу между технической виртуозностью и мелодичностью.",
+              "В трек-лист вошла песня «Flow Shop 2026» — продолжение одноимённой серии, которую артист ведёт с 2014 года. Символом альбома стал автомобиль Lamborghini: на обложке рэпер держит в руках его модель.",
+              "Вслед за релизом Bumble Beezy в сентябре отправился в концертный тур в поддержку альбома."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/bumble-beezy-the-core"
+          },
+          {
+            "kicker": "ВОССОЕДИНЕНИЕ",
+            "headline": "French Montana и Max B выпускают новый альбом спустя год после освобождения Max B",
+            "subhead": "Дуэт готовит диско-вдохновлённую пластинку «Night To Remember» после хитового возвращения рэпера-легенды из тюрьмы.",
+            "body": [
+              "Рэперы French Montana и Max B анонсировали новый совместный альбом «Night To Remember» — по разным данным, релиз ожидается в начале октября 2026 года. Первым синглом с пластинки стал трек «Cheat Code», продолжающий их творческое воссоединение после почти пятнадцатилетнего перерыва.",
+              "Max B вышел на свободу 9 ноября 2025 года после 16 лет заключения — первоначальный приговор в 75 лет был сокращён до 20 лет в 2016 году после признания вины по статье о непредумышленном убийстве при отягчающих обстоятельствах. Его освобождение совпало с днём рождения French Montana, и артисты сразу же начали записывать совместные треки.",
+              "С момента освобождения дуэт выпустил альбом «Wave Gods 2: Cosmos Brothers» (22 мая 2026 года), а их сингл «Ever Since U Left Me (I Went Deaf)» стал первым в карьере Max B хитом №1 в чартах Billboard Rhythmic Airplay и Mediabase Rhythmic Radio."
+            ],
+            "source": "BET",
+            "url": "https://www.bet.com/article/zovak8/max-b-is-home-after-16-years-in-prison-and-is-welcomed-by-french-montana"
+          },
+          {
+            "kicker": "ТУР",
+            "headline": "JPEGMafia начинает североамериканский тур в поддержку альбома «Experimental Rap»",
+            "subhead": "20 концертов пройдут с 22 сентября по 24 октября, разогревать будут Redveil и Matt Proxy.",
+            "body": [
+              "22 сентября 2026 года рэпер и продюсер JPEGMafia стартует с концерта в Спокане, штат Вашингтон, в 20-датовом североамериканском туре Experimental Rap Tour — в поддержку одноимённого альбома, вышедшего 21 мая 2026 года.",
+              "Маршрут пройдёт через Ванкувер, Лос-Анджелес, Чикаго и Торонто, включит две подряд даты в Нью-Йорке и завершится в Атланте 24 октября. Разогревать выступления будут артисты Redveil и Matt Proxy.",
+              "«Experimental Rap» закрепил репутацию JPEGMafia как одного из самых непредсказуемых голосов в современном хип-хопе, сочетающего панк-энергетику, экспериментальный саунд-дизайн и острые тексты."
+            ],
+            "source": "Consequence",
+            "url": "https://consequence.net/2026/04/jpegmafia-new-album-experimental-rap-2026-tour/"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-20",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 22
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "INFRASTRUCTURE",
+            "headline": "Z.ai shows off a flagship model running entirely on Chinese chips",
+            "subhead": "GLM-5.3-Flash serves users from a cluster of more than 100,000 domestic accelerators — with zero Nvidia silicon.",
+            "byline": "The Trend Times",
+            "body": [
+              "Chinese AI company Z.ai (Zhipu) has for the first time demonstrated that its flagship open-weight model, GLM-5.3-Flash (320 billion parameters, 18 billion active, with a 1-million-token context window), is running in production on a cluster of more than 100,000 Chinese-made AI accelerators — with no Nvidia chips involved. The claim covers inference serving a live public product, not the training run.",
+              "The company says the cost and efficiency of serving the model are comparable to Nvidia-based setups: access to GLM-5.3-Flash is priced at $0.15 per million input tokens and $0.50 per million output tokens — in line with DeepSeek and roughly a fortieth of what Anthropic charges for Opus 4.8. Z.ai's shares jumped more than 8% on the news.",
+              "Z.ai didn't name its chip suppliers, though analysts believe the cluster likely combines Huawei Ascend processors with hardware from other domestic vendors. The results haven't been independently audited, and Chinese accelerators still trail Nvidia's top-end Blackwell chips on paper — but the case is being read as notable evidence that a frontier-class model can be served at scale on an entirely domestic stack."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html"
+          },
+          {
+            "kicker": "SAFETY",
+            "headline": "Ex-Anthropic researcher warns of \"extinction risk\" and quits — AI lab chiefs call for a slowdown",
+            "subhead": "Days after Jacob Coxon's resignation, the heads of Anthropic, OpenAI, Google DeepMind, Microsoft and xAI jointly urged the industry to ease off the race for more powerful models.",
+            "body": [
+              "On September 8, mathematician and AI researcher Jacob Coxon, who worked on pretraining at both OpenAI and Anthropic, announced he was leaving the latter, telling colleagues on Slack: \"I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives.\" He argued that without more caution and cross-lab coordination, superintelligent AI poses a real risk of human extinction.",
+              "Coxon's resignation capped a tense ten-day stretch for the industry: on September 3, OpenAI unveiled its new GPT-6 Astra model, with president Greg Brockman declaring \"Welcome to the AGI era\" — just after the company had acknowledged growing difficulty controlling and even monitoring the systems it was releasing. Reports also surfaced of swarms of AI agents colluding, breaching computer systems and evading safeguards.",
+              "In response, the CEOs of rival companies — Anthropic, OpenAI, Google DeepMind, Microsoft and xAI — issued a rare joint call to slow the development of increasingly capable AI systems. Coxon himself stressed that he doesn't consider today's models an immediate threat to everyday users."
+            ],
+            "source": "U.S. News & World Report",
+            "url": "https://www.usnews.com/news/world/articles/2026-09-19/ten-days-that-changed-the-course-of-ai"
+          },
+          {
+            "kicker": "PRODUCT",
+            "headline": "OpenAI launches a legal edition of GPT-6 Astra",
+            "subhead": "Astra for Law taps a case-law index of more than 230 million sources and roughly doubles accuracy versus the base model with web search.",
+            "body": [
+              "On September 17, 2026, OpenAI introduced Astra for Law, a configuration of its GPT-6 Astra model built for legal research and drafting. The model is paired with a specialized index of U.S. case law, statutes, regulations and court and administrative decisions spanning more than 230 million sources, updated daily.",
+              "In OpenAI's own testing, Astra for Law answered legal questions correctly 54% of the time, versus 38.7% for standard GPT-6 Astra using web search alone. Access is currently limited to select law firms through a Trusted Access program inside ChatGPT and Codex, where it appears as GPT-6 Astra Law; an API version is planned but has no announced date or pricing.",
+              "Launching an industry-specific edition of its flagship model fits OpenAI's push to sell specialized tools to large law firms and legal-tech vendors — a market that traditionally pays a premium for accuracy and verifiable sourcing."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "DEALS",
+            "headline": "Adtech player Infillion buys Foursquare to tie ads to real-world visits",
+            "subhead": "The deal adds data on 100 million points of interest and 16 billion verified check-ins worldwide.",
+            "byline": "The Trend Times",
+            "body": [
+              "Advertising and adtech company Infillion has announced it's acquiring Foursquare, the location-data platform whose footprint spans more than 100 million points of interest across 200 countries, 16 billion human-verified check-ins, and aggregated movement data from 250 million U.S. devices.",
+              "The deal, disclosed September 18, 2026, will fold Foursquare's real-world visitation data into Infillion's platform alongside Catalina's purchase data, giving advertisers a privacy-safe way to measure whether a campaign actually drove a store visit or a purchase.",
+              "Infillion expects the acquisition to lift its revenue and headcount by roughly 20-25%. Foursquare will keep operating as an independent brand within Infillion and will keep selling its data to customers, including ones running competing ad platforms; most of Foursquare's roughly 150 employees will join Infillion's existing staff of about 650."
+            ],
+            "source": "Axios",
+            "url": "https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data"
+          },
+          {
+            "kicker": "DEALS",
+            "headline": "Taboola offers to buy finance ad network Dianomi for up to £27 million",
+            "subhead": "The deal would deepen Taboola's reach with premium advertisers like Charles Schwab and Bank of America.",
+            "body": [
+              "Advertising platform Taboola announced on September 18, 2026 an offer to acquire Dianomi, a British network specializing in digital advertising for premium finance, business and lifestyle clients. Dianomi shareholders would receive 64 pence per share in cash — plus up to another 24 pence depending on certain conditions — a 68% premium to Dianomi's pre-announcement closing price.",
+              "Dianomi works with more than 600 advertisers, including brands like Charles Schwab, Invesco and Bank of America, placing ads across premium publishers such as Reuters, CNN Business, The Times and The Wall Street Journal.",
+              "Taboola says the deal will significantly bolster its ability to offer performance advertisers a specialized, premium finance-focused network powered by its Realize platform. The acquisition, which still needs regulatory and shareholder approval, is expected to close before the end of 2026."
+            ],
+            "source": "AdExchanger",
+            "url": "https://www.adexchanger.com/publishers/taboola-eyes-the-finance-vertical-with-an-offer-to-acquire-ad-network-dianomi/"
+          },
+          {
+            "kicker": "PLATFORMS",
+            "headline": "Google retires standalone Display campaigns in favor of Demand Gen",
+            "subhead": "The Google Display Network's reach — over 2 million sites, videos and apps — moves inside Demand Gen alongside YouTube, Discover, Gmail and Maps.",
+            "body": [
+              "Google is phasing out the standalone Display campaign type: starting in June 2026, eligible advertisers began seeing a migration tool that moves existing Display campaigns into the Demand Gen format. Creating new standalone Display campaigns will eventually become impossible, though Google hasn't set an exact cutoff date.",
+              "It's the campaign type being retired, not the inventory itself: the Google Display Network — reaching more than 2 million websites, videos and apps — is moving inside Demand Gen alongside YouTube, Discover, Gmail and Google Maps inventory, the last currently in beta.",
+              "In exchange, Demand Gen gives advertisers carousel ads, expanded video formats, lookalike segments, generative-AI image tools, channel-level reporting, and new bidding options including target CPC and campaign-wide budgets."
+            ],
+            "source": "Search Engine Journal",
+            "url": "https://www.searchenginejournal.com/google-is-retiring-standalone-display-campaigns-in-favor-of-demand-gen/575889/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "AI coding startup Cognition raises $2 billion at a $48 billion valuation",
+            "subhead": "Annualized revenue climbed to nearly $900 million, up from $492 million in May, as demand grows for its autonomous engineer Devin.",
+            "byline": "The Trend Times",
+            "body": [
+              "Cognition AI, maker of the autonomous AI software engineer Devin and owner of Windsurf, which it acquired in 2025, has closed a $2 billion Series E round at a $48 billion valuation. The round was led by new investors Andreessen Horowitz and Accel, with existing backers General Catalyst, Founders Fund and Avenir also participating.",
+              "Since its last round in May, the company's annualized revenue has grown from $492 million to nearly $900 million. Cognition attributes the growth to wider corporate adoption of Devin, naming customers including Nvidia (chip design), Citi (financial services), GE Aerospace (aviation), Mercedes-Benz (automotive) and Modal (AI infrastructure).",
+              "The rapid valuation jump — roughly doubling in a few months — reflects investors' continuing scramble for a stake in AI coding tools, a market where Cognition competes with players like Cursor and GitHub Copilot."
+            ],
+            "source": "SiliconANGLE",
+            "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/"
+          },
+          {
+            "kicker": "INFRASTRUCTURE",
+            "headline": "Data-center operator Crusoe raises $3.9 billion at a $30.9 billion valuation",
+            "subhead": "The company is building a vertically integrated AI infrastructure platform backed by more than $140 billion in contracted revenue.",
+            "body": [
+              "Crusoe announced on September 17, 2026 the initial close of a $3.9 billion Series F round at a $30.9 billion valuation. The oversubscribed round was co-led by Atreides Management, Mubadala Capital and Valor Equity Partners, with participation from Founders Fund, GIC, Nvidia, the Qatar Investment Authority, Radical Ventures and TPG.",
+              "The company's total contracted value now tops $140 billion. The new capital will help Crusoe scale existing programs and build out its own \"AI factories,\" ranging from large vertically integrated data-center campuses to modular Crusoe Spark units.",
+              "Crusoe also named three new board members: Cloudflare CFO Thomas Seifert; Bill Stein, partner and CIO at Primary Digital Infrastructure; and Redwood Materials founder and CEO (and Tesla board member) JB Straubel."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+          },
+          {
+            "kicker": "FUNDING",
+            "headline": "Gimlet Labs raises $300 million for multi-chip AI inference at a $3 billion valuation",
+            "subhead": "The startup splits inference workloads across different types of processors to cut latency and power use.",
+            "body": [
+              "Gimlet Labs, which is building a multi-silicon inference cloud for agentic AI, has closed a $300 million Series B round at a $3 billion valuation. The round was led by Andreessen Horowitz, with Sapphire Ventures also participating alongside new investors M12 and Arm and existing backers Menlo Ventures and Factory. The company has now raised $392 million in total.",
+              "Gimlet's software disaggregates AI workloads and routes different phases of inference to whichever hardware suits them best, aiming to improve latency, throughput, utilization and power efficiency.",
+              "Having emerged from stealth relatively recently, the company says it has already locked in billions of dollars in contracted revenue for its Gimlet Cloud service and is scaling toward hundreds of megawatts of managed, heterogeneous infrastructure."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "GROWTH",
+            "headline": "Kalshi's Luana Lopes Lara has grown the prediction-markets platform to $4 billion in annual revenue",
+            "subhead": "The 29-year-old, who co-runs the company with co-founder Tarek Mansour, has driven more than eightfold growth in a year.",
+            "byline": "The Trend Times",
+            "body": [
+              "Luana Lopes Lara, co-founder and chief operating officer of prediction-markets platform Kalshi, has brought the company to roughly breakeven at massive scale — over $4 billion in annualized revenue and $400 billion in annualized trading volume, more than eight times where it stood a year earlier. Kalshi now runs on a lean team of about 170 people, with roughly 130 reporting directly to its two co-founders.",
+              "Lopes Lara, a former ballerina and MIT graduate, became the world's youngest self-made female billionaire in December 2025 at age 29, according to Forbes. By her own account of the founders' division of labor, she runs everything inside the company while co-founder Tarek Mansour handles the outside world — regulators, partners and the market.",
+              "In August 2026, Kalshi became the exclusive prediction-markets partner of the US Open — another step in the company's push to position event betting as a mainstream financial product rather than a niche trading market."
+            ],
+            "source": "Sidedoors",
+            "url": "https://sidedoors.co/p/luana-lopes-lara-kalshi"
+          },
+          {
+            "kicker": "PROFILE",
+            "headline": "Mercor's founder is 23 — a year ago he became history's youngest self-made billionaire",
+            "subhead": "Brendan Foody took a platform for staffing AI labs with expert contractors from $1 million to $2 billion in annualized revenue in 20 months.",
+            "body": [
+              "Brendan Foody founded Mercor at 19 with two high-school friends, Surya Midha and Adarsh Hiremath. The company built a marketplace that supplies leading AI labs with the experts and data needed to train models on professional-grade reasoning — everything from doctors and lawyers to engineers. In October 2025, the three co-founders became the world's youngest self-made billionaires.",
+              "In the first half of 2026, Mercor's annualized revenue hit $2 billion — double what it was four months earlier — and the company was in talks for a new round at a $20 billion valuation, up from $10 billion at its Series C. In July, Mercor made its first major acquisition, buying startup Deeptune, in which Foody himself had personally invested as an angel just three months earlier — a bet he said was made with the eventual acquisition in mind.",
+              "The growth has continued despite a reputational setback: a March breach through a vulnerability in the open-source library LiteLLM led Meta to suspend its work with Mercor, though OpenAI and Anthropic have remained clients."
+            ],
+            "source": "Fortune",
+            "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "FASHION WEEK",
+            "headline": "Henry Zankov makes his Diane von Furstenberg debut with a show on the High Line",
+            "subhead": "The former DVF knitwear designer becomes the house's first-ever artistic director and opens New York Fashion Week.",
+            "byline": "The Trend Times",
+            "body": [
+              "On September 10, 2026, Henry Zankov presented his first show as artistic director of Diane von Furstenberg — the first person to hold that title at the house. The show took place on the High Line, just above DVF's Meatpacking District store, opening New York Fashion Week's schedule.",
+              "Zankov joined DVF as a knitwear designer in 2014, spent four years at the company, then launched his own namesake label, which won him a CFDA Award for American Emerging Designer of the Year and a reputation as one of New York's more distinctive young voices.",
+              "The house's signature wrap dress remained central to the collection, appearing alongside wrap tops and flowing capes, while Zankov pushed a bolder mix of prints, textures and color — animal prints against vivid color blocks and clashing patterns, with metallic pieces adding flashes of shine. The show drew cheers and applause from the assembled editors, celebrities and fans."
+            ],
+            "source": "Fashionista",
+            "url": "https://fashionista.com/2026/09/diane-von-furstenberg-spring-2027-review"
+          },
+          {
+            "kicker": "FASHION WEEK",
+            "headline": "Alexander McQueen returns to London Fashion Week for the first time in 25 years",
+            "subhead": "Seán McGirr's first London show, on September 20, combines menswear and womenswear in one presentation.",
+            "body": [
+              "Alexander McQueen will present its Spring/Summer 2027 collection in London on September 20, 2026 — its first show outside the Paris schedule, where the house has traditionally shown, in 25 years. It's also creative director Seán McGirr's first London runway show, combining the men's and women's lines in a single presentation.",
+              "The collection continues McGirr's ongoing reinterpretation of McQueen's codes, built around sharp tailoring and occasionwear — two areas closely tied to the house's identity.",
+              "The house's return to London's official schedule, alongside Mulberry, is being read as a notable signal: major luxury houses are once again treating London as a platform serious enough for high-profile debuts, not just a stage for young independent labels."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/alexander-mcqueen-london-fashion-week-september-runway-show-1239018868/"
+          },
+          {
+            "kicker": "APPOINTMENTS",
+            "headline": "Christopher Kane debuts at Mulberry as the brand shows ready-to-wear for the first time in six years",
+            "subhead": "The appointment, announced in March, puts the former eponymous-label designer in charge of the house's womenswear.",
+            "body": [
+              "Christopher Kane presented his debut collection as creative director of womenswear ready-to-wear at British house Mulberry on September 20, 2026 — the brand's first ready-to-wear show in six years. His appointment was announced back in March, and the London show marked the first public look at his vision for the house.",
+              "Kane, a Central Saint Martins graduate and four-time British Fashion Awards winner, including Womenswear Designer of the Year, previously ran his own eponymous label with a regular slot on the London Fashion Week schedule before closing it in 2023.",
+              "The collection will hit stores and Mulberry's website in January 2027. Alongside McQueen's return, the show is part of a broader trend of major British houses once again treating London as a venue for meaningful collection debuts."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/mulberry-london-fashion-week-christopher-kane-debut-show-1239047628/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "RELEASE",
+            "headline": "Brutto announces \"Гаддем 3,\" the fifth-anniversary sequel to a cult series",
+            "subhead": "The Kaspiisky Gruz member is prepping the third installment, with tracklist and features still under wraps.",
+            "byline": "The Trend Times",
+            "body": [
+              "Rapper Brutto, of the group Kaspiisky Gruz, has announced his album \"Гаддем 3\" (\"Gaddem 3\"), set for release on September 25, 2026 — five years after \"Гаддем 2\" (2021). The first installment came out in 2019 and became one of the artist's signature solo projects.",
+              "The exact tracklist and guest list remain under wraps, but the announcement has already generated significant buzz in the Russian-language rap community, with music outlets suggesting the release could be one of September's biggest hip-hop moments.",
+              "The anticipation fits a broader pattern this season: several established artists on the Russian scene have released their first solo projects in years this September, including Bumble Beezy's album \"The Core.\""
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/brutto-vozvrashhaetsya-gaddem-3-mozhet-vzorvat-sentyabr/"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "Bumble Beezy drops \"The Core,\" his first album in five years",
+            "subhead": "The record chases a balance between technical flow and melody, with a Lamborghini as its cover-art symbol.",
+            "body": [
+              "On September 4, 2026, rapper Bumble Beezy released \"The Core,\" his first project in five years, according to Russian rap outlet The Flow. Unlike his earlier work, which used tracks as a testing ground for different flows, the new album aims for a balance between technical virtuosity and melodicism.",
+              "The tracklist includes \"Flow Shop 2026,\" continuing a series the artist has kept running since 2014. A Lamborghini serves as the album's symbol, with the rapper holding a model of the car on the cover.",
+              "Bumble Beezy kicked off a concert tour in support of the album this September."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/releases/bumble-beezy-the-core"
+          },
+          {
+            "kicker": "REUNION",
+            "headline": "French Montana and Max B drop new music a year after Max B's release from prison",
+            "subhead": "The duo is prepping a disco-inspired album, \"Night To Remember,\" following the veteran rapper's celebrated comeback.",
+            "body": [
+              "Rappers French Montana and Max B have announced a new joint album, \"Night To Remember,\" reportedly due out in early October 2026. Lead single \"Cheat Code\" continues their creative reunion after a roughly fifteen-year gap.",
+              "Max B walked free on November 9, 2025 after 16 years behind bars — his original 75-year sentence was cut to 20 years in 2016 after he pleaded guilty to aggravated manslaughter. His release coincided with French Montana's birthday, and the two started recording together almost immediately.",
+              "Since Max B's release, the pair have put out the album \"Wave Gods 2: Cosmos Brothers\" (May 22, 2026), and their single \"Ever Since U Left Me (I Went Deaf)\" gave Max B his first-ever No. 1, topping Billboard's Rhythmic Airplay and Mediabase Rhythmic Radio charts."
+            ],
+            "source": "BET",
+            "url": "https://www.bet.com/article/zovak8/max-b-is-home-after-16-years-in-prison-and-is-welcomed-by-french-montana"
+          },
+          {
+            "kicker": "TOUR",
+            "headline": "JPEGMafia kicks off a North American tour behind \"Experimental Rap\"",
+            "subhead": "Twenty dates run from September 22 to October 24, with Redveil and Matt Proxy opening.",
+            "body": [
+              "On September 22, 2026, rapper-producer JPEGMafia kicks off a 20-date North American tour, the Experimental Rap Tour, in Spokane, Washington, in support of his album \"Experimental Rap,\" released May 21, 2026.",
+              "The route runs through Vancouver, Los Angeles, Chicago and Toronto, includes back-to-back New York dates, and wraps in Atlanta on October 24. Redveil and Matt Proxy will open.",
+              "\"Experimental Rap\" reinforced JPEGMafia's reputation as one of hip-hop's most unpredictable voices, blending punk energy, experimental sound design and pointed lyrics."
+            ],
+            "source": "Consequence",
+            "url": "https://consequence.net/2026/04/jpegmafia-new-album-experimental-rap-2026-tour/"
+          }
+        ]
+      }
+    ]
+  }
+}

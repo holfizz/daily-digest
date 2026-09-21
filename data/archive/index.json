@@ -250,5 +250,17 @@
       "ru": "20 материалов",
       "en": "20 articles"
     }
+  },
+  {
+    "date": "2026-09-20",
+    "number": 22,
+    "headline": {
+      "ru": "Z.ai показала флагманскую модель, полностью работающую на китайских чипах",
+      "en": "Z.ai shows off a flagship model running entirely on Chinese chips"
+    },
+    "count": {
+      "ru": "18 материалов",
+      "en": "18 articles"
+    }
   }
 ]
