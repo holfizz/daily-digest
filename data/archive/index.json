@@ -262,5 +262,17 @@
       "ru": "18 материалов",
       "en": "18 articles"
     }
+  },
+  {
+    "date": "2026-09-21",
+    "number": 23,
+    "headline": {
+      "ru": "Google DeepMind открывает институт, чтобы расширить дискуссию об ОИИ",
+      "en": "Google DeepMind Launches an Institute to Widen the AGI Debate"
+    },
+    "count": {
+      "ru": "19 материалов",
+      "en": "19 articles"
+    }
   }
 ]
