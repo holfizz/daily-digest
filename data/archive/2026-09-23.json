@@ -1,0 +1,498 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-23",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 25
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "МОДЕЛИ",
+            "headline": "OpenAI выпустила GPT-6 Sol и Luna вдвое дешевле прежних моделей",
+            "subhead": "Компания снизила цены на API примерно на 50% и одновременно расширила доступ к оценке безопасности моделей для сторонних организаций.",
+            "byline": "The Trend Times",
+            "body": [
+              "22 сентября OpenAI представила обновлённые версии моделей GPT-6 — Sol и Luna, доступные через API по ценам примерно вдвое ниже, чем у линейки GPT-5.6. Тариф на Sol снизился до $2 за миллион входных токенов и $10 за миллион выходных — против $4 и $20 ранее; цены на Luna упали до $0,10 и $0,50 за миллион токенов с $0,20 и $1,20.",
+              "Sol ориентирована на сложные задачи программирования и агентную работу, тогда как Luna рассчитана на массовые однотипные запросы — там, где один и тот же промпт выполняется миллионы раз в день. Релиз пришёлся на ту же неделю, когда Anthropic выпустила Opus 5.5, а xAI — Grok 4.7.",
+              "Одновременно OpenAI заявила, что впервые допустит независимые организации к техническим оценкам безопасности новых моделей уже на этапе обучения — а не только после его завершения, как было раньше."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+          },
+          {
+            "kicker": "ДИПЛОМАТИЯ",
+            "headline": "Альтман и Амодеи выступят в Совбезе ООН по безопасности искусственного интеллекта",
+            "subhead": "Заседание 23 сентября созвала Франция; на нём также ожидаются китайские DeepSeek и Moonshot AI.",
+            "body": [
+              "Франция, председательствующая в сентябре в Совете Безопасности ООН, созвала на 23 сентября заседание 15 членов Совета, посвящённое искусственному интеллекту и международной безопасности. Ожидается личное участие главы OpenAI Сэма Альтмана и дистанционное — главы Anthropic Дарио Амодеи.",
+              "К обсуждению также приглашены китайские разработчики DeepSeek и Moonshot AI, а также основатель Hugging Face Клеман Деланг. По данным представителей OpenAI, выступление Альтмана будет посвящено международной координации, единым стандартам безопасности и собственной работе компании в этой области.",
+              "Амодеи, в свою очередь, намерен продвигать план, изложенный в его эссе от 12 сентября, — согласованное замедление темпов разработки передовых моделей вместе с договорённостью о темпах с Китаем по аналогии с соглашениями SALT времён холодной войны."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html"
+          },
+          {
+            "kicker": "ИССЛЕДОВАНИЯ",
+            "headline": "С помощью ИИ математики решили десятилетиями не поддававшуюся обратную задачу Галуа",
+            "subhead": "Команда исследователей закрыла порядка 25 тысяч случаев проблемы, используя нейросеть для поиска симметрий в группе Матьё M23.",
+            "body": [
+              "После конференции в Калтехе в мае 2026 года команда математиков — Рейчел Прайс, Бьорн Пунен, Сяою Хуан, Блейк Джексон, Кю-Хван Ли и Шаоу Чжан — вместе с кураторами базы данных LMFDB Джоном Джонсом, Джен Полхус, Дэвидом Роу, Эндрю Сазерлендом и Терренсом Тао за несколько месяцев продвинулись в решении многолетней математической загадки — обратной задачи Галуа.",
+              "Исследователи применили ИИ для перебора комбинаций симметрий внутри группы Матьё M23, попросив модель численно приблизить уравнения для найденного набора из семи поверхностей. В итоге удалось закрыть около 25 тысяч случаев задачи — количество, прежде казавшееся неподъёмным для ручного перебора.",
+              "Работа стала одним из наглядных примеров того, как ИИ начинает служить не просто инструментом вычислений, а полноценным участником математических исследований, ускоряя работу, которая заняла бы у людей несравнимо больше времени."
+            ],
+            "source": "Scientific American",
+            "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "ПЛАТФОРМЫ",
+            "headline": "TikTok открыл инструмент Pulse Mentions всем рекламодателям в США и Канаде",
+            "subhead": "Реклама теперь может размещаться рядом с органическими публикациями о бренде, продукте или конкурентах.",
+            "byline": "The Trend Times",
+            "body": [
+              "TikTok объявил, что инструмент Pulse Mentions переходит в статус общедоступного для всех рекламодателей в США и Канаде — ранее доступ к нему был ограничен. Инструмент позволяет размещать рекламу рядом с проверенным органическим контентом, в котором упоминается бренд, конкретный продукт, категория или конкуренты рекламодателя.",
+              "Pulse Mentions входит в более широкий набор Pulse — линейку инструментов премиального контекстного размещения рекламы, который TikTok также дополнил новыми инструментами для работы с креаторами и ИИ-функциями подбора безопасного для бренда контента.",
+              "Для рекламодателей это способ точнее попадать в аудиторию, которая уже активно обсуждает их бизнес или смежные темы на платформе, — то есть охватывать пользователей в момент максимального интереса к теме."
+            ],
+            "source": "PPC Land",
+            "url": "https://ppc.land/tiktok-pulse-suite-targets-brand-safe-trends-with-new-creator-and-ai-tools/"
+          },
+          {
+            "kicker": "РАСХОДЫ",
+            "headline": "Цена рекламы в Meta выросла на 12% год к году — бюджеты покупают меньше показов",
+            "subhead": "Агентство True North Social открывает отдельную практику по рекламе в Facebook и Instagram для брендов Лос-Анджелеса на фоне подорожания.",
+            "body": [
+              "По данным агентства True North Social, опубликованным 21 сентября, средняя цена за рекламу в Meta выросла на 12% год к году как в первом, так и во втором квартале 2026 года — при этом показы рекламы увеличились на 19% и 14% соответственно.",
+              "Из этого следует, что при неизменном рекламном бюджете компании получают примерно на 10,7% меньше показов, чем годом ранее. Рост цены агентство связывает с усиливающейся конкуренцией за размещения на фоне продолжающегося роста самой платформы.",
+              "На этом фоне True North Social объявило об открытии отдельной практики по рекламе в Facebook и Instagram для брендов округа Лос-Анджелес — актуальность специализированной закупки медиа растёт вместе со стоимостью размещений."
+            ],
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/09/21/3365592/0/en/los-angeles-facebook-ads-agency-launches-at-true-north-social.html"
+          },
+          {
+            "kicker": "ДАННЫЕ",
+            "headline": "IPinfo запустил базу данных из 2,7 млн IP-адресов торговых точек и заведений",
+            "subhead": "Places позволяет рекламным платформам привязывать трафик к конкретному месту — от кафе до стадиона — без сбора дополнительных идентификаторов.",
+            "body": [
+              "Компания IPinfo объявила 21 сентября о запуске продукта Places — базы данных, которая сопоставляет IP-адреса публичных Wi-Fi-сетей с конкретными заведениями. На старте база охватывает около 2,7 млн адресов в 236 странах и 57 категориях площадок.",
+              "Сервис даёт рекламным платформам дополнительный слой контекста для таргетинга и оценки инвентаря, а также помогает объяснить нетипичные паттерны трафика, когда сотни или тысячи устройств используют один и тот же IP-адрес заведения.",
+              "В числе доступных полей — признак площадки, её название и категория, идентификатор сети и координаты здания. По данным компании, это открывает платформам новый способ таргетинга по точкам интереса и премиальному инвентарю событий — используя уже существующую инфраструктуру, без сбора дополнительных данных."
+            ],
+            "source": "MarTech Series",
+            "url": "https://martechseries.com/sales-marketing/programmatic-buying/ipinfo-launches-places-bringing-venue-level-context-to-ip-address-data/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "РАУНДЫ",
+            "headline": "Cognition привлекла $2 млрд при оценке в $48 млрд",
+            "subhead": "Разработчик ИИ-агента для программирования Devin увеличил выручку почти вдвое всего за несколько месяцев.",
+            "byline": "The Trend Times",
+            "body": [
+              "Стартап Cognition, создатель автономного ИИ-агента для разработки ПО Devin, закрыл раунд серии E на $2 млрд, увеличив оценку компании до $48 млрд — почти вдвое больше $26 млрд, которые инвесторы называли всего четырьмя месяцами ранее. Раунд возглавили Andreessen Horowitz, Accel, Founders Fund, General Catalyst и Avenir.",
+              "Годовая выручка компании выросла с $492 млн в мае 2026 года до почти $900 млн к моменту объявления раунда. Devin уже используют в NVIDIA, GE Aerospace, Citi, Mercedes-Benz и Modal — рост клиентской базы среди крупных корпораций во многом и объясняет скачок оценки."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-48-billion-value"
+          },
+          {
+            "kicker": "ЕДИНОРОГИ",
+            "headline": "Финский стартап Verda стал «единорогом» на волне спроса на ИИ-облака",
+            "subhead": "Компания привлекла $189 млн для расширения вычислительных мощностей под задачи искусственного интеллекта.",
+            "body": [
+              "Verda, ИИ-облачная компания из Хельсинки, ранее известная как DataCrunch, привлекла $189 млн в переподписанном раунде серии B, который возглавил Emergence Capital. Среди других инвесторов — MUFG Innovation Partners, Super Micro Computer, пенсионный фонд Varma и Lifeline Ventures.",
+              "Компания обслуживает клиентов более чем в 50 странах и в июле 2026 года вышла на годовую выручку в $165 млн. С учётом нового раунда общий объём привлечённого финансирования — как акционерного, так и долгового — превысил $450 млн, а оценка компании впервые превысила $1 млрд, что делает Verda новым «единорогом» Европы."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-22/ai-cloud-startup-verda-raises-189-million-in-funding-round"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "СОСТОЯНИЯ",
+            "headline": "Президент OpenAI Грег Брокман — самый богатый новичок в списке Forbes 400",
+            "subhead": "Его состояние в $25,5 млрд основано на доле в OpenAI и ранних инвестициях в Stripe, где он был техническим директором.",
+            "byline": "The Trend Times",
+            "body": [
+              "Грег Брокман, президент OpenAI, занял 45-е место в обновлённом списке Forbes 400, войдя в него сразу с состоянием $25,5 млрд — это самый крупный дебют года. Основной источник его богатства — примерно 3%-ная доля в OpenAI, а также ранние инвестиции в Stripe, где Брокман, проучившись год в Гарварде, стал четвёртым сотрудником и техническим директором.",
+              "Реальный масштаб его доли в OpenAI стал публично известен в мае — в ходе судебного процесса компании против Илона Маска Брокман под присягой заявил, что его пакет стоит почти $30 млрд.",
+              "Для сравнения — сооснователь и гендиректор OpenAI Сэм Альтман, у которого нет прямой доли в компании, оценивается всего в $3,3 млрд, что ниже порога в $4,4 млрд, необходимого в этом году для попадания в список Forbes 400."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/aliciapark/2026/09/14/the-richest-new-forbes-400-member-hails-from-openai-it-isnt-sam-altman/"
+          },
+          {
+            "kicker": "РОБОТОТЕХНИКА",
+            "headline": "Основатель Figure AI Бретт Адкок дебютировал в Forbes 400 с состоянием $23,4 млрд",
+            "subhead": "Компания, разрабатывающая человекоподобных роботов, годом ранее была оценена частными инвесторами в $39 млрд.",
+            "body": [
+              "Бретт Адкок, основатель и глава компании по разработке человекоподобных роботов Figure AI, вошёл в обновлённый список Forbes 400 с оценочным состоянием $23,4 млрд. Годом ранее частные инвесторы оценили Figure в $39 млрд.",
+              "Адкок — один из 14 новичков списка, чьё состояние связано с индустрией искусственного интеллекта. Всего в этом году в Forbes 400 дебютировали 34 миллиардера — более чем вдвое больше, чем годом ранее, когда список пополнили лишь 14 новых имён. Порог для попадания в рейтинг в этом году достиг рекордных $4,4 млрд."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/gigizamora/2026/09/15/meet-the-34-newcomers-to-the-2026-forbes-400-list/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "НЕДЕЛЯ МОДЫ",
+            "headline": "Мария Грация Кьюри показала вторую коллекцию для Fendi",
+            "subhead": "Показ прошёл 23 сентября в непривычное для дома дневное время — второй акт возвращения дизайнера в Рим.",
+            "byline": "The Trend Times",
+            "body": [
+              "23 сентября в Милане Мария Грация Кьюри представила свою вторую коллекцию в качестве креативного директора Fendi — показ прошёл в 14:00 по центральноевропейскому времени, в непривычном для дома дневном слоте.",
+              "Дебютная коллекция Кьюри в феврале была построена вокруг фразы «Less I, more us» («Меньше я, больше мы») — отсылки к пяти сёстрам Fendi, основавшим дом. Кьюри начинала карьеру именно в Fendi, прежде чем стать первой женщиной, возглавившей Dior, и её возвращение в Рим стало одним из самых обсуждаемых назначений сезона.",
+              "Второй показ должен был яснее показать, в каком направлении Кьюри намерена развивать эстетику дома после сдержанного, программного дебюта."
+            ],
+            "source": "Vogue Adria",
+            "url": "https://vogueadria.com/milan-fashion-week/"
+          },
+          {
+            "kicker": "ДЕБЮТЫ",
+            "headline": "Французский бренд Sézane дебютировал на Неделе моды в Милане",
+            "subhead": "Показ 23 сентября стал первым выходом парижского бренда на миланский подиум.",
+            "body": [
+              "23 сентября французский бренд Sézane, построивший репутацию на образе «парижанки», представил свою первую коллекцию в рамках Недели моды в Милане — по соседству с показами таких миланских имён, как Loro Piana, Brunello Cucinelli и La DoubleJ.",
+              "Для парижского бренда, основанного Морган Сезалори и выросшего из онлайн-ритейлера в полноценный дом моды, дебют в Милане — заметное расширение присутствия в официальном календаре недель моды, ранее ограничивавшегося Парижем."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+          },
+          {
+            "kicker": "ВЫСТАВКИ",
+            "headline": "В Палаццо Реале открылась первая крупная выставка о моде в творчестве Сальвадора Дали",
+            "subhead": "Гала-ужин Camera Nazionale della Moda Italiana 23 сентября предварил открытие выставки «Dalí e la Moda» для публики.",
+            "body": [
+              "Вечером 23 сентября Camera Nazionale della Moda Italiana провела гала-ужин в миланском Палаццо Реале, приуроченный к открытию выставки «Dalí e la Moda» — первой масштабной международной экспозиции, посвящённой связи Сальвадора Дали с миром моды. Для публики выставка открылась на следующий день и продлится до 31 января 2027 года.",
+              "Более 200 работ и архивных материалов — картины, рисунки, фотографии, костюмы, фильмы, украшения — прослеживают, как сюрреалистический язык Дали проникал в моду на протяжении десятилетий. Выставка проходит под патронажем итальянского Министерства культуры, посольства Испании в Италии и самой Camera Nazionale della Moda Italiana.",
+              "Совпадение открытия выставки с Неделей моды в Милане — не случайность: организаторы явно рассчитывают на приток гостей недели моды и подчёркивают многолетнюю связь между миланским подиумом и миром искусства."
+            ],
+            "source": "Wanted in Milan",
+            "url": "https://www.wantedinmilan.com/whatson/milan-to-stage-first-major-exhibition-on-dali-and-fashion.html"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Нижегородский 2Dice выпустил Mixtape 2 с фитами Obladaet и всей тусовки Players Club",
+            "subhead": "Микстейп стал скорее командным манифестом сцены, чем сольной визиткой одного артиста.",
+            "byline": "The Trend Times",
+            "body": [
+              "22 сентября нижегородский артист и продюсер 2Dice, один из главных голосов растущей трэп-сцены города, выпустил микстейп Mixtape 2. В треклист вошли коллаборации с Obladaet, A-This 52, Kondachelo, Ksani, Spyrofoam, Farma, Mefis и Saintcarlo.",
+              "Такой список фитов превращает проект из сольной работы в своего рода точку сборки для сцены вокруг Obladaet и Players Club Studio — микстейп быстро перестал восприниматься как «ещё один» релиз и стал маркером узнаваемой эстетики этого круга артистов."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/obladaet-i-2dice-novaya-volna-v-ulichnoj-muzyke-s-manchester-vibes/"
+          },
+          {
+            "kicker": "ИНТЕРВЬЮ",
+            "headline": "Villian — фрешмен года: «Я самый alive из всех, кого ты знаешь»",
+            "subhead": "В первом большом интервью артист рассказал о хитах «Династия» и «8 миля» и своём отношении к успеху.",
+            "body": [
+              "Villian, которого индустрия называет главным фрешменом 2026 года, дал первое большое интервью, в котором рассказал о работе над дебютным альбомом, уверенно удерживающим верхние строчки чартов. Среди его главных хитов года — «Династия» и «8 миля», написанная совместно с быстро набирающим популярность Madk1d.",
+              "Артист известен тем, что снимает клипы за три часа на iPhone, а в текстах передаёт мироощущение человека, который чувствует себя «самым живым» прямо сейчас, — по его словам, именно эта энергия и определяет его музыку."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/features/villian-interview-2026"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "EST Gee выпустил альбом Bigger Than the Devil",
+            "subhead": "Пластинка на 17 треков говорит о выживании, лояльности и переосмыслении собственного пути.",
+            "body": [
+              "11 сентября рэпер EST Gee выпустил на CMG/Interscope Records альбом Bigger Than the Devil — 17 треков с участием YFN Lucci, 86Snot, SKRT и артистов из его команды EST.",
+              "Релизу предшествовали синглы «Ya Digg» с SkiMike и «You Know It» с 86Snot, EST Spit и EST4Nikk. Основные темы альбома — выживание, лояльность и честная переоценка пройденного пути."
+            ],
+            "source": "Power 105.1",
+            "url": "https://power1051.iheart.com/content/2026-09-11-rap-rising-est-gee-drops-his-new-album-bigger-than-the-devil/"
+          },
+          {
+            "kicker": "ВОЗВРАЩЕНИЕ",
+            "headline": "French Montana и Max B воссоединились на треке Cheat Code перед новым альбомом",
+            "subhead": "Дуэт, уже получивший номинацию на MTV VMA, готовит совместный альбом Night to Remember в диско-эстетике.",
+            "body": [
+              "French Montana и Max B выпустили сингл Cheat Code — первую песню с предстоящего диско-ориентированного альбома Монтаны Night to Remember. Трек принёс дуэту номинацию на «Лучшую коллаборацию» на MTV Video Music Awards 2026.",
+              "Ранее в этом году French Montana и Max B уже номинировались на «Лучшую группу» на BET Awards и выступили вместе на главной сцене церемонии. Их более ранние совместные треки — «Ever Since U Left Me» и записанный с Rick Ross «Minks in Miami» — оба становились первыми номерами радиочартов Urban."
+            ],
+            "source": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwtv/article/FRENCH-MONTANA-MAX-B-Reunite-on-New-Single-CHEAT-CODE-Ahead-of-Album-20260804"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-23",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 25
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "MODELS",
+            "headline": "OpenAI Launches GPT-6 Sol and Luna at Half the Price",
+            "subhead": "The company cut API prices by roughly 50% and, for the first time, will let outside groups assess model safety during training.",
+            "byline": "The Trend Times",
+            "body": [
+              "OpenAI rolled out updated GPT-6 models, Sol and Luna, on September 22, priced at roughly half of the GPT-5.6 line. Sol now costs $2 per million input tokens and $10 per million output tokens, down from $4 and $20; Luna dropped to $0.10 and $0.50 per million tokens, from $0.20 and $1.20.",
+              "Sol is built for complex coding and agentic work, while Luna targets high-volume jobs that run the same prompt millions of times a day. The launch landed the same week Anthropic shipped Opus 5.5 and xAI released Grok 4.7.",
+              "OpenAI also said it will, for the first time, let third-party organizations conduct technical safety assessments of new models during training rather than only after development wraps up."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+          },
+          {
+            "kicker": "DIPLOMACY",
+            "headline": "Altman and Amodei to Address UN Security Council on AI Safety",
+            "subhead": "France convened the September 23 session; China's DeepSeek and Moonshot AI are also expected to brief the council.",
+            "body": [
+              "France, which holds the Security Council presidency this month, convened a session of the UN Security Council's 15 members on September 23 to discuss artificial intelligence and international security. OpenAI's Sam Altman is expected to attend in person, while Anthropic's Dario Amodei will participate remotely.",
+              "Chinese developers DeepSeek and Moonshot AI were also invited to brief the council, alongside Hugging Face CEO Clément Delangue. An OpenAI spokesperson said Altman's remarks will focus on international coordination, common safety standards and the company's own safety work.",
+              "Amodei, for his part, plans to press the case laid out in his September 12 essay — a coordinated slowdown in frontier AI development paired with a SALT-style pacing arrangement with China."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html"
+          },
+          {
+            "kicker": "RESEARCH",
+            "headline": "AI Helps Mathematicians Crack a Decades-Old Symmetry Problem",
+            "subhead": "A team used a model to hunt for hidden symmetries in the Mathieu group M23, resolving roughly 25,000 cases of an inverse Galois problem.",
+            "body": [
+              "Following a Caltech conference in May 2026, mathematicians Rachel Pries, Bjorn Poonen, Xiaoyu Huang, Blake Jackson, Kyu-Hwan Lee and Shaowu Zhang — working alongside LMFDB database curators John Jones, Jen Paulhus, David Roe, Andrew Sutherland and Terence Tao — made rapid progress on a long-standing puzzle in the inverse Galois problem.",
+              "The team used AI to search the Mathieu group M23 for combinations of hidden symmetries, asking the model to numerically approximate the equations for a set of seven surfaces it identified. That work ultimately resolved about 25,000 cases of the problem — a scale that would have been impractical to check by hand.",
+              "The project is one of the clearest examples yet of AI acting not just as a calculator but as a genuine collaborator in mathematical research, compressing work that would otherwise have taken far longer."
+            ],
+            "source": "Scientific American",
+            "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "PLATFORMS",
+            "headline": "TikTok Opens Pulse Mentions to All US and Canada Advertisers",
+            "subhead": "Ads can now run alongside verified organic posts mentioning a brand, its products or its competitors.",
+            "byline": "The Trend Times",
+            "body": [
+              "TikTok said its Pulse Mentions tool is now generally available to all advertisers in the US and Canada, having previously been limited to a smaller group. The tool lets ads run alongside verified organic content that mentions a brand, a specific product, a category or a competitor.",
+              "Pulse Mentions is part of TikTok's broader Pulse suite of premium, contextual ad-placement tools, which the company also expanded with new creator tools and AI-driven brand-safety features.",
+              "For advertisers, it's a way to reach audiences already actively discussing their business or adjacent topics on the platform — catching people at a moment of high relevance rather than through broad targeting."
+            ],
+            "source": "PPC Land",
+            "url": "https://ppc.land/tiktok-pulse-suite-targets-brand-safe-trends-with-new-creator-and-ai-tools/"
+          },
+          {
+            "kicker": "SPENDING",
+            "headline": "Meta's Ad Prices Are Up 12% Year Over Year — Budgets Now Buy Fewer Impressions",
+            "subhead": "Agency True North Social is opening a dedicated Facebook and Instagram practice in Los Angeles as buying gets more competitive.",
+            "body": [
+              "According to a report from ad agency True North Social published September 21, Meta's average price per ad rose 12% year over year in both the first and second quarters of 2026, even as ad impressions grew 19% and then 14% over the same periods.",
+              "That combination means a flat Meta budget now buys roughly 10.7% fewer impressions than it did a year ago. The agency attributes the price increase to intensifying competition for placements as the platform itself keeps growing.",
+              "True North Social used the report to announce a dedicated Facebook and Instagram ad practice for brands in Los Angeles County, arguing that specialized media buying matters more as placements get pricier."
+            ],
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/09/21/3365592/0/en/los-angeles-facebook-ads-agency-launches-at-true-north-social.html"
+          },
+          {
+            "kicker": "DATA",
+            "headline": "IPinfo Launches a Database of 2.7 Million Venue IP Addresses",
+            "subhead": "Places lets ad platforms tie traffic to a specific location — a café, a stadium — without collecting any new identifiers.",
+            "body": [
+              "IPinfo announced on September 21 the launch of Places, a database that maps public Wi-Fi IP addresses to the specific venues they serve. At launch, it covers roughly 2.7 million venue IP addresses across 236 countries and 57 venue categories.",
+              "The dataset gives ad platforms another layer of context for targeting and valuing inventory, and helps explain unusual traffic patterns that show up when hundreds or thousands of devices share a single venue's IP address.",
+              "Available fields include a venue flag, the venue's name and category, its network SSID and building-level coordinates. IPinfo says the data gives platforms a new way to target points of interest and premium, event-based inventory using infrastructure that's already in the bidstream — without collecting any additional signal."
+            ],
+            "source": "MarTech Series",
+            "url": "https://martechseries.com/sales-marketing/programmatic-buying/ipinfo-launches-places-bringing-venue-level-context-to-ip-address-data/"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "Cognition Raises $2 Billion at a $48 Billion Valuation",
+            "subhead": "The maker of AI coding agent Devin has nearly doubled its revenue in just a few months.",
+            "byline": "The Trend Times",
+            "body": [
+              "Cognition, maker of the autonomous AI coding agent Devin, closed a $2 billion Series E that pushed its valuation to $48 billion — nearly double the $26 billion figure investors put on the company just four months earlier. The round was led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst and Avenir.",
+              "Annualized revenue climbed from $492 million in May 2026 to nearly $900 million by the time the round was announced. Devin is now running inside NVIDIA, GE Aerospace, Citi, Mercedes-Benz and Modal — enterprise adoption that goes a long way toward explaining the jump in valuation."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-48-billion-value"
+          },
+          {
+            "kicker": "UNICORNS",
+            "headline": "Finnish Startup Verda Becomes a Unicorn on the AI Cloud Boom",
+            "subhead": "The company raised $189 million to expand the computing capacity behind its AI infrastructure.",
+            "body": [
+              "Verda, a Helsinki-based AI cloud company formerly known as DataCrunch, has raised $189 million in an oversubscribed Series B led by Emergence Capital. Other investors include MUFG Innovation Partners, Super Micro Computer, pension fund Varma and Lifeline Ventures.",
+              "The company serves customers in more than 50 countries and hit a $165 million annualized revenue run rate in July 2026. With the new round, its total funding — equity and debt combined — has topped $450 million, and its valuation has crossed $1 billion for the first time, making Verda Europe's newest unicorn."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-22/ai-cloud-startup-verda-raises-189-million-in-funding-round"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "WEALTH",
+            "headline": "OpenAI President Greg Brockman Is the Forbes 400's Richest Newcomer",
+            "subhead": "His $25.5 billion fortune rests on his OpenAI stake and an early bet on Stripe, where he served as CTO.",
+            "byline": "The Trend Times",
+            "body": [
+              "Greg Brockman, OpenAI's president, debuted at No. 45 on this year's Forbes 400 with an estimated $25.5 billion fortune — the biggest debut of any newcomer. Most of his wealth traces to a roughly 3% stake in OpenAI, plus an early investment in Stripe, where Brockman became the fourth hire and chief technology officer after leaving Harvard following his freshman year.",
+              "The scale of his OpenAI stake became public in May, when Brockman testified under oath during the company's court battle with Elon Musk that his holding was worth close to $30 billion.",
+              "By contrast, OpenAI co-founder and CEO Sam Altman, who holds no direct equity stake in the company, is estimated to be worth just $3.3 billion — below the $4.4 billion threshold needed to make this year's Forbes 400 at all."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/aliciapark/2026/09/14/the-richest-new-forbes-400-member-hails-from-openai-it-isnt-sam-altman/"
+          },
+          {
+            "kicker": "ROBOTICS",
+            "headline": "Figure AI's Brett Adcock Debuts on the Forbes 400 at $23.4 Billion",
+            "subhead": "The humanoid-robotics company was valued by private investors at $39 billion just a year earlier.",
+            "body": [
+              "Brett Adcock, founder and CEO of humanoid-robotics company Figure AI, joined this year's Forbes 400 with an estimated net worth of $23.4 billion, after private investors valued Figure at $39 billion in 2025.",
+              "Adcock is one of 14 newcomers to the list with ties to the AI industry. In all, 34 billionaires made their Forbes 400 debut this year — more than double last year's 14 newcomers — pushing the wealth threshold to join the list to a record $4.4 billion."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/gigizamora/2026/09/15/meet-the-34-newcomers-to-the-2026-forbes-400-list/"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "FASHION WEEK",
+            "headline": "Maria Grazia Chiuri Presents Her Second Collection for Fendi",
+            "subhead": "The September 23 show, staged in an unusual afternoon slot, marks the second chapter of Chiuri's return to Rome.",
+            "byline": "The Trend Times",
+            "body": [
+              "Maria Grazia Chiuri showed her second collection as Fendi's creative director in Milan on September 23, with the show staged at 2 p.m. Central European Time — an unusual afternoon slot for the house.",
+              "Chiuri's February debut was built around the phrase \"Less I, more us,\" a nod to the five Fendi sisters who founded the house. She began her career at Fendi before becoming the first woman to lead Dior, making her return to Rome one of the season's most closely watched appointments.",
+              "The sophomore show was meant to show more clearly where Chiuri intends to take the house's aesthetic after a deliberately restrained, statement-driven debut."
+            ],
+            "source": "Vogue Adria",
+            "url": "https://vogueadria.com/milan-fashion-week/"
+          },
+          {
+            "kicker": "DEBUTS",
+            "headline": "French Label Sézane Makes Its Milan Fashion Week Debut",
+            "subhead": "The September 23 show is the Paris brand's first appearance on a Milan runway.",
+            "body": [
+              "French label Sézane, known for building its identity around a certain \"Parisian girl\" style, presented its first collection at Milan Fashion Week on September 23, showing alongside Milan mainstays like Loro Piana, Brunello Cucinelli and La DoubleJ.",
+              "For the Paris-based brand — founded by Morgane Sézalory and grown from an online retailer into a full-fledged fashion house — the Milan debut marks a notable expansion of a show calendar that had previously been confined to Paris."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+          },
+          {
+            "kicker": "EXHIBITIONS",
+            "headline": "Palazzo Reale Opens the First Major Exhibition on Dalí and Fashion",
+            "subhead": "A gala dinner hosted by Camera Nazionale della Moda Italiana on September 23 preceded the public opening of 'Dalí e la Moda.'",
+            "body": [
+              "On the evening of September 23, Camera Nazionale della Moda Italiana hosted a gala dinner at Milan's Palazzo Reale to mark the opening of \"Dalí e la Moda\" — the first major international exhibition devoted to Salvador Dalí's relationship with fashion. The show opened to the public the following day and runs through January 31, 2027.",
+              "More than 200 works and archival pieces — paintings, drawings, photographs, garments, films, jewelry — trace how Dalí's surrealist visual language worked its way into fashion over the decades. The exhibition runs under the patronage of Italy's Ministry of Culture, the Embassy of Spain in Italy and Camera Nazionale della Moda Italiana itself.",
+              "The timing, overlapping with Milan Fashion Week, is no accident: organizers are counting on the week's visitors and underscoring a long-running connection between the Milan runway and the art world."
+            ],
+            "source": "Wanted in Milan",
+            "url": "https://www.wantedinmilan.com/whatson/milan-to-stage-first-major-exhibition-on-dali-and-fashion.html"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "RELEASE",
+            "headline": "Nizhny Novgorod's 2Dice Drops Mixtape 2 With Obladaet and the Players Club Crew",
+            "subhead": "The project reads more like a scene manifesto than one artist's solo statement.",
+            "byline": "The Trend Times",
+            "body": [
+              "On September 22, Nizhny Novgorod artist and producer 2Dice, one of the leading voices in the city's growing trap scene, released Mixtape 2. The tracklist includes collaborations with Obladaet, A-This 52, Kondachelo, Ksani, Spyrofoam, Farma, Mefis and Saintcarlo.",
+              "That guest list turns the project from a solo release into something closer to a rallying point for the scene around Obladaet and Players Club Studio — the mixtape quickly stopped being read as \"just another\" drop and became a marker of that crew's aesthetic."
+            ],
+            "source": "HipHop.ru",
+            "url": "https://hiphop.ru/obladaet-i-2dice-novaya-volna-v-ulichnoj-muzyke-s-manchester-vibes/"
+          },
+          {
+            "kicker": "INTERVIEW",
+            "headline": "Villian, 2026's Breakout Artist: 'I'm the Most Alive Person You Know'",
+            "subhead": "In his first major interview, the rapper talks through hits \"Dynasty\" and \"8 Mile\" and what success feels like.",
+            "body": [
+              "Villian, widely regarded as 2026's standout breakout artist, gave his first major interview, discussing the debut album that's been holding down the top of the charts. His biggest hits of the year include \"Dynasty\" and \"8 Mile,\" the latter co-written with the fast-rising Madk1d.",
+              "The rapper is known for shooting music videos in three hours on an iPhone, and his lyrics carry the worldview of someone who, in his words, feels like \"the most alive\" person right now — an energy he says defines his music."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/features/villian-interview-2026"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "EST Gee Releases Bigger Than the Devil",
+            "subhead": "The 17-track album grapples with survival, loyalty and reckoning with the road so far.",
+            "body": [
+              "EST Gee released Bigger Than the Devil via CMG/Interscope Records on September 11 — a 17-track album featuring YFN Lucci, 86Snot, SKRT and members of his own EST crew.",
+              "The album followed singles \"Ya Digg,\" with SkiMike, and \"You Know It,\" with 86Snot, EST Spit and EST4Nikk. Its central themes are survival, loyalty and an honest accounting of how far he's come."
+            ],
+            "source": "Power 105.1",
+            "url": "https://power1051.iheart.com/content/2026-09-11-rap-rising-est-gee-drops-his-new-album-bigger-than-the-devil/"
+          },
+          {
+            "kicker": "REUNION",
+            "headline": "French Montana and Max B Reunite on 'Cheat Code' Ahead of a New Album",
+            "subhead": "The duo, already nominated for an MTV VMA, are working on a disco-flavored joint album, 'Night to Remember.'",
+            "body": [
+              "French Montana and Max B released the single \"Cheat Code,\" the first taste of Montana's upcoming disco-leaning album Night to Remember. The track earned the duo a Best Collaboration nomination at the 2026 MTV Video Music Awards.",
+              "Earlier this year, French Montana and Max B were also nominated for Best Group at the BET Awards and performed together on the show's main stage. Their earlier collaborations \"Ever Since U Left Me\" and, with Rick Ross, \"Minks in Miami\" both hit No. 1 at Urban radio."
+            ],
+            "source": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwtv/article/FRENCH-MONTANA-MAX-B-Reunite-on-New-Single-CHEAT-CODE-Ahead-of-Album-20260804"
+          }
+        ]
+      }
+    ]
+  }
+}
