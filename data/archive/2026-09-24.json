@@ -1,0 +1,552 @@
+{
+  "ru": {
+    "issue": {
+      "date": "2026-09-24",
+      "edition": "Утренний выпуск",
+      "volume": "Vol. I",
+      "number": 26
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Искусственный интеллект",
+        "articles": [
+          {
+            "kicker": "ИССЛЕДОВАНИЯ",
+            "headline": "Claude самостоятельно открыл новую ферментную систему, похожую на CRISPR",
+            "subhead": "Anthropic запустила группу по исследованиям в науках о жизни — почти тысяча ИИ-агентов Claude за 21 час нашли ранее неизвестную систему ART у бактериофагов.",
+            "byline": "The Trend Times",
+            "body": [
+              "Anthropic объявила о запуске новой исследовательской группы в области наук о жизни и рассказала о первом результате её работы: модель Claude самостоятельно обнаружила ранее не описанную ферментную систему бактериофагов, которую в компании назвали «ассоциированными с массивами обратными транскриптазами» (ART). Система состоит из фермента обратной транскриптазы, вспомогательного белка и повторяющихся участков ДНК — по структуре она напоминает CRISPR, используемый для редактирования генов.",
+              "Для поиска почти 950 агентов на основе Claude работали параллельно на протяжении 21 часа, обработав 210 млн токенов, чтобы просканировать базу из 200 тысяч обратных транскриптаз, сузить список кандидатов сначала до 3500, а затем до 20 итоговых систем. По словам Anthropic, роль учёных-людей в основном свелась к формулировке исходного запроса и последующей проверке результатов в лаборатории — один из первых примеров, когда ИИ-агенты выполняют по-настоящему самостоятельную работу в биологических исследованиях.",
+              "Пионер CRISPR Фэн Чжан из MIT и Broad Institute, проводивший независимую проверку находки, назвал её «ярким примером того, как ИИ-агенты могут вносить вклад в биологические открытия», отметив, что связанные с обратными транскриптазами РНК-повторы «по-настоящему интересны и заслуживают дальнейшего изучения». Реальная биологическая функция системы ART пока не установлена."
+            ],
+            "source": "Anthropic",
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+          },
+          {
+            "kicker": "ДИПЛОМАТИЯ",
+            "headline": "США и Китай договорились уведомлять друг друга об опасных ИИ-инцидентах",
+            "subhead": "Соглашение стало одним из немногих конкретных итогов переговоров перед встречей Трампа и Си Цзиньпина — о замедлении гонки речи не идёт.",
+            "body": [
+              "По итогам примерно восьмичасовых переговоров министр финансов США Скотт Бессент и вице-премьер Госсовета КНР Хэ Лифэн договорились создать двусторонний канал связи, по которому стороны будут уведомлять друг друга об инцидентах с ИИ-системами, способных угрожать национальной безопасности. Договорённость была достигнута в преддверии встречи Дональда Трампа и Си Цзиньпина, на которой также должны обсуждаться торговля и Тайвань.",
+              "По оценке нескольких изданий, это самый предметный шаг в сфере регулирования ИИ, который США и Китай предприняли с момента резкого обострения конкуренции между странами в этой области после 2022 года. При этом обе стороны прямо дали понять, что не намерены замедлять собственную разработку ИИ — характер встречи описывают как стремление к «безопасному ИИ без замедления гонки за превосходство».",
+              "По данным Washington Post, по более содержательным вопросам — экспортному контролю над чипами и другим торговым ограничениям — Трамп и Си Цзиньпин пока далеки от договорённости. Новый канал связи по инцидентам стороны рассматривают скорее как меру доверия и предотвращения кризисов, а не как соглашение о темпах разработки."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-23/xi-and-trump-seek-safe-ai-without-slowing-the-race-for-supremacy"
+          },
+          {
+            "kicker": "МОДЕЛИ",
+            "headline": "xAI выпустила Grok 4.7 — самую большую модель компании, обученную и на данных SpaceX",
+            "subhead": "Релиз, который Илон Маск откладывал минимум пять раз, получил 2,1 трлн параметров и телеметрию Starlink в обучающих данных.",
+            "body": [
+              "21 сентября xAI выпустила Grok 4.7 — модель с 2,1 трлн параметров, на 40% больше, чем у Grok 4.6 (1,5 трлн), при том же контекстном окне в 500 тысяч токенов. Релиз откладывался как минимум пять раз с конца июля.",
+              "По словам xAI, в основе модели лежит новая, более крупная базовая версия и более длинный цикл обучения с подкреплением, из-за которого модель «дольше думает» и чаще перепроверяет ответы на сложных, многочасовых задачах, чем Grok 4.6. Заметная особенность релиза — использование дополнительных данных дочерней компании SpaceX: телеметрии спутников Starlink, производственных записей и журналов инженерных сбоев, что, по заявлению xAI, усиливает рассуждения модели по задачам, связанным с «железом» и физическими системами.",
+              "Цены остались на уровне Grok 4.6 — $2 за миллион входных и $6 за миллион выходных токенов. Модель в первый же день доступна в Cursor, Grok Build, через API и сторонние маршрутизаторы. Обозреватели оценивают релиз как крепкий, но не лидирующий на фоне конкурентов, выпустивших более новые модели раньше."
+            ],
+            "source": "Yahoo Tech",
+            "url": "https://tech.yahoo.com/ai/gemini/articles/xai-launches-grok-4-7-171603280.html"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Маркетинг",
+        "articles": [
+          {
+            "kicker": "СДЕЛКИ",
+            "headline": "Infillion покупает Foursquare, расширяя геоданные для измерения эффективности рекламы",
+            "subhead": "Условия сделки не раскрываются; геоаналитика Foursquare почти вдвое крупнее собственного подразделения Infillion.",
+            "byline": "The Trend Times",
+            "body": [
+              "Рекламно-технологическая компания Infillion объявила о покупке платформы геоаналитики Foursquare — финансовые условия сделки не раскрываются. Foursquare приносит с собой данные о более чем 100 млн точек интереса в 200 странах, 16 млрд подтверждённых чекинов и агрегированное покрытие порядка 250 млн устройств в США.",
+              "Бизнес геоданных Foursquare примерно вдвое крупнее собственного подразделения Gimbal, которым уже владеет Infillion. Объединение геоданных Foursquare с данными о покупках, которыми располагает принадлежащая Infillion компания Catalina, даёт рекламодателям приватный способ измерять, приводит ли показ рекламы к визитам в магазин и покупкам.",
+              "Foursquare сохранит собственный бренд и продолжит продавать данные третьим сторонам. Большая часть из примерно 150 сотрудников Foursquare войдёт в штат Infillion, насчитывающий 650 человек; старший вице-президент и глава глобальных продаж Foursquare Линдси Кинтнер возглавит подразделение данных Infillion. Ожидается, что сделка увеличит выручку и штат Infillion примерно на 20–25%."
+            ],
+            "source": "AdExchanger",
+            "url": "https://www.adexchanger.com/marketers/infillion-acquires-foursquare-adding-more-location-data-to-its-ever-growing-ad-tech-stack/"
+          },
+          {
+            "kicker": "РАСХОДЫ",
+            "headline": "Цена привлечения новой аудитории в дисплейной рекламе обвалилась на 45% год к году",
+            "subhead": "Отчёт AdRoll фиксирует падение ставок перед началом праздничного сезона покупок — ретаргетинг дешевеет медленнее.",
+            "body": [
+              "Согласно квартальному отчёту AdRoll «State of Digital Advertising» за третий квартал 2026 года, цена показов дисплейной рекламы, нацеленной на привлечение новой аудитории (prospecting), упала на 45% год к году в период с 1 июля по 8 сентября — и на 25,5% по сравнению со вторым кварталом.",
+              "Ставки на ретаргетинг за тот же период снизились на 29,1% год к году (на 40,2% по сравнению со вторым кварталом), а стоимость размещений в account-based-маркетинге (ABM), напротив, выросла на 4,4% год к году, хотя и упала на 15,1% относительно предыдущего квартала.",
+              "В AdRoll называют это благоприятным ценовым фоном перед стартом праздничного рекламного сезона: маркетологи могут получить более дешёвый охват для верхней части воронки как раз к моменту, когда бюджеты четвёртого квартала начинают расти."
+            ],
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/09/22/3366416/0/en/adroll-reports-45-drop-in-prospecting-cpms-ahead-of-the-holiday-advertising-season.html"
+          },
+          {
+            "kicker": "РИТЕЙЛ",
+            "headline": "Kroger заявила, что ИИ-ассистент для покупок увеличивает размер чека",
+            "subhead": "На конференции Groceryshop сеть рассказала о трёхэтапном плане перехода от «ассистируемых» покупок к полностью автономным.",
+            "body": [
+              "На конференции Groceryshop 2026 в Лас-Вегасе исполнительный вице-президент и директор по цифровым технологиям Kroger Яэль Коссе рассказала, что ИИ-ассистент компании для покупок одинаково активно используется разными группами покупателей. Автоматизируя планирование меню и составление списков покупок, ассистент освобождает время клиентов — и это, по словам Коссе, напрямую конвертируется в рост среднего чека.",
+              "Коссе описала ИИ-стратегию Kroger как движение по трём стадиям — «ассистируемые», «расширенные» и «автономные» покупки — с конечной целью превратить поход за продуктами в управляемую ИИ-агентами услугу с результатом, а не в набор отдельных транзакций: планирование, покупку и доставку целиком берёт на себя ИИ.",
+              "Компания также подчеркнула, что развивает механизмы контроля — приватность, безопасность и процедуры ответственного использования ИИ, — призванные сохранить участие человека в цепочке решений."
+            ],
+            "source": "Supermarket News",
+            "url": "https://www.supermarketnews.com/grocery-technology/kroger-sees-ai-shopping-assistant-driving-larger-baskets"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Компании",
+        "articles": [
+          {
+            "kicker": "РАУНДЫ",
+            "headline": "Стартап «ИИ-сотрудников» Ema привлёк $77 млн — выручка выросла в 50 раз за два года",
+            "subhead": "Раунд серии B более чем в четыре раза увеличил оценку компании, чьих автономных агентов уже используют Google, Microsoft, PwC и KPMG.",
+            "byline": "The Trend Times",
+            "body": [
+              "Стартап Ema, разрабатывающий «ИИ-сотрудников» — команды скоординированных ИИ-агентов, выполняющих многошаговые бизнес-процессы в HR, IT и финансах поверх уже используемых корпоративных приложений, — закрыл раунд серии B на $77 млн. Раунд возглавила индийская Creaegis, действующие инвесторы Accel, S32 и Prosus увеличили свои доли. Общий объём привлечённого финансирования достиг $140 млн.",
+              "По данным компании, раунд более чем в четыре раза увеличил её оценку по сравнению с предыдущим (точная новая цифра не раскрывается). Среди показателей роста — более 50 корпоративных клиентов, включая Google, Microsoft, PwC и KPMG, свыше 1 млн активных пользователей, чистое удержание выручки около 180%, рост выручки в 50 раз за два года и портфель заказов более чем на $150 млн.",
+              "Средства пойдут на расширение отдела продаж — уже сделан ряд назначений на руководящие позиции — и на развитие платформы. Раунд стал ещё одним подтверждением тенденции, при которой ИИ-агенты начинают вытеснять традиционные подписки на корпоративное ПО, оплачиваемые за каждое рабочее место."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+          },
+          {
+            "kicker": "ОЦЕНКИ",
+            "headline": "Distyl AI привлекла $175 млн при оценке в $1,8 млрд",
+            "subhead": "Компания превращает регламенты крупных корпораций в проверяемые ИИ-процессы и работает более чем с 50 клиентами из списка Fortune 500.",
+            "body": [
+              "Distyl AI, чья платформа Distillery превращает стандартные операционные процедуры компаний в проверяемые (auditable) ИИ-«маршруты» (Routines), привлекла $175 млн в раунде серии B, который совместно возглавили Khosla Ventures и Lightspeed Venture Partners при участии Coatue, Dell Technologies Capital и DST Global. Оценка компании по итогам раунда — $1,8 млрд, притом что всего годом ранее компания привлекла лишь $20 млн на раунде серии A.",
+              "Distyl AI работает с моделями OpenAI и Anthropic на инфраструктуре Microsoft Azure и заявляет о полностью промышленном внедрении своих решений более чем у 50 клиентов из списка Fortune 500 — в здравоохранении, телекоме, страховании, промышленности и финансах. По данным компании, её системы обрабатывают свыше миллиарда решений в год, принося клиентам совокупный эффект в сотни миллионов долларов.",
+              "Общий объём привлечённого компанией финансирования достиг примерно $202 млн. Раунд — ещё один признак того, что инвесторы делают крупные ставки на компании, встраивающие ИИ непосредственно в рабочие процессы больших корпораций, а не продающие отдельное программное обеспечение."
+            ],
+            "source": "PRNewswire",
+            "url": "https://www.prnewswire.com/news-releases/distyl-ai-raises-175-million-at-1-8-billion-valuation-to-help-global-enterprises-become-ai-native-302564270.html"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Производитель систем питания для дата-центров запустил IPO с оценкой до $5,4 млрд",
+            "subhead": "Accelevation Holdings выигрывает от бума строительства ИИ-инфраструктуры — выручка выросла на 147% за год.",
+            "body": [
+              "Accelevation Holdings Corp. из Майамисберга (штат Огайо), которая проектирует и монтирует системы энергоснабжения и охлаждения для дата-центров, запустила road-show перед первичным размещением акций. Компания предлагает 30 млн акций класса A по $20–24 за акцию — до $720 млн, что соответствует оценке компании примерно в $5,37–5,4 млрд. Листинг пройдёт на Nasdaq под тикером ACCV, ценообразование запланировано на 29 сентября.",
+              "Основанная в 2017 году Майклом и Шоном Рубьера, компания в 2025 году показала выручку $447,8 млн — рост на 147% год к году — и чистую прибыль $21,75 млн. Портфель заказов на конец июня 2026 года составил около $1,1 млрд, что отражает долгосрочный спрос со стороны девелоперов дата-центров, наращивающих мощности под задачи ИИ.",
+              "Организаторами размещения выступают Morgan Stanley, J.P. Morgan, Goldman Sachs и BofA Securities. Accelevation — одна из нескольких компаний из смежной с ИИ-инфраструктурой сферы (энергоснабжение и охлаждение, а не сами чипы), выходящих на биржу этой осенью на волне строительства дата-центров."
+            ],
+            "source": "Reuters (Investing.com)",
+            "url": "https://www.investing.com/news/stock-market-news/accelevation-targets-up-to-54-billion-valuation-in-us-ipo-4910506"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Предприниматели",
+        "articles": [
+          {
+            "kicker": "СОСТОЯНИЯ",
+            "headline": "Состояние Цукерберга выросло на $25 млрд за один день на фоне ставки Meta на ИИ",
+            "subhead": "Акции Meta показали крупнейший дневной скачок с апреля 2025 года после повышения прогноза Wells Fargo перед конференцией разработчиков.",
+            "byline": "The Trend Times",
+            "body": [
+              "В понедельник, 21 сентября, акции Meta Platforms взлетели почти на 12% — крупнейший дневной рост с апреля 2025 года — после того как Wells Fargo повысил целевую цену бумаги с $640 до $796 в преддверии ежегодной конференции разработчиков компании.",
+              "Ралли увеличило оценочное состояние главы Meta Марка Цукерберга примерно на $25 млрд за один день — до около $253,6 млрд, по оценке Forbes. Это крупнейший однодневный прирост состояния среди десяти богатейших людей мира в тот день — более чем вдвое превысивший прирост состояния Илона Маска, которое в тот же день увеличилось на $12 млрд.",
+              "Интерес инвесторов связывают со ставкой Meta на ИИ — в частности, с новым автономным ИИ-ассистентом Muse, способным бронировать поездки, отправлять письма и управлять подключёнными устройствами умного дома, — частью более широкой стратегии Цукерберга по созданию «персональной сверхразумной» системы."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/21/zuckerbergs-push-for-personal-superintelligence-adds-25-billion-to-his-fortune/"
+          },
+          {
+            "kicker": "ПРЕЕМСТВЕННОСТЬ",
+            "headline": "Уоррен Баффетт покинул пост председателя Berkshire Hathaway — компанию возглавил его сын",
+            "subhead": "96-летний инвестор остаётся в совете директоров, отдав символическое руководство после почти шести десятилетий во главе компании.",
+            "body": [
+              "В письме акционерам, опубликованном в пятницу, 18 сентября, 96-летний Уоррен Баффетт объявил, что немедленно покидает пост председателя совета директоров Berkshire Hathaway, становясь «почётным председателем». Новым председателем стал его сын Говард Дж. Баффетт, входящий в совет директоров компании с 1993 года и возглавляющий благотворительный фонд Howard G. Buffett Foundation с 1999-го.",
+              "Уоррен Баффетт остаётся в совете директоров и продолжит давать компании советы. «Отец-время всегда побеждает», — процитировали его слова в письме.",
+              "Решение стало финальным формальным шагом в одном из самых пристально отслеживаемых планов преемственности в истории американского бизнеса — спустя восемь месяцев после того, как Баффетт уже передал пост генерального директора своему давнему соратнику Грегу Эйблу, который продолжит управлять операционной деятельностью компании, построенной Баффеттом из убыточной текстильной фабрики в конгломерат стоимостью более триллиона долларов."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html"
+          },
+          {
+            "kicker": "ИНТЕРВЬЮ",
+            "headline": "Основатель Zoho Шридхар Вембу — о «вездесущем интеллекте» и скептицизме насчёт «ИИ-апокалипсиса»",
+            "subhead": "На своей конференции Zoholics в Ченнаи предприниматель представил ИИ-чат Zia и объяснил, почему не боится потери контроля над ИИ.",
+            "body": [
+              "Сооснователь и главный научный сотрудник индийской SaaS-компании Zoho Шридхар Вембу на ежегодной конференции Zoholics в Ченнаи изложил концепцию «вездесущего интеллекта» (ubiquitous intelligence) — ИИ, встроенного во все продукты и рабочие процессы, а не продающегося как отдельный инструмент. Он представил это как ответ на маркетинг конкурентов вокруг «сверхразума» и объявил о запуске Zia Chat — нового ИИ-интерфейса, призванного сделать работу с ИИ «бесшовной» и снизить затраты на токены.",
+              "«Наша цель — сделать сам интеллект commodity, чтобы вся ваша работа выполнялась вообще без затрат на токены», — сказал Вембу, добавив, что и само программное обеспечение постепенно превращается в товар массового спроса по мере удешевления разработки приложений с помощью ИИ.",
+              "Разговоры об экзистенциальных рисках ИИ Вембу назвал преувеличенными: «Может, стоит обращать на это внимание, но действительно ли я обеспокоен? Нет, совершенно нет», — заявил он, добавив, что глобальная пауза в разработке ИИ нереалистична. Он призвал Индию выстраивать независимый путь в сфере ИИ, не встраиваясь в противостояние США и Китая: «Мы должны дружить со всеми и ни с кем не враждовать, сохраняя свободу манёвра». Собственные опасения Вембу связаны не с экзистенциальным риском, а с эрозией человеческих навыков при чрезмерной опоре на ИИ и с давлением на рынок труда инженеров-программистов."
+            ],
+            "source": "YourStory",
+            "url": "https://yourstory.com/2026/09/ai-is-the-new-ui-zohos-sridhar-vembu-ubiquitous-intelligence"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Мода",
+        "articles": [
+          {
+            "kicker": "НЕДЕЛЯ МОДЫ",
+            "headline": "Мерилл Рогге представила вторую коллекцию для Marni — главный экзамен недели",
+            "subhead": "Показ 24 сентября в Милане проходит в ту же неделю, что и вторые коллекции Демны в Gucci и Марии Грации Кьюри в Fendi.",
+            "byline": "The Trend Times",
+            "body": [
+              "24 сентября бельгийский дизайнер Мерилл Рогге показала в Милане свою вторую коллекцию в качестве креативного директора Marni. Рогге возглавила дом в июле 2025 года, вскоре после получения гран-при ANDAM, и дебютировала в феврале 2026-го коллекцией осень-зима, построенной на альпинистских мотивах и переосмыслении фирменных элементов дома — полос, градиентных принтов, сандалий Fussbett и сумки Trunk.",
+              "По оценке Business of Fashion, показ Рогге завершает насыщенную неделю: почти подряд прошли вторые коллекции Демны в Gucci и Марии Грации Кьюри в Fendi — и все три показа отрасль воспринимает как настоящую проверку креативных директоров, куда более серьёзную, чем медовый месяц дебютных показов. По мнению обозревателей, именно аксессуары и сумки, представленные на этих трёх показах, во многом определят разговор об аксессуарах на весь следующий год.",
+              "Для Marni, дома, который годами балансирует между экспериментальностью и коммерческим успехом, второй показ Рогге станет сигналом, в какую сторону она намерена вести бренд дальше — в сторону более смелых экспериментов или более носибельной, продаваемой эстетики."
+            ],
+            "source": "WWD / Business of Fashion",
+            "url": "https://www.businessoffashion.com/briefings/luxury/this-week-gucci-fendi-and-marni-put-to-the-test/"
+          },
+          {
+            "kicker": "ПОДИУМ",
+            "headline": "Roberto Cavalli показал коллекцию весна-лето 2027 на Пьяцца Ветра",
+            "subhead": "Фаусто Пульизи продолжил линию на архивные принты с животными мотивами и облегающий трикотаж, заданную его предыдущей коллекцией для дома.",
+            "body": [
+              "24 сентября креативный директор Roberto Cavalli Фаусто Пульизи представил в Милане коллекцию весна-лето 2027 — показ прошёл на Пьяцца Ветра, 7.",
+              "Предыдущая, курортная коллекция Пульизи для дома опиралась на архивные принты с изображением животных, оборчатые платья и облегающий трикотаж — эта линия, судя по всему, продолжилась и в новой коллекции: дизайнер продолжает выстраивать для нового поколения покупателей максималистский, чувственный фирменный почерк Cavalli."
+            ],
+            "source": "The Fashion Spot / DesignScene",
+            "url": "https://www.thefashionspot.com/runway-news/972576-heres-your-guide-to-the-milan-fashion-week-spring-2027-schedule/"
+          },
+          {
+            "kicker": "НАСЛЕДИЕ",
+            "headline": "Emporio Armani показал коллекцию год спустя после смерти Джорджо Армани",
+            "subhead": "Показ весна-лето 2027 подготовили Сильвана Армани и Лео Делл'Орко — многолетние соратники основателя дома, возглавившие креативное направление после его ухода.",
+            "body": [
+              "24 сентября в Милане показом весна-лето 2027 отчиталась Emporio Armani — коллекцию совместно подготовили Сильвана Армани, отвечающая за женскую линию, и Лео Делл'Орко, курирующий мужскую. Оба — многолетние соратники Джорджо Армани, возглавившие креативное направление группы после его смерти в сентябре 2025 года.",
+              "Показу предшествовали эмоциональные трибьют-шоу Emporio Armani и Giorgio Armani в сентябре 2025-го, прошедшие через 20 дней после смерти основателя, а также показанная Делл'Орко в июне мужская коллекция Giorgio Armani «Mercato Mediterraneo». Womenswear-показ 24 сентября индустрия рассматривает как индикатор того, как код дома развивается спустя год совместного руководства без его основателя."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Музыка",
+        "articles": [
+          {
+            "kicker": "СУДЫ",
+            "headline": "Outkast подали в суд на рэпера Ovrkast из-за похожего имени",
+            "subhead": "Дуэт утверждает, что оклендский артист сознательно выбрал псевдоним, чтобы использовать их славу, и сорвал уже согласованный ребрендинг.",
+            "byline": "The Trend Times",
+            "body": [
+              "Дуэт Outkast (Андре 3000 и Big Boi) подал в федеральный суд Джорджии иск о нарушении прав на товарный знак против рэпера и продюсера из Окленда, выступающего под именем Ovrkast (настоящее имя — Сайлас Уилсон). В иске утверждается, что Уилсон сознательно выбрал псевдоним, чтобы использовать узнаваемость Outkast.",
+              "По данным иска, юристы Outkast впервые связались с Уилсоном в июне 2025 года, и стороны договорились о ребрендинге: Уилсон должен был сменить имя на Overkxst и убрать «Ovrkast» с сайта, из соцсетей, со стриминговых площадок, из домена и мерча. Срок несколько раз переносился, в последний раз — до 15 июля 2026 года, но, по утверждению истцов, Уилсон отказался от договорённости и предложил альтернативные варианты имени, уже отклонённые Outkast ранее.",
+              "В качестве доказательства реальной путаницы у аудитории в иске цитируется интервью Уилсона 2025 года изданию Rolling Stone, где он называл «худшим» в растущей популярности обвинения в подражании Outkast. Дуэт требует постоянного судебного запрета, возмещения компенсационного и штрафного ущерба, оплаты судебных издержек и уничтожения товаров с брендом Ovrkast."
+            ],
+            "source": "Rolling Stone",
+            "url": "https://www.rollingstone.com/music/music-news/outkast-sues-ovrkast-trademark-infringement-big-boi-andre-1235630184/"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Yeat неожиданно выпустил EP Cocoon с участием Drake",
+            "subhead": "Проект, анонсированный как пять треков, вышел на день позже и разросся до семи — с редкой для рэпера коллаборацией.",
+            "body": [
+              "Рэпер Yeat выпустил свой восьмой EP Cocoon на лейблах Lyfestyle Corporation, Field Trip Recordings и Capitol Records. Релиз анонсировался как пятитрековый проект на 17 сентября, но вышел днём позже и в расширенном виде — семь треков, включая трек «Miss My Dawg» с участием Drake, впервые показанный в короткометражном фильме Drake Fear of Missing Out.",
+              "Коллаборация с Drake заметно выделяется на фоне творчества Yeat, который обычно держит круг соавторов близким к собственной команде. Cocoon был записан во время тура Love/Lyfe 2026 года, поддерживающего альбом Yeat ADL, а расширение проекта с EP до более объёмного высказывания критики восприняли как признак растущих амбиций артиста."
+            ],
+            "source": "The Source",
+            "url": "https://thesource.com/2026/09/17/yeat-expands-surprise-cocoon-ep-and-brings-drake-along-for-the-ride/"
+          },
+          {
+            "kicker": "РЕЛИЗ",
+            "headline": "Rakim, Kurupt и Masta Killa воссоединили Eminem и Jay-Z на совместном альбоме",
+            "subhead": "«The Godbody LP» собрал вместе трёх икон золотой эры хип-хопа — и подарил дуэт, не звучавший вместе 25 лет.",
+            "body": [
+              "Ветераны золотой эры Rakim, Kurupt и Masta Killa выпустили совместный альбом The Godbody LP из 15 треков, спродюсированный Rakim и Nick Wiz. Среди гостей — Snoop Dogg, Raekwon, Ghostface Killah, Kokane, Daz Dillinger, Buckshot, KRS-One и Kool G Rap.",
+              "Главное событие альбома — интерлюдия, на которой впервые за 25 лет вместе звучат Eminem и Jay-Z. На пластинке также есть первый за 15 лет сольный трек Rakim, спродюсированный им самим, — «A Different Kind». Эти детали превратили релиз скорее в событие-воссоединение легенд, чем в рядовой альбом."
+            ],
+            "source": "The Source",
+            "url": "https://thesource.com/2026/09/18/rakim-kurupt-masta-killa-the-godbody/"
+          },
+          {
+            "kicker": "ВОЗВРАЩЕНИЕ",
+            "headline": "Brutto достал с полки трек с сэмплом Ваенги и подтвердил дату выхода Gaddem 3",
+            "subhead": "Сингл «Аэропорт» был написан для другого альбома много лет назад — его выход откладывали из-за прав на сэмпл.",
+            "body": [
+              "Российский рэпер Brutto (Тимур Одилбеков, участник дуэта Каспийский Груз) выпустил на лейбле NVN сингл «Аэропорт». Трек сэмплирует припев одноимённой песни Елены Ваенги и изначально писался для альбома «Метис», но проблемы с расчисткой прав на сэмпл на годы отложили его релиз. Песня рассказывает о двух одиноких людях, встретившихся в аэропорту.",
+              "Одновременно с синглом Brutto подтвердил, что 25 сентября выйдет Gaddem 3 — заключительная часть его «криминально-ностальгической» трилогии, начатой альбомами Gaddem и Gaddem 2, спустя пять лет после второй части. Также артист анонсировал сольный тур в поддержку нового материала."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/news/brutto-vaenga-aeroport"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "issue": {
+      "date": "2026-09-24",
+      "edition": "Morning Edition",
+      "volume": "Vol. I",
+      "number": 26
+    },
+    "sections": [
+      {
+        "id": "ai",
+        "title": "Artificial Intelligence",
+        "articles": [
+          {
+            "kicker": "RESEARCH",
+            "headline": "Claude Discovers a Novel, CRISPR-Like Enzyme System on Its Own",
+            "subhead": "Anthropic launched a new life-sciences research group — nearly a thousand Claude agents spent 21 hours finding a previously unknown bacteriophage system called ART.",
+            "byline": "The Trend Times",
+            "body": [
+              "Anthropic announced the launch of a new life-sciences research group and revealed its first result: the Claude model independently identified a previously uncharacterized bacteriophage enzyme system the company is calling \"array-associated reverse transcriptases,\" or ART. The system pairs a reverse-transcriptase enzyme with an accessory protein and repeating DNA arrays — architecturally similar to the CRISPR systems used in gene editing.",
+              "To find it, roughly 950 Claude-based agents ran in parallel for 21 hours, burning through 210 million tokens to scan a database of 200,000 reverse transcriptases, narrowing the field first to 3,500 candidates and then to 20 final systems. Anthropic says human scientists' role was largely limited to writing the initial prompt and then validating the results in the wet lab — one of the first cases of AI agents doing genuinely autonomous work in biological research.",
+              "CRISPR pioneer Feng Zhang of MIT and the Broad Institute, who independently reviewed the find, called it \"an exciting example of how AI agents can contribute to biological discovery,\" adding that the RNA-repeat arrays associated with the reverse transcriptases are \"genuinely intriguing and merit further investigation.\" The system's actual biological function is still unknown."
+            ],
+            "source": "Anthropic",
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+          },
+          {
+            "kicker": "DIPLOMACY",
+            "headline": "US and China Agree to Notify Each Other of Dangerous AI Incidents",
+            "subhead": "The deal was one of the few concrete outcomes of trade talks ahead of the Trump-Xi meeting — neither side is talking about slowing down.",
+            "body": [
+              "After roughly eight hours of talks, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng agreed to set up a bilateral channel through which the two countries will notify each other of AI-system incidents serious enough to threaten national security. The agreement came ahead of a planned meeting between Donald Trump and Xi Jinping that is also expected to cover trade and Taiwan.",
+              "Several outlets described it as the most substantive AI-governance step the US and China have taken since competition between the two countries in the field sharply intensified after 2022. Both sides were explicit, however, that neither intends to slow its own AI development — coverage framed the meeting as pursuing \"safe AI without slowing the race for supremacy.\"",
+              "According to the Washington Post, Trump and Xi remain far from a deal on the thornier issues, including chip export controls and other trade restrictions. The two sides are treating the new incident-notification channel as a confidence-building, crisis-prevention measure rather than an agreement on the pace of development."
+            ],
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-23/xi-and-trump-seek-safe-ai-without-slowing-the-race-for-supremacy"
+          },
+          {
+            "kicker": "MODELS",
+            "headline": "xAI Ships Grok 4.7, Its Biggest Model Yet — Trained in Part on SpaceX Data",
+            "subhead": "The release, delayed at least five times by Elon Musk, packs 2.1 trillion parameters and Starlink telemetry into its training mix.",
+            "body": [
+              "xAI released Grok 4.7 on September 21, a 2.1-trillion-parameter model — 40% larger than Grok 4.6's 1.5 trillion — while keeping the same 500,000-token context window. The launch had been pushed back at least five times since late July.",
+              "xAI says the model is built on a new, larger base model plus a longer reinforcement-learning run that makes it \"think\" longer and double-check its answers on difficult, hours-long tasks compared with Grok 4.6. One notable wrinkle: xAI folded in supplemental training data from sister company SpaceX — Starlink satellite telemetry, manufacturing records and engineering failure logs — which it says sharpens the model's reasoning on hardware and physical-systems problems.",
+              "Pricing is unchanged from Grok 4.6, at $2 per million input tokens and $6 per million output tokens. The model is available from day one in Cursor, Grok Build, via the API and through third-party routers. Reviewers have generally called the release solid but not frontier-leading, arriving after rivals already shipped newer models."
+            ],
+            "source": "Yahoo Tech",
+            "url": "https://tech.yahoo.com/ai/gemini/articles/xai-launches-grok-4-7-171603280.html"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing",
+        "articles": [
+          {
+            "kicker": "DEALS",
+            "headline": "Infillion to Acquire Foursquare, Adding Location Data to Ad Measurement",
+            "subhead": "Terms weren't disclosed; Foursquare's location-data business is nearly twice the size of Infillion's own Gimbal unit.",
+            "byline": "The Trend Times",
+            "body": [
+              "Ad-tech company Infillion announced it is acquiring location-intelligence platform Foursquare; financial terms were not disclosed. Foursquare brings more than 100 million points of interest across 200 countries, 16 billion human-verified check-ins and aggregated coverage of roughly 250 million US devices.",
+              "Foursquare's location-data business is roughly twice the size of Infillion's existing Gimbal unit. Pairing Foursquare's location data with the purchase data held by Infillion-owned Catalina gives advertisers a privacy-safe way to measure whether ad exposure actually drove store visits and purchases.",
+              "Foursquare will keep its own brand and continue selling data to third parties. Most of its roughly 150 employees will join Infillion's 650-person staff, and Foursquare SVP and global head of sales Lindsey Kintner will become general manager of Infillion's data business unit. The deal is expected to lift Infillion's revenue and headcount by roughly 20-25%."
+            ],
+            "source": "AdExchanger",
+            "url": "https://www.adexchanger.com/marketers/infillion-acquires-foursquare-adding-more-location-data-to-its-ever-growing-ad-tech-stack/"
+          },
+          {
+            "kicker": "SPENDING",
+            "headline": "Prospecting Display Ad Prices Crash 45% Year Over Year",
+            "subhead": "AdRoll's latest report finds rates falling ahead of the holiday shopping season, with retargeting costs sliding more slowly.",
+            "body": [
+              "According to AdRoll's Q3 2026 \"State of Digital Advertising\" report, the cost of display ads aimed at reaching new, top-of-funnel audiences fell 45% year over year in the window from July 1 to September 8 — and 25.5% compared with the second quarter.",
+              "Retargeting CPMs fell 29.1% year over year over the same window (down 40.2% versus Q2), while account-based-marketing (ABM) pricing moved the other way, up 4.4% year over year even as it slipped 15.1% versus the prior quarter.",
+              "AdRoll frames the numbers as a favorable pricing environment heading into the holiday advertising season — marketers can lock in cheaper top-of-funnel reach just as Q4 budgets start ramping up."
+            ],
+            "source": "GlobeNewswire",
+            "url": "https://www.globenewswire.com/news-release/2026/09/22/3366416/0/en/adroll-reports-45-drop-in-prospecting-cpms-ahead-of-the-holiday-advertising-season.html"
+          },
+          {
+            "kicker": "RETAIL",
+            "headline": "Kroger Says Its AI Shopping Assistant Is Driving Bigger Baskets",
+            "subhead": "At the Groceryshop conference, the retailer laid out a three-stage plan moving from 'assisted' shopping toward fully autonomous purchasing.",
+            "body": [
+              "At the Groceryshop 2026 conference in Las Vegas, Kroger EVP and Chief Digital Officer Yael Cosset said adoption of the retailer's AI shopping assistant has spread evenly across customer segments. By automating meal planning and list-building, the assistant frees up customers' time — time, Cosset said, that translates directly into bigger baskets.",
+              "Cosset described Kroger's AI roadmap as moving through three stages — \"assisted,\" \"augmented\" and \"autonomous\" — with the eventual goal of turning grocery shopping into an AI-agent-managed, outcome-based service rather than a series of discrete transactions, with AI handling planning, purchasing and fulfillment.",
+              "The company also pointed to governance measures — privacy, security and responsible-AI review processes — meant to keep humans in the loop."
+            ],
+            "source": "Supermarket News",
+            "url": "https://www.supermarketnews.com/grocery-technology/kroger-sees-ai-shopping-assistant-driving-larger-baskets"
+          }
+        ]
+      },
+      {
+        "id": "companies",
+        "title": "Companies",
+        "articles": [
+          {
+            "kicker": "FUNDING",
+            "headline": "'AI Employee' Startup Ema Raises $77 Million as Revenue Grows 50x in Two Years",
+            "subhead": "The Series B round more than quadrupled the company's valuation; its autonomous agents are already used by Google, Microsoft, PwC and KPMG.",
+            "byline": "The Trend Times",
+            "body": [
+              "Ema, which builds \"AI employees\" — teams of coordinated AI agents that carry out multi-step business processes in HR, IT and finance across companies' existing software — closed a $77 million Series B led by India's Creaegis, with existing investors Accel, S32 and Prosus all increasing their stakes. Total funding to date has reached $140 million.",
+              "The company says the round more than quadrupled its valuation compared with its prior round, though it didn't disclose the new figure. Growth metrics cited include more than 50 enterprise customers — among them Google, Microsoft, PwC and KPMG — over 1 million active users, roughly 180% net dollar retention, 50x revenue growth in two years and more than $150 million in bookings.",
+              "The funding will go toward expanding the sales team — several senior hires are already in place — and building out the platform. The round is another data point in a broader shift in which AI agents are starting to displace traditional per-seat enterprise software subscriptions."
+            ],
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
+          },
+          {
+            "kicker": "VALUATION",
+            "headline": "Distyl AI Raises $175 Million at a $1.8 Billion Valuation",
+            "subhead": "The company turns big companies' internal playbooks into auditable AI workflows and counts more than 50 Fortune 500 clients.",
+            "body": [
+              "Distyl AI, whose Distillery platform converts companies' standard operating procedures into auditable AI \"Routines,\" raised $175 million in a Series B co-led by Khosla Ventures and Lightspeed Venture Partners, with Coatue, Dell Technologies Capital and DST Global also participating. The round values the company at $1.8 billion — up sharply from the $20 million Series A it raised just a year earlier.",
+              "Distyl AI runs on models from OpenAI and Anthropic atop Microsoft Azure infrastructure and says it now has fully deployed production systems at more than 50 Fortune 500 clients across healthcare, telecom, insurance, manufacturing and financial services. The company says its systems process more than a billion decisions a year and have delivered hundreds of millions of dollars in measurable impact for clients.",
+              "Distyl AI has now raised roughly $202 million in total. The round is another sign of investor appetite for AI companies that embed directly into large enterprises' workflows rather than selling standalone software."
+            ],
+            "source": "PRNewswire",
+            "url": "https://www.prnewswire.com/news-releases/distyl-ai-raises-175-million-at-1-8-billion-valuation-to-help-global-enterprises-become-ai-native-302564270.html"
+          },
+          {
+            "kicker": "IPO",
+            "headline": "Data-Center Power Supplier Accelevation Launches IPO Targeting a $5.4 Billion Valuation",
+            "subhead": "The company is riding the AI infrastructure buildout, with revenue up 147% over the past year.",
+            "body": [
+              "Accelevation Holdings Corp., based in Miamisburg, Ohio, which designs and installs power-distribution and cooling systems for data centers, launched its IPO roadshow, offering 30 million Class A shares priced at $20 to $24 each — raising up to $720 million and implying a valuation of roughly $5.37 billion to $5.4 billion. The company will list on Nasdaq under the ticker ACCV, with pricing expected September 29.",
+              "Founded in 2017 by Michael and Shawn Rubiera, the company posted 2025 revenue of $447.8 million, up 147% year over year, with net income of $21.75 million. Its order backlog stood at roughly $1.1 billion as of the end of June 2026, reflecting long-lead-time demand from data-center developers scaling up capacity for AI workloads.",
+              "Underwriters on the deal include Morgan Stanley, J.P. Morgan, Goldman Sachs and BofA Securities. Accelevation is one of several AI-infrastructure-adjacent companies — power and cooling equipment rather than chips themselves — going public this fall on the back of the data-center buildout."
+            ],
+            "source": "Reuters (Investing.com)",
+            "url": "https://www.investing.com/news/stock-market-news/accelevation-targets-up-to-54-billion-valuation-in-us-ipo-4910506"
+          }
+        ]
+      },
+      {
+        "id": "entrepreneurs",
+        "title": "Entrepreneurs",
+        "articles": [
+          {
+            "kicker": "WEALTH",
+            "headline": "Zuckerberg's Fortune Jumps $25 Billion in a Single Day on Meta's AI Bet",
+            "subhead": "Meta shares posted their biggest one-day gain since April 2025 after Wells Fargo raised its price target ahead of the company's developer conference.",
+            "byline": "The Trend Times",
+            "body": [
+              "Meta Platforms shares surged nearly 12% on Monday, September 21 — their biggest single-day gain since April 2025 — after Wells Fargo raised its price target on the stock from $640 to $796 ahead of the company's annual developer conference.",
+              "The rally added an estimated $25 billion to Meta CEO Mark Zuckerberg's fortune in a single day, pushing it to roughly $253.6 billion, according to Forbes — the largest one-day wealth gain among the world's ten richest people that day, more than double the $12 billion gain posted by Elon Musk over the same period.",
+              "Investor enthusiasm is tied to Meta's AI push, particularly its new autonomous assistant Muse, which can book travel, send emails and manage connected smart-home devices — part of Zuckerberg's broader \"personal superintelligence\" strategy for the company."
+            ],
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/21/zuckerbergs-push-for-personal-superintelligence-adds-25-billion-to-his-fortune/"
+          },
+          {
+            "kicker": "SUCCESSION",
+            "headline": "Warren Buffett Steps Down as Berkshire Hathaway Chairman; His Son Takes Over",
+            "subhead": "The 96-year-old investor remains on the board, handing over the symbolic role after nearly six decades at the company's helm.",
+            "body": [
+              "In a letter to shareholders released Friday, September 18, 96-year-old Warren Buffett announced he is immediately stepping down as chairman of Berkshire Hathaway, becoming \"chairman emeritus.\" His son, Howard G. Buffett — a Berkshire director since 1993 and chairman and CEO of the Howard G. Buffett Foundation since 1999 — is the new chairman.",
+              "Warren Buffett remains on the board and will continue to offer counsel. \"Father Time always wins,\" he wrote in the letter.",
+              "The move is the final formal step in one of the most closely watched succession plans in American business history, coming eight months after Buffett handed the CEO role to longtime lieutenant Greg Abel, who will continue running operations at the company Buffett built from a failing textile mill into a trillion-dollar conglomerate."
+            ],
+            "source": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html"
+          },
+          {
+            "kicker": "INTERVIEW",
+            "headline": "Zoho's Sridhar Vembu on 'Ubiquitous Intelligence' and Why He's Not Worried About AI Doom",
+            "subhead": "At his company's Zoholics conference in Chennai, the founder unveiled an AI chat tool and explained why he isn't losing sleep over losing control of AI.",
+            "body": [
+              "Sridhar Vembu, co-founder and chief scientist of Indian SaaS company Zoho, used the company's annual Zoholics conference in Chennai to lay out a vision he calls \"ubiquitous intelligence\" — AI woven into every product and workflow rather than sold as a standalone tool. He framed it as a rebuttal to rivals' \"superintelligence\" branding and unveiled Zia Chat, a new AI interface meant to make working with AI frictionless and cut down on token costs.",
+              "\"Our goal is to commoditize intelligence itself, so all your work gets done without incurring any token cost,\" Vembu said, adding that software itself is becoming a commodity as AI drives down the cost of building applications.",
+              "Vembu dismissed existential AI-risk talk as overblown. \"Maybe we should pay attention to it, but am I really worried about it? No, absolutely not,\" he said, calling a global pause in AI development unrealistic. He urged India to chart its own path on AI rather than get pulled into the US-China rivalry: \"We must be friends with everybody, enemies with nobody, and keep our options open.\" His own concerns, he said, center on the erosion of human skills from over-reliance on AI and the pressure on software-engineering jobs — not existential risk."
+            ],
+            "source": "YourStory",
+            "url": "https://yourstory.com/2026/09/ai-is-the-new-ui-zohos-sridhar-vembu-ubiquitous-intelligence"
+          }
+        ]
+      },
+      {
+        "id": "fashion",
+        "title": "Fashion",
+        "articles": [
+          {
+            "kicker": "FASHION WEEK",
+            "headline": "Meryll Rogge Shows Her Second Marni Collection — the Week's Real Test",
+            "subhead": "The September 24 Milan show lands in the same week as sophomore collections from Demna at Gucci and Maria Grazia Chiuri at Fendi.",
+            "byline": "The Trend Times",
+            "body": [
+              "Belgian designer Meryll Rogge showed her second collection as Marni's creative director in Milan on September 24. Rogge took over the house in July 2025, shortly after winning the ANDAM Grand Prize, and debuted in February 2026 with a fall-winter collection built around mountaineering references and reworked house codes — stripes, gradient prints, the Fussbett sandal and the Trunk bag.",
+              "Business of Fashion frames the show as the capstone of a packed week: sophomore collections from Demna at Gucci and Maria Grazia Chiuri at Fendi landed just days earlier, and the industry is reading all three as the real test of each creative director's tenure — a tougher measure than the honeymoon of a debut. Observers say the accessories and bags introduced across these three shows will largely set the bag conversation for the year ahead.",
+              "For Marni, a house that has spent years balancing experimentation against commercial appeal, Rogge's second show is being read as a signal of which way she intends to steer the brand next — toward bolder experimentation or a more wearable, sellable aesthetic."
+            ],
+            "source": "WWD / Business of Fashion",
+            "url": "https://www.businessoffashion.com/briefings/luxury/this-week-gucci-fendi-and-marni-put-to-the-test/"
+          },
+          {
+            "kicker": "RUNWAY",
+            "headline": "Roberto Cavalli Shows Spring 2027 at Piazza Vetra",
+            "subhead": "Fausto Puglisi continued the archive-print, body-conscious direction set by his previous collection for the house.",
+            "body": [
+              "Roberto Cavalli creative director Fausto Puglisi presented the house's spring-summer 2027 collection in Milan on September 24, staged at Piazza Vetra 7.",
+              "Puglisi's previous, resort collection for the house leaned into archival animal prints, ruffled gowns and body-conscious jersey — a direction that appears to have carried through into the new collection as the designer continues rebuilding Cavalli's maximalist, sensual signature for a new generation of shoppers."
+            ],
+            "source": "The Fashion Spot / DesignScene",
+            "url": "https://www.thefashionspot.com/runway-news/972576-heres-your-guide-to-the-milan-fashion-week-spring-2027-schedule/"
+          },
+          {
+            "kicker": "LEGACY",
+            "headline": "Emporio Armani Shows a Year After Giorgio Armani's Death",
+            "subhead": "The spring-summer 2027 collection was designed by Silvana Armani and Leo Dell'Orco, the longtime lieutenants who took over creative direction after the founder's death.",
+            "body": [
+              "Emporio Armani showed its spring-summer 2027 collection in Milan on September 24, designed jointly by Silvana Armani, who leads the womenswear line, and Leo Dell'Orco, who oversees menswear. Both are longtime Giorgio Armani deputies who took over creative direction of the Armani Group after his death in September 2025.",
+              "The show follows the emotional Emporio Armani and Giorgio Armani tribute presentations staged in September 2025, just 20 days after the founder's death, as well as Dell'Orco's Giorgio Armani menswear collection \"Mercato Mediterraneo,\" shown in June. The industry is watching September 24's womenswear show as an indicator of how the house's codes are evolving a year into joint stewardship without its founder."
+            ],
+            "source": "WWD",
+            "url": "https://wwd.com/fashion-news/fashion-features/milan-fashion-week-september-2026-schedule-shows-presentations-1239201148/"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "articles": [
+          {
+            "kicker": "LAWSUITS",
+            "headline": "Outkast Sues Rapper Ovrkast Over the Name",
+            "subhead": "The duo says the Oakland artist deliberately chose a soundalike name to trade on their fame — then walked away from an agreed rebrand.",
+            "byline": "The Trend Times",
+            "body": [
+              "Outkast (André 3000 and Big Boi) filed a federal trademark-infringement lawsuit in Georgia against Oakland rapper and producer Ovrkast (real name Silas Wilson), claiming he knowingly chose the name to capitalize on Outkast's fame.",
+              "According to the complaint, Outkast's lawyers first contacted Wilson in June 2025, and the two sides reached a settlement under which Wilson would rebrand as \"Overkxst\" and scrub \"Ovrkast\" from his website, social media, streaming profiles, domain and merchandise. The deadline was pushed back several times, most recently to July 15, 2026, but Outkast says Wilson reneged and proposed alternative names it had already rejected.",
+              "As evidence of real consumer confusion, the complaint cites a 2025 Rolling Stone interview in which Wilson said the \"worst thing\" about his rising fame was being accused of imitating Outkast. The duo is seeking a permanent injunction, compensatory and punitive damages, attorneys' fees and destruction of Ovrkast-branded merchandise."
+            ],
+            "source": "Rolling Stone",
+            "url": "https://www.rollingstone.com/music/music-news/outkast-sues-ovrkast-trademark-infringement-big-boi-andre-1235630184/"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "Yeat Surprise-Drops 'Cocoon' EP With a Drake Feature",
+            "subhead": "Billed as a five-track project, it arrived a day late and grew to seven songs — including a rare guest spot from Drake.",
+            "body": [
+              "Yeat released his eighth EP, Cocoon, through Lyfestyle Corporation, Field Trip Recordings and Capitol Records. It had been billed as a five-track project due September 17 but arrived a day late and expanded to seven tracks, including \"Miss My Dawg,\" a collaboration with Drake that was first previewed in Drake's short film Fear of Missing Out.",
+              "The Drake feature stands out for an artist who has generally kept his collaborators close to his own circle. Cocoon was recorded during Yeat's 2026 Love/Lyfe tour, which is supporting his 2026 album ADL, and critics have read the EP's late expansion from a small drop into a fuller project as a sign of growing ambition."
+            ],
+            "source": "The Source",
+            "url": "https://thesource.com/2026/09/17/yeat-expands-surprise-cocoon-ep-and-brings-drake-along-for-the-ride/"
+          },
+          {
+            "kicker": "RELEASE",
+            "headline": "Rakim, Kurupt and Masta Killa's Joint Album Reunites Eminem and Jay-Z",
+            "subhead": "'The Godbody LP' brings together three golden-era icons — and, on one interlude, a pairing not heard in 25 years.",
+            "body": [
+              "Golden-era veterans Rakim, Kurupt and Masta Killa released their joint 15-track album The Godbody LP, produced by Rakim and Nick Wiz. The guest list includes Snoop Dogg, Raekwon, Ghostface Killah, Kokane, Daz Dillinger, Buckshot, KRS-One and Kool G Rap.",
+              "The standout moment is an interlude pairing Eminem and Jay-Z together for the first time in 25 years. The album also includes Rakim's first self-produced solo track in 15 years, \"A Different Kind\" — details that have turned the release into more of a legacy-artist reunion event than a routine drop."
+            ],
+            "source": "The Source",
+            "url": "https://thesource.com/2026/09/18/rakim-kurupt-masta-killa-the-godbody/"
+          },
+          {
+            "kicker": "COMEBACK",
+            "headline": "Brutto Revives a Shelved Vaenga-Sampling Track, Confirms 'Gaddem 3' for September 25",
+            "subhead": "The single 'Аэропорт' was written years ago for a different album — rights issues delayed it until now.",
+            "body": [
+              "Russian rapper Brutto (Timur Odilbekov, of the duo Kaспийский Груз) released the single \"Аэропорт\" (\"Airport\") via the label NVN. The track samples the chorus of Elena Vaenga's song of the same name and was originally written for his album Метис, but rights-clearance issues delayed its release for years. The song follows two lonely people who meet at an airport.",
+              "Alongside the single, Brutto confirmed that September 25 will bring Gaddem 3, the closing chapter of his \"criminal-nostalgic\" trilogy that began with Gaddem and Gaddem 2 — arriving five years after the second installment. He has also announced a solo tour built around the new material."
+            ],
+            "source": "The Flow",
+            "url": "https://the-flow.ru/news/brutto-vaenga-aeroport"
+          }
+        ]
+      }
+    ]
+  }
+}

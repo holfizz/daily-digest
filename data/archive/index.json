@@ -298,5 +298,17 @@
       "ru": "17 материалов",
       "en": "17 articles"
     }
+  },
+  {
+    "date": "2026-09-24",
+    "number": 26,
+    "headline": {
+      "ru": "Claude самостоятельно открыл новую ферментную систему, похожую на CRISPR",
+      "en": "Claude Discovers a Novel, CRISPR-Like Enzyme System on Its Own"
+    },
+    "count": {
+      "ru": "19 материалов",
+      "en": "19 articles"
+    }
   }
 ]
